@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['material'],['rubber'],0.7191011235955056,0.6881720430107527,0.7529411764705882

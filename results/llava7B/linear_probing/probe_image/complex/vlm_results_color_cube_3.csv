@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['color'],['cube'],0.0,0.0,0.0

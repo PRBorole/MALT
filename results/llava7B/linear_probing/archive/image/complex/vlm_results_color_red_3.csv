@@ -1,0 +1,2 @@
+task,target,accuracy,f1,precision,recall
+color,red,0.56,0.5578947368421052,0.38686131386861317,1.0

@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['material'],['metal'],0.8774193548387097,0.8607594936708861,0.8947368421052632

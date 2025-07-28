@@ -1,0 +1,2 @@
+task,target,accuracy,f1,precision,recall
+shape,,0.5,0.6666666666666666,0.5,1.0

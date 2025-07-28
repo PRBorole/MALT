@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+"['color', 'shape']","['yellow', 'cube']",0.71875,0.5609756097560976,1.0

@@ -1,0 +1,2 @@
+task,target,accuracy,f1,precision,recall
+shape,cone,0.6333333333333333,0.5365853658536586,0.36666666666666664,1.0

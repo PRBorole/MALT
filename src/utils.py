@@ -32,13 +32,14 @@ def load_jsonl_file(jsonl_file_path):
             result.append(example)
     return result
 
-def load_model_and_processor(model_name='llava_1.5_7b'):
+def load_model_and_processor(model_name='llava_1.5_7b', attn_implementation='sdpa'):
     if model_name == 'llava_1.5_7b':
         model = AutoModelForImageTextToText.from_pretrained(
             "/home/jovyan/.cache/huggingface/hub/models--llava-hf--llava-1.5-7b-hf/snapshots/63f0593ce09615bbc4a43a4c13143ba3c389e53a",
             local_files_only=True,
             torch_dtype=torch.float16, 
             low_cpu_mem_usage=True,
+            attn_implementation=attn_implementation
         )
 
         device = "cuda" if torch.cuda.is_available() else "cpu"

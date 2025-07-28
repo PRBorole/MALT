@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['shape'],['cylinder'],0.6693877551020408,0.5046153846153846,0.9939393939393939

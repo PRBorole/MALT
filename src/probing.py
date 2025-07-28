@@ -8,22 +8,42 @@ from .utils import *
 import pandas as pd
 import numpy as np
 from torchinfo import summary
+import torch.nn as nn
+import torch.optim as optim
 
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, roc_auc_score, average_precision_score, f1_score, precision_score, recall_score
 
 
+# Define single-layer MLP
+class ProbeMLP(nn.Module):
+    def __init__(self, input_dim, hidden_dim=None):
+        super().__init__()
+        if hidden_dim==None:
+            hidden_dim=input_dim
+
+        self.linear1 = nn.Linear(input_dim, 1)
+        self.relu = nn.ReLU()
+        self.linear2 = nn.Linear(hidden_dim, 1)          # Output layer
+    def forward(self, x):
+        x = self.relu(self.linear1(x))
+        return torch.sigmoid(self.linear2(x))
+                
 class LinearProbe():
     """
     Class to handle probing experiments.
     """
-    def __init__(self, model, nobjects, task, mode, target, layers='all'):
+    def __init__(self, model, nobjects, task, mode, target, prompt_type, layers='all'):
         self.nobjects = nobjects
         self.task = task
         self.target = target
         self.model = model
         self.mode = mode
+        self.prompt_type = prompt_type
+        self.patience = 10
+        self.epochs = 100
+        self.lr = 1e-3
 
     def get_prompt(self, ds):
         """        
@@ -35,29 +55,55 @@ class LinearProbe():
         returns:
         prompt: string containing the prompt for the probing task
         """
+        
+        
         if self.mode == 'image':
-            prompt = "USER: \nThis image shows a minimalist arrangement of 3D geometric shapes made of different materials and colors." +\
+            objects = [{key: data[key] for key in data.keys() if key not in self.task} for data in ds['scene']['objects']]
+            condition = ' '.join(
+                            [f"{t} {ta} and" 
+                            if idx!=len(self.task)-1 else f"{t} {ta}" 
+                            for idx,(t,ta) in enumerate(zip(self.task,self.target))]
+                        )
+            
+        elif self.mode == 'image_and_text' or self.mode == 'count':
+            objects = [ds['scene']['objects']]
+            condition = ' '.join(
+                            [f"{t} {ta} and" 
+                            if idx!=len(self.task)-1 else f"{t} {ta}" 
+                            for idx,(t,ta) in enumerate(zip(self.task,self.target))]
+                        )
+            
+        if 'image' in self.mode or 'text' in self.mode:
+            if self.prompt_type=='complex':
+                prompt = "USER: \nThis image shows a minimalist arrangement of 3D geometric shapes made of different materials and colors." +\
                         "The JSON provided contains information about all objects in the scene (material: metal = shinny, rubber = matte))."+\
                         "\n\nUnderstanding the Coordinate System X, Y, Z:"+\
                         "\n• X (Depth): Represents the depth relative to the camera. Smaller values indicate objects that are farther away."+\
                         "\n• Y (Horizontal Position): Represents the left-to-right position. A value of zero means the object is centered in the scene, negative values place the object to the left, and positive values to the right."+\
                         "\n• Z (Vertical Position): Represents the height of the object\'s center point. Larger values correspond to higher vertical positions."+\
                         "\n\nHere is the JSON containing details about all objects in the scene in the image:"+\
-                        f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': [{key: data[key] for key in data.keys() if key!=self.task} for data in ds['scene']['objects']]})}"+\
-                        f"\n Now only answer YES or NO, is an object of {self.task} {self.target} present in the image? ASSISTANT: "
-        elif self.mode == 'text':
-            prompt = "USER: \nThis image shows a minimalist arrangement of 3D geometric shapes made of different materials and colors." +\
-                        "The JSON provided contains information about all objects in the scene."+\
+                        f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': objects})}"+\
+                        f"\n Now only answer YES or NO, is an object of {condition} present in the image? ASSISTANT: "
+            elif self.prompt_type=='simple':
+                prompt = f"USER: \n only answer YES or NO, is an object of {condition} present in the image? ASSISTANT: " 
+        
+        elif 'count' in self.mode:
+            if self.prompt_type=='complex':
+                prompt = "USER: \nThis image shows a minimalist arrangement of 3D geometric shapes made of different materials and colors." +\
+                        "The JSON provided contains information about all objects in the scene (material: metal = shinny, rubber = matte))."+\
                         "\n\nUnderstanding the Coordinate System X, Y, Z:"+\
                         "\n• X (Depth): Represents the depth relative to the camera. Smaller values indicate objects that are farther away."+\
                         "\n• Y (Horizontal Position): Represents the left-to-right position. A value of zero means the object is centered in the scene, negative values place the object to the left, and positive values to the right."+\
                         "\n• Z (Vertical Position): Represents the height of the object\'s center point. Larger values correspond to higher vertical positions."+\
                         "\n\nHere is the JSON containing details about all objects in the scene in the image:"+\
-                        f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': [ds['scene']['objects']]})}"+\
-                        f"\n Now only answer YES or NO, is an object of {self.task} {self.target} present in the image? ASSISTANT: "
+                        f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': objects})}"+\
+                        f"\n Now only return in number, how many objects are present in the image? ASSISTANT: "
+            elif self.prompt_type=='simple':
+                prompt = f"USER: \n only return in number, how many objects are present in the image? ASSISTANT: " 
+
         return prompt
 
-    def get_layer_llava_embeddings(self, pixel_values, input_ids, attention_mask, mean_dim=1):
+    def get_layer_llava_embeddings(self, pixel_values, input_ids, attention_mask, output_attentions=False, mean_dim=1):
         """
         Get language model per layer embeddings from the llava model.
 
@@ -65,6 +111,7 @@ class LinearProbe():
         pixel_values: tensor of shape (batch_size, channels, height, width) containing the pixel values of the images
         input_ids: tensor of shape (batch_size, sequence_length)
         attention_mask: tensor of shape (batch_size, sequence_length) indicating which tokens are padded
+        output_attentions: bool, indicating if attention should be returned
         mean_dim: dimension along which to take the mean of the embeddings, default is 1 for sententce-level embeddings
 
         returns:
@@ -86,9 +133,11 @@ class LinearProbe():
             inputs_embeds = self.model.get_input_embeddings()(input_ids)
 
         with torch.no_grad():
-            image_features = self.model.get_image_features(pixel_values=pixel_values,
-                                                            vision_feature_layer=vision_feature_layer,
-                                                            vision_feature_select_strategy=vision_feature_select_strategy)
+            image_features = self.model.get_image_features(
+                pixel_values=pixel_values,
+                vision_feature_layer=vision_feature_layer,
+                vision_feature_select_strategy=vision_feature_select_strategy
+                )
             image_features = torch.cat(image_features, dim=0)
 
         special_image_mask = input_ids == self.model.config.image_token_id
@@ -107,6 +156,7 @@ class LinearProbe():
             outputs = self.model.language_model(attention_mask=attention_mask,
                                                 inputs_embeds=inputs_embeds,
                                                 output_hidden_states=True,
+                                                output_attentions=output_attentions,
                                                 padding=True,
                                                 return_dict=True)
 
@@ -177,12 +227,54 @@ class LinearProbe():
                                                                 stratify=gold_reference_binary)
 
             # Train logistic regression
-            clf = LogisticRegression(max_iter=1000, random_state=42)
+            if len(set(gold_reference_binary))>2:
+                clf = LogisticRegression(multi_class='multinomial', max_iter=1000, random_state=42)
+            else:
+                clf = LogisticRegression(max_iter=1000, random_state=42)
             clf.fit(X_train, y_train)
 
             # Predict probabilities and labels
             y_pred = clf.predict(X_test)
             y_prob = clf.predict_proba(X_test)[:, 1]
+
+            # # Convert data to torch tensors
+            # X_train = torch.tensor(X_train, dtype=torch.float32)
+            # y_train = torch.tensor(y_train, dtype=torch.float32).unsqueeze(1)
+            # X_test = torch.tensor(X_test, dtype=torch.float32)
+            # y_test = torch.tensor(y_test, dtype=torch.float32).unsqueeze(1)
+
+
+            # mlp = ProbeMLP(X_train.shape[1])
+            # criterion = nn.BCELoss()
+            # optimizer = optim.Adam(mlp.parameters(), lr=self.lr)
+
+            # # Train
+            # mlp.train()
+            # best_loss = float('inf')
+            # patience = self.patience
+            # counter = 0
+
+            # for epoch in range(self.epochs): 
+            #     optimizer.zero_grad()
+            #     outputs = mlp(X_train)
+            #     loss = criterion(outputs, y_train)
+            #     loss.backward()
+            #     optimizer.step()
+
+            #      # Early stopping check
+            #     if loss.item() < best_loss - 1e-6:
+            #         best_loss = loss.item()
+            #         counter = 0
+            #         best_state = mlp.state_dict()
+            #     else:
+            #         counter += 1
+            #         if counter >= patience:
+            #             break
+            # # Predict
+            # mlp.eval()
+            # with torch.no_grad():
+            #     y_prob = mlp(X_test).squeeze().numpy()
+            #     y_pred = (y_prob > 0.5).astype(int)
 
             # Metrics
             acc = accuracy_score(y_test, y_pred)
@@ -198,6 +290,91 @@ class LinearProbe():
             metrics_dict['f1'][idx] = f1
             metrics_dict['precision'][idx] = precsion
             metrics_dict['recall'][idx] = recall
+
+            
+        return metrics_dict
+    
+
+
+    def probing_count_experiment(self, layer_embeddings, gold_reference, layers='all'):
+        """
+        Perform probing experiment on the embeddings.
+
+        arguments:
+        layer_embeddings: numpy array of shape (n_samples, n_layers, embedding_size)
+        gold_reference: labels for the probing task
+        layers: list of layers to probe, or 'all' for all layers
+
+        returns:
+        metrics_dict: dictionary containing the probing metrics for each layer
+        """
+        print("Probing experiment started...")
+        print(f"Shape of layer_embeddings: {layer_embeddings.shape}")
+        print(f"Number of samples: {layer_embeddings.shape[0]}, Number of layers: {layer_embeddings.shape[1]}, Embedding size: {layer_embeddings.shape[2]}")
+
+
+        if layers=='all':
+            layers = list(range(layer_embeddings.shape[1]))
+        else:
+            layers = [layers] if isinstance(layers, int) else layers
+
+
+        metrics_dict = {'accuracy': [None] * len(layers),
+                        'auroc_macro': [None] * len(layers), 
+                        'auprc_macro': [None] * len(layers),
+                        'f1_macro': [None] * len(layers),
+                        'precision_macro': [None] * len(layers),
+                        'recall_macro': [None] * len(layers),
+                        'auroc_micro': [None] * len(layers), 
+                        'auprc_micro': [None] * len(layers),
+                        'f1_micro': [None] * len(layers),
+                        'precision_micro': [None] * len(layers),
+                        'recall_micro': [None] * len(layers)}
+
+        for idx, layer in tqdm(enumerate(layers), desc="Probing layer"):
+            # Stratified split
+            X_train, X_test, y_train, y_test = train_test_split(
+                layer_embeddings[:,layer,:], 
+                gold_reference, 
+                test_size=0.2, 
+                random_state=42, 
+                stratify=gold_reference
+            )
+
+            # Train logistic regression
+            clf = LogisticRegression(multi_class='multinomial', max_iter=1000, random_state=42)
+
+            clf.fit(X_train, y_train)
+
+            # Predict probabilities and labels
+            y_pred = clf.predict(X_test)
+            y_prob = clf.predict_proba(X_test)
+
+            # Metrics
+            acc = accuracy_score(y_test, y_pred)
+            auroc_macro = roc_auc_score(y_test, y_prob, average='macro', multi_class='ovr')
+            auprc_macro = average_precision_score(y_test, y_prob, average='macro')
+            f1_macro = f1_score(y_test, y_pred, average='macro')
+            precsion_macro = precision_score(y_test, y_pred, average='macro')
+            recall_macro = recall_score(y_test, y_pred, average='macro')
+
+            auroc_micro = roc_auc_score(y_test, y_prob, average='micro', multi_class='ovr')
+            auprc_micro = average_precision_score(y_test, y_prob, average='micro')
+            f1_micro = f1_score(y_test, y_pred, average='micro')
+            precsion_micro = precision_score(y_test, y_pred, average='micro')
+            recall_micro = recall_score(y_test, y_pred, average='micro')
+
+            metrics_dict['accuracy'][idx] = acc
+            metrics_dict['auroc_macro'][idx] = auroc_macro
+            metrics_dict['auprc_macro'][idx] = auprc_macro
+            metrics_dict['f1_macro'][idx] = f1_macro
+            metrics_dict['precision_macro'][idx] = precsion_macro
+            metrics_dict['recall_macro'][idx] = recall_macro
+            metrics_dict['auroc_micro'][idx] = auroc_micro
+            metrics_dict['auprc_micro'][idx] = auprc_micro
+            metrics_dict['f1_micro'][idx] = f1_micro
+            metrics_dict['precision_micro'][idx] = precsion_micro
+            metrics_dict['recall_micro'][idx] = recall_micro
 
             
         return metrics_dict

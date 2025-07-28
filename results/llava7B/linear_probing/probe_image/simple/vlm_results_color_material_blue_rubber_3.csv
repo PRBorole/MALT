@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+"['color', 'material']","['blue', 'rubber']",0.6892655367231638,0.5281385281385281,0.991869918699187
