@@ -33,9 +33,9 @@ results_path = f'./results/llava7B/linear_probing/probe_{mode}/'
 batch_inference_mode = 1 # get predicitons
 attn_implementation = 'sdpa'
 
-nobjects = 3
-task = ['color','material']
-target = ['red','metal']
+nobjects = 7
+task = ['combined']
+target = ['gray','cylinder','metal']
 
 # Create probe dataset 
 relevant_idx = mate_df[mate_df['object_count'] == nobjects]['idx'].to_list()
@@ -103,10 +103,13 @@ _, _, inputs = process_input_data(ds=probe_data,
                                     device=device,
                                     model_name='llava_1.5_7b')
 
+
+
 ##### sentence & token level embedding
 s_all_layer_embeddings = [None]*len(probe_data)
 s_img_layer_embeddings = [None]*len(probe_data)
 s_text_layer_embeddings = [None]*len(probe_data)
+# s_special_layer_embeddings = [None]*len(probe_data)
 t_all_layer_embeddings = [None]*len(probe_data)
 t_img_layer_embeddings = [None]*len(probe_data)
 t_text_layer_embeddings = [None]*len(probe_data)
@@ -115,14 +118,16 @@ for idx in tqdm(range(len(probe_data))):
     model_embeddings = probe.get_layer_llava_embeddings(pixel_values=inputs['pixel_values'][idx:idx+1],
                                                         input_ids=inputs['input_ids'][idx:idx+1],
                                                         attention_mask=inputs['attention_mask'][idx:idx+1],
-                                                        mean_dim='both') # For both level embeddings, 1 for sentence level, 2 for token level
+                                                        mean_dim='both',   # For both level embeddings, 1 for sentence level, 2 for token level
+                                                        special_token_embeddings=False) 
     
     s_all_layer_embeddings[idx] = model_embeddings[0]
     t_all_layer_embeddings[idx] = model_embeddings[1]
-    s_img_layer_embeddings[idx] = model_embeddings[2]
+    s_img_layer_embeddings[idx] = model_embeddings[1]
     t_img_layer_embeddings[idx] = model_embeddings[3]
-    s_text_layer_embeddings[idx] = model_embeddings[4]
+    s_text_layer_embeddings[idx] = model_embeddings[2]
     t_text_layer_embeddings[idx] = model_embeddings[5]
+    # s_special_layer_embeddings[idx] = model_embeddings[3]
 
 s_all_layer_embeddings = np.array(s_all_layer_embeddings) 
 t_all_layer_embeddings = np.array(t_all_layer_embeddings)
@@ -130,47 +135,62 @@ s_img_layer_embeddings = np.array(s_img_layer_embeddings)
 t_img_layer_embeddings = np.array(t_img_layer_embeddings)
 s_text_layer_embeddings = np.array(s_text_layer_embeddings)
 t_text_layer_embeddings = np.array(t_text_layer_embeddings)
+# s_special_layer_embeddings = np.array(s_special_layer_embeddings)
 
 
 # Probing experiment sentence all
 s_all = probe.probing_experiment(layer_embeddings=s_all_layer_embeddings,
-                                gold_reference_binary=gold_reference_binary)
+                                gold_reference=gold_reference_binary)
 s_all = pd.DataFrame(s_all)
 s_all['embedding_level'] = ['sentence_all'] * len(s_all)
+s_all['layer'] = list(range(s_all.shape[0]))
+
 
 # Probing experiment sentence image 
 s_img = probe.probing_experiment(layer_embeddings=s_img_layer_embeddings,
-                                    gold_reference_binary=gold_reference_binary)
+                                    gold_reference=gold_reference_binary)
 
 s_img = pd.DataFrame(s_img)
 s_img['embedding_level'] = ['sentence_img'] * len(s_img)
+s_img['layer'] = list(range(s_img.shape[0]))
 
 # Probing experiment sentence text 
 s_text = probe.probing_experiment(layer_embeddings=s_text_layer_embeddings,
-                                    gold_reference_binary=gold_reference_binary)
+                                    gold_reference=gold_reference_binary)
 s_text = pd.DataFrame(s_text)
 s_text['embedding_level'] = ['sentence_text'] * len(s_text)
+s_text['layer'] = list(range(s_text.shape[0]))
+
+# # Probing experiment sentence special 
+# s_special = probe.probing_experiment(layer_embeddings=s_special_layer_embeddings,
+#                                      gold_reference=gold_reference_binary)
+# s_special = pd.DataFrame(s_special)
+# s_special['embedding_level'] = ['sentence_text'] * len(s_special)
+# s_special['layer'] = list(range(s_special.shape[0]))
 
 # Probing experiment token all 
 t_all = probe.probing_experiment(layer_embeddings=t_all_layer_embeddings,
-                                    gold_reference_binary=gold_reference_binary)
+                                    gold_reference=gold_reference_binary)
 t_all = pd.DataFrame(t_all)
 t_all['embedding_level'] = ['token_all'] * len(t_all)
+t_all['layer'] = list(range(t_all.shape[0]))
 
 # Probing experiment token image 
 t_img = probe.probing_experiment(layer_embeddings=t_img_layer_embeddings,
-                                    gold_reference_binary=gold_reference_binary)
+                                    gold_reference=gold_reference_binary)
 t_img = pd.DataFrame(t_img)
 t_img['embedding_level'] = ['token_img'] * len(t_img)
+t_img['layer'] = list(range(t_img.shape[0]))
 
 # Probing experiment token text 
 t_text = probe.probing_experiment(layer_embeddings=t_text_layer_embeddings,
-                                    gold_reference_binary=gold_reference_binary)
+                                    gold_reference=gold_reference_binary)
 t_text = pd.DataFrame(t_text)
 t_text['embedding_level'] = ['token_text'] * len(t_text)
+t_text['layer'] = list(range(t_text.shape[0]))
 
 probe_result_df = pd.concat([s_all, s_img, s_text, t_all, t_img, t_text])
-
+# probe_result_df = pd.concat([s_all, s_img, s_text, s_special])
 
 probe_result_df.to_csv(f"{results_path}/{prompt_type}/probing_results_{'_'.join(task)}_{'_'.join(target)}_{nobjects}.csv")
 end = time.time()
@@ -178,11 +198,11 @@ end = time.time()
 print(f"Probe experiment completed, time taken {end - start}")
 
 # with torch.no_grad():
-#     inputs_embeds = model.get_input_embeddings()(inputs['input_ids'][0:1])
+#     inputs_embeds = model.get_input_embeddings()(inputs['input_ids'][2:3])
 
 # with torch.no_grad():
 #     image_features = model.get_image_features(
-#         pixel_values=inputs['pixel_values'][0:1]
+#         pixel_values=inputs['pixel_values'][2:3]
 #         )
 #     image_features = torch.cat(image_features, dim=0)
 
@@ -196,11 +216,11 @@ print(f"Probe experiment completed, time taken {end - start}")
 # image_features = image_features.to(inputs_embeds.device, inputs_embeds.dtype)
 # inputs_embeds = inputs_embeds.masked_scatter(special_image_mask, image_features)
 
-
-# outputs = model.language_model(attention_mask=inputs['attention_mask'][0:1],
-#                                                 inputs_embeds=inputs_embeds,
-#                                                 output_hidden_states=True,
-#                                                 output_attentions=True,
-#                                                 padding=True,
-#                                                 attn_implementation="eager",
-#                                                 return_dict_in_generation=True)
+# with torch.no_grad():
+#     outputs = model.language_model(attention_mask=inputs['attention_mask'][2:3],
+#                                                     inputs_embeds=inputs_embeds,
+#                                                     output_hidden_states=True,
+#                                                     output_attentions=True,
+#                                                     padding=True,
+#                                                     attn_implementation=attn_implementation,
+#                                                     return_dict_in_generation=True)

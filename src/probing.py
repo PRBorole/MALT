@@ -34,13 +34,13 @@ class LinearProbe():
     """
     Class to handle probing experiments.
     """
-    def __init__(self, model, nobjects, task, mode, target, prompt_type, layers='all'):
-        self.nobjects = nobjects
-        self.task = task
-        self.target = target
+    def __init__(self, model, nobjects=None, task=None, mode=None, target=None, prompt_type=None, layers='all'):
+        self.nobjects = None
+        self.task = None
+        self.target = None
         self.model = model
-        self.mode = mode
-        self.prompt_type = prompt_type
+        self.mode = None
+        self.prompt_type = None
         self.patience = 10
         self.epochs = 100
         self.lr = 1e-3
@@ -103,7 +103,7 @@ class LinearProbe():
 
         return prompt
 
-    def get_layer_llava_embeddings(self, pixel_values, input_ids, attention_mask, output_attentions=False, mean_dim=1):
+    def get_layer_llava_embeddings(self, pixel_values, input_ids, attention_mask, output_attentions=False, mean_dim=1, special_token_embeddings=True):
         """
         Get language model per layer embeddings from the llava model.
 
@@ -113,6 +113,7 @@ class LinearProbe():
         attention_mask: tensor of shape (batch_size, sequence_length) indicating which tokens are padded
         output_attentions: bool, indicating if attention should be returned
         mean_dim: dimension along which to take the mean of the embeddings, default is 1 for sententce-level embeddings
+        special_token_embeddings: bool, indicating embeddings for special tokens pad, bos should be returned or not
 
         returns:
         all_layer_embeddings: numpy array of shape (batch_size, n_layers, embedding_size) containing the embeddings for each layer
@@ -164,14 +165,25 @@ class LinearProbe():
             hidden_states = torch.vstack(outputs.hidden_states).cpu().detach().numpy()
             image_tokens = (input_ids==self.model.config.image_token_id).cpu().detach().numpy().reshape(-1)
             text_tokens = (input_ids!=self.model.config.image_token_id).cpu().detach().numpy().reshape(-1)
+            # all_tokens = ((input_ids!=self.model.config.pad_token_id)&(input_ids!=1)).cpu().detach().numpy().reshape(-1)
+            special_tokens = ((input_ids==self.model.config.pad_token_id)|(input_ids==1)).cpu().detach().numpy().reshape(-1)
 
             if mean_dim!='both':
+                text_tokens = ((input_ids!=self.model.config.image_token_id)&
+                           (input_ids!=self.model.config.pad_token_id)&
+                           (input_ids!=1)).cpu().detach().numpy().reshape(-1)
+                
                 # All tokens
                 all_layer_embeddings = hidden_states.mean(axis=mean_dim) 
                 # Image tokens
                 image_embeddings = hidden_states[:,image_tokens,:].mean(axis=mean_dim)
                 # Text tokens
                 text_embeddings = hidden_states[:,text_tokens,:].mean(axis=mean_dim)
+
+                if special_token_embeddings:
+                    special_embeddings = hidden_states[:,special_tokens,:].mean(axis=mean_dim)
+                    return all_layer_embeddings, image_embeddings, text_embeddings, special_embeddings
+                
                 return all_layer_embeddings, image_embeddings, text_embeddings
             
             else:
@@ -187,29 +199,68 @@ class LinearProbe():
                 
                 return ax1_all_layer_embeddings, ax2_all_layer_embeddings, ax1_image_embeddings, ax2_image_embeddings, ax1_text_embeddings, ax2_text_embeddings
 
+    def get_layer_saprot_embeddings(self, tokenizer, inputs, mean_dim=1):
+        """
+        Get hidden representations of the model.
 
-    def probing_experiment(self, layer_embeddings, gold_reference_binary, layers='all'):
+        Argument:
+            inputs:  A dictionary of inputs. It should contain keys ["input_ids", "attention_mask", "token_type_ids"].
+            reduction: Whether to reduce the hidden states. If None, the hidden states are not reduced. If "mean",
+                        the hidden states are averaged over the sequence length.
+
+        Returns:
+            hidden_states: A list of tensors. Each tensor is of shape [L, D], where L is the sequence length and D is
+                            the hidden dimension.
+
+        For this code refer to https://github.com/westlake-repl/SaProt/blob/main/model/saprot/base.py#L151
+        """
+        inputs["output_hidden_states"] = True
+        with torch.no_grad():
+            outputs = self.model.esm(**inputs)
+
+        # Get the index of the first <eos> token
+        input_ids = inputs["input_ids"]
+        eos_id = tokenizer.eos_token_id
+        ends = (input_ids == eos_id).int()
+        indices = ends.argmax(dim=-1)
+
+        hidden_states = outputs["hidden_states"]
+        hidden_states = np.array([i[0].cpu().detach().numpy() for i in hidden_states])
+        
+        # for i, idx in enumerate(indices):
+        if mean_dim != "both":
+            embeddings = hidden_states[:,1:indices,:].mean(mean_dim)
+            return embeddings
+        else:
+            # Need to implement with padding for token
+            ax1_embeddings = hidden_states[:,1:indices,:].mean(1)
+            ax2_embeddings =  hidden_states[:,1:indices,:].mean(2)
+            return ax1_embeddings, ax2_embeddings
+    
+
+    def probing_experiment(self, layer_embeddings, gold_reference, layers='all'):
         """
         Perform probing experiment on the embeddings.
 
         arguments:
         layer_embeddings: numpy array of shape (n_samples, n_layers, embedding_size)
-        gold_reference_binary: binary labels for the probing task
+        gold_reference: labels for the probing task
         layers: list of layers to probe, or 'all' for all layers
 
         returns:
         metrics_dict: dictionary containing the probing metrics for each layer
         """
+
         print("Probing experiment started...")
-        print(f"Shape of layer_embeddings: {layer_embeddings.shape}")
-        print(f"Number of samples: {layer_embeddings.shape[0]}, Number of layers: {layer_embeddings.shape[1]}, Embedding size: {layer_embeddings.shape[2]}")
-
-
-        if layers=='all':
+        if type(layer_embeddings)!=dict and layers=='all':
             layers = list(range(layer_embeddings.shape[1]))
+            print(f"Number of samples: {layer_embeddings.shape[0]}, Number of layers: {layer_embeddings.shape[1]}, Embedding size: {layer_embeddings.shape[2]}")
+        elif type(layer_embeddings)==dict and layers=='all':
+            layers = list(range(layer_embeddings['X_train'].shape[1]))
+            print(f"Number of samples: {layer_embeddings['X_train'].shape[0]}, Number of layers: {layer_embeddings['X_train'].shape[1]}, Embedding size: {layer_embeddings['X_train'].shape[2]}")
         else:
             layers = [layers] if isinstance(layers, int) else layers
-
+            print(f"Number of samples: {layer_embeddings.shape[0]}, Number of layers: {layer_embeddings.shape[1]}, Embedding size: {layer_embeddings.shape[2]}")
 
         metrics_dict = {'accuracy': [None] * len(layers),
                         'auroc': [None] * len(layers), 
@@ -217,17 +268,27 @@ class LinearProbe():
                         'f1': [None] * len(layers),
                         'precision': [None] * len(layers),
                         'recall': [None] * len(layers)}
-
+        
         for idx, layer in tqdm(enumerate(layers), desc="Probing layer"):
+
             # Stratified split
-            X_train, X_test, y_train, y_test = train_test_split(layer_embeddings[:,layer,:], 
-                                                                gold_reference_binary, 
-                                                                test_size=0.2, 
-                                                                random_state=42, 
-                                                                stratify=gold_reference_binary)
+            if type(layer_embeddings)!=dict:
+                X_train, X_test, y_train, y_test = train_test_split(
+                    layer_embeddings[:,layer,:], 
+                    gold_reference, 
+                    test_size=0.2, 
+                    random_state=42, 
+                    stratify=gold_reference
+                )
+                classes = set(gold_reference)
+            else:
+                X_train, X_test, y_train, y_test = layer_embeddings['X_train'], layer_embeddings['X_test'], gold_reference['y_train'], gold_reference['y_test']
+                X_train, X_test = X_train[:,layer,:], X_test[:,layer,:]
+
+                classes = set(y_train)
 
             # Train logistic regression
-            if len(set(gold_reference_binary))>2:
+            if len(classes)>2:
                 clf = LogisticRegression(multi_class='multinomial', max_iter=1000, random_state=42)
             else:
                 clf = LogisticRegression(max_iter=1000, random_state=42)
