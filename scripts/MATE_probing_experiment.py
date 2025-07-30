@@ -28,14 +28,14 @@ task_dict = {
 }
 
 prompt_type = 'complex' # 'simple', 'complex'
-mode = 'image' # 'image', 'text', 'image_and_text', 'count'
+mode = 'image_and_text' # 'image', 'text', 'image_and_text', 'count'
 results_path = f'./results/llava7B/linear_probing/probe_{mode}/'
 batch_inference_mode = 1 # get predicitons
 attn_implementation = 'sdpa'
 
 nobjects = 7
-task = ['combined']
-target = ['gray','cylinder','metal']
+task = ['color']
+target = ['gray']
 
 # Create probe dataset 
 relevant_idx = mate_df[mate_df['object_count'] == nobjects]['idx'].to_list()

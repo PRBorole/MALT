@@ -35,12 +35,12 @@ class LinearProbe():
     Class to handle probing experiments.
     """
     def __init__(self, model, nobjects=None, task=None, mode=None, target=None, prompt_type=None, layers='all'):
-        self.nobjects = None
-        self.task = None
-        self.target = None
+        self.nobjects = nobjects
+        self.task = task
+        self.target = target
         self.model = model
-        self.mode = None
-        self.prompt_type = None
+        self.mode = mode
+        self.prompt_type = prompt_type
         self.patience = 10
         self.epochs = 100
         self.lr = 1e-3
