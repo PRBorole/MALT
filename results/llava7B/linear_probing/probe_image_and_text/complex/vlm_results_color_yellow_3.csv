@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['color'],['yellow'],0.8452950558213717,0.7320441988950276,1.0

@@ -65,7 +65,7 @@ class LinearProbe():
                             for idx,(t,ta) in enumerate(zip(self.task,self.target))]
                         )
             
-        elif self.mode == 'image_and_text' or self.mode == 'count':
+        elif self.mode=='image_and_text' or self.mode=='count' or self.mode=='text':
             objects = [ds['scene']['objects']]
             condition = ' '.join(
                             [f"{t} {ta} and" 

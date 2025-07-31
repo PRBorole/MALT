@@ -24,18 +24,19 @@ mate_df = pd.read_csv('./data/mate_df.csv',index_col=0)
 task_dict = {
     'color': ['gray', 'yellow', 'red', 'blue', 'green'],
     'material': ['rubber', 'metal'],
-    'shape': ['cone', 'cylinder', 'cube']
+    'shape': ['cone', 'cylinder', 'cube'],
+    'size':['0.35', '0.351', '0.7', '0.701']
 }
 
 prompt_type = 'complex' # 'simple', 'complex'
-mode = 'image_and_text' # 'image', 'text', 'image_and_text', 'count'
+mode = 'text' # 'image', 'text', 'image_and_text', 'count'
 results_path = f'./results/llava7B/linear_probing/probe_{mode}/'
 batch_inference_mode = 1 # get predicitons
 attn_implementation = 'sdpa'
 
-nobjects = 7
-task = ['color']
-target = ['gray']
+nobjects = 3
+task = ['size']
+target = ['0.35']
 
 # Create probe dataset 
 relevant_idx = mate_df[mate_df['object_count'] == nobjects]['idx'].to_list()

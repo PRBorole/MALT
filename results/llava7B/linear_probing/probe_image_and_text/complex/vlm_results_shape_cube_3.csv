@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['shape'],['cube'],0.9914040114613181,0.9829545454545454,1.0

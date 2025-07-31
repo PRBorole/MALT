@@ -1,0 +1,2 @@
+task,target,f1,precision,recall
+['shape'],['cone'],0.9787234042553191,0.9583333333333334,1.0
