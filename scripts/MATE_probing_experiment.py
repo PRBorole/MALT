@@ -13,6 +13,7 @@ import time
 import random
 import re
 import ast
+import argparse
 
 random.seed(42)
 start = time.time()
@@ -28,20 +29,40 @@ task_dict = {
     'size':['0.35', '0.351', '0.7', '0.701']
 }
 
-prompt_type = 'complex' # 'simple', 'complex'
-mode = 'text' # 'image', 'text', 'image_and_text', 'count'
+# parser = argparse.ArgumentParser(description="usage help",
+#                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+# parser.add_argument("--prompt_type", help="simple or complex")
+# parser.add_argument("--mode", help="image, text or image_and_text")
+# parser.add_argument("--nobjects", help="number of object in scene")
+# parser.add_argument("--task", help="color, shape, material or combinations of these")
+# parser.add_argument("--target", help="targets for task color, shape, material or combinations of these")
+
+# args = parser.parse_args()
+# config_path = vars(args)
+
+# prompt_type = args.prompt_type
+# mode = args.mode
+# nobjects = int(args.nobjects)
+# task = args.task.split('_')
+# target = args.target.split('_')
+
+prompt_type = 'simple' # 'simple', 'complex'
+mode = 'image' # 'image', 'text', 'image_and_text', 'count'
+nobjects = 3
+task = ['color']
+target = ['brown']
+
+
+
 results_path = f'./results/llava7B/linear_probing/probe_{mode}/'
 batch_inference_mode = 1 # get predicitons
 attn_implementation = 'sdpa'
-
-nobjects = 3
-task = ['size']
-target = ['0.35']
 
 # Create probe dataset 
 relevant_idx = mate_df[mate_df['object_count'] == nobjects]['idx'].to_list()
 pos_idx = mate_df[(mate_df['object_count'] == nobjects) & 
                   (mate_df[('_'.join(task))].apply(lambda x: '_'.join(target) in x))]['idx'].to_list()
+
 
 if len(pos_idx)>len(relevant_idx)/2:
     neg_idx = [i for i in relevant_idx if i not in pos_idx]
@@ -71,7 +92,6 @@ probe = LinearProbe(model=model,
 
 for idx in range(len(probe_data)):
     probe_data[idx]['prompt'] = probe.get_prompt(probe_data[idx])
-
 
 all_model_outputs = batch_inference(ds=probe_data, 
                                     image_dir_path=image_dir_path, 
@@ -122,13 +142,12 @@ for idx in tqdm(range(len(probe_data))):
                                                         mean_dim='both',   # For both level embeddings, 1 for sentence level, 2 for token level
                                                         special_token_embeddings=False) 
     
-    s_all_layer_embeddings[idx] = model_embeddings[0]
-    t_all_layer_embeddings[idx] = model_embeddings[1]
-    s_img_layer_embeddings[idx] = model_embeddings[1]
-    t_img_layer_embeddings[idx] = model_embeddings[3]
-    s_text_layer_embeddings[idx] = model_embeddings[2]
-    t_text_layer_embeddings[idx] = model_embeddings[5]
-    # s_special_layer_embeddings[idx] = model_embeddings[3]
+    s_all_layer_embeddings[idx] = model_embeddings['ax1_all_layer_embeddings']
+    t_all_layer_embeddings[idx] = model_embeddings['ax2_all_layer_embeddings']
+    s_img_layer_embeddings[idx] = model_embeddings['ax1_img_layer_embeddings']
+    t_img_layer_embeddings[idx] = model_embeddings['ax2_img_layer_embeddings']
+    s_text_layer_embeddings[idx] = model_embeddings['ax1_text_layer_embeddings']
+    t_text_layer_embeddings[idx] = model_embeddings['ax2_text_layer_embeddings']
 
 s_all_layer_embeddings = np.array(s_all_layer_embeddings) 
 t_all_layer_embeddings = np.array(t_all_layer_embeddings)
@@ -136,7 +155,6 @@ s_img_layer_embeddings = np.array(s_img_layer_embeddings)
 t_img_layer_embeddings = np.array(t_img_layer_embeddings)
 s_text_layer_embeddings = np.array(s_text_layer_embeddings)
 t_text_layer_embeddings = np.array(t_text_layer_embeddings)
-# s_special_layer_embeddings = np.array(s_special_layer_embeddings)
 
 
 # Probing experiment sentence all
@@ -225,3 +243,5 @@ print(f"Probe experiment completed, time taken {end - start}")
 #                                                     padding=True,
 #                                                     attn_implementation=attn_implementation,
 #                                                     return_dict_in_generation=True)
+
+

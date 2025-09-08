@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# foldseek
+src/SaProt/bin/foldseek
+
+# SaProt
+src/SaProt
+src/prosst

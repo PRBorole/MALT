@@ -29,13 +29,13 @@ task_dict = {
 }
 
 
-prompt_type = 'complex' # 'simple', 'complex'
+prompt_type = 'simple' # 'simple', 'complex'
 mode = 'count' # 'count'
 hide_object_name = True
 results_path = f'./results/llava7B/linear_probing/probe_{mode}/{prompt_type}/hide_object_name_'
 batch_inference_mode = 1 # get predicitons
 
-nobjects = [3, 4, 5]
+nobjects = [6, 8, 10]
 task = ['count']
 target = [str(i) for i in nobjects]
 
@@ -117,9 +117,6 @@ _, _, inputs = process_input_data(ds=probe_data,
 s_all_layer_embeddings = [None]*len(probe_data)
 s_img_layer_embeddings = [None]*len(probe_data)
 s_text_layer_embeddings = [None]*len(probe_data)
-# t_all_layer_embeddings = [None]*len(probe_data)
-# t_img_layer_embeddings = [None]*len(probe_data)
-# t_text_layer_embeddings = [None]*len(probe_data)
 
 for idx in tqdm(range(len(probe_data))):
     model_embeddings = probe.get_layer_llava_embeddings(
@@ -129,30 +126,24 @@ for idx in tqdm(range(len(probe_data))):
         mean_dim=1
     ) # For both level embeddings, 1 for sentence level, 2 for token level
     
-    s_all_layer_embeddings[idx] = model_embeddings[0]
-    # t_all_layer_embeddings[idx] = model_embeddings[1]
-    s_img_layer_embeddings[idx] = model_embeddings[1]
-    # t_img_layer_embeddings[idx] = model_embeddings[3]
-    s_text_layer_embeddings[idx] = model_embeddings[2]
-    # t_text_layer_embeddings[idx] = model_embeddings[5]
+    s_all_layer_embeddings[idx] = model_embeddings['all_layer_embeddings']
+    s_img_layer_embeddings[idx] = model_embeddings['img_layer_embeddings']
+    s_text_layer_embeddings[idx] = model_embeddings['text_layer_embeddings']
 
 s_all_layer_embeddings = np.array(s_all_layer_embeddings) 
-# t_all_layer_embeddings = np.array(t_all_layer_embeddings)
 s_img_layer_embeddings = np.array(s_img_layer_embeddings)
-# t_img_layer_embeddings = np.array(t_img_layer_embeddings)
 s_text_layer_embeddings = np.array(s_text_layer_embeddings)
-# t_text_layer_embeddings = np.array(t_text_layer_embeddings)
 
 
-# # Probing experiment sentence all
-# s_all = probe.probing_count_experiment(
-#     layer_embeddings=s_all_layer_embeddings,
-#     gold_reference=gold_reference
-# )
+# Probing experiment sentence all
+s_all = probe.probing_count_experiment(
+    layer_embeddings=s_all_layer_embeddings,
+    gold_reference=gold_reference
+)
 
-# s_all = pd.DataFrame(s_all)
-# s_all['embedding_level'] = ['sentence_all'] * len(s_all)
-# s_all['layer'] = list(range(len(s_all)))
+s_all = pd.DataFrame(s_all)
+s_all['embedding_level'] = ['sentence_all'] * len(s_all)
+s_all['layer'] = list(range(len(s_all)))
 
 # Probing experiment sentence image 
 s_img = probe.probing_count_experiment(
@@ -173,53 +164,9 @@ s_text = pd.DataFrame(s_text)
 s_text['embedding_level'] = ['sentence_text'] * len(s_text)
 s_text.to_csv(f"{results_path}probing_results_s_text_{'_'.join(task)}_{'_'.join(target)}.csv")
 
-# # Probing experiment token all 
-# t_all = probe.probing_count_experiment(
-#     layer_embeddings=t_all_layer_embeddings,
-#     gold_reference=gold_reference
-# )
-# t_all = pd.DataFrame(t_all)
-# t_all['embedding_level'] = ['token_all'] * len(t_all)
-
-# # Probing experiment token image 
-# t_img = probe.probing_count_experiment(
-#     layer_embeddings=t_img_layer_embeddings,
-#     gold_reference=gold_reference
-# )
-# t_img = pd.DataFrame(t_img)
-# t_img['embedding_level'] = ['token_img'] * len(t_img)
-
-# # Probing experiment token text 
-# t_text = probe.probing_count_experiment(
-#     layer_embeddings=t_text_layer_embeddings,
-#     gold_reference=gold_reference
-# )
-# t_text = pd.DataFrame(t_text)
-# t_text['embedding_level'] = ['token_text'] * len(t_text)
-
-probe_result_df = pd.concat([s_img, s_text])#, t_all, t_img, t_text])
+probe_result_df = pd.concat([s_img, s_text])
 
 probe_result_df.to_csv(f"{results_path}probing_results_{'_'.join(task)}_{'_'.join(target)}.csv")
 end = time.time()
 
 print(f"Probe experiment completed, time taken {end - start}")
-
-
-# # Stratified split
-# layer=3
-# X_train, X_test, y_train, y_test = train_test_split(s_img_layer_embeddings[:,layer,:], 
-#                                                     gold_reference, 
-#                                                     test_size=0.2, 
-#                                                     random_state=42, 
-#                                                     stratify=gold_reference)
-
-# # Train logistic regression
-# if len(set(gold_reference))>2:
-#     clf = LogisticRegression(multi_class='multinomial', max_iter=1000, random_state=42)
-# else:
-#     clf = LogisticRegression(max_iter=1000, random_state=42)
-# clf.fit(X_train, y_train)
-
-# # Predict probabilities and labels
-# y_pred = clf.predict(X_test)
-# y_prob = clf.predict_proba(X_test)[:, 1]

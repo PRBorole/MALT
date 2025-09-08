@@ -1,2 +1,2 @@
 task,target,f1,precision,recall
-['color_shape'],['gray_cylinder'],0.6678445229681979,0.5013262599469496,1.0
+"['color', 'shape']","['gray', 'cylinder']",0.6666666666666666,0.5,1.0

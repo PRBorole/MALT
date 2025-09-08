@@ -1,0 +1,133 @@
+,0,Mean over,prompt,layers
+0,17.635197,All,With Image,0
+1,17.69247,All,With Image,1
+2,9.124929,All,With Image,2
+3,9.182611,All,With Image,3
+4,9.188185,All,With Image,4
+5,9.1905775,All,With Image,5
+6,9.349612,All,With Image,6
+7,9.684812,All,With Image,7
+8,9.892059,All,With Image,8
+9,10.2645235,All,With Image,9
+10,11.020402,All,With Image,10
+11,13.326678,All,With Image,11
+12,15.076215,All,With Image,12
+13,16.768667,All,With Image,13
+14,21.20432,All,With Image,14
+15,24.812849,All,With Image,15
+16,26.252443,All,With Image,16
+17,30.920837,All,With Image,17
+18,33.458725,All,With Image,18
+19,36.775715,All,With Image,19
+20,40.638058,All,With Image,20
+21,43.971825,All,With Image,21
+22,46.49893,All,With Image,22
+23,49.441227,All,With Image,23
+24,51.281277,All,With Image,24
+25,53.555534,All,With Image,25
+26,56.39874,All,With Image,26
+27,57.43191,All,With Image,27
+28,60.209827,All,With Image,28
+29,63.6827,All,With Image,29
+30,65.06947,All,With Image,30
+31,72.92709,All,With Image,31
+32,62.9252,All,With Image,32
+0,17.624435,Image,With Image,0
+1,17.664396,Image,With Image,1
+2,18.104704,Image,With Image,2
+3,18.63565,Image,With Image,3
+4,18.887964,Image,With Image,4
+5,19.407787,Image,With Image,5
+6,20.08085,Image,With Image,6
+7,21.110134,Image,With Image,7
+8,22.300035,Image,With Image,8
+9,24.028347,Image,With Image,9
+10,26.250515,Image,With Image,10
+11,30.804474,Image,With Image,11
+12,35.267387,Image,With Image,12
+13,38.306087,Image,With Image,13
+14,44.55503,Image,With Image,14
+15,50.18609,Image,With Image,15
+16,51.88099,Image,With Image,16
+17,55.939674,Image,With Image,17
+18,56.11421,Image,With Image,18
+19,56.53466,Image,With Image,19
+20,55.720043,Image,With Image,20
+21,55.711304,Image,With Image,21
+22,56.01361,Image,With Image,22
+23,54.923138,Image,With Image,23
+24,54.633675,Image,With Image,24
+25,54.706192,Image,With Image,25
+26,56.439037,Image,With Image,26
+27,55.81636,Image,With Image,27
+28,57.268948,Image,With Image,28
+29,58.65652,Image,With Image,29
+30,57.76393,Image,With Image,30
+31,59.40145,Image,With Image,31
+32,53.54327,Image,With Image,32
+0,8.694684,Text,With Image,0
+1,18.09807,Text,With Image,1
+2,32.089756,Text,With Image,2
+3,37.561153,Text,With Image,3
+4,44.9809,Text,With Image,4
+5,51.529472,Text,With Image,5
+6,57.28285,Text,With Image,6
+7,65.06898,Text,With Image,7
+8,77.24639,Text,With Image,8
+9,94.77363,Text,With Image,9
+10,97.180534,Text,With Image,10
+11,84.0455,Text,With Image,11
+12,100.38709,Text,With Image,12
+13,104.75973,Text,With Image,13
+14,87.82746,Text,With Image,14
+15,108.634,Text,With Image,15
+16,107.97719,Text,With Image,16
+17,109.52984,Text,With Image,17
+18,117.52411,Text,With Image,18
+19,117.27903,Text,With Image,19
+20,116.31166,Text,With Image,20
+21,117.86573,Text,With Image,21
+22,122.02663,Text,With Image,22
+23,124.678734,Text,With Image,23
+24,126.789696,Text,With Image,24
+25,127.57535,Text,With Image,25
+26,132.06058,Text,With Image,26
+27,126.235725,Text,With Image,27
+28,126.63278,Text,With Image,28
+29,128.15012,Text,With Image,29
+30,124.1028,Text,With Image,30
+31,117.24358,Text,With Image,31
+32,102.90646,Text,With Image,32
+0,8.694376,Text only,Without Image,0
+1,10.246248,Text only,Without Image,1
+2,11.759205,Text only,Without Image,2
+3,19.730175,Text only,Without Image,3
+4,37.27908,Text only,Without Image,4
+5,46.4463,Text only,Without Image,5
+6,54.436195,Text only,Without Image,6
+7,60.577633,Text only,Without Image,7
+8,74.02917,Text only,Without Image,8
+9,91.52123,Text only,Without Image,9
+10,91.68328,Text only,Without Image,10
+11,79.72209,Text only,Without Image,11
+12,94.38272,Text only,Without Image,12
+13,95.79016,Text only,Without Image,13
+14,83.17034,Text only,Without Image,14
+15,93.36906,Text only,Without Image,15
+16,92.57648,Text only,Without Image,16
+17,91.69788,Text only,Without Image,17
+18,96.898506,Text only,Without Image,18
+19,96.54205,Text only,Without Image,19
+20,94.85918,Text only,Without Image,20
+21,92.880066,Text only,Without Image,21
+22,95.36103,Text only,Without Image,22
+23,94.77575,Text only,Without Image,23
+24,97.88956,Text only,Without Image,24
+25,98.59227,Text only,Without Image,25
+26,104.4859,Text only,Without Image,26
+27,97.10383,Text only,Without Image,27
+28,98.62387,Text only,Without Image,28
+29,100.99912,Text only,Without Image,29
+30,96.242966,Text only,Without Image,30
+31,80.139244,Text only,Without Image,31
+32,80.961586,Text only,Without Image,32

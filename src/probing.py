@@ -83,9 +83,12 @@ class LinearProbe():
                         "\n• Z (Vertical Position): Represents the height of the object\'s center point. Larger values correspond to higher vertical positions."+\
                         "\n\nHere is the JSON containing details about all objects in the scene in the image:"+\
                         f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': objects})}"+\
-                        f"\n Now only answer YES or NO, is an object of {condition} present in the image? ASSISTANT: "
+                        f"\n Always answer in just one word answer YES or NO to the question. Do not add any other information, only answer YES or NO, is an object with property {condition} present in the image? Only answer yes if a single object contains all queried properties, "+\
+                        f"else if no such object with all the properties exist, reply NO ASSISTANT: "
+                # Now only answer YES or NO, is an object of color gray and shape cylinder present in the image? ASSISTANT:
             elif self.prompt_type=='simple':
-                prompt = f"USER: \n only answer YES or NO, is an object of {condition} present in the image? ASSISTANT: " 
+                prompt = f"USER: \n Always answer in just one word answer YES or NO to the question. Do not add any other information, only answer YES or NO, is an object of {condition} present in the image? Only answer yes if a single object contains all queried properties, "+\
+                         f"else if no such object with all the properties exist, reply NO ASSISTANT: " 
         
         elif 'count' in self.mode:
             if self.prompt_type=='complex':
@@ -97,9 +100,9 @@ class LinearProbe():
                         "\n• Z (Vertical Position): Represents the height of the object\'s center point. Larger values correspond to higher vertical positions."+\
                         "\n\nHere is the JSON containing details about all objects in the scene in the image:"+\
                         f"\n\n {({'camera_location': ds['scene']['camera_location'], 'objects': objects})}"+\
-                        f"\n Now only return in number, how many objects are present in the image? ASSISTANT: "
+                        f"\n Always answer in just one word to the question. Do not add any other information, only return in number, how many objects are present in the image? ASSISTANT: "
             elif self.prompt_type=='simple':
-                prompt = f"USER: \n only return in number, how many objects are present in the image? ASSISTANT: " 
+                prompt = f"USER: \n Always answer in just one word to the question. Do not add any other information, only return in number, how many objects are present in the image? ASSISTANT: "
 
         return prompt
 
@@ -152,7 +155,6 @@ class LinearProbe():
         inputs_embeds = inputs_embeds.masked_scatter(special_image_mask, image_features)
 
         # Forward pass with output_hidden_states=True
-        all_layer_embeddings = []
         with torch.no_grad():
             outputs = self.model.language_model(attention_mask=attention_mask,
                                                 inputs_embeds=inputs_embeds,
@@ -164,41 +166,57 @@ class LinearProbe():
             # Extract hidden states from all layers
             hidden_states = torch.vstack(outputs.hidden_states).cpu().detach().numpy()
             image_tokens = (input_ids==self.model.config.image_token_id).cpu().detach().numpy().reshape(-1)
-            text_tokens = (input_ids!=self.model.config.image_token_id).cpu().detach().numpy().reshape(-1)
-            # all_tokens = ((input_ids!=self.model.config.pad_token_id)&(input_ids!=1)).cpu().detach().numpy().reshape(-1)
-            special_tokens = ((input_ids==self.model.config.pad_token_id)|(input_ids==1)).cpu().detach().numpy().reshape(-1)
-
-            if mean_dim!='both':
-                text_tokens = ((input_ids!=self.model.config.image_token_id)&
+            text_tokens = ((input_ids!=self.model.config.image_token_id)&
                            (input_ids!=self.model.config.pad_token_id)&
                            (input_ids!=1)).cpu().detach().numpy().reshape(-1)
+            special_tokens = ((input_ids==self.model.config.pad_token_id)|(input_ids==1)).cpu().detach().numpy().reshape(-1)
+
+            return_dict = {}
+            if mean_dim=='None':
                 
                 # All tokens
-                all_layer_embeddings = hidden_states.mean(axis=mean_dim) 
+                return_dict['all_layer_embeddings'] = hidden_states
+
                 # Image tokens
-                image_embeddings = hidden_states[:,image_tokens,:].mean(axis=mean_dim)
+                return_dict['img_layer_embeddings'] = hidden_states[:,image_tokens,:]
+
                 # Text tokens
-                text_embeddings = hidden_states[:,text_tokens,:].mean(axis=mean_dim)
+                return_dict['text_layer_embeddings'] = hidden_states[:,text_tokens,:]
 
                 if special_token_embeddings:
-                    special_embeddings = hidden_states[:,special_tokens,:].mean(axis=mean_dim)
-                    return all_layer_embeddings, image_embeddings, text_embeddings, special_embeddings
+                    return_dict['special_layer_embeddings'] = hidden_states[:,special_tokens,:].mean(axis=mean_dim)
+
+            elif mean_dim!='both':
                 
-                return all_layer_embeddings, image_embeddings, text_embeddings
+                # All tokens
+                return_dict['all_layer_embeddings'] = hidden_states.mean(axis=mean_dim) 
+                # Image tokens
+                return_dict['img_layer_embeddings'] = hidden_states[:,image_tokens,:].mean(axis=mean_dim)
+                # Text tokens
+                return_dict['text_layer_embeddings'] = hidden_states[:,text_tokens,:].mean(axis=mean_dim)
+
+                if special_token_embeddings:
+                    return_dict['ax_special_layer_embeddings'] = hidden_states[:,special_tokens,:].mean(axis=mean_dim)
             
             else:
                 # All tokens
-                ax1_all_layer_embeddings = hidden_states.mean(axis=1) 
-                ax2_all_layer_embeddings = hidden_states.mean(axis=2) 
+                return_dict['ax1_all_layer_embeddings'] = hidden_states.mean(axis=1) 
+                return_dict['ax2_all_layer_embeddings'] = hidden_states.mean(axis=2) 
                 # Image tokens
-                ax1_image_embeddings = hidden_states[:,image_tokens,:].mean(axis=1)
-                ax2_image_embeddings = hidden_states[:,image_tokens,:].mean(axis=2)
+                return_dict['ax1_img_layer_embeddings'] = hidden_states[:,image_tokens,:].mean(axis=1)
+                return_dict['ax2_img_layer_embeddings'] = hidden_states[:,image_tokens,:].mean(axis=2)
                 # Text tokens
-                ax1_text_embeddings = hidden_states[:,text_tokens,:].mean(axis=1)
-                ax2_text_embeddings = hidden_states[:,text_tokens,:].mean(axis=2)
+                return_dict['ax1_text_layer_embeddings'] = hidden_states[:,text_tokens,:].mean(axis=1)
+                return_dict['ax2_text_layer_embeddings'] = hidden_states[:,text_tokens,:].mean(axis=2)
                 
-                return ax1_all_layer_embeddings, ax2_all_layer_embeddings, ax1_image_embeddings, ax2_image_embeddings, ax1_text_embeddings, ax2_text_embeddings
+                if special_token_embeddings:
+                    return_dict['ax1_special_layer_embeddings'] = hidden_states[:,special_tokens,:].mean(axis=1)
+                    return_dict['ax2_special_layer_embeddings'] = hidden_states[:,special_tokens,:].mean(axis=2)
 
+            if output_attentions:
+                return_dict['attentions'] = torch.vstack(outputs.attentions).cpu().detach().numpy()
+        return return_dict
+    
     def get_layer_saprot_embeddings(self, tokenizer, inputs, mean_dim=1):
         """
         Get hidden representations of the model.
@@ -236,7 +254,7 @@ class LinearProbe():
             ax1_embeddings = hidden_states[:,1:indices,:].mean(1)
             ax2_embeddings =  hidden_states[:,1:indices,:].mean(2)
             return ax1_embeddings, ax2_embeddings
-    
+
 
     def probing_experiment(self, layer_embeddings, gold_reference, layers='all'):
         """

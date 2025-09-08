@@ -110,12 +110,12 @@ for idx in tqdm(range(len(probe_data))):
                                                         attention_mask=inputs['attention_mask'][idx:idx+1],
                                                         mean_dim='both') # For both level embeddings, 1 for sentence level, 2 for token level
     
-    s_all_layer_embeddings[idx] = model_embeddings[0]
-    t_all_layer_embeddings[idx] = model_embeddings[1]
-    s_img_layer_embeddings[idx] = model_embeddings[2]
-    t_img_layer_embeddings[idx] = model_embeddings[3]
-    s_text_layer_embeddings[idx] = model_embeddings[4]
-    t_text_layer_embeddings[idx] = model_embeddings[5]
+    s_all_layer_embeddings[idx] = model_embeddings['ax1_all_layer_embeddings']
+    t_all_layer_embeddings[idx] = model_embeddings['ax2_all_layer_embeddings']
+    s_img_layer_embeddings[idx] = model_embeddings['ax1_img_layer_embeddings']
+    t_img_layer_embeddings[idx] = model_embeddings['ax2_img_layer_embeddings']
+    s_text_layer_embeddings[idx] = model_embeddings['ax1_text_layer_embeddings']
+    t_text_layer_embeddings[idx] = model_embeddings['ax2_text_layer_embeddings']
 
 s_all_layer_embeddings = np.array(s_all_layer_embeddings) 
 t_all_layer_embeddings = np.array(t_all_layer_embeddings)
