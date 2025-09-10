@@ -16,12 +16,19 @@ if model_name=='gemma3-4B' or model_name=='gemma3-12B':
 """
 Main function to run the llava model inference on MATE.
 It loads the dataset, processes the input data, and performs inference using the model.
+part 7 - 380
+part 8 - 365
+part 9 - 379
+part 10 - 367
+part 11 - 367
 """
 image_dir_path = './../datasets/MATE-dev/img/'
 ds = load_jsonl_file('./../datasets/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
+ds = ds[5000:5500]
+part = 11
 mate_df = pd.read_csv('./data/mate_df.csv',index_col=0)
 
-model, processor, device = load_model_and_processor(model_name=model_name, attn_implementation='eager')
+# model, processor, device = load_model_and_processor(model_name=model_name, attn_implementation='eager')
 
 all_model_outputs = batch_inference(
     ds, 
@@ -90,6 +97,6 @@ if model_name == 'llava_1.5_7b':
     print("mismatch MATE paper prediction vs gold reference: ",
         len(prediction_df[prediction_df['paper_prediction_lower']!=prediction_df['gold_reference_lower']]))
 
-prediction_df.to_csv(f'./results/molmoB-7B/{model_name}_MATE_prediction.csv')
+prediction_df.to_csv(f'./results/molmoD-7B/{model_name}_MATE_prediction_part{part}.csv')
 # prediction_df = pd.read_csv('./results/llava7B/MATE_prediction.csv', index_col=0)
 

@@ -26,7 +26,7 @@ image_dir_path = './../datasets/MATE-dev/img/'
 ds_main = load_jsonl_file('./../datasets/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
 mate_df = pd.read_csv('./data/mate_df.csv',index_col=0)
 
-model_name = 'gemma3-12B' # llava-v1.6-vicuna-7b, llava_1.5_7b, Qwen2.5-VL-7B, Qwen2.5-VL-3B, llava-v1.6-mistral-7b, gemma3-4B, gemma3-12B
+model_name = 'molmoD-7B' # llava-v1.6-vicuna-7b, llava_1.5_7b, Qwen2.5-VL-7B, Qwen2.5-VL-3B, llava-v1.6-mistral-7b, gemma3-4B, gemma3-12B
 
 task_dict = {
     'color': ['gray', 'yellow', 'red', 'blue', 'green'],
@@ -43,9 +43,9 @@ target = ['gray','cylinder']
 nsamples = 1
 # ds_main = ds_main[:nsamples]
 
-results_path = f'./results/gemma3-12B/svd/'
+results_path = f'./results/molmoD-7B/svd/'
 
-attn_implementation = 'sdpa'
+attn_implementation = 'eager'
 
 # Create probe dataset 
 relevant_idx = mate_df[mate_df['object_count'] == nobjects]['idx'].to_list()
@@ -98,7 +98,10 @@ for idx in tqdm(range(len(ds_main)), desc='probe_data'):
     model_embeddings = torch.vstack(outputs.hidden_states).cpu().detach().to(torch.float16).numpy()
 
     input_ids = inputs['input_ids'][0]
-    image_tokens = (input_ids==model.config.image_token_id).cpu().detach().numpy().reshape(-1)
+    if 'molmo' in model_name:
+        image_tokens = (input_ids==processor.special_token_ids['<im_patch>']).cpu().detach().numpy().reshape(-1) 
+    else:
+        image_tokens = (input_ids==model.config.image_token_id).cpu().detach().numpy().reshape(-1)
     text_tokens = [False 
                    if i in list(processor.tokenizer.all_special_ids) else True 
                    for i in input_ids.detach().cpu().tolist()]
@@ -129,24 +132,36 @@ for idx in tqdm(range(len(ds_main)), desc='probe_data'):
     
     ########### ONLY TEXT NO IMAGE TOKENS
 
-    inputs_text_only = processor(images=None, text=prompts, padding=True, return_tensors="pt")
-    inputs_text_only = {k: v.to(device) if hasattr(v, "to") else v for k, v in inputs_text_only.items()}
+    if 'molmo' in model_name:
+        inputs_text_only = processor.process(images=None, text=prompts[0], padding=True, return_tensors="pt")
+        inputs_text_only = {k: v.to(device) if hasattr(v, "to") else v for k, v in inputs_text_only.items()}
 
-    text_only_tokens = [False 
-                   if i in list(processor.tokenizer.all_special_ids) else True 
-                   for i in inputs_text_only['input_ids'][0].detach().cpu().tolist()]
+        text_only_tokens = [False 
+                    if i in list(processor.tokenizer.all_special_ids) else True 
+                    for i in inputs_text_only['input_ids'].detach().cpu().tolist()]
+    else:
+        inputs_text_only = processor(images=None, text=prompts, padding=True, return_tensors="pt")
+        inputs_text_only = {k: v.to(device) if hasattr(v, "to") else v for k, v in inputs_text_only.items()}
+
+        text_only_tokens = [False 
+                    if i in list(processor.tokenizer.all_special_ids) else True 
+                    for i in inputs_text_only['input_ids'][0].detach().cpu().tolist()]
 
     with torch.no_grad():
         # outputs = model(**{k:inputs[k][idx:idx+1] for k in inputs.keys()}, output_hidden_states=True)
-        outputs = model(**inputs_text_only, output_hidden_states=True)
+        if len(inputs_text_only)==1:
+            outputs = model(input_ids=inputs_text_only['input_ids'].reshape(1,-1), output_hidden_states=True)
+        else:
+            outputs = model(**inputs_text_only, output_hidden_states=True)
     text_only_layer_embeddings = torch.vstack(outputs.hidden_states).cpu().detach().to(torch.float16).numpy().astype(np.float32)
     text_only_layer_embeddings = text_only_layer_embeddings[:,text_only_tokens,:]
-    print("text only done")
+    
 
     text_only_layer_embeddings_rank_ = []
     for i in range(0,text_only_layer_embeddings.shape[0]):
         text_only_layer_embeddings_rank_ = text_only_layer_embeddings_rank_ + [get_erank(text_only_layer_embeddings[i], device=device)]
     text_only_layer_embeddings_rank_ls = text_only_layer_embeddings_rank_ls + [text_only_layer_embeddings_rank_] 
+    print("text only done")
 
     # ########### ONLY IMAGE NO TEXT TOKENS
     # inputs_image_only = processor(images=images[idx], text='<image>', padding=True, return_tensors="pt")

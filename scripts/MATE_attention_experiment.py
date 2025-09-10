@@ -22,7 +22,7 @@ from src.utils_metrics import *
 
 random.seed(42)
 start = time.time()
-model_name = 'Qwen2.5-VL-7B' # gemma3-4B, Qwen2.5-VL-7B, llava_1.5_7b, llava-v1.6-mistral-7b, llava-v1.6-vicuna-7b
+model_name = 'molmoD-7B' # gemma3-4B, Qwen2.5-VL-7B, llava_1.5_7b, llava-v1.6-mistral-7b, llava-v1.6-vicuna-7b
 
 image_dir_path = './../datasets/MATE-dev/img/'
 ds_main = load_jsonl_file('./../datasets/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
@@ -41,7 +41,7 @@ nobjects = 7
 task = ['color', 'shape']
 target = ['gray', 'cylinder']
 
-results_path = f'./results/qwen2.5_7B/attention/'
+results_path = f'./results/molmoD-7B/attention/'
 batch_inference_mode = 0 # get predicitons or not
 attn_implementation = 'eager' #eager, sdpa, flash_attention_2, flash_attention_3
 
@@ -137,13 +137,13 @@ attentions = [i.detach().cpu().to(dtype=torch.float16) for i in outputs.attentio
 nlayers = len(attentions)
 nheads = attentions[0].shape[1]
 
-# # Check sparsity
-# attention_sparsity = np.zeros((attentions.shape[0], attentions.shape[1]))
-# for idx, layer in enumerate(range(attentions.shape[0])):
-#     for jdx, head in enumerate(range(attentions.shape[1])):
-#         attention_sparsity[idx][jdx] = 1-(np.count_nonzero(attentions[layer][head])/attentions[layer][head].size)
 
-image_tokens = np.where((inputs['input_ids']==model.config.image_token_id).cpu().detach().numpy().reshape(-1).tolist())[0]
+if 'molmo' in model_name:
+    image_tokens = np.where((inputs['input_ids']==processor.special_token_ids['<im_patch>']).cpu().detach().numpy().reshape(-1).tolist())[0]
+else:
+    image_tokens = np.where((inputs['input_ids']==model.config.image_token_id).cpu().detach().numpy().reshape(-1).tolist())[0]
+
+# image_tokens = np.where((inputs['input_ids']==model.config.image_token_id).cpu().detach().numpy().reshape(-1).tolist())[0]
 text_tokens = np.where(
                 [False 
                 if i in list(processor.tokenizer.all_special_ids) else True 
