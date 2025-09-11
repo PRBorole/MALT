@@ -45,6 +45,35 @@ def get_erank(A, device='cuda'):
 
     return erank
 
+def attention_entropy(attn_map: np.ndarray, mode="avg") -> float | np.ndarray:
+    """
+    Compute entropy of attention distributions.
+
+    Parameters
+    ----------
+    attn_map : np.ndarray
+        2D attention map [num_queries, num_keys].
+    mode : str
+        "row" -> return entropy per query token.
+        "avg" -> return average entropy across queries.
+
+    Returns
+    -------
+    float or np.ndarray
+    """
+    safe_attn = np.clip(attn_map, 1e-12, 1.0)
+
+    if mode == "row":
+        return -np.sum(safe_attn * np.log(safe_attn), axis=-1)
+
+    elif mode == "avg":
+        row_entropies = -np.sum(safe_attn * np.log(safe_attn), axis=-1)
+        return row_entropies.mean()
+
+    else:
+        raise ValueError("mode must be 'row' or 'avg'")
+
+
 def get_ajive_erank(blocks, init_signal_ranks, device='cuda'):
     '''
     Returns erank of ajive joint and individual components
