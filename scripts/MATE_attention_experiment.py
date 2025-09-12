@@ -37,7 +37,7 @@ task_dict = {
 }
 
 prompt_type='complex'
-mode = 'image_and_text' # 'image', 'text', 'image_and_text',
+mode = 'image' # 'image', 'text', 'image_and_text',
 nobjects = 7
 task = ['color', 'shape']
 target = ['gray', 'cylinder']
@@ -114,7 +114,6 @@ text_tokens = np.where(
                 for i in inputs['input_ids'][0].detach().cpu().tolist()]
             )[0]
 
-# attn_vlm = attentions_vlm[30][0][0, text_tokens.tolist()].numpy().astype(np.float32)
 
 ########### ONLY TEXT NO IMAGE TOKENS
 if 'molmo' in model_name:
@@ -143,7 +142,6 @@ with torch.no_grad():
 
 attentions_llm = [i.detach().cpu().to(dtype=torch.float16) for i in outputs.attentions]
 
-# attn_llm = attentions_llm[30][0][0, text_only_tokens.tolist()].numpy().astype(np.float32)
 
 
 # calculate entropy
