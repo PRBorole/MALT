@@ -1,0 +1,2015 @@
+,output,prediction,gold_reference,tag
+0,"user
+ QUESTION: What is the material of the glove?
+0 rubber
+1 cotton
+2 kevlar
+3 leather
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+1,"user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,direct_attributes
+2,"user
+ QUESTION: What kind of animal is in the poster?
+0 dove
+1 horse
+2 dog
+3 cat
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+3,"user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+4,"user
+ QUESTION: What is the pose of the woman with yellow backpack?
+0 walking
+1 running
+2 squatting
+3 standing
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,direct_attributes
+5,"user
+ QUESTION: What is the color of the cart?
+0 red
+1 white
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,direct_attributes
+6,"user
+ QUESTION: What is the color of the candles?
+0 red
+1 yellow
+2 gray
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,direct_attributes
+7,"user
+ QUESTION: What is the color of the Apple logo?
+0 polychromatic
+1 red
+2 white
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+8,"user
+ QUESTION: What is the color of the tissue box?
+0 gray
+1 white
+2 black
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,direct_attributes
+9,"user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+10,"user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+11,"user
+ QUESTION: What is the color of the slippers?
+0 black
+1 red
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+12,"user
+ QUESTION: What is the color of the cart?
+0 green
+1 white
+2 black
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+13,"user
+ QUESTION: What is the cartoon character on the clock.
+0 Bugs Bunny
+1 Mickey Mouse
+2 SpongeBob
+3 Donald Duck
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+14,"user
+ QUESTION: What is the color of the suitcase?
+0 red
+1 gray
+2 black
+3 brown
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,direct_attributes
+15,"user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+16,"user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,direct_attributes
+17,"user
+ QUESTION: What is the material of the stool?
+0 bamboo
+1 steel
+2 plastic
+3 wood
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,direct_attributes
+18,"user
+ QUESTION: What is the color of the bucket?
+0 white
+1 red
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+19,"user
+ QUESTION: What is the color of the shovel?
+0 yellow
+1 red
+2 blue
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+20,"user
+ QUESTION: What is the color of the SUV car?
+0 black
+1 red
+2 silver
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+21,"user
+ QUESTION: What is the color of the pink-haired woman's handbag?
+0 brown
+1 white
+2 red
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,"user
+ QUESTION: What is the color of the car?
+0 white
+1 black
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+23,"user
+ QUESTION: What is the color of the bicycle?
+0 black
+1 red
+2 white
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,direct_attributes
+24,"user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,direct_attributes
+25,"user
+ QUESTION: What is the color of the motorcycle?
+0 blue
+1 orange
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,direct_attributes
+26,"user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+27,"user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 red
+2 gray
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,direct_attributes
+28,"user
+ QUESTION: What is the color of the pet collar?
+0 purple
+1 red
+2 yellow
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+29,"user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+30,"user
+ QUESTION: What is the color of the water bottle?
+0 black
+1 red
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+31,"user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+32,"user
+ QUESTION: What is the color of the helmet?
+0 green
+1 blue
+2 red
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+33,"user
+ QUESTION: What is the color of the woman's bikini?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+34,"user
+ QUESTION: What is the color of the flower?
+0 pink
+1 yellow
+2 red
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,direct_attributes
+35,"user
+ QUESTION: What is the color of the clock?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+36,"user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+37,"user
+ QUESTION: What is the color of the bag?
+0 white
+1 black
+2 purple
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+38,"user
+ QUESTION: Is the color of the motorcycle red or blue?
+0 red
+1 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,direct_attributes
+39,"user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+40,"user
+ QUESTION: What is the color of the van?
+0 red
+1 white
+2 silver
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+41,"user
+ QUESTION: What is the color of the handbag?
+0 brown
+1 black
+2 red
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,direct_attributes
+42,"user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+43,"user
+ QUESTION: What is the color of the fire hydrant?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+44,"user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+45,"user
+ QUESTION: What is the color of the plastic stool?
+0 black
+1 blue
+2 white
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+46,"user
+ QUESTION: What is the color of the motorcycle helmet?
+0 white
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+47,"user
+ QUESTION: What is the color of the helmet?
+0 red
+1 yellow
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+48,"user
+ QUESTION: What is the color of the luggage?
+0 red
+1 yellow
+2 green
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+49,"user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,direct_attributes
+50,"user
+ QUESTION: What is the color of the scooter?
+0 orange
+1 green
+2 black
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+51,"user
+ QUESTION: What is the color of the dress?
+0 white
+1 black
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,direct_attributes
+52,"user
+ QUESTION: What is the color of the cyclist's box?
+0 green
+1 black
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+53,"user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+54,"user
+ QUESTION: What is the color of the flag?
+0 red and yellow
+1 blue and yellow
+2 blue and red
+3 green and white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+55,"user
+ QUESTION: What is the color of the cyclist's bag?
+0 orange and black
+1 white and red
+2 red and blue
+3 blue and gray
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+56,"user
+ QUESTION: What is the breed of the dog?
+0 Husky
+1 corgi
+2 Dalmatian
+3 golden retriever
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+57,"user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+58,"user
+ QUESTION: What is the color of the car?
+0 blue
+1 black
+2 red
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+59,"user
+ QUESTION: Does the kid have curly hair or straight hair?
+0 curly hair
+1 straight hair
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+60,"user
+ QUESTION: What is the color of the broom?
+0 black
+1 yellow
+2 gray
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+61,"user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+62,"user
+ QUESTION: What is the color of the scarf?
+0 red
+1 green
+2 white
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+63,"user
+ QUESTION: Is the flag red or white?
+0 white
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+64,"user
+ QUESTION: How many people are in the oil painting?
+0 4 people
+1 0 people
+2 2 people
+3 1 person
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+65,"user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+66,"user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,direct_attributes
+67,"user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,direct_attributes
+68,"user
+ QUESTION: What is the color of the cleaning cloth?
+0 blue
+1 red
+2 white
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+69,"user
+ QUESTION: What is the color of the umbrella?
+0 purple
+1 black
+2 blue
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+70,"user
+ QUESTION: What is the color of the backpack?
+0 gray
+1 white
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+71,"user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 purple
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,direct_attributes
+72,"user
+ QUESTION: What is the color of the baby carriage?
+0 red
+1 blue
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+73,"user
+ QUESTION: What is the color of the watch?
+0 blue
+1 silver
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+74,"user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+75,"user
+ QUESTION: What is the color of the flute?
+0 black
+1 white
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+76,"user
+ QUESTION: What is the color of the flag?
+0 red
+1 yellow
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+77,"user
+ QUESTION: What is the color of the soda can?
+0 silver
+1 red
+2 white
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,direct_attributes
+78,"user
+ QUESTION: What is the color of the straw?
+0 black
+1 red
+2 pink
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+79,"user
+ QUESTION: What is the color of the bus?
+0 blue
+1 red
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,direct_attributes
+80,"user
+ QUESTION: What is the color of the trash can?
+0 black
+1 silver
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+81,"user
+ QUESTION: What is the color of the guard's glove?
+0 black
+1 white
+2 blue
+3 brown
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+82,"user
+ QUESTION: What is the color of the comb?
+0 brown
+1 red
+2 purple
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+83,"user
+ QUESTION: What is the color of the electric rickshaw?
+0 green
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+84,"user
+ QUESTION: What is the color of the truck?
+0 white
+1 black
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,direct_attributes
+85,"user
+ QUESTION: What is the color of the messenger bag?
+0 red
+1 brown
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+86,"user
+ QUESTION: What is the color of the backpack?
+0 red
+1 black
+2 white
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,direct_attributes
+87,"user
+ QUESTION: What is the color of the watchband?
+0 purple
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,direct_attributes
+88,"user
+ QUESTION: What is the color of the bottle cap?
+0 blue
+1 white
+2 red
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+89,"user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,direct_attributes
+90,"user
+ QUESTION: Does the flag have two or three colors?
+0 two colors
+1 three colors
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+91,"user
+ QUESTION: What is the color of the mailbox?
+0 red
+1 white
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,direct_attributes
+92,"user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+93,"user
+ QUESTION: What is the color of the tent?
+0 yellow
+1 green
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,direct_attributes
+94,"user
+ QUESTION: What is the color of the bottle cap?
+0 white
+1 black
+2 red
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,direct_attributes
+95,"user
+ QUESTION: What is the color of the earring?
+0 blue
+1 red
+2 silver
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+96,"user
+ QUESTION: What is the color of the swim ring?
+0 white
+1 yellow
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,direct_attributes
+97,"user
+ QUESTION: What is the color of the tablecloth?
+0 green
+1 red
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,direct_attributes
+98,"user
+ QUESTION: What is the color of the hat?
+0 black
+1 pink
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+99,"user
+ QUESTION: Is the flag blue and yellow or red and yellow?
+0 red and yellow
+1 blue and yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+100,"user
+ QUESTION: What is the color of the bench?
+0 gray
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,direct_attributes
+101,"user
+ QUESTION: Is the telephone on the left or right side of the hand lamp?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+102,"user
+ QUESTION: Is the red car on the left or right side of the police car?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+103,"user
+ QUESTION: Is the drum on the left or right side of the yellow balloon?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+104,"user
+ QUESTION: Is the motorcycle on the left or right side of the dog?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+105,"user
+ QUESTION: Is the cyclist on the left or right side of the sculpture?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,relative_position
+106,"user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+107,"user
+ QUESTION: Is the red backpack on the left or right side of the clock?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+108,"user
+ QUESTION: Is the bell above or below the clock?
+0 above
+1 below
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+109,"user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+110,"user
+ QUESTION: Is the dog on the left or right side of the golden tower?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+111,"user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+112,"user
+ QUESTION: Is the trash can on the left or right side of the baby carriage?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+113,"user
+ QUESTION: Is the umbrella on the left or right side of the traffic light?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+114,"user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+115,"user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+116,"user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+117,"user
+ QUESTION: Is the soccer ball on the left or right side of the water dispenser?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+118,"user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+119,"user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+120,"user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+121,"user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+122,"user
+ QUESTION: Is the blue bench on the left or right side of the green door?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+123,"user
+ QUESTION: Is the dog on the left or right side of the bicycle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+124,"user
+ QUESTION: Is the blue truck on the left or right side of the white vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,relative_position
+125,"user
+ QUESTION: Is the bucket on the left or right side of the plunger?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,relative_position
+126,"user
+ QUESTION: Is the green statue on the left or right side of the white statue?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+127,"user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+128,"user
+ QUESTION: Is the man with yellow cap on the left or right side of the lamp post?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+129,"user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+130,"user
+ QUESTION: Is the shopping cart on the left or right side of the dog?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+131,"user
+ QUESTION: Is the switch on the left or right side of the towel?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+132,"user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+133,"user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+134,"user
+ QUESTION: Is the yellow trash can on the left or right side of the motorcycle?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+135,"user
+ QUESTION: Is the suitcase on the left or right side of the river?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+136,"user
+ QUESTION: Is the red chair on the left or right side of the road?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+137,"user
+ QUESTION: Is the bowl on the left or right side of the faucet?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+138,"user
+ QUESTION: Is the pillar box on the left or right side of the telephone booth?
+0 right.
+1 left.
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+139,"user
+ QUESTION: Is the motorcyclist on the left or right side of the truck?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+140,"user
+ QUESTION: Is the baby carriage on the left or right side of the cone?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+141,"user
+ QUESTION: Is the pillar box on the left or right side of the man with the cane?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+142,"user
+ QUESTION: Is the motorcycle on the left or right side of the street?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+143,"user
+ QUESTION: Is the blue luggage on the left or right side of the bus?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+144,"user
+ QUESTION: Is the small red car on the left or right side of the baby carriage?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+145,"user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+146,"user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+147,"user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+148,"user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+149,"user
+ QUESTION: Is the wheelchair on the left or right side of the lamp post?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+150,"user
+ QUESTION: Is the dog on the left or right side of the blue bicycle?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+151,"user
+ QUESTION: Is the keyboard on the left or right side of the guitar?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+152,"user
+ QUESTION: Is the dog on the left or right side of the crosswalk?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,relative_position
+153,"user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+154,"user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+155,"user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+156,"user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+157,"user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+158,"user
+ QUESTION: Is the telephone booth on the left or right side of the yellow van?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+159,"user
+ QUESTION: Is the red balloon above or below the white balloon?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,relative_position
+160,"user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+161,"user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+162,"user
+ QUESTION: Is the volleyball on the left or right side of the man with white cap?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+163,"user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,relative_position
+164,"user
+ QUESTION: Is the street lamp on the left or right side of the blue van?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+165,"user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position

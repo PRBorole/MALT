@@ -1,0 +1,4785 @@
+,output,prediction,gold_reference,tag
+0,"system
+You are a helpful assistant.
+user
+ QUESTION: Is China, Hongkong SAR, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+1,"system
+You are a helpful assistant.
+user
+ QUESTION: Is Switzerland, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+2,"system
+You are a helpful assistant.
+user
+ QUESTION: Is France, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+3,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the United States, the leading importing country of gold, silverware, and jewelry with the highest import value in 2018?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+4,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2001 to 2019, Is 2010 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+5,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2001 to 2019, Is 2019 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+6,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2001 to 2010, Is 2010 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+7,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2001 to 2010, Is 2005 exported the most value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+8,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+9,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000 to 2019, Is 2019 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+10,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2010 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+11,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2010 to 2019, Is 2015 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+12,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the most in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+13,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the most in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+14,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the most in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+15,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the most in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+16,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+17,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+18,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+19,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+20,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2019, did Asian families have the highest real median household income in the United States, with White, Hispanic, and Black households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+21,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+22,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2019, did Black and White households represent the only racial groups with median incomes surpassing the national average in the United States, while Hispanic and Asian households had median incomes below the average?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+23,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2019, did Hispanic and Asian households represent the only racial groups with median incomes surpassing the national average in the United States, while Black and White households had median incomes below the average?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+24,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+25,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from Europe?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+26,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from Greater China?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+27,"system
+You are a helpful assistant.
+user
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+28,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2019, were the main policy interest rates of the U.S. Central Bank higher than those of the Central Banks in the UK, Eurozone, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+29,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the UK higher than those of the U.S. Central Bank , Eurozone, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+30,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+31,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2019, were the main policy interest rates of the Japan Central Bank higher than those of the Central Banks in the UK, Eurozone, and U.S.?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+32,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, was Harry Kane the top goalscorer at the 2018 FIFA World Cup?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+33,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, was Cristiano Ronaldo the top goalscorer at the 2018 FIFA World Cup?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+34,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, was Antoine Griezmann the top goalscorer at the 2018 FIFA World Cup?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+35,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2020, did the United States have the largest GDP around the world, followed by China, and Japan, according to the image?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+36,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2020, did China have the largest GDP around the world, followed by the United States, and Japan, according to the image?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+37,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2020, did Japan have the largest GDP around the world, followed by the United States, and China, according to the image?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+38,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2020, did India have the largest GDP around the world, followed by China and Japan, according to the image?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+39,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, were white individuals the largest population group in the United States in 2020, with Latinos and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+40,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, were African Americans the largest population group in the United States in 2020, with Whites and Latinos as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+41,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, were Latinos the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+42,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+43,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, between 2011 and 2020, was 2020 the year when China's exports to the United States reached their highest value?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+44,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did China's exports to the United States experience a decrease from 2016 to 2018?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+45,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2013, was the United States the largest recipient of exports from China in terms of US dollars, followed by Hong Kong and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+46,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2013, was Hong Kong the largest recipient of exports from China in terms of US dollars, followed by the United States and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+47,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2013, was Japn the largest recipient of exports from China in terms of US dollars, followed by the United States and Hong Kong?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+48,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, between March 2020 and December 2021, did the United States experience the peak average number of daily reported COVID-19 deaths during the initial wave, which spanned from March 2020 to June 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+49,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, had the total number of coronavirus deaths in the United States reached 937,000 by February 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+50,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did the Soviet Union suffer the greatest number of total deaths in World War II, with China having the second-highest?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+51,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did the United States suffer the greatest number of total deaths in World War II, with China having the second-highest?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+52,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did United Kingdom experience the highest percentage of total deaths relative to its 1939 population during World War II, followed by Poland?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+53,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did the global death toll from earthquakes surpass 200,000 in any year between 2000 and 2015?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+54,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, did the year 2004 witness a higher global death toll due to earthquakes than 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+55,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+56,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+57,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2017, was Tencent the company with the highest revenue from video games, with Sony as the second-highest earner?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+58,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2017, did Apple generate higher revenue from video games compared to Google?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+59,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+60,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, during the coronavirus pandemic from 2019 to 2022, were the most bankruptcy filings in the US recorded in the year 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+61,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2020, did China have a larger population aged between 90 and 94 years than those aged between 0 and 4 years?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,chart
+62,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2020, did China have a larger population aged between 50 and 54 years than those aged between 0 and 4 years?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,chart
+63,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2018, did ""Black Panther"" achieve the highest box office revenue in North America?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,chart
+64,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, in 2018, did ""Avengers: Infinity War"" achieve the highest box office revenue in North America?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,chart
+65,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the metal number chart of 2008 beijng olympic, does China have the most gold metals, followed by USA and Russia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+66,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the metal number chart of 2008 beijng olympic, does USA have the most gold metals, followed by China and Russia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+67,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the metal number chart of 2008 beijng olympic, does Russia have the most gold metals, followed by China and USA?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+68,"system
+You are a helpful assistant.
+user
+ QUESTION: which country has the largest population growth rate in 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+69,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+70,"system
+You are a helpful assistant.
+user
+ QUESTION: In 2023, did Syria have higher population growth than United Kingdom?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+71,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, which country in Europe has the higher GDP in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+72,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+73,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP, followed by France and Italy?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+74,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, did Xiaomi sell most units of the smartphone in Q2 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+75,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, did Samsung sell most units of the smartphone in Q2 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+76,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, did Xiaomi have the largest smartphone market share in Q2 2020, followed by Samsung and Huawei?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+77,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, Which state in the United States has the average maximum temperature in 2021 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+78,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, According to the table, did Florida have the highest average maximum temperature ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+79,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, According to the table, did Florida have a higher average maximum temperature than Louisana?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+80,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, which month has the lowest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+81,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+82,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+83,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+84,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does Shanghai have the most dense population in China in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+85,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does Beijing have the second most dense population in China in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+86,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does Shandong have the most dense population in China in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+87,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does Zhejiang have the second most dense population in China in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+88,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of gold medals of Norway 16 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+89,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of gold medals of Norway 9 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+90,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+91,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+92,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of all medals of China 15 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+93,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+94,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does Taylor Swift release the album ""Midnights""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+95,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+96,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 1,818,000 in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+97,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does the album ""Midnights"" have a sale of 422,000 in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+98,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does the album ""Proof"" have a sale of 422,000 in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,table
+99,"system
+You are a helpful assistant.
+user
+ QUESTION: Accroding to the information provided in the table, does the album ""Proof"" have a sale of 1,818,000 in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+100,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does the UB group have the highest portion of the market share for beer across India in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+101,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does the Carlsberg India have the highest portion of the market share for beer across India in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+102,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does the SABMiller India have the second highest portion of the market share for beer across India in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+103,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the table, does the UB Group have the second highest portion of the market share for beer across India in 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+104,"system
+You are a helpful assistant.
+user
+ QUESTION: According to this table, does China have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,table
+105,"system
+You are a helpful assistant.
+user
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,table
+106,"system
+You are a helpful assistant.
+user
+ QUESTION: According to this table, does Russia have the second highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+107,"system
+You are a helpful assistant.
+user
+ QUESTION: According to this table, is the carbon dioxide emission worldwide in 2010 the same for US and India?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,table
+108,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+109,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, is Texas state larger than California state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+110,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, is New Mexico state larger than California state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+111,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, is Montana state larger than New Mexico state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+112,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Delaware the farthest north?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,map
+113,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Arizona the farthest north?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+114,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is Oklahoma the farthest north?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+115,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map provided, among Arizona, Oklahoma, North Carolina, and Delaware on the map, is North Carolina the farthest north?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+116,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map, does the prime meridian intersect the Atlantic Ocean, Southern Ocean, and Arctic Ocean?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+117,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the map, does the prime meridian intersect the Pacific Ocean, Southern Ocean, and Arctic Ocean?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+118,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, did the Democratic Party win Texas in the 2020 elections?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+119,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, did the Republic Party win Texas in the 2020 elections?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,map
+120,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, are the Rocky Mountains located in North America?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+121,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, are the Rocky Mountains located in Asia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+122,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, are the Himalayas Mountains located in North America?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+123,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, are the Himalayas Mountains located in Asia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+124,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is Michigan the only U.S. state that shares a border with Lake Huron?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+125,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is Michigan the only U.S. state that shares a border with Lake Ontario?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+126,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is New York the only U.S. state that shares a border with Lake Huron?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+127,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is New York the only U.S. state that shares a border with Lake Ontario?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+128,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is Key West the southernmost point of Florida?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,map
+129,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is Miami the southernmost point of Florida?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+130,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, is Charles County located to the south of Prince George's County?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+131,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, is Calvert County located to the east of Cecil County?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+132,"system
+You are a helpful assistant.
+user
+ QUESTION: Based on the map, is Kent County located to the north of Cecil County?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+133,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does Bolivia cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,map
+134,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+135,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the Oyashio Current flow from the south to the north, while the Kuroshio Current flows from the north to the south?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,map
+136,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the Kuroshio Current flow through Russia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,map
+137,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does π(pi) range from 3.1415926 to 3.1415927?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+138,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does π(pi) range from 3.1615926 to 3.1615927?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+139,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the formula in the image representative of the mass-energy equivalence concept in Einstein's theory?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+140,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the Euler's Number 'e' range from 2.71 to 2.72?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+141,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image which is about the Euler's Number, does the Euler's Number 'e' range from 2.70 to 2.71?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,ocr
+142,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the Euler's Number 'e' range from 2.72 to 2.73?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+143,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the value of the square root of 2 range from 1.40 to 1.41?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+144,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the value of the square root of 2 range from 1.41 to 1.42?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+145,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the value of the square root of 2 range from 1.42 to 1.43?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the formula in this image representative of the Gravity equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+147,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is the formula F=G * m_1 * m_2 / r^2 representative of the Gravity equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+149,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the formula e^ix = cos x + i x representative of the equation in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,ocr
+150,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the value of Gravity constant 'G' range from 6.66 * 10^-11 to 6.68 * 10^-11?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+151,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, does the value of Gravity constant 'G' range from 6.68 * 10^-11 to 6.70 * 10^-11?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+152,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is the text in this figure the four freedoms proposed by Franklin D. Roosevelt?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+153,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the image, is the freedom from fear among the four freedoms proposed in this image?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made at West Berlin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made by John F. Kennedy?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made by Abraham Lincoln?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made at Gettysburg?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+158,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made by Ronald Reagan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+159,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure trying to talk to Gorbachev?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+160,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made by John F. Kennedy?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+161,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made in Canada?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+162,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made by Winston Churchill?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the text in this figure made in the U.K.?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+164,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+165,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+166,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right orange circle smaller than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+167,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right grey box larger than the left grey box?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+168,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right grey box smaller than the left grey box?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+169,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the right grey box the same size as the left grey box?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+170,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the top line longer than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+171,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+172,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the top line the same size as the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+173,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the two yellow lines the same length?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+174,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the top yellow line longer than the bottom yellow line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+175,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the top yellow line shorter than the bottom yellow line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+176,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any grey points actually in the intersection of the white lines?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+177,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows the famous Chubb illusion. Are the center areas of two rectangular fields identical?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+178,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows the famous Chubb illusion. Is the center area on the left larger than the center area on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+179,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows the famous Chubb illusion. Is the center area on the left smaller than the center area on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+180,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line in the middle actually curved?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+181,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the Torsion dystonia illusion, are the diameters of the three circles the same?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+182,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the Torsion dystonia illusion, are the diameters of the three circles different?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+183,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line the same length as the horizontal line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+184,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line longer than the horizontal line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+185,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line shorter than the horizontal line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+186,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the two red vertical lines both straight?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+187,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the two red vertical lines parallel with each other?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+188,"system
+You are a helpful assistant.
+user
+ QUESTION: For the given image, are the colors on tiles A and B the same?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+189,"system
+You are a helpful assistant.
+user
+ QUESTION: For the given image, are the colors on tiles A and B the different?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+190,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the black solid circle on the left the same size as the black solid circle on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+191,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the black solid circle on the left smaller than the black solid circle on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+192,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the black solid circle on the left larger than the black solid circle on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+193,"system
+You are a helpful assistant.
+user
+ QUESTION: Whether there is a triangle perceived in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+194,"system
+You are a helpful assistant.
+user
+ QUESTION: Whether lines of blocks are parallel? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+195,"system
+You are a helpful assistant.
+user
+ QUESTION: Whether the red shape in the image is a square? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+196,"system
+You are a helpful assistant.
+user
+ QUESTION: This image shows the orbison illusion. Whether the red shape in the image is a square? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+197,"system
+You are a helpful assistant.
+user
+ QUESTION: Whether the red shape in the image is a rhombus? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+198,"system
+You are a helpful assistant.
+user
+ QUESTION: This image shows the orbison illusion. Whether the red shape in the image is a rhombus? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+199,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two triangles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+200,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two triangles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+201,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two squares in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+202,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two squares in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+203,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image the same color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+204,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows a color illusion. Are two circles in the image the same color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+205,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image different color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+206,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows a color illusion. Are two circles in the image different color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+207,"system
+You are a helpful assistant.
+user
+ QUESTION: Are blue lines in the image parallel? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+208,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+209,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows a color illusion. Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+210,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+211,"system
+You are a helpful assistant.
+user
+ QUESTION: The image shows a color illusion. Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+212,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the black line align with the blue line? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+213,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+214,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+215,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,illusion
+216,"system
+You are a helpful assistant.
+user
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+217,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green circle on left the same size as the green circle on the right? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+218,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green circle on left larger than the green circle on the right? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+219,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green circle on left smaller than the green circle on the right? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+220,"system
+You are a helpful assistant.
+user
+ QUESTION: Are orange lines in the image parallel? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+221,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the green line and the red line the same length in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+222,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green line longer than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+223,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+224,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the yellow line and the red line the same length in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+225,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the yellow line longer than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+226,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the yellow line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+227,"system
+You are a helpful assistant.
+user
+ QUESTION: Are the lengths of the vertical line and the horizontal line the same?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+228,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line longer than the horizontal line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,illusion
+229,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vertical line shorter than the horizontal line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+230,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red line on the left the same length as the red line on the right? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,illusion
+231,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red line on the left different length as the red line on the right? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,illusion
+232,"system
+You are a helpful assistant.
+user
+ QUESTION: According to parallel lines theorem, is angle 1 + angle 2 = 180 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+233,"system
+You are a helpful assistant.
+user
+ QUESTION: According to parallel lines theorem, is angle 1 + angle 2 > 180 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+234,"system
+You are a helpful assistant.
+user
+ QUESTION: According to parallel lines theorem, is angle 1 + angle 2 < 180 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+235,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x in the image 5?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+236,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x in the image larger than 5?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+237,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x in the image smaller than 5?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+238,"system
+You are a helpful assistant.
+user
+ QUESTION: Is angleA + angleB +angleC = 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+239,"system
+You are a helpful assistant.
+user
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+240,"system
+You are a helpful assistant.
+user
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+241,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+242,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+243,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+244,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x equal to 6? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+245,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x larger than 6? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+246,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the value of x smaller than 6? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+247,"system
+You are a helpful assistant.
+user
+ QUESTION: The two interior angle bisectors OB and OC of triangle ABC intersect at point O. If angle A is 110 degree, then is the angle BOC equal to 145 degree? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+248,"system
+You are a helpful assistant.
+user
+ QUESTION: The two interior angle bisectors OB and OC of triangle ABC intersect at point O. If angle A is 110 degree, then is the angle BOC equal to 145 degree? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+249,"system
+You are a helpful assistant.
+user
+ QUESTION: The two interior angle bisectors OB and OC of triangle ABC intersect at point O. If angle A is 110 degree, then is the angle BOC equal to 145 degree? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+250,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the figure, are the two orange lines both straight? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+251,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the figure, are the two orange lines both vertical? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+252,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+253,"system
+You are a helpful assistant.
+user
+ QUESTION: The area of B is 16 and the of area of C is 9. Is the area of square A equal to 25? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+254,"system
+You are a helpful assistant.
+user
+ QUESTION: The area of B is 16 and the of area of C is 9. Is the area of square A larger than 25? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+255,"system
+You are a helpful assistant.
+user
+ QUESTION: The area of B is 16 and the of area of C is 9. Is the area of square A smaller than 25? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+256,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the area of the rectangle equal to 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+257,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the area of the rectangle larger than 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+258,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the area of the rectangle smaller than 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+259,"system
+You are a helpful assistant.
+user
+ QUESTION: As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB to equal 50.0? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+260,"system
+You are a helpful assistant.
+user
+ QUESTION: As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB larger than 50.0? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+261,"system
+You are a helpful assistant.
+user
+ QUESTION: As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB smaller than 50.0? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+262,"system
+You are a helpful assistant.
+user
+ QUESTION: In triangle ABC, if AF, BE, CD, are the three midlines, is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+263,"system
+You are a helpful assistant.
+user
+ QUESTION: In triangle ABC, if AF, BE, CD, are the three midlines, is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+264,"system
+You are a helpful assistant.
+user
+ QUESTION: In triangle ABC, if AF, BE, CD, are the three midlines, is M the othocenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+265,"system
+You are a helpful assistant.
+user
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+266,"system
+You are a helpful assistant.
+user
+ QUESTION: If DM=EM=FM, then is M the circumcenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+267,"system
+You are a helpful assistant.
+user
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+268,"system
+You are a helpful assistant.
+user
+ QUESTION: If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the orthocenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+269,"system
+You are a helpful assistant.
+user
+ QUESTION: If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+270,"system
+You are a helpful assistant.
+user
+ QUESTION: If BE ⊥ AC, CD ⊥ AB, AF ⊥ BC, then is M the circumcenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+271,"system
+You are a helpful assistant.
+user
+ QUESTION: If D is the midpoint of line segment AB, then is D the circumcenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+272,"system
+You are a helpful assistant.
+user
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+273,"system
+You are a helpful assistant.
+user
+ QUESTION: If D is the midpoint of line segment AB, then is D the orthocenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+274,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle BAF equals to angle CAF, is CF equal to BF? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+275,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle BAF equals to angle CAF, is CF larger than BF? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+276,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle BAF equals to angle CAF, is CF smaller than BF? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+277,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle A is equal to 60 degree, is AB = 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+278,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle A is equal to 60 degree, is AB larger than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+279,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle A is equal to 60 degree, is AB smaller than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+280,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle B is equal to 45 degree, is AB = sqrt(2)AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+281,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle B is equal to 45 degree, is AB larger than sqrt(2)AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,math
+282,"system
+You are a helpful assistant.
+user
+ QUESTION: If angle B is equal to 45 degree, is AB smaller than sqrt(2)AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,math
+283,"system
+You are a helpful assistant.
+user
+ QUESTION: If AE = CE and AB=BC, is BE perpendicular to AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,math
+284,"system
+You are a helpful assistant.
+user
+ QUESTION: If AE = CE and AB=BC, is AF perpendicular to BC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+285,"system
+You are a helpful assistant.
+user
+ QUESTION: If AE = CE and AB=BC, is CD perpendicular to AB? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,math
+286,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+287,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the image show ""Hot dry noodles from Shandong""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+288,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the image show ""Beijing Roast Duck""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+289,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the image show ""Guangxi Roast Duck""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+290,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this a poster for ""The Shawshank Redemption""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+291,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this a poster for ""Forrest Gump""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+292,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the pizza image in the figure, is this pizza a Margherita Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+293,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+294,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the pizza image in the figure, is this pizza a Pepperoni Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+295,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this a Parma ham?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+296,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this a Roma ham?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+297,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the cake in the image, is this a black forest cake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+298,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the cake in the image, is this a red forest cake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+299,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the cake in the image, is this a red velvet cake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+300,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the cake in the image, is this a red forest cake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+301,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text below the logo, is this image for Al Jazeera?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+302,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text below the logo, is this image for Al-Jazari?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+303,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this a New York strip steak?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+304,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this a Boston strip steak?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+305,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this a New York style cheesecake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+306,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this a Washington style cheesecake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+307,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this restaurant named Texas Roadhouse?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+308,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this restaurant named Maryland Roadhouse?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+309,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this sign located in Las Vegas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+310,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,ocr
+311,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the lower text given in the image, is this poster for Viktor Tsoi and the Kino band?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+312,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the lower text given in the image, is this poster for the DDT band?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+313,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this logo for Red Bull?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+314,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this logo for Red Deer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+315,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, does this poster depict the movie Zootopia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+316,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, does this poster depict the movie Utopia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+317,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+318,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this ice-cream a vanilla-chocolate flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+319,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+320,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, is this ice-cream a chocolate flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+321,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, does this poster depict the movie Oppenheimer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,ocr
+322,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text given in the image, does this poster depict the movie BARBENHEIMER?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+323,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this poster for the TV series Tokyo Tarareba Girls?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+324,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this poster for the TV series Tokyo Single Girls?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+325,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this poster for the TV series Reply 1988?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+326,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this poster for the TV series Please Send 1988?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+327,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this ""Youcheng Cake Seasoned with Chicken Meat Floss""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,ocr
+328,"system
+You are a helpful assistant.
+user
+ QUESTION: According to the text in this image, is this ""Boli Cake Seasoned with Chicken Meat Floss""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,ocr
+329,"system
+You are a helpful assistant.
+user
+ QUESTION: In the image, is Xuanzang accompanied by his three disciples?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+330,"system
+You are a helpful assistant.
+user
+ QUESTION: Is it the logo for air Jordan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+331,"system
+You are a helpful assistant.
+user
+ QUESTION: Is it the logo for Qiaodan Sports?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+332,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+333,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+334,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the characters here from the Asterix the Gaul?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+335,"system
+You are a helpful assistant.
+user
+ QUESTION: Is there a Snoopy in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+336,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the animals in this figure swans?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+337,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+338,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the items here engineering tools?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+339,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any carrots in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+340,"system
+You are a helpful assistant.
+user
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+341,"system
+You are a helpful assistant.
+user
+ QUESTION: Does this figure depict Colonel Sanders?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+342,"system
+You are a helpful assistant.
+user
+ QUESTION: Is this the official NBA logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+343,"system
+You are a helpful assistant.
+user
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+344,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the items in this figure cookies?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+345,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any dog faces in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+346,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+347,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any hens in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+348,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the items in this figure vegetables or fruits?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+349,"system
+You are a helpful assistant.
+user
+ QUESTION: Is there any meat in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+350,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+351,"system
+You are a helpful assistant.
+user
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+352,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the penguins in this figure characters of the movie Madagascar?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+353,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any real penguins in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+354,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the characters in this figure from the movie Zootopia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+355,"system
+You are a helpful assistant.
+user
+ QUESTION: Is Bunny Bug in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+356,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the characters in this figure from the manga series One Piece?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+357,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+358,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the characters in this figure from Pokemon?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+359,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any characters in this figure from Digimon?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+360,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+361,"system
+You are a helpful assistant.
+user
+ QUESTION: Is Jerry the Mouse in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+362,"system
+You are a helpful assistant.
+user
+ QUESTION: Are all the items in this figure fried chicken?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+363,"system
+You are a helpful assistant.
+user
+ QUESTION: Is there an orange cat in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+364,"system
+You are a helpful assistant.
+user
+ QUESTION: Does this figure mainly depict a hen and eggs, no potatoes?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,figure
+365,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any potatoes in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure
+366,"system
+You are a helpful assistant.
+user
+ QUESTION: Does this figure only contain SpongeBob?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,figure
+367,"system
+You are a helpful assistant.
+user
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,figure

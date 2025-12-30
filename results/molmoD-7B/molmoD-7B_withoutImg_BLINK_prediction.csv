@@ -1,0 +1,792 @@
+,output,prediction,gold_reference,tag
+0, 2,2,3,Counting
+1, 1,1,3,Counting
+2, 2,2,1,Counting
+3, 1,1,1,Counting
+4, 2,2,0,Counting
+5, 2,2,0,Counting
+6, 0,0,2,Counting
+7, 1,1,1,Counting
+8, 2,2,0,Counting
+9, 2,2,2,Counting
+10, 2,2,1,Counting
+11, 2,2,1,Counting
+12, 1,1,0,Counting
+13, 2,2,1,Counting
+14, 2,2,3,Counting
+15, 2,2,1,Counting
+16, 0,0,2,Counting
+17, 2,2,1,Counting
+18, 2,2,0,Counting
+19, 0,0,0,Counting
+20, 1,1,0,Counting
+21, 1,1,2,Counting
+22, 2,2,2,Counting
+23, 2,2,1,Counting
+24, 2,2,1,Counting
+25, 2,2,1,Counting
+26, 2,2,1,Counting
+27, 2,2,1,Counting
+28, 2,2,3,Counting
+29, 0,0,2,Counting
+30, 2,2,0,Counting
+31, 2,2,0,Counting
+32, 2,2,2,Counting
+33, 2,2,0,Counting
+34, 2,2,3,Counting
+35, 2,2,1,Counting
+36, 2,2,3,Counting
+37, 2,2,0,Counting
+38, 2,2,1,Counting
+39, 0,0,2,Counting
+40, 0,0,2,Counting
+41, 1,1,2,Counting
+42, 2,2,1,Counting
+43, 1,1,0,Counting
+44, 2,2,0,Counting
+45, 2,2,3,Counting
+46, 1,1,3,Counting
+47, 2,2,3,Counting
+48, 2,2,0,Counting
+49, 2,2,3,Counting
+50, 2,2,2,Counting
+51, 0,0,1,Counting
+52, 2,2,0,Counting
+53, 2,2,2,Counting
+54, 2,2,3,Counting
+55, 2,2,3,Counting
+56, 2,2,3,Counting
+57, 2,2,3,Counting
+58, 2,2,2,Counting
+59, 2,2,3,Counting
+60, 2,2,2,Counting
+61, 1,1,3,Counting
+62, 0,0,3,Counting
+63, 2,2,1,Counting
+64, 2,2,2,Counting
+65, 2,2,1,Counting
+66, 2,2,3,Counting
+67, 0,0,3,Counting
+68, 2,2,1,Counting
+69, 2,2,0,Counting
+70, 2,2,2,Counting
+71, 0,0,2,Counting
+72, 2,2,1,Counting
+73, 2,2,3,Counting
+74, 2,2,0,Counting
+75, 2,2,2,Counting
+76, 1,1,1,Counting
+77, 2,2,2,Counting
+78, 2,2,3,Counting
+79, 2,2,0,Counting
+80, 2,2,2,Counting
+81, 0,0,0,Counting
+82, 2,2,2,Counting
+83, 0,0,0,Counting
+84, 2,2,3,Counting
+85, 2,2,0,Counting
+86, 2,2,0,Counting
+87, 0,0,2,Counting
+88, 2,2,0,Counting
+89, 2,2,0,Counting
+90, 2,2,1,Counting
+91, 0,0,2,Counting
+92, 1,1,3,Counting
+93, 0,0,2,Counting
+94, 2,2,0,Counting
+95, 2,2,3,Counting
+96, 2,2,2,Counting
+97, 2,2,3,Counting
+98, 0,0,0,Counting
+99, 2,2,3,Counting
+100, 2,2,1,Counting
+101, 2,2,0,Counting
+102, 2,2,2,Counting
+103, 2,2,0,Counting
+104, 2,2,2,Counting
+105, 2,2,2,Counting
+106, 2,2,2,Counting
+107, 2,2,2,Counting
+108, 1,1,1,Counting
+109, 2,2,1,Counting
+110, 0,0,3,Counting
+111, 2,2,1,Counting
+112, 2,2,1,Counting
+113, 1,1,0,Counting
+114, 2,2,3,Counting
+115, 2,2,0,Counting
+116, 2,2,3,Counting
+117, 2,2,3,Counting
+118, 1,1,2,Counting
+119, 2,2,0,Counting
+120, 2,2,2,IQ Test
+121, 2,2,3,IQ Test
+122, 2,2,0,IQ Test
+123, 2,2,3,IQ Test
+124, 2,2,0,IQ Test
+125, 2,2,3,IQ Test
+126, 2,2,0,IQ Test
+127, 2,2,1,IQ Test
+128, 2,2,3,IQ Test
+129, 2,2,1,IQ Test
+130, 2,2,2,IQ Test
+131, 2,2,3,IQ Test
+132, 2,2,2,IQ Test
+133, 2,2,2,IQ Test
+134, 2,2,0,IQ Test
+135, 2,2,2,IQ Test
+136, 2,2,3,IQ Test
+137, 2,2,3,IQ Test
+138, 2,2,3,IQ Test
+139, 2,2,2,IQ Test
+140, 2,2,1,IQ Test
+141, 2,2,3,IQ Test
+142, 2,2,3,IQ Test
+143, 2,2,1,IQ Test
+144, 2,2,0,IQ Test
+145, 2,2,1,IQ Test
+146, 2,2,1,IQ Test
+147, 2,2,0,IQ Test
+148, 2,2,1,IQ Test
+149, 2,2,2,IQ Test
+150, 2,2,2,IQ Test
+151, 2,2,2,IQ Test
+152, 2,2,3,IQ Test
+153, 2,2,0,IQ Test
+154, 2,2,1,IQ Test
+155, 2,2,0,IQ Test
+156, 2,2,2,IQ Test
+157, 2,2,3,IQ Test
+158, 2,2,2,IQ Test
+159, 2,2,3,IQ Test
+160, 2,2,1,IQ Test
+161, 2,2,3,IQ Test
+162, 2,2,1,IQ Test
+163, 2,2,2,IQ Test
+164, 2,2,0,IQ Test
+165, 2,2,1,IQ Test
+166, 2,2,3,IQ Test
+167, 2,2,1,IQ Test
+168, 2,2,1,IQ Test
+169, 2,2,0,IQ Test
+170, 2,2,1,IQ Test
+171, 2,2,2,IQ Test
+172, 2,2,2,IQ Test
+173, 2,2,2,IQ Test
+174, 2,2,1,IQ Test
+175, 2,2,1,IQ Test
+176, 2,2,2,IQ Test
+177, 2,2,0,IQ Test
+178, 2,2,3,IQ Test
+179, 2,2,1,IQ Test
+180, 2,2,3,IQ Test
+181, 2,2,0,IQ Test
+182, 2,2,1,IQ Test
+183, 2,2,1,IQ Test
+184, 2,2,3,IQ Test
+185, 2,2,0,IQ Test
+186, 2,2,1,IQ Test
+187, 2,2,3,IQ Test
+188, 2,2,1,IQ Test
+189, 2,2,1,IQ Test
+190, 2,2,2,IQ Test
+191, 2,2,3,IQ Test
+192, 2,2,3,IQ Test
+193, 2,2,2,IQ Test
+194, 2,2,0,IQ Test
+195, 2,2,1,IQ Test
+196, 2,2,1,IQ Test
+197, 2,2,0,IQ Test
+198, 2,2,3,IQ Test
+199, 2,2,2,IQ Test
+200, 2,2,3,IQ Test
+201, 2,2,1,IQ Test
+202, 2,2,1,IQ Test
+203, 2,2,1,IQ Test
+204, 2,2,3,IQ Test
+205, 2,2,2,IQ Test
+206, 2,2,0,IQ Test
+207, 2,2,2,IQ Test
+208, 2,2,3,IQ Test
+209, 2,2,0,IQ Test
+210, 2,2,0,IQ Test
+211, 2,2,2,IQ Test
+212, 2,2,0,IQ Test
+213, 2,2,1,IQ Test
+214, 2,2,2,IQ Test
+215, 2,2,3,IQ Test
+216, 2,2,3,IQ Test
+217, 2,2,3,IQ Test
+218, 2,2,1,IQ Test
+219, 2,2,3,IQ Test
+220, 2,2,3,IQ Test
+221, 2,2,3,IQ Test
+222, 2,2,0,IQ Test
+223, 2,2,3,IQ Test
+224, 2,2,2,IQ Test
+225, 2,2,0,IQ Test
+226, 2,2,0,IQ Test
+227, 2,2,3,IQ Test
+228, 2,2,1,IQ Test
+229, 2,2,2,IQ Test
+230, 2,2,3,IQ Test
+231, 2,2,2,IQ Test
+232, 2,2,3,IQ Test
+233, 2,2,0,IQ Test
+234, 2,2,2,IQ Test
+235, 2,2,1,IQ Test
+236, 2,2,2,IQ Test
+237, 2,2,0,IQ Test
+238, 2,2,2,IQ Test
+239, 2,2,3,IQ Test
+240, 2,2,3,IQ Test
+241, 2,2,2,IQ Test
+242, 2,2,3,IQ Test
+243, 2,2,1,IQ Test
+244, 2,2,0,IQ Test
+245, 2,2,0,IQ Test
+246, 2,2,2,IQ Test
+247, 2,2,2,IQ Test
+248, 2,2,0,IQ Test
+249, 2,2,3,IQ Test
+250, 2,2,0,IQ Test
+251, 2,2,2,IQ Test
+252, 2,2,1,IQ Test
+253, 2,2,2,IQ Test
+254, 2,2,1,IQ Test
+255, 2,2,1,IQ Test
+256, 2,2,2,IQ Test
+257, 2,2,2,IQ Test
+258, 2,2,0,IQ Test
+259, 2,2,2,IQ Test
+260, 2,2,2,IQ Test
+261, 2,2,1,IQ Test
+262, 2,2,1,IQ Test
+263, 2,2,2,IQ Test
+264, 2,2,1,IQ Test
+265, 2,2,3,IQ Test
+266, 2,2,0,IQ Test
+267, 2,2,2,IQ Test
+268, 1,1,1,Object Localization
+269, 1,1,1,Object Localization
+270, 1,1,0,Object Localization
+271, 1,1,1,Object Localization
+272, 1,1,0,Object Localization
+273, 1,1,1,Object Localization
+274, 1,1,1,Object Localization
+275, 1,1,0,Object Localization
+276, 1,1,0,Object Localization
+277, 1,1,1,Object Localization
+278, 1,1,1,Object Localization
+279, 1,1,1,Object Localization
+280, 1,1,1,Object Localization
+281, 1,1,1,Object Localization
+282, 1,1,1,Object Localization
+283, 1,1,0,Object Localization
+284, 1,1,1,Object Localization
+285, 1,1,0,Object Localization
+286, 1,1,0,Object Localization
+287, 1,1,0,Object Localization
+288, 1,1,0,Object Localization
+289, 1,1,0,Object Localization
+290, 1,1,0,Object Localization
+291, 1,1,1,Object Localization
+292, 1,1,1,Object Localization
+293, 1,1,0,Object Localization
+294, 1,1,1,Object Localization
+295, 1,1,0,Object Localization
+296, 1,1,0,Object Localization
+297, 1,1,1,Object Localization
+298, 1,1,0,Object Localization
+299, 1,1,1,Object Localization
+300, 1,1,1,Object Localization
+301, 1,1,0,Object Localization
+302, 1,1,1,Object Localization
+303, 1,1,1,Object Localization
+304, 1,1,1,Object Localization
+305, 1,1,1,Object Localization
+306, 1,1,1,Object Localization
+307, 1,1,1,Object Localization
+308, 1,1,0,Object Localization
+309, 1,1,1,Object Localization
+310, 1,1,0,Object Localization
+311, 1,1,0,Object Localization
+312, 1,1,0,Object Localization
+313, 1,1,1,Object Localization
+314, 1,1,0,Object Localization
+315, 1,1,1,Object Localization
+316, 1,1,1,Object Localization
+317, 1,1,0,Object Localization
+318, 1,1,1,Object Localization
+319, 1,1,1,Object Localization
+320, 1,1,1,Object Localization
+321, 1,1,0,Object Localization
+322, 1,1,1,Object Localization
+323, 1,1,0,Object Localization
+324, 1,1,1,Object Localization
+325, 1,1,1,Object Localization
+326, 1,1,0,Object Localization
+327, 1,1,1,Object Localization
+328, 1,1,1,Object Localization
+329, 1,1,1,Object Localization
+330, 1,1,0,Object Localization
+331, 1,1,0,Object Localization
+332, 1,1,0,Object Localization
+333, 1,1,1,Object Localization
+334, 1,1,0,Object Localization
+335, 1,1,1,Object Localization
+336, 1,1,1,Object Localization
+337, 1,1,0,Object Localization
+338, 1,1,1,Object Localization
+339, 1,1,1,Object Localization
+340, 1,1,0,Object Localization
+341, 1,1,1,Object Localization
+342, 1,1,0,Object Localization
+343, 1,1,1,Object Localization
+344, 1,1,0,Object Localization
+345, 1,1,1,Object Localization
+346, 1,1,0,Object Localization
+347, 1,1,1,Object Localization
+348, 1,1,1,Object Localization
+349, 1,1,0,Object Localization
+350, 1,1,1,Object Localization
+351, 1,1,1,Object Localization
+352, 1,1,1,Object Localization
+353, 1,1,0,Object Localization
+354, 1,1,0,Object Localization
+355, 1,1,1,Object Localization
+356, 1,1,1,Object Localization
+357, 1,1,1,Object Localization
+358, 1,1,0,Object Localization
+359, 1,1,1,Object Localization
+360, 1,1,1,Object Localization
+361, 1,1,1,Object Localization
+362, 1,1,0,Object Localization
+363, 1,1,1,Object Localization
+364, 1,1,0,Object Localization
+365, 1,1,1,Object Localization
+366, 1,1,0,Object Localization
+367, 1,1,0,Object Localization
+368, 1,1,0,Object Localization
+369, 1,1,0,Object Localization
+370, 1,1,1,Object Localization
+371, 1,1,1,Object Localization
+372, 1,1,0,Object Localization
+373, 1,1,0,Object Localization
+374, 1,1,1,Object Localization
+375, 1,1,1,Object Localization
+376, 1,1,0,Object Localization
+377, 1,1,0,Object Localization
+378, 1,1,0,Object Localization
+379, 1,1,1,Object Localization
+380, 1,1,1,Object Localization
+381, 1,1,1,Object Localization
+382, 1,1,1,Object Localization
+383, 1,1,1,Object Localization
+384, 1,1,0,Object Localization
+385, 1,1,1,Object Localization
+386, 1,1,0,Object Localization
+387, 1,1,1,Object Localization
+388, 1,1,0,Object Localization
+389, 1,1,0,Object Localization
+390, 1,1,1,Relative Depth
+391, 1,1,1,Relative Depth
+392, 1,1,1,Relative Depth
+393, 1,1,0,Relative Depth
+394, 1,1,0,Relative Depth
+395, 1,1,0,Relative Depth
+396, 1,1,0,Relative Depth
+397, 1,1,1,Relative Depth
+398, 1,1,1,Relative Depth
+399, 1,1,0,Relative Depth
+400, 1,1,1,Relative Depth
+401, 1,1,0,Relative Depth
+402, 1,1,1,Relative Depth
+403, 1,1,0,Relative Depth
+404, 1,1,1,Relative Depth
+405, 1,1,1,Relative Depth
+406, 1,1,1,Relative Depth
+407, 1,1,0,Relative Depth
+408, 1,1,1,Relative Depth
+409, 1,1,1,Relative Depth
+410, 1,1,1,Relative Depth
+411, 1,1,1,Relative Depth
+412, 1,1,1,Relative Depth
+413, 1,1,0,Relative Depth
+414, 1,1,0,Relative Depth
+415, 1,1,0,Relative Depth
+416, 1,1,0,Relative Depth
+417, 1,1,0,Relative Depth
+418, 1,1,0,Relative Depth
+419, 1,1,0,Relative Depth
+420, 1,1,0,Relative Depth
+421, 1,1,1,Relative Depth
+422, 1,1,1,Relative Depth
+423, 1,1,0,Relative Depth
+424, 1,1,0,Relative Depth
+425, 1,1,0,Relative Depth
+426, 1,1,0,Relative Depth
+427, 1,1,1,Relative Depth
+428, 1,1,0,Relative Depth
+429, 1,1,0,Relative Depth
+430, 1,1,1,Relative Depth
+431, 1,1,0,Relative Depth
+432, 1,1,1,Relative Depth
+433, 1,1,0,Relative Depth
+434, 1,1,0,Relative Depth
+435, 1,1,0,Relative Depth
+436, 1,1,1,Relative Depth
+437, 1,1,1,Relative Depth
+438, 1,1,1,Relative Depth
+439, 1,1,1,Relative Depth
+440, 1,1,1,Relative Depth
+441, 1,1,0,Relative Depth
+442, 1,1,1,Relative Depth
+443, 1,1,0,Relative Depth
+444, 1,1,1,Relative Depth
+445, 1,1,1,Relative Depth
+446, 1,1,1,Relative Depth
+447, 1,1,1,Relative Depth
+448, 1,1,1,Relative Depth
+449, 1,1,0,Relative Depth
+450, 1,1,0,Relative Depth
+451, 1,1,0,Relative Depth
+452, 1,1,1,Relative Depth
+453, 1,1,0,Relative Depth
+454, 1,1,0,Relative Depth
+455, 1,1,0,Relative Depth
+456, 1,1,1,Relative Depth
+457, 1,1,1,Relative Depth
+458, 1,1,0,Relative Depth
+459, 1,1,1,Relative Depth
+460, 1,1,1,Relative Depth
+461, 1,1,0,Relative Depth
+462, 1,1,0,Relative Depth
+463, 1,1,0,Relative Depth
+464, 1,1,1,Relative Depth
+465, 1,1,1,Relative Depth
+466, 1,1,1,Relative Depth
+467, 1,1,0,Relative Depth
+468, 1,1,1,Relative Depth
+469, 1,1,1,Relative Depth
+470, 1,1,1,Relative Depth
+471, 1,1,0,Relative Depth
+472, 1,1,1,Relative Depth
+473, 1,1,0,Relative Depth
+474, 1,1,1,Relative Depth
+475, 1,1,1,Relative Depth
+476, 1,1,0,Relative Depth
+477, 1,1,0,Relative Depth
+478, 1,1,1,Relative Depth
+479, 1,1,0,Relative Depth
+480, 1,1,0,Relative Depth
+481, 1,1,1,Relative Depth
+482, 1,1,0,Relative Depth
+483, 1,1,1,Relative Depth
+484, 1,1,1,Relative Depth
+485, 1,1,0,Relative Depth
+486, 1,1,0,Relative Depth
+487, 1,1,1,Relative Depth
+488, 1,1,0,Relative Depth
+489, 1,1,0,Relative Depth
+490, 1,1,0,Relative Depth
+491, 1,1,1,Relative Depth
+492, 1,1,1,Relative Depth
+493, 1,1,1,Relative Depth
+494, 1,1,1,Relative Depth
+495, 1,1,1,Relative Depth
+496, 1,1,0,Relative Depth
+497, 1,1,1,Relative Depth
+498, 1,1,1,Relative Depth
+499, 1,1,0,Relative Depth
+500, 1,1,0,Relative Depth
+501, 1,1,0,Relative Depth
+502, 1,1,0,Relative Depth
+503, 1,1,1,Relative Depth
+504, 1,1,0,Relative Depth
+505, 1,1,1,Relative Depth
+506, 1,1,0,Relative Depth
+507, 1,1,0,Relative Depth
+508, 1,1,0,Relative Depth
+509, 1,1,0,Relative Depth
+510, 1,1,1,Relative Depth
+511, 1,1,0,Relative Depth
+512, 1,1,0,Relative Depth
+513, 1,1,0,Relative Depth
+514, 1,1,2,Relative Reflectance
+515, 1,1,1,Relative Reflectance
+516, 1,1,2,Relative Reflectance
+517, 1,1,0,Relative Reflectance
+518, 1,1,2,Relative Reflectance
+519, 1,1,1,Relative Reflectance
+520, 1,1,2,Relative Reflectance
+521, 1,1,2,Relative Reflectance
+522, 1,1,1,Relative Reflectance
+523, 1,1,1,Relative Reflectance
+524, 1,1,2,Relative Reflectance
+525, 1,1,0,Relative Reflectance
+526, 1,1,1,Relative Reflectance
+527, 1,1,2,Relative Reflectance
+528, 1,1,2,Relative Reflectance
+529, 1,1,2,Relative Reflectance
+530, 1,1,1,Relative Reflectance
+531, 1,1,1,Relative Reflectance
+532, 1,1,2,Relative Reflectance
+533, 1,1,1,Relative Reflectance
+534, 1,1,0,Relative Reflectance
+535, 1,1,2,Relative Reflectance
+536, 1,1,1,Relative Reflectance
+537, 1,1,0,Relative Reflectance
+538, 1,1,2,Relative Reflectance
+539, 1,1,2,Relative Reflectance
+540, 1,1,2,Relative Reflectance
+541, 1,1,2,Relative Reflectance
+542, 1,1,1,Relative Reflectance
+543, 1,1,2,Relative Reflectance
+544, 1,1,2,Relative Reflectance
+545, 1,1,2,Relative Reflectance
+546, 1,1,0,Relative Reflectance
+547, 1,1,2,Relative Reflectance
+548, 1,1,0,Relative Reflectance
+549, 1,1,2,Relative Reflectance
+550, 1,1,1,Relative Reflectance
+551, 1,1,2,Relative Reflectance
+552, 1,1,2,Relative Reflectance
+553, 1,1,1,Relative Reflectance
+554, 1,1,0,Relative Reflectance
+555, 1,1,1,Relative Reflectance
+556, 1,1,1,Relative Reflectance
+557, 1,1,0,Relative Reflectance
+558, 1,1,2,Relative Reflectance
+559, 1,1,2,Relative Reflectance
+560, 1,1,2,Relative Reflectance
+561, 1,1,2,Relative Reflectance
+562, 1,1,2,Relative Reflectance
+563, 1,1,2,Relative Reflectance
+564, 1,1,1,Relative Reflectance
+565, 1,1,0,Relative Reflectance
+566, 1,1,2,Relative Reflectance
+567, 1,1,0,Relative Reflectance
+568, 1,1,2,Relative Reflectance
+569, 1,1,2,Relative Reflectance
+570, 1,1,1,Relative Reflectance
+571, 1,1,2,Relative Reflectance
+572, 1,1,1,Relative Reflectance
+573, 1,1,1,Relative Reflectance
+574, 1,1,2,Relative Reflectance
+575, 1,1,2,Relative Reflectance
+576, 1,1,1,Relative Reflectance
+577, 1,1,2,Relative Reflectance
+578, 1,1,2,Relative Reflectance
+579, 1,1,0,Relative Reflectance
+580, 1,1,0,Relative Reflectance
+581, 1,1,2,Relative Reflectance
+582, 1,1,0,Relative Reflectance
+583, 1,1,0,Relative Reflectance
+584, 1,1,0,Relative Reflectance
+585, 1,1,0,Relative Reflectance
+586, 1,1,1,Relative Reflectance
+587, 1,1,1,Relative Reflectance
+588, 1,1,2,Relative Reflectance
+589, 1,1,2,Relative Reflectance
+590, 1,1,2,Relative Reflectance
+591, 1,1,1,Relative Reflectance
+592, 1,1,1,Relative Reflectance
+593, 1,1,1,Relative Reflectance
+594, 1,1,1,Relative Reflectance
+595, 1,1,1,Relative Reflectance
+596, 1,1,2,Relative Reflectance
+597, 1,1,1,Relative Reflectance
+598, 1,1,0,Relative Reflectance
+599, 1,1,1,Relative Reflectance
+600, 1,1,2,Relative Reflectance
+601, 1,1,1,Relative Reflectance
+602, 1,1,0,Relative Reflectance
+603, 1,1,2,Relative Reflectance
+604, 1,1,2,Relative Reflectance
+605, 1,1,0,Relative Reflectance
+606, 1,1,0,Relative Reflectance
+607, 1,1,0,Relative Reflectance
+608, 1,1,2,Relative Reflectance
+609, 1,1,1,Relative Reflectance
+610, 1,1,0,Relative Reflectance
+611, 1,1,2,Relative Reflectance
+612, 1,1,1,Relative Reflectance
+613, 1,1,2,Relative Reflectance
+614, 1,1,2,Relative Reflectance
+615, 1,1,2,Relative Reflectance
+616, 1,1,1,Relative Reflectance
+617, 1,1,0,Relative Reflectance
+618, 1,1,0,Relative Reflectance
+619, 1,1,0,Relative Reflectance
+620, 1,1,1,Relative Reflectance
+621, 1,1,1,Relative Reflectance
+622, 1,1,1,Relative Reflectance
+623, 1,1,2,Relative Reflectance
+624, 1,1,1,Relative Reflectance
+625, 1,1,0,Relative Reflectance
+626, 1,1,2,Relative Reflectance
+627, 1,1,1,Relative Reflectance
+628, 1,1,2,Relative Reflectance
+629, 1,1,0,Relative Reflectance
+630, 1,1,1,Relative Reflectance
+631, 1,1,0,Relative Reflectance
+632, 1,1,0,Relative Reflectance
+633, 1,1,1,Relative Reflectance
+634, 1,1,1,Relative Reflectance
+635, 1,1,2,Relative Reflectance
+636, 1,1,2,Relative Reflectance
+637, 1,1,2,Relative Reflectance
+638, 1,1,2,Relative Reflectance
+639, 1,1,2,Relative Reflectance
+640, 1,1,0,Relative Reflectance
+641, 1,1,1,Relative Reflectance
+642, 1,1,0,Relative Reflectance
+643, 1,1,0,Relative Reflectance
+644, 1,1,0,Relative Reflectance
+645, 1,1,0,Relative Reflectance
+646, 1,1,0,Relative Reflectance
+647, 1,1,0,Relative Reflectance
+648, 0,0,1,Spatial Relation
+649, 1,1,0,Spatial Relation
+650, 1,1,0,Spatial Relation
+651, 1,1,0,Spatial Relation
+652, 1,1,0,Spatial Relation
+653, 0,0,0,Spatial Relation
+654, 1,1,0,Spatial Relation
+655, 1,1,0,Spatial Relation
+656, 1,1,0,Spatial Relation
+657, 1,1,0,Spatial Relation
+658, 0,0,0,Spatial Relation
+659, 0,0,0,Spatial Relation
+660, 1,1,1,Spatial Relation
+661, 1,1,0,Spatial Relation
+662, 0,0,1,Spatial Relation
+663, 0,0,0,Spatial Relation
+664, 1,1,1,Spatial Relation
+665, 1,1,0,Spatial Relation
+666, 0,0,0,Spatial Relation
+667, 1,1,0,Spatial Relation
+668, 1,1,0,Spatial Relation
+669, 1,1,0,Spatial Relation
+670, 0,0,1,Spatial Relation
+671, 1,1,0,Spatial Relation
+672, 1,1,0,Spatial Relation
+673, 0,0,1,Spatial Relation
+674, 1,1,1,Spatial Relation
+675, 0,0,0,Spatial Relation
+676, 1,1,1,Spatial Relation
+677, 1,1,0,Spatial Relation
+678, 0,0,0,Spatial Relation
+679, 0,0,0,Spatial Relation
+680, 1,1,0,Spatial Relation
+681, 1,1,0,Spatial Relation
+682, 0,0,0,Spatial Relation
+683, 1,1,1,Spatial Relation
+684, 1,1,0,Spatial Relation
+685, 1,1,0,Spatial Relation
+686, 0,0,0,Spatial Relation
+687, 1,1,0,Spatial Relation
+688, 1,1,1,Spatial Relation
+689, 1,1,1,Spatial Relation
+690, 1,1,0,Spatial Relation
+691, 0,0,1,Spatial Relation
+692, 1,1,1,Spatial Relation
+693, 1,1,1,Spatial Relation
+694, 0,0,1,Spatial Relation
+695, 1,1,1,Spatial Relation
+696, 1,1,0,Spatial Relation
+697, 1,1,1,Spatial Relation
+698, 0,0,1,Spatial Relation
+699, 0,0,0,Spatial Relation
+700, 1,1,1,Spatial Relation
+701, 0,0,0,Spatial Relation
+702, 0,0,0,Spatial Relation
+703, 0,0,1,Spatial Relation
+704, 1,1,1,Spatial Relation
+705, 0,0,1,Spatial Relation
+706, 1,1,0,Spatial Relation
+707, 1,1,0,Spatial Relation
+708, 0,0,0,Spatial Relation
+709, 1,1,0,Spatial Relation
+710, 1,1,1,Spatial Relation
+711, 1,1,1,Spatial Relation
+712, 0,0,0,Spatial Relation
+713, 1,1,0,Spatial Relation
+714, 0,0,1,Spatial Relation
+715, 1,1,1,Spatial Relation
+716, 0,0,0,Spatial Relation
+717, 0,0,1,Spatial Relation
+718, 1,1,0,Spatial Relation
+719, 1,1,1,Spatial Relation
+720, 1,1,0,Spatial Relation
+721, 0,0,0,Spatial Relation
+722, 1,1,1,Spatial Relation
+723, 1,1,1,Spatial Relation
+724, 1,1,1,Spatial Relation
+725, 0,0,1,Spatial Relation
+726, 1,1,1,Spatial Relation
+727, 1,1,1,Spatial Relation
+728, 1,1,0,Spatial Relation
+729, 1,1,1,Spatial Relation
+730, 1,1,0,Spatial Relation
+731, 0,0,0,Spatial Relation
+732, 1,1,0,Spatial Relation
+733, 0,0,1,Spatial Relation
+734, 1,1,0,Spatial Relation
+735, 0,0,0,Spatial Relation
+736, 0,0,0,Spatial Relation
+737, 1,1,1,Spatial Relation
+738, 0,0,1,Spatial Relation
+739, 1,1,0,Spatial Relation
+740, 1,1,0,Spatial Relation
+741, 0,0,0,Spatial Relation
+742, 1,1,0,Spatial Relation
+743, 1,1,1,Spatial Relation
+744, 1,1,0,Spatial Relation
+745, 1,1,0,Spatial Relation
+746, 0,0,0,Spatial Relation
+747, 0,0,0,Spatial Relation
+748, 0,0,0,Spatial Relation
+749, 1,1,0,Spatial Relation
+750, 0,0,0,Spatial Relation
+751, 0,0,1,Spatial Relation
+752, 1,1,1,Spatial Relation
+753, 1,1,0,Spatial Relation
+754, 1,1,0,Spatial Relation
+755, 1,1,0,Spatial Relation
+756, 1,1,0,Spatial Relation
+757, 1,1,1,Spatial Relation
+758, 1,1,1,Spatial Relation
+759, 0,0,1,Spatial Relation
+760, 1,1,0,Spatial Relation
+761, 1,1,1,Spatial Relation
+762, 1,1,1,Spatial Relation
+763, 1,1,1,Spatial Relation
+764, 0,0,1,Spatial Relation
+765, 0,0,1,Spatial Relation
+766, 1,1,1,Spatial Relation
+767, 1,1,1,Spatial Relation
+768, 0,0,1,Spatial Relation
+769, 0,0,1,Spatial Relation
+770, 0,0,1,Spatial Relation
+771, 1,1,1,Spatial Relation
+772, 1,1,1,Spatial Relation
+773, 1,1,1,Spatial Relation
+774, 0,0,0,Spatial Relation
+775, 1,1,0,Spatial Relation
+776, 1,1,1,Spatial Relation
+777, 1,1,0,Spatial Relation
+778, 0,0,0,Spatial Relation
+779, 1,1,0,Spatial Relation
+780, 1,1,0,Spatial Relation
+781, 1,1,1,Spatial Relation
+782, 1,1,1,Spatial Relation
+783, 1,1,0,Spatial Relation
+784, 1,1,1,Spatial Relation
+785, 1,1,1,Spatial Relation
+786, 1,1,1,Spatial Relation
+787, 1,1,0,Spatial Relation
+788, 1,1,1,Spatial Relation
+789, 1,1,1,Spatial Relation
+790, 1,1,1,Spatial Relation

@@ -14,6 +14,17 @@ import random
 import re
 import ast
 import argparse
+import sys
+
+# Get the path of the Python script
+current_dir = os.path.abspath(os.path.dirname(__file__))
+# Exclude script name at the end
+current_dir = os.path.split(current_dir)[0]+'/'
+print(current_dir)
+
+sys.path.append(current_dir)
+from src.utils import *
+os.environ["HF_HUB_CACHE"] = current_dir+'/../'
 
 random.seed(42)
 start = time.time()
@@ -53,6 +64,7 @@ task = ['color']
 target = ['brown']
 
 
+model_path = current_dir+'/../models/'
 
 results_path = f'./results/llava7B/linear_probing/probe_{mode}/'
 batch_inference_mode = 1 # get predicitons

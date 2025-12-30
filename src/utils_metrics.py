@@ -45,7 +45,7 @@ def get_erank(A, device='cuda'):
 
     return erank
 
-def attention_entropy(attn_map: np.ndarray, mode="avg") -> float | np.ndarray:
+def attention_entropy(attn_map: np.ndarray, mode="avg"):
     """
     Compute entropy of attention distributions.
 
