@@ -49,22 +49,47 @@ from src.utils_metrics import get_erank
 
 random.seed(42)
 results_path = f'{ROOT_DIR}/MALT/results/{model_name}/svd/'
+prediction_df = pd.read_csv(f'{ROOT_DIR}/MALT/results/{model_name}/{model_name}_{ds_name}_prediction.csv')
+prediction_corrected_df = pd.read_csv(f'{ROOT_DIR}/MALT/results/{model_name}/{model_name}_{ds_name}_prediction_corrected.csv')
 
 # load test dataset
-ds = load_dataset_formatted(ds_name=ds_name)
-# filter to MCQ
-ds = ds = ds.filter(lambda x: x["image"]!=None and (len(x["image"])==1 if type(x["image"])==list else 1))
+if ds_name=='MATE':
+    image_dir_path = f'{ROOT_DIR}/data/MATE-dev/img/'
+    ds_main = load_jsonl_file(f'{ROOT_DIR}/data/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
+    
+else:
+    ds = load_dataset_formatted(ds_name=ds_name)
+    
+    # filter to MCQ
+    ds = ds.filter(lambda x: x["image"]!=None and (len(x["image"])==1 if type(x["image"])==list else 1))
+    
+    # filter to image input size <1900*1900 to avoid OOM
+    ds = ds.filter(
+        lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900
+        if type(x['image'])!=list 
+        else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
+    )
 
-# filter to image input size <1700*1700 to avoid OOM
-ds = ds.filter(
-    lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900
-    if type(x['image'])!=list 
-    else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
-)
+    if len(ds)!=len(prediction_df): # For some datasets, 1700*1700 image size was used as limit as some datasets had HD images. 
+        ds = ds.filter(
+            lambda x: x['image'].size[0]*x['image'].size[1]<1700*1700
+            if type(x['image'])!=list 
+            else x['image'][0].size[0]*x['image'][0].size[1]<1700*1700
+        )
+    
+    assert len(ds) == len(prediction_df), (
+        f"Length mismatch: len(ds)={len(ds)} != len(prediction_df)={len(prediction_df)}"
+    )
+    
+    # filter to include only corrected idx
+    ds = ds.select(prediction_corrected_df['idx_main'].to_list())
 
 # subsample dataset
-ds = ds.select(random.sample(range(len(ds)), nsamples))
-# Add prompt field
+nsamples = min(nsamples, len(ds))
+idx_ls = random.sample(range(len(ds)), nsamples)
+ds = ds.select(idx_ls)
+prediction_corrected_df = prediction_corrected_df.iloc[idx_ls].reset_index()
+
 # Add prompt field
 ds = ds.map(
     lambda x: {"prompt": build_prompt(ds_item=x, ds_name=ds_name)},
@@ -174,6 +199,17 @@ all_ranks_df = pd.DataFrame(
     columns=range(0,all_layer_embeddings.shape[0])
 )
 all_ranks_df['Mean over'] = ['All tokens']*len(all_ranks_df)
+all_ranks_df['idx_corrected'] = idx_ls   
+all_ranks_df['idx_main'] = prediction_corrected_df['idx_main']
+all_ranks_df['outputwImg'] = prediction_corrected_df['outputwImg']
+all_ranks_df['predictionwImg'] = prediction_corrected_df['predictionwImg']
+all_ranks_df['gold_referencewImg'] = prediction_corrected_df['gold_referencewImg'] 
+all_ranks_df['tagwImg'] = prediction_corrected_df['tagwImg']
+all_ranks_df['outputwoImg'] = prediction_corrected_df['outputwoImg']
+all_ranks_df['predictionwoImg'] = prediction_corrected_df['predictionwoImg']
+all_ranks_df['gold_referencewoImg'] = prediction_corrected_df['gold_referencewoImg']
+all_ranks_df['tagwoImg'] = prediction_corrected_df['tagwoImg']
+
 
 #img embedding df
 img_ranks_df = pd.DataFrame(
@@ -181,6 +217,16 @@ img_ranks_df = pd.DataFrame(
     columns=range(0,img_layer_embeddings.shape[0])
 )
 img_ranks_df['Mean over'] = ['Img tokens']*len(img_ranks_df)
+img_ranks_df['idx_corrected'] = idx_ls
+img_ranks_df['idx_main'] = prediction_corrected_df['idx_main']
+img_ranks_df['outputwImg'] = prediction_corrected_df['outputwImg']
+img_ranks_df['predictionwImg'] = prediction_corrected_df['predictionwImg']
+img_ranks_df['gold_referencewImg'] = prediction_corrected_df['gold_referencewImg'] 
+img_ranks_df['tagwImg'] = prediction_corrected_df['tagwImg']
+img_ranks_df['outputwoImg'] = prediction_corrected_df['outputwoImg']
+img_ranks_df['predictionwoImg'] = prediction_corrected_df['predictionwoImg']
+img_ranks_df['gold_referencewoImg'] = prediction_corrected_df['gold_referencewoImg']
+img_ranks_df['tagwoImg'] = prediction_corrected_df['tagwoImg']
 
 #text embedding df
 text_ranks_df = pd.DataFrame(
@@ -188,6 +234,16 @@ text_ranks_df = pd.DataFrame(
     columns=range(0,text_layer_embeddings.shape[0])
 )
 text_ranks_df['Mean over'] = ['Text tokens']*len(text_ranks_df)
+text_ranks_df['idx_corrected'] = idx_ls
+text_ranks_df['idx_main'] = prediction_corrected_df['idx_main']
+text_ranks_df['outputwImg'] = prediction_corrected_df['outputwImg']
+text_ranks_df['predictionwImg'] = prediction_corrected_df['predictionwImg']
+text_ranks_df['gold_referencewImg'] = prediction_corrected_df['gold_referencewImg'] 
+text_ranks_df['tagwImg'] = prediction_corrected_df['tagwImg']
+text_ranks_df['outputwoImg'] = prediction_corrected_df['outputwoImg']
+text_ranks_df['predictionwoImg'] = prediction_corrected_df['predictionwoImg']
+text_ranks_df['gold_referencewoImg'] = prediction_corrected_df['gold_referencewoImg']
+text_ranks_df['tagwoImg'] = prediction_corrected_df['tagwoImg']
 
 #text only embedding df
 text_only_ranks_df = pd.DataFrame(
@@ -195,8 +251,18 @@ text_only_ranks_df = pd.DataFrame(
     columns=range(0,text_only_layer_embeddings.shape[0])
 )
 text_only_ranks_df['Mean over'] = ['Text only tokens']*len(text_only_ranks_df)
+text_only_ranks_df['idx_corrected'] = idx_ls
+text_only_ranks_df['idx_main'] = prediction_corrected_df['idx_main']
+text_only_ranks_df['outputwImg'] = prediction_corrected_df['outputwImg']
+text_only_ranks_df['predictionwImg'] = prediction_corrected_df['predictionwImg']
+text_only_ranks_df['gold_referencewImg'] = prediction_corrected_df['gold_referencewImg'] 
+text_only_ranks_df['tagwImg'] = prediction_corrected_df['tagwImg']
+text_only_ranks_df['outputwoImg'] = prediction_corrected_df['outputwoImg']
+text_only_ranks_df['predictionwoImg'] = prediction_corrected_df['predictionwoImg']
+text_only_ranks_df['gold_referencewoImg'] = prediction_corrected_df['gold_referencewoImg']
+text_only_ranks_df['tagwoImg'] = prediction_corrected_df['tagwoImg']
 
 
 result_df = pd.concat([all_ranks_df, img_ranks_df, text_ranks_df, text_only_ranks_df])
-result_df.to_csv(f"{results_path}/{ds_name}_svd_effective_rank.csv")
+result_df.to_csv(f"{results_path}/{ds_name}_svd_effective_rank_corrected.csv")
 

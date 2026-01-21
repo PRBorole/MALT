@@ -1,0 +1,917 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,0, 4,4,0,2, 3,3,0,2
+1,1, 0,0,2,1, 2,2,2,1
+2,3, 0,0,3,1, 2,2,3,1
+3,4, 4,4,4,2, 3,3,4,2
+4,11, 0,0,0,5, 2,2,0,5
+5,12, 2,2,1,2, 0,0,1,2
+6,13, 3,3,0,2, 2,2,0,2
+7,14, 3,3,4,1, 2,2,4,1
+8,17, 2,2,3,1, 3,3,3,1
+9,18, 3,3,4,1, 0,0,4,1
+10,19, 0,0,1,1, 3,3,1,1
+11,20, 3,3,4,2, 0,0,4,2
+12,21, 2,2,0,2, 0,0,0,2
+13,22, 0,0,1,1, 2,2,1,1
+14,24, 3,3,2,1, 0,0,2,1
+15,26, 2,2,0,1, 0,0,0,1
+16,27, 0,0,3,1, 3,3,3,1
+17,28," To solve this problem, I'll analyze each ladybird and flower pair:
+
+A: 6 points, 5 leaves - doesn't meet condition 1
+B: 7 points, 5 leaves - doesn't meet condition 1
+C",10000,4,3, 3,3,4,3
+18,29, 4,4,0,1, 1,1,0,1
+19,30," The image shows a bracelet with pearls in the top section labeled <image1>. In the bottom section labeled <image2>, there are five options (A through E) displaying different arrangements of pearls on a band. Among these options, option C best",10000,4,5, 0,0,4,5
+20,31, 3,3,2,2, 1,1,2,2
+21,32, 4,4,3,2, 2,2,3,2
+22,33, 0,0,4,1, 2,2,4,1
+23,36, 0,0,3,1, 2,2,3,1
+24,38, 0,0,3,1, 3,3,3,1
+25,39," The diagram shows two transparent sheets with various line patterns. When these sheets are placed on top of each other, they align in a way that creates a new pattern. By examining the overlapping areas and combining the shapes from both sheets, we can determine that",10000,3,1, 0,0,3,1
+26,40, 3,3,4,1, 1,1,4,1
+27,42, 3,3,1,1, 2,2,1,1
+28,43, 22,22,1,1, 3,3,1,1
+29,48, 1,1,4,2, 3,3,4,2
+30,51, 2,2,0,1, 3,3,0,1
+31,52, 3,3,0,1, 2,2,0,1
+32,53, 2,2,1,1, 3,3,1,1
+33,55, 1,1,2,2, 2,2,2,2
+34,56, 1,1,4,2, 2,2,4,2
+35,57, 3,3,0,1, 2,2,0,1
+36,58, 2,2,2,1, 3,3,2,1
+37,59, 0,0,3,1, 3,3,3,1
+38,60, 3,3,4,1, 2,2,4,1
+39,61, 4,4,3,3, 0,0,3,3
+40,62, 0,0,0,1, 3,3,0,1
+41,63, 3,3,1,2, 0,0,1,2
+42,65, 3,3,4,3, 2,2,4,3
+43,69, 4,4,3,2, 2,2,3,2
+44,70, 0,0,0,2, 1,1,0,2
+45,71," The Kangaroo constellation in the image consists of 5 stars connected in a diamond shape with an additional star at the bottom right. The numbers on the stars are 5, 4, 7, 8, and 2, which sum",10000,1,2, 0,0,1,2
+46,72, 4,4,3,1, 2,2,3,1
+47,74, 3,3,0,1, 1,1,0,1
+48,76, 3,3,3,1, 4,4,3,1
+49,77, 2,2,0,1, 0,0,0,1
+50,78, 2,2,2,2, 1,1,2,2
+51,79, 3,3,1,1, 2,2,1,1
+52,80, 1,1,4,1, 2,2,4,1
+53,81, 0,0,3,3, 3,3,3,3
+54,82, 3,3,1,1, 2,2,1,1
+55,83, 4,4,3,1, 3,3,3,1
+56,85, 3,3,2,1, 2,2,2,1
+57,86, 4,4,0,1, 0,0,0,1
+58,87," The image shows 5 cubes from a front view, and we're asked about their appearance from above. Looking at the options provided, each cube has a different top view:
+
+A: Three white squares
+B: One dark gray square, one white",10000,1,2, 2,2,1,2
+59,89, 0,0,0,1, 2,2,0,1
+60,90, 1,1,4,1, 2,2,4,1
+61,91, 1,1,1,2, 2,2,1,2
+62,92, 4,4,0,1, 1,1,0,1
+63,97, 0,0,2,4, 2,2,2,4
+64,99, 0,0,4,5, 1,1,4,5
+65,101, 4,4,2,4, 3,3,2,4
+66,105," To solve this problem, we need to use the information provided in the image and apply the Pythagorean theorem and area formulas.
+
+Given:
+- Rectangle $A B E F$
+- Triangle $A B C$
+- $A C F = C",10000,3,5, 2,2,3,5
+67,107, 4,4,3,5, 3,3,3,5
+68,113, 0,0,0,5, 4,4,0,5
+69,114, 0,0,2,5, 2,2,2,5
+70,116," To solve this problem, we need to analyze the geometry of the semicircles and the chord. Let's break it down step by step:
+
+1. The chord CD is parallel to the diameter AB and touches the smaller semicircle.
+2.",10000,2,5, 1,1,2,5
+71,117, 3,3,3,4, 2,2,3,4
+72,122, 3,3,4,5, 2,2,4,5
+73,125, 4,4,0,5, 2,2,0,5
+74,127, 2,2,3,1, 3,3,3,1
+75,128, 1,1,3,1, 3,3,3,1
+76,135, 0,0,2,5, 3,3,2,5
+77,138, 3,3,2,1, 2,2,2,1
+78,142," To solve this problem, we need to analyze the positions of the clock hands at 12:55:30 and use that information to determine their rates of movement. Then, we can calculate where they'll be at 8:1",10000,0,5, 2,2,0,5
+79,143, 2,2,2,5, 3,3,2,5
+80,151, 2,2,4,5, 0,0,4,5
+81,152," The graph that matches the function $f(x)=(a-x)(b-x)^2$ with $a<b$ is:
+
+0",10000,0,4, 1,1,0,4
+82,154, 4,4,0,3, 2,2,0,3
+83,155, 3,3,3,3, 2,2,3,3
+84,157, 2,2,0,5, 3,3,0,5
+85,159," The pie chart would represent the relative proportions of the four types of trees Diana counted on her biology trip. Each section of the pie would correspond to a different tree type, with its size reflecting the frequency of that tree type in her count. The exact",10000,0,3, 3,3,0,3
+86,160, 3,3,4,1, 2,2,4,1
+87,165, 1,1,0,4, 3,3,0,4
+88,167, 0,0,1,5, 2,2,1,5
+89,168, 0,0,0,4, 2,2,0,4
+90,169, 2,2,4,4, 1,1,4,4
+91,171, 0,0,3,5, 3,3,3,5
+92,173, 3,3,0,5, 4,4,0,5
+93,179," To answer this question, we need to analyze the composition of the given cuboid and consider how it can be replicated using the $4 \times 1 \times 1$ cuboids described.
+
+The given cuboid is made up of 2",10000,0,5, 3,3,0,5
+94,183, 3,3,3,3, 2,2,3,3
+95,188," The graph in Image 1 shows a curved line that starts low and rises steadily over time, which is consistent with a constant filling rate for a vase. This curve would best describe the height of water in a vase as a function of time.
+
+The",10000,3,3, 3,3,3,3
+96,194, 0,0,4,1, 3,3,4,1
+97,198, 0,0,3,1, 2,2,3,1
+98,200, 2,2,2,3, 0,0,2,3
+99,206, 0,0,3,3, 2,2,3,3
+100,208, 2,2,1,1, 3,3,1,1
+101,212, 1,1,0,4, 2,2,0,4
+102,213, 1,1,1,5, 2,2,1,5
+103,216, 0,0,4,3, 2,2,4,3
+104,221," The graph shows a straight line with a slight downward slope, which represents a linear relationship between the unrolled part $x$ and the thickness $y$ of the toilet paper roll. This indicates that the thickness decreases proportionally as more of the roll",10000,4,4, 3,3,4,4
+105,222, 1,1,3,1, 3,3,3,1
+106,223, 0,0,2,5, 3,3,2,5
+107,227, 0,0,3,5, 2,2,3,5
+108,230, 1,1,0,5, 2,2,0,5
+109,233, 3,3,2,4, 2,2,2,4
+110,234, 2,2,4,3, 3,3,4,3
+111,239, 2,2,0,5, 3,3,0,5
+112,242, 4,4,0,5, 1,1,0,5
+113,243, 2,2,1,2, 3,3,1,2
+114,244, 0,0,3,5, 3,3,3,5
+115,245, 4,4,1,2, 3,3,1,2
+116,246, 3,3,4,5, 2,2,4,5
+117,248, 0,0,4,2, 3,3,4,2
+118,249, 3,3,0,3, 2,2,0,3
+119,251, 4,4,3,2, 3,3,3,2
+120,252, 3,3,4,5, 2,2,4,5
+121,254, 4,4,4,2, 2,2,4,2
+122,255, 3,3,4,2, 2,2,4,2
+123,256, 4,4,4,2, 2,2,4,2
+124,257, 0,0,2,2, 1,1,2,2
+125,258, 2,2,2,2, 3,3,2,2
+126,260, 3,3,4,1, 2,2,4,1
+127,261, 2,2,4,2, 1,1,4,2
+128,262, 0,0,3,2, 2,2,3,2
+129,263, 4,4,3,2, 1,1,3,2
+130,264, 0,0,3,3, 3,3,3,3
+131,268, 0,0,4,2, 3,3,4,2
+132,269, 0,0,4,2, 2,2,4,2
+133,270," To answer this question, we need to analyze the sequence of symbols in Sylvia's notes and how they correspond to the shapes drawn. The sequence is $\vee \wedge \wedge \wedge \vee \vee$, which represents",10000,4,2, 3,3,4,2
+134,272, 3,3,3,2, 2,2,3,2
+135,274, 3,3,2,2, 2,2,2,2
+136,275," To solve this problem, we need to:
+1. Add up the weights on the left side: 8 + 26 + 12 = 46 kg
+2. Add up the weights on the right side: 20",10000,2,3, 1,1,2,3
+137,277, 4,4,1,2, 3,3,1,2
+138,278, 2,2,2,2, 3,3,2,2
+139,281, 0,0,2,5, 3,3,2,5
+140,282, 1,1,3,2, 3,3,3,2
+141,283, 2,2,3,2, 0,0,3,2
+142,288, 3,3,3,2, 0,0,3,2
+143,290, 3,3,0,2, 2,2,0,2
+144,291, 3,3,1,2, 2,2,1,2
+145,292, 0,0,1,2, 1,1,1,2
+146,293, 3,3,3,2, 2,2,3,2
+147,294, 0,0,0,2, 2,2,0,2
+148,297," To solve this problem, we need to examine the image and compare the sizes of the white and black areas in each square. The goal is to find a swap that makes the white and black areas equal.
+
+Looking at the options provided, we can see",10000,1,2, 2,2,1,2
+149,298, 3,3,2,5, 2,2,2,5
+150,300, 2,2,2,2, 3,3,2,2
+151,302, 3,3,0,2, 0,0,0,2
+152,303, 0,0,0,3, 3,3,0,3
+153,305, 2,2,0,5, 0,0,0,5
+154,307, 2,2,3,2, 3,3,3,2
+155,308, 3,3,0,2, 2,2,0,2
+156,309, 0,0,1,4, 1,1,1,4
+157,310, 4,4,4,3, 2,2,4,3
+158,311, 0,0,0,5, 1,1,0,5
+159,312, 3,3,3,3, 2,2,3,3
+160,313, 4,4,0,5, 0,0,0,5
+161,314, 0,0,2,2, 3,3,2,2
+162,316, 3,3,0,1, 2,2,0,1
+163,318, 0,0,4,2, 1,1,4,2
+164,319, 3,3,1,2, 1,1,1,2
+165,320, 2,2,3,2, 3,3,3,2
+166,322, 0,0,2,1, 3,3,2,1
+167,323, 2,2,0,4, 0,0,0,4
+168,324, 3,3,4,5, 1,1,4,5
+169,325, 1,1,2,1, 2,2,2,1
+170,327," To solve this problem, let's break it down step by step:
+
+1. Georg starts at 5:00 PM
+2. He takes 5 minutes to get to the bus stop
+3. The bus journey takes 15 minutes",10000,0,2, 3,3,0,2
+171,328, 0,0,3,1, 2,2,3,1
+172,329, 0,0,3,1, 3,3,3,1
+173,330, 3,3,0,2, 0,0,0,2
+174,331, 3,3,4,1, 2,2,4,1
+175,336, 2,2,1,3, 3,3,1,3
+176,341, 4,4,3,5, 2,2,3,5
+177,342, 3,3,0,5, 1,1,0,5
+178,343, 0,0,1,2, 3,3,1,2
+179,349, 2,2,3,2, 3,3,3,2
+180,353, 3,3,2,3, 1,1,2,3
+181,355, 0,0,4,2, 2,2,4,2
+182,356, 0,0,2,2, 1,1,2,2
+183,358, 3,3,0,5, 1,1,0,5
+184,360, 0,0,2,2, 3,3,2,2
+185,361, 0,0,1,2, 2,2,1,2
+186,362, 2,2,4,3, 3,3,4,3
+187,364, 2,2,4,2, 3,3,4,2
+188,368, 1,1,4,3, 3,3,4,3
+189,369," To solve this problem, we need to analyze the given information:
+1. There are 5 boxes in total.
+2. The total weight of bananas is 3 times the weight of apples.
+3. Each box contains either apples or bananas, but",10000,4,2, 2,2,4,2
+190,373, 4,4,1,1, 3,3,1,1
+191,374," To solve this puzzle, we need to analyze the current state of the grid and identify the squares that violate the rule of having different numbers in neighboring squares. Looking at the image, we can see that there are several pairs of neighboring squares that have the",10000,3,3, 3,3,3,3
+192,375, 2,2,2,5, 1,1,2,5
+193,378, 3,3,2,1, 2,2,2,1
+194,380, 0,0,0,1, 2,2,0,1
+195,381, 3,3,4,5, 2,2,4,5
+196,382, 1,1,2,2, 2,2,2,2
+197,383, 3,3,3,3, 0,0,3,3
+198,386, 0,0,0,5, 1,1,0,5
+199,387, 2,2,4,2, 0,0,4,2
+200,388, 3,3,4,2, 4,4,4,2
+201,392, 4,4,1,1, 2,2,1,1
+202,394, 3,3,1,1, 2,2,1,1
+203,396, 0,0,2,2, 2,2,2,2
+204,397, 3,3,1,2, 2,2,1,2
+205,399, 2,2,4,5, 3,3,4,5
+206,403, 3,3,4,3, 2,2,4,3
+207,405, 4,4,3,2, 2,2,3,2
+208,407, 4,4,1,2, 1,1,1,2
+209,409," To determine the shortest route from $S$ to $F$, I'll analyze each option:
+
+A: Moves right, then down, then right. 3 moves total.
+B: Moves right, then down, then right. 3 moves total",10000,1,2, 4,4,1,2
+210,410, 0,0,3,5, 3,3,3,5
+211,411, 0,0,3,2, 2,2,3,2
+212,413, 1,1,3,5, 2,2,3,5
+213,420, 3,3,2,2, 2,2,2,2
+214,424, 0,0,2,5, 3,3,2,5
+215,425, 4,4,3,2, 1,1,3,2
+216,427," To solve this problem, we need to analyze the proportions of the screens and the DVD.
+
+Given:
+- New screen: 16:9 ratio
+- Old screen: 4:3 ratio
+- DVD occupies the width of the old screen",10000,2,2, 3,3,2,2
+217,429, 1,1,2,4, 2,2,2,4
+218,432, 0,0,2,1, 3,3,2,1
+219,434, 2,2,3,4, 3,3,3,4
+220,440, 3,3,4,2, 1,1,4,2
+221,445, 3,3,2,2, 1,1,2,2
+222,447, 4,4,3,2, 2,2,3,2
+223,448, 2,2,1,5, 3,3,1,5
+224,450, 2,2,0,1, 1,1,0,1
+225,451," The sequence of folds and cuts described in the image leads to a specific final shape when the paper is unfolded. After careful consideration of the geometric transformations, the correct answer is:
+
+3",10000,2,1, 2,2,2,1
+226,453, 0,0,3,2, 3,3,3,2
+227,454, 3,3,2,3, 2,2,2,3
+228,458, 4,4,3,5, 2,2,3,5
+229,460, 3,3,1,2, 2,2,1,2
+230,463, 0,0,1,2, 2,2,1,2
+231,464, 0,0,2,5, 3,3,2,5
+232,466, 0,0,3,2, 3,3,3,2
+233,467, 0,0,4,1, 3,3,4,1
+234,468," To solve this problem, we need to:
+1. Calculate the length of each strip when two are glued together
+2. Determine the length of the strips without overlap
+3. Subtract to find the overlap length
+
+Given:
+- Two strips glued together",10000,0,3, 2,2,0,3
+235,472, 2,2,2,1, 3,3,2,1
+236,473, 2,2,0,1, 1,1,0,1
+237,475, 3,3,1,5, 2,2,1,5
+238,479, 0,0,2,3, 3,3,2,3
+239,481, 3,3,0,3, 0,0,0,3
+240,483," To solve this problem, we need to analyze the image and use the given information:
+
+1. The 3-seater sofa is $220 \mathrm{~cm}$ wide
+2. The 2-seater sofa is $16",10000,3,5, 1,1,3,5
+241,485, 27,27,0,2, 2,2,0,2
+242,490," To solve this problem, we need to determine how long it takes for the snails to meet and which position they'll reach first.
+
+Given:
+- Fast snail crawls $2 \mathrm{~m}$ in one hour
+- Slow sn",10000,1,2, 2,2,1,2
+243,492, 2,2,3,3, 3,3,3,3
+244,494, 2,2,4,2, 3,3,4,2
+245,495, 3,3,4,5, 2,2,4,5
+246,497," The scale in the image shows that the ball labeled ""A"" on the leftmost scale is weighing down its side, indicating it has the lightest weight of 30 grams. Therefore, the answer is:
+
+0",10000,2,2, 0,0,2,2
+247,499, 4,4,1,2, 3,3,1,2
+248,502," To determine which die could be an ordinary die, we need to examine the sum of dots on the visible faces for each die. A standard six-sided die has a sum of 7 on opposite sides.
+
+Looking at the image, we can see that",10000,4,5, 1,1,4,5
+249,503, 2,2,3,2, 3,3,3,2
+250,506, 3,3,2,2, 4,4,2,2
+251,507, 3,3,3,5, 1,1,3,5
+252,509, 2,2,1,5, 3,3,1,5
+253,510, 3,3,4,2, 1,1,4,2
+254,511, 0,0,3,1, 1,1,3,1
+255,516, 3,3,1,2, 2,2,1,2
+256,517, 2,2,4,5, 0,0,4,5
+257,518, 0,0,0,5, 2,2,0,5
+258,523, 3,3,3,2, 2,2,3,2
+259,525, 3,3,3,2, 4,4,3,2
+260,526, 1,1,1,1, 3,3,1,1
+261,528, 1,1,3,2, 3,3,3,2
+262,530, 2,2,3,2, 3,3,3,2
+263,533, 2,2,4,3, 3,3,4,3
+264,534, 3,3,1,2, 2,2,1,2
+265,535, 3,3,0,1, 2,2,0,1
+266,537, 0,0,4,2, 3,3,4,2
+267,538, 0,0,4,2, 1,1,4,2
+268,539, 1,1,4,4, 0,0,4,4
+269,540, 0,0,1,2, 3,3,1,2
+270,541, 2,2,3,2, 3,3,3,2
+271,544, 3,3,2,3, 0,0,2,3
+272,545, 3,3,3,5, 4,4,3,5
+273,546, 3,3,0,1, 2,2,0,1
+274,548, 3,3,2,5, 2,2,2,5
+275,549, 1,1,0,2, 3,3,0,2
+276,552, 1,1,0,1, 3,3,0,1
+277,562, 0,0,0,2, 3,3,0,2
+278,563, 0,0,2,3, 2,2,2,3
+279,566, 3,3,3,4, 1,1,3,4
+280,571, 3,3,0,4, 2,2,0,4
+281,579, 3,3,4,4, 2,2,4,4
+282,580, 3,3,3,2, 2,2,3,2
+283,581, 0,0,3,5, 3,3,3,5
+284,582, 4,4,0,4, 1,1,0,4
+285,584, 2,2,0,5, 3,3,0,5
+286,590, 0,0,1,3, 2,2,1,3
+287,601, 2,2,3,3, 0,0,3,3
+288,602, 0,0,0,3, 1,1,0,3
+289,603, 3,3,0,4, 2,2,0,4
+290,605, 3,3,0,4, 2,2,0,4
+291,608, 3,3,4,3, 4,4,4,3
+292,610, 0,0,3,3, 2,2,3,3
+293,611, 3,3,3,4, 2,2,3,4
+294,615, 2,2,1,4, 0,0,1,4
+295,619, 0,0,2,4, 2,2,2,4
+296,622, 3,3,1,4, 2,2,1,4
+297,627, 0,0,0,4, 2,2,0,4
+298,628, 0,0,4,4, 3,3,4,4
+299,629, 2,2,0,4, 3,3,0,4
+300,630, 0,0,2,4, 2,2,2,4
+301,631, 3,3,2,3, 2,2,2,3
+302,634, 2,2,3,2, 3,3,3,2
+303,636, 2,2,0,3, 3,3,0,3
+304,638, 3,3,1,3, 2,2,1,3
+305,641, 0,0,0,4, 2,2,0,4
+306,646," To solve this problem, we need to:
+1. Calculate the perimeter of the smaller rectangle
+2. Calculate the perimeter of the bigger rectangle
+3. Find the difference between these perimeters
+
+1. Smaller rectangle perimeter:
+   2 *",10000,4,2, 3,3,4,2
+307,647, 3,3,3,3, 2,2,3,3
+308,655, 3,3,2,4, 1,1,2,4
+309,656, 2,2,2,4, 4,4,2,4
+310,660, 3,3,1,3, 2,2,1,3
+311,662," To solve this problem, let's break it down step by step:
+
+1. Simon runs 3 times as fast as Jan swims.
+2. Simon runs 5 rounds around the pool.
+3. Jan swims 6 lengths.
+
+First, let's",10000,1,2, 1,1,1,2
+312,667, 3,3,3,4, 2,2,3,4
+313,668, 1,1,3,3, 3,3,3,3
+314,671, 0,0,1,5, 2,2,1,5
+315,672," To answer this question, we need to analyze the shapes of the two pieces shown in image1 and determine which $4 \times 4$ squares they can form together.
+
+The two pieces in image1 can be arranged to create squares with the following",10000,4,4, 0,0,4,4
+316,674," The ant is crawling on a cube with a path that forms a continuous loop, visiting each vertex once and returning to the starting point. This corresponds to net D, which shows a cube with a path that starts at the top-left, moves right,",10000,4,3, 2,2,4,3
+317,679, 2,2,3,4, 3,3,3,4
+318,682, 3,3,0,3, 0,0,0,3
+319,683, 1,1,1,3, 3,3,1,3
+320,684, 0,0,0,3, 1,1,0,3
+321,686, 3,3,0,4, 0,0,0,4
+322,688," To solve this problem, we need to:
+1. Identify the code shown in the first diagram
+2. Rotate each digit by $180^{\circ}$
+3. Compare the result with the given options
+
+The code shown in the",10000,1,3, 3,3,1,3
+323,692, 3,3,3,4, 4,4,3,4
+324,696, 4,4,0,3, 1,1,0,3
+325,697, 3,3,3,4, 2,2,3,4
+326,698, 3,3,1,4, 2,2,1,4
+327,701," To solve this problem, we need to analyze the image and use the given percentages:
+
+1. The grey area is $45 \%$ of the entire shape
+2. The white part of the triangle is $40 \%$ of the total",10000,1,3, 1,1,1,3
+328,703, 0,0,0,4, 2,2,0,4
+329,704, 2,2,0,3, 3,3,0,3
+330,706, 0,0,3,4, 3,3,3,4
+331,708, 0,0,3,5, 2,2,3,5
+332,709, 1,1,2,4, 2,2,2,4
+333,710, 0,0,0,3, 1,1,0,3
+334,712, 2,2,0,4, 0,0,0,4
+335,713, 0,0,2,4, 2,2,2,4
+336,714, 3,3,2,3, 1,1,2,3
+337,715, 0,0,0,4, 3,3,0,4
+338,717, 2,2,3,2, 3,3,3,2
+339,720," To solve this problem, we need to:
+1. Calculate the volume of water in tank I
+2. Determine how much water will flow into tank II
+3. Calculate the new height of water in tank II
+
+Step 1: Volume of",10000,2,2, 2,2,2,2
+340,722," The path traced by point P of the smaller circle as it rolls around the inside of the larger circle is a figure-eight shape. This can be observed in Image 2, where we see a series of interconnected loops forming this characteristic figure-eight pattern.
+
+",10000,0,4, 2,2,0,4
+341,725," To solve this problem, we need to determine the dimensions of the new rectangle formed by the smaller pieces and calculate its perimeter.
+
+Given:
+- Original rectangle: 24m long, 1m wide
+- Smaller rectangles: 4x",10000,1,4, 2,2,1,4
+342,744, 2,2,3,4, 3,3,3,4
+343,745, 3,3,1,2, 4,4,1,2
+344,748, 2,2,1,2, 3,3,1,2
+345,749, 1,1,1,2, 2,2,1,2
+346,752, 4,4,4,3, 2,2,4,3
+347,758, 2,2,2,3, 3,3,2,3
+348,761, 2,2,2,4, 1,1,2,4
+349,762, 3,3,1,4, 1,1,1,4
+350,764, 4,4,4,3, 3,3,4,3
+351,765, 3,3,3,3, 1,1,3,3
+352,771, 2,2,2,4, 3,3,2,4
+353,774, 3,3,3,5, 2,2,3,5
+354,775, 1,1,3,2, 2,2,3,2
+355,777, 2,2,0,4, 4,4,0,4
+356,778, 0,0,4,3, 1,1,4,3
+357,785, 2,2,1,4, 0,0,1,4
+358,786, 3,3,1,4, 2,2,1,4
+359,791, 0,0,0,4, 1,1,0,4
+360,796, 0,0,4,4, 3,3,4,4
+361,797, 0,0,4,4, 2,2,4,4
+362,798, 4,4,4,4, 3,3,4,4
+363,800," To solve this problem, we need to use the information provided in the image and the question:
+
+1. The circumference of $C$ is $30 \mathrm{~cm}$
+2. $B$ rotates 4 times around
+3",10000,1,4, 3,3,1,4
+364,801, 2,2,3,4, 4,4,3,4
+365,803, 1,1,2,3, 2,2,2,3
+366,805, 3,3,0,3, 2,2,0,3
+367,807, 0,0,4,4, 3,3,4,4
+368,809, 3,3,1,2, 1,1,1,2
+369,811, 2,2,1,3, 3,3,1,3
+370,818, 1,1,3,4, 3,3,3,4
+371,821," To solve this problem, we need to analyze the geometry of the square window composed of four triangles. Let's assign variables to each triangle area:
+
+A = area of triangle in the lower left
+B = area of triangle in the upper right
+C",10000,0,4, 3,3,0,4
+372,822, 2,2,0,4, 3,3,0,4
+373,825, 0,0,1,1, 3,3,1,1
+374,827," To solve this problem, we need to:
+1. Calculate the width of the top left rectangle
+2. Use the area of the top left rectangle to find its width
+3. Use the given height of the top left rectangle and its width to",10000,1,4, 3,3,1,4
+375,829," To solve this problem, we need to:
+1. Calculate the length of the rectangle using the given perimeter
+2. Determine the width of the rectangle
+3. Calculate the perimeter of the rectangle
+
+Step 1: Perimeter = 2(length",10000,2,4, 3,3,2,4
+376,830," To determine the third triangle, I'll analyze the given information and examine the options:
+
+1. The third triangle must have the same area as 2 other triangles.
+2. It must be isosceles like 2 other triangles.
+3.",10000,3,3, 3,3,3,3
+377,835, 3,3,2,1, 2,2,2,1
+378,837, 3,3,0,3, 2,2,0,3
+379,840, 1,1,0,4, 3,3,0,4
+380,842, 2,2,0,4, 3,3,0,4
+381,843," The speed-time diagram that best describes Maria's journey to school is:
+
+0",10000,3,5, 2,2,3,5
+382,848, 3,3,2,4, 2,2,2,4
+383,853, 3,3,4,4, 2,2,4,4
+384,854, 3,3,4,4, 0,0,4,4
+385,855, 3,3,0,3, 2,2,0,3
+386,860," To solve this problem, we need to analyze the given information and the triangle structure:
+
+1. $AB = AC$, so $ABC$ is isosceles.
+2. $AE = AD$, so $ADE$ is isosceles",10000,1,5, 2,2,1,5
+387,861, 2,2,0,4, 0,0,0,4
+388,864, 2,2,0,4, 0,0,0,4
+389,865, 1,1,3,2, 2,2,3,2
+390,868, 4,4,4,4, 1,1,4,4
+391,870, 1,1,1,3, 3,3,1,3
+392,873, 4,4,0,2, 2,2,0,2
+393,874, 0,0,2,4, 2,2,2,4
+394,876, 4,4,4,4, 2,2,4,4
+395,878, 0,0,4,4, 2,2,4,4
+396,879, 0,0,3,5, 3,3,3,5
+397,880, 1,1,0,4, 3,3,0,4
+398,884, 2,2,1,2, 3,3,1,2
+399,888, 4,4,3,4, 3,3,3,4
+400,892, 2,2,4,2, 4,4,4,2
+401,893," To solve this problem, we need to use the fact that $A D=B C$ and the angles given in the image. Let's approach this step-by-step:
+
+1. We know that the sum of angles in a quadrilateral is $3",10000,1,5, 1,1,1,5
+402,894, 0,0,3,3, 1,1,3,3
+403,895, 1,1,1,3, 2,2,1,3
+404,896, 2,2,3,3, 3,3,3,3
+405,897, 3,3,0,4, 2,2,0,4
+406,899, 0,0,3,4, 3,3,3,4
+407,901, 3,3,2,3, 0,0,2,3
+408,902, 1,1,3,3, 0,0,3,3
+409,903," To solve this problem, we need to analyze the image and use the given information:
+
+1. The pea bed was originally rectangular.
+2. It was transformed into a square by lengthening one side by 3 meters.
+3. The area of the",10000,2,3, 3,3,2,3
+410,905, 1,1,1,4, 0,0,1,4
+411,909, 3,3,0,3, 2,2,0,3
+412,912, 0,0,2,4, 3,3,2,4
+413,916, 3,3,4,4, 2,2,4,4
+414,921," To solve this problem, we need to analyze the given information and use the Pythagorean theorem.
+
+Given:
+- The square has an area of $30 \mathrm{~cm}^{2}$
+- The diagonal divides the square into two",10000,3,2, 3,3,3,2
+415,928," To determine the sixth face of the larger cube, I'll analyze the visible faces and their cube arrangements:
+
+Face 1: 3x3 grid of cubes
+Face 2: 3x3 grid of cubes
+Face 3: ",10000,0,4, 3,3,0,4
+416,929," To solve this problem, we need to calculate the perimeters of both rectangles and find the difference.
+
+For the larger rectangle:
+Length = 4m, Width = 3m
+Perimeter = 2(length + width) = 2(",10000,4,2, 2,2,4,2
+417,930, 11,11,1,3, 3,3,1,3
+418,933, 0,0,3,3, 3,3,3,3
+419,939, 2,2,1,2, 3,3,1,2
+420,942, 0,0,3,3, 3,3,3,3
+421,945, 0,0,1,5, 3,3,1,5
+422,946," To answer this question, I need to analyze the shapes of the given pieces and the $4 \times 4$ tiles. The two pieces shown are L-shaped and backwards L-shaped, which can be combined in various ways to form different configurations.
+
+",10000,4,4, 0,0,4,4
+423,947," To solve this problem, we need to:
+1. Calculate the area of the rectangles
+2. Calculate the area of the triangle
+3. Subtract the triangle area from the rectangle area
+
+From the image, we can see that there are 5",10000,1,4, 3,3,1,4
+424,952," To solve this problem, we need to:
+1. Calculate the area of one triangle
+2. Find the area of the large square
+3. Subtract the area of one triangle from the large square
+
+Step 1: Area of one triangle
+",10000,0,3, 0,0,0,3
+425,957," To solve this problem, we need to analyze the visible labels on the three faces of the pyramid and use that information to deduce the label of the hidden cannonball.
+
+From the image, we can see the following labels:
+- Front face: D",10000,3,4, 3,3,3,4
+426,959, 3,3,1,4, 2,2,1,4
+427,960," To solve this problem, we need to analyze the given information and the image:
+
+1. The area of the intersection is $45 \%$ of the total area.
+2. The area outside the triangle is $40 \%$ of the total",10000,1,3, 3,3,1,3
+428,961, 0,0,3,2, 3,3,3,2
+429,962, 1,1,0,4, 3,3,0,4
+430,963, 3,3,2,3, 1,1,2,3
+431,964, 0,0,3,5, 3,3,3,5
+432,966," To solve this problem, we need to examine the image and identify which rectangle has all four sides with equal numbers. Looking at the options provided, we can see that rectangle E is the only one that meets this criteria. All four sides of rectangle E",10000,2,3, 3,3,2,3
+433,968, 1,1,3,2, 2,2,3,2
+434,978," The cube in the image has diagonals drawn on three adjacent faces, forming a cross-like pattern. This corresponds to option D, where the cross is rotated 45 degrees clockwise from the standard orientation. When this net is folded, it would create",10000,3,5, 3,3,3,5
+435,979," To solve this problem, we need to examine the image and identify the two lines drawn between the centers of adjacent rectangles. These lines form a right triangle, and we can use the Pythagorean theorem to calculate their length.
+
+Let's denote the lengths",10000,0,1, 3,3,0,1
+436,982," To solve this problem, we need to:
+1. Determine the lengths of the ribbons
+2. Calculate the perimeter of each shape
+3. Find the difference between the perimeters
+
+Let's start:
+
+1. Ribbon lengths:
+   - Sm",10000,1,2, 2,2,1,2
+437,986, 0,0,4,2, 2,2,4,2
+438,988," The diagram shows five rectangles with various combinations of letters. To solve this problem, we need to analyze each rectangle and determine which letters appear in which rectangles.
+
+Rectangle 1: P, S
+Rectangle 2: P, I, S, R",10000,1,2, 1,1,1,2
+439,990, 0,0,2,2, 2,2,2,2
+440,991, 3,3,1,3, 2,2,1,3
+441,995," To solve this problem, we need to:
+1. Calculate the perimeter of the square
+2. Use that perimeter to find the dimensions of the rectangle
+
+Step 1: Perimeter of the square
+Side length of square = 9 cm
+",10000,2,3, 2,2,2,3
+442,999," To solve this problem, we need to analyze the possible movements for each letter in the $2 \times 4$ grid. Let's break it down:
+
+1. First letter: Can be in any cell (4 choices)
+2. Second letter",10000,3,3, 0,0,3,3
+443,1004, 4,4,4,3, 3,3,4,3
+444,1005," To answer this question, we need to examine the grid in the image and analyze the numbers in each row and column. The correct answer is:
+
+0",10000,3,2, 3,3,3,2
+445,1007, 4,4,4,5, 3,3,4,5
+446,1009, 2,2,0,4, 4,4,0,4
+447,1010, 0,0,1,4, 2,2,1,4
+448,1014, 2,2,3,2, 3,3,3,2
+449,1017," To solve this problem, we need to:
+1. Calculate the volume of water in Tank X
+2. Determine how much water will fit in Tank Y
+
+Step 1: Volume of water in Tank X
+Base area of Tank X = $",10000,2,2, 2,2,2,2
+450,1020," To solve this problem, we need to:
+1. Calculate how far Roo jumps in 25 seconds
+2. Determine how many jumps Kanga makes in the same time
+3. Calculate the distance between Kanga and Roo after 25",10000,2,3, 2,2,2,3
+451,1022, 2,2,4,2, 3,3,4,2
+452,1024, 0,0,0,4, 1,1,0,4
+453,1027," To solve this problem, we need to:
+1. Identify the corner where the dog is tied
+2. Calculate the length of the leash (10m)
+3. Determine the dimensions of the rectangle the dog can reach
+4. Calculate the",10000,0,4, 2,2,0,4
+454,1031, 2,2,3,4, 1,1,3,4
+455,1033, 3,3,4,2, 2,2,4,2
+456,1037, 1,1,4,4, 3,3,4,4
+457,1045, 3,3,3,2, 2,2,3,2
+458,1047, 2,2,3,5, 1,1,3,5
+459,1048, 0,0,0,4, 2,2,0,4
+460,1052, 3,3,2,3, 2,2,2,3
+461,1055, 0,0,4,2, 3,3,4,2
+462,1056," To solve this problem, we need to follow these steps:
+
+1. Rotate the trapezium anti-clockwise by $90^{\circ}$ around the origin $O$
+2. Reflect the result in the $x$-axis
+
+",10000,0,5, 2,2,0,5
+463,1057, 1,1,3,4, 2,2,3,4
+464,1060," To answer this question, I need to analyze the relative lengths of the lines labeled $r$, $s$, and $t$ in the image. Looking at the picture, I can see that:
+
+1. The line labeled $r$ appears to",10000,4,3, 2,2,4,3
+465,1063, 3,3,1,4, 0,0,1,4
+466,1067, 1,1,0,3, 3,3,0,3
+467,1068," To solve this problem, we need to analyze the given information and the geometry of the triangles:
+
+1. The ratio of $H X: X F$ is 4:1
+2. The areas of the shaded regions are the same
+3",10000,3,4, 2,2,3,4
+468,1072, 3,3,4,4, 2,2,4,4
+469,1073," To answer this question, we need to examine the progression of the circle's movement from point K to point L. As the circle rolls, its orientation changes, and we need to identify which option best represents its final position.
+
+Looking at the image,",10000,3,4, 2,2,3,4
+470,1074," To solve this problem, we need to use the information provided in the image and the question:
+
+1. Wheel $L$ makes 4 full turns when $K$ makes 5 full turns.
+2. Wheel $L$ makes 6 full",10000,1,4, 2,2,1,4
+471,1078, 0,0,0,4, 1,1,0,4
+472,1082, 2,2,1,3, 3,3,1,3
+473,1083, 1,1,4,4, 2,2,4,4
+474,1085," The net of the octahedron shows several labeled line segments. When folded, the line segments that will coincide are those that represent edges of the same face on the 3D shape. Looking at the options provided, the line segments that would",10000,4,2, 2,2,4,2
+475,1086, 2,2,0,4, 1,1,0,4
+476,1089, 0,0,0,4, 3,3,0,4
+477,1093, 2,2,1,2, 4,4,1,2
+478,1094," To solve this problem, we need to analyze the given information and the figure:
+
+1. The rectangle has a perimeter of $30 \mathrm{~cm}$
+2. There are two lines dividing the rectangle into three sections
+3. One",10000,2,4, 2,2,2,4
+479,1095," To solve this problem, we need to use the information provided in the image and apply the formula for the area of a rectangle (length × height).
+
+Given:
+- The top left rectangle has an area of 18 cm² and a height of",10000,1,3, 3,3,1,3
+480,1098," The diagram for this week would be option 1: B. In the original diagram (Image 1), App B had the second-highest usage time. Halving this time and keeping the other apps' times the same would result in App B",10000,4,1, 3,3,4,1
+481,1100, 0,0,4,3, 2,2,4,3
+482,1101, 1,1,4,4, 2,2,4,4
+483,1107, 3,3,2,4, 2,2,2,4
+484,1110, 4,4,1,4, 5,5,1,4
+485,1118, 2,2,2,2, 3,3,2,2
+486,1125," To solve this problem, we need to:
+1. Understand that the diagonal of a rectangle forms a right triangle with the length and height.
+2. Use the Pythagorean theorem: a² + b² = c², where a and b",10000,3,4, 2,2,3,4
+487,1128, 3,3,3,4, 2,2,3,4
+488,1131," To solve this problem, we need to analyze the geometry of the square and the equilateral triangle:
+
+1. The square has side length $s$.
+2. The equilateral triangle BEF has side length $s/\sqrt{3}$ (",10000,3,4, 2,2,3,4
+489,1135, 4,4,3,4, 3,3,3,4
+490,1143, 1,1,2,4, 2,2,2,4
+491,1147, 2,2,1,4, 3,3,1,4
+492,1150," To solve this problem, we need to use the properties of similar rhombuses and the given information.
+
+Given:
+- Rhombus $ ABCD $ is similar to rhombus $ BFDE $
+- Area of rhombus $ ABCD",10000,2,4, 4,4,2,4
+493,1160, 2,2,2,4, 3,3,2,4
+494,1166, 0,0,2,4, 2,2,2,4
+495,1167, 1,1,3,4, 3,3,3,4
+496,1169, 3,3,1,4, 2,2,1,4
+497,1179, 0,0,1,4, 1,1,1,4
+498,1182, 0,0,4,4, 2,2,4,4
+499,1183, 2,2,1,5, 1,1,1,5
+500,1186, 2,2,3,4, 3,3,3,4
+501,1188, 2,2,3,4, 3,3,3,4
+502,1195, 4,4,2,2, 3,3,2,2
+503,1204," To solve this problem, we need to use the properties of a rhombus and the information provided in the image.
+
+Given:
+- $ABCD$ is a rhombus
+- $P$ lies on segment $\overline{AD}$",10000,3,4, 2,2,3,4
+504,1206, 2,2,2,4, 4,4,2,4
+505,1209, 32,32,1,4, 3,3,1,4
+506,1210," To solve this problem, we need to:
+1. Identify that $ ABCD$ is a right-angled triangle with $ C = 90^{\circ}$
+2. Note that $ DE \perp AB$, making $ ABCD",10000,1,5, 1,1,1,5
+507,1213, 2,2,1,4, 3,3,1,4
+508,1221, 0,0,0,5, 4,4,0,5
+509,1224, 0,0,4,5, 2,2,4,5
+510,1231," To solve this problem, we need to analyze the given ratios and use the properties of similar triangles. Let's break it down step by step:
+
+1. From the ratio $\frac{CD}{DB}=\frac{3}{1}$, we",10000,3,5, 4,4,3,5
+511,1235, 4,4,0,5, 3,3,0,5
+512,1244, 4,4,4,4, 1,1,4,4
+513,1264, 3,3,2,5, 2,2,2,5
+514,1275, 4,4,2,3, 3,3,2,3
+515,1281," To solve this problem, we need to use the properties of the triangle and the given information:
+
+1. $M$ is the midpoint of $BC$
+2. $AN$ bisects $\angle BAC$
+3. $BN\per",10000,1,5, 4,4,1,5
+516,1282, 0,0,2,5, 1,1,2,5
+517,1291," To solve this problem, we need to analyze the given information and use the properties of triangles and quadrilaterals.
+
+Given:
+- Triangle ABC has area 10
+- AD = 2, DB = 3
+- Triangle ABE and",10000,2,5, 3,3,2,5
+518,1293," To solve this problem, we need to analyze the image and use the given measurements:
+
+1. We know $AB = 4$, $BC = 5$, and $DE = 3$
+2. The rectangle and circle intersect at point E",10000,1,5, 2,2,1,5
+519,1300," To solve this problem, we need to use the law of sines and the given information from the image.
+
+Given:
+$ \angle C = 3 \angle A$
+$ a = 27$
+$ c = 48$
+
+Step",10000,1,5, 3,3,1,5
+520,1303, 3,3,1,5, 2,2,1,5
+521,1308, 4,4,2,5, 3,3,2,5
+522,1311," To answer this question, I'll need to:
+1. Identify the population values for each city in 1970 and 1980
+2. Calculate the population increase for each city
+3. Determine the percentage increase for each",10000,2,3, 3,3,2,3
+523,1318, 2,2,3,5, 3,3,3,5
+524,1319, 0,0,0,4, 3,3,0,4
+525,1320, 2,2,0,5, 1,1,0,5
+526,1327," To solve this problem, we need to use the exterior angle theorem and the fact that $DB=BE$.
+
+Given:
+- $\angle A = 55^{\circ}$
+- $\angle C = 75^{\circ}",10000,3,4, 1,1,3,4
+527,1334, 3,3,0,5, 2,2,0,5
+528,1335, 2,2,2,3, 0,0,2,3
+529,1337, 1,1,2,5, 2,2,2,5
+530,1343, 4,4,3,3, 3,3,3,3
+531,1356, 1,1,1,5, 2,2,1,5
+532,1361, 2,2,3,5, 3,3,3,5
+533,1367," To solve this problem, we need to use the law of cosines:
+\[ AC^2 = AB^2 + BC^2 - 2(AB)(BC)\cos(\angle ABC)\]
+
+Given:
+- AB = 10 miles",10000,3,5, 3,3,3,5
+534,1378, 2,2,1,5, 3,3,1,5
+535,1379," To solve this problem, we need to:
+1. Calculate the coordinates of points P, A, B, C, and D
+2. Find the coordinates of the centroids of the four triangles
+3. Use these centroids to calculate the area of",10000,2,5, 2,2,2,5
+536,1386, 0,0,0,4, 3,3,0,4
+537,1395, 2,2,2,3, 3,3,2,3
+538,1400, 3,3,4,3, 0,0,4,3
+539,1402, 1,1,4,3, 2,2,4,3
+540,1405," To solve this problem, we need to look at the image and identify the letters and their corresponding dates:
+
+$C$ is behind 15
+$A$ is behind 13
+$B$ is behind 14
+$P",10000,0,4, 0,0,0,4
+541,1406, 4,4,4,2, 3,3,4,2
+542,1408," To solve this problem, we need to analyze each checkerboard and determine if it can be covered by dominoes:
+
+1. $3\times 4$: This can be covered with 6 dominoes (2 rows of 3 dom",10000,1,4, 2,2,1,4
+543,1415, 0,0,1,4, 2,2,1,4
+544,1416, 1,1,3,4, 3,3,3,4
+545,1418, 3,3,2,4, 2,2,2,4
+546,1419, 3,3,2,2, 2,2,2,2
+547,1420," To answer this question, I need to analyze the price changes across the months shown in the graph. The image displays monthly price data from January to June 1993.
+
+Looking at the price fluctuations, I can identify the greatest monthly drop:
+
+",10000,1,2, 3,3,1,2
+548,1421," To answer this question, I need to analyze the current arrangement of shapes in Image 1 and how they would change after a 120-degree clockwise rotation.
+
+In Image 1, we have a circle with three shapes inside: a triangle,",10000,1,3, 3,3,1,3
+549,1422," To solve this problem, we need to analyze the triangle ABC and use the given angle measurements. Let's break it down step by step:
+
+1. We know that angle A = 60° and angle C = 30°
+2",10000,1,5, 2,2,1,5
+550,1424," To answer this question, I need to analyze the pattern of arrows in the image and extend it to find the correct sequence from point $425$ to point $427$.
+
+In the first image, we see a sequence of arrows",10000,0,4, 2,2,0,4
+551,1428," To solve this problem, we need to analyze the given information and the diagram:
+
+1. Angles A, B, and C are right angles (90 degrees each)
+2. Angle AEB is 40 degrees
+3. Angle BED",10000,4,5, 2,2,4,5
+552,1429," To determine which expression represents a negative number, let's examine each option:
+
+1. $P-Q$: $P$ is -3 and $Q$ is -2, so $P-Q = -3 - (-2) = -1$,",10000,0,4, 3,3,0,4
+553,1431," To solve this problem, we need to:
+1. Calculate the total number of students
+2. Find the total percentage for tennis across both schools
+3. Divide the total percentage by the total number of students
+
+Total students = 200",10000,2,2, 3,3,2,2
+554,1432," To solve this problem, we need to examine the image and identify the triangle $ABC$. From the image, we can see that:
+
+1. Point A is located in the bottom-left corner
+2. Point B is in the middle-right of the",10000,1,4, 1,1,1,4
+555,1437, 4,4,3,4, 3,3,3,4
+556,1440, 3,3,1,3, 2,2,1,3
+557,1441, 4,4,2,4, 3,3,2,4
+558,1443, 3,3,1,4, 2,2,1,4
+559,1445, ANSWER: 3,10000,4,2, 3,3,4,2
+560,1446," To solve this problem, we need to analyze the given information and use the properties of isosceles triangles and angle bisectors.
+
+Given:
+- Triangle $CAT$ with $\angle ACT = \angle ATC$
+- $\angle CAT = ",10000,2,5, 2,2,2,5
+561,1449," To solve this problem, we need to analyze the given information and the image:
+
+1. We know that angle A is 20 degrees.
+2. Angles AFG and AGF are equal.
+3. We need to find the sum of",10000,3,5, 2,2,3,5
+562,1451, 2,2,3,2, 1,1,3,2
+563,1452, The graph that shows the volume of water in the birdbath during the filling time and continuing into the overflow time is option D. This graph accurately represents the scenario where water is continuously added to the birdbath at a slightly higher rate than it,10000,0,2, 1,1,0,2
+564,1454," To answer this question, we need to:
+1. Identify the number of '70s stamps for each country
+2. Calculate the total cost of '70s stamps
+3. Divide by the number of countries to get the average
+
+",10000,4,2, 2,2,4,2
+565,1455, 2,2,4,4, 3,3,4,4
+566,1460, 2,2,2,3, 3,3,2,3
+567,1461, 3,3,0,3, 2,2,0,3
+568,1462, 0,0,1,2, 2,2,1,2
+569,1464, 2,2,2,4, 3,3,2,4
+570,1466, 0,0,3,2, 2,2,3,2
+571,1468," To determine the student with the greatest average speed, we need to calculate the speed for each student based on their distance and time.
+
+Angela: Distance = 1000m, Time = 5 minutes = 300 seconds
+",10000,4,3, 3,3,4,3
+572,1469," To solve this problem, we need to use the information provided in the image and apply some geometric principles:
+
+1. The triangle is isosceles and right-angled, so its angles are 45-45-90.
+2",10000,1,3, 1,1,1,3
+573,1471," To solve this problem, let's break it down step by step:
+
+1. Initial position: West
+2. First move: Clockwise $2 \frac{1}{4}$ revolutions
+   - This is equivalent to $2 + \frac",10000,1,3, 1,1,1,3
+574,1473," To solve this problem, we need to analyze the possible outcomes when spinning the three spinners and adding their results. Let's break it down:
+
+Spinner P has 3 sections: 1, 2, and 3
+Spinner Q has ",10000,1,2, 2,2,1,2
+575,1474, 4,4,4,2, 3,3,4,2
+576,1487, 46,46,0,3, 4,4,0,3
+577,1490," To solve this problem, we need to analyze the possible outcomes and identify which combinations sum to a prime number. Let's break it down:
+
+1. Image 1: 1, 5, 3
+2. Image 2: ",10000,3,2, 3,3,3,2
+578,1499, 0,0,0,3, 3,3,0,3
+579,1515, 1,1,3,2, 2,2,3,2
+580,1517," The graphs that match the described race are A, B, and E. These graphs show a straight line for the tortoise, indicating a steady pace, while graph B shows a line that rises sharply and then levels off, representing the hare's initial",10000,1,2, 2,2,1,2
+581,1520, 0,0,0,4, 3,3,0,4
+582,1521," To answer this question, I'll need to:
+1. Count the number of cities in the graph (20)
+2. Estimate the population for each city based on its bar height
+3. Sum up all the estimated populations
+4. Compare",10000,3,2, 3,3,3,2
+583,1524, 0,0,4,3, 2,2,4,3
+584,1525," To answer this question, we need to analyze the information provided and match it to the correct graph:
+
+1. Ling left at 8 AM and arrived at 10 AM, so she was on the road for 2 hours at 45",10000,4,2, 3,3,4,2
+585,1527, 3,3,4,3, 2,2,4,3

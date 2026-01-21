@@ -1,0 +1,5777 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,Mean over,idx_corrected,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,23.84683,30.715801,33.474434,37.676857,29.229038,28.180164,29.768356,33.3253,39.76448,43.875774,46.386784,47.327732,50.94461,52.124928,54.208965,57.72852,57.427578,60.360428,61.3807,60.92357,64.29625,68.32688,73.467705,80.07492,81.08138,81.0002,83.993416,76.144875,55.98672,All tokens,57,77,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+1,66.98088,76.44443,78.805664,83.90171,85.22716,86.37504,83.77946,81.442566,94.54605,100.690025,104.0322,101.92134,108.1427,106.72676,106.31315,107.71462,96.30719,101.10966,100.39054,91.90782,96.05898,109.14492,123.04639,144.6814,153.46866,170.1419,181.68878,190.7119,129.39494,All tokens,12,14,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+2,26.193817,34.056725,37.04185,41.89762,28.018948,25.745964,26.237938,30.008593,35.372566,39.823013,40.726887,41.140404,43.610443,44.732517,47.002605,50.370827,50.96786,54.268047,56.080933,56.749306,60.426056,62.73517,67.77783,73.65755,76.43587,78.56119,82.12017,74.42976,52.723328,All tokens,140,437,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+3,34.81046,46.526875,49.61375,55.78688,39.98644,37.42662,36.949245,41.074673,49.782158,55.275726,60.061317,60.70874,65.6045,66.14568,68.77371,72.330215,71.670685,75.645966,75.78139,76.13049,79.9085,85.13767,91.35619,98.10577,98.19966,101.963486,104.85409,101.703835,67.26866,All tokens,125,381,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+4,38.630802,49.8054,52.88686,58.1642,47.264755,45.21009,44.26866,46.68995,56.036747,59.64176,62.217136,61.365807,67.02593,67.83454,70.776924,73.91745,70.75441,75.22723,74.28004,75.27061,80.60915,85.87922,92.24401,100.31321,99.42829,104.81845,109.57158,104.14005,69.0914,All tokens,114,310,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+5,25.7788,35.697575,38.699448,44.196423,26.90047,24.781189,25.681906,28.76966,35.313103,39.86116,41.789078,43.38931,47.735535,49.465034,52.114704,55.578716,56.369728,60.42177,61.908974,63.572144,67.423996,70.26625,75.23125,80.827736,82.08759,82.83393,87.56961,78.848434,50.121315,All tokens,71,102,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+6,16.248379,24.824001,28.669067,33.9755,15.993907,14.441275,15.743022,18.512096,23.060524,26.453537,26.168438,27.393509,29.156672,30.541306,32.381546,34.787514,36.499752,38.591843,39.79417,41.89048,45.018932,48.58818,53.154697,59.302876,60.79721,61.237892,64.39409,54.156776,38.672985,All tokens,52,71,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+7,41.224567,52.15857,55.79316,61.81261,49.36248,46.885048,46.294365,48.446575,57.634922,62.945522,65.70236,66.61304,72.19001,72.55447,75.642136,78.57194,76.447014,80.34513,79.28922,79.15557,83.29337,88.05726,93.83659,102.162636,104.51904,108.19975,110.7977,108.2272,69.593025,All tokens,279,684,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+8,30.220367,37.846363,41.286182,45.48105,36.937073,35.18042,36.24349,39.05213,45.821262,50.78809,51.019836,52.43877,55.64347,57.29812,58.55549,60.849415,60.190964,62.906815,63.0745,62.094612,65.31459,70.29752,74.27384,80.72859,81.40292,80.58686,84.683876,78.269165,54.403393,All tokens,44,60,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+9,38.74792,50.128735,54.334335,62.71408,54.710293,52.806286,51.935097,54.036667,63.005035,68.38157,70.25299,69.90026,74.40166,75.14187,77.34033,80.310936,77.1136,80.35674,79.15791,78.15642,81.69519,88.333855,91.65923,98.86071,100.00949,99.97564,104.99138,101.628555,62.912426,All tokens,302,736,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+10,60.80057,72.57585,75.44697,82.59972,83.091095,84.287186,80.440285,77.496925,92.39205,98.31529,100.24884,99.68749,106.2345,105.63858,105.637474,110.097824,102.81476,108.70962,106.90787,101.835205,106.5995,117.54603,129.99202,145.0316,147.09567,162.09683,170.88995,175.36185,115.56263,All tokens,216,590,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+11,25.750793,35.95059,39.655293,46.652996,32.21811,30.878853,31.65936,34.504963,41.273083,45.15315,47.29183,48.754265,52.974255,55.12012,57.09739,60.932053,60.896847,64.73157,66.1041,66.539925,69.84762,74.13506,78.552795,83.98985,83.236755,81.28963,84.42286,75.99637,49.178864,All tokens,16,18,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+12,26.910177,35.46327,38.151653,43.36108,30.913849,28.772514,29.314798,32.638752,39.860165,44.65126,45.18185,46.579617,50.79538,53.320137,55.632088,59.017254,59.062546,62.57721,63.34167,63.956036,68.390114,73.43937,78.47766,84.840744,85.3505,85.53589,88.22411,79.44511,54.855556,All tokens,15,17,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+13,28.092506,36.91436,40.311592,46.389828,35.279896,33.019,33.95735,36.888588,44.42825,49.757347,50.79508,52.012432,56.076443,57.50244,59.456627,62.660072,61.29556,64.14148,63.458603,62.768776,66.88213,72.33159,77.34708,84.4678,84.7477,84.79371,91.352104,85.92452,56.498013,All tokens,47,64,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+14,33.80236,47.12578,52.482037,60.088444,42.062653,39.615673,41.43413,44.992622,52.557716,57.365837,60.893276,61.02405,65.98163,66.65828,70.2057,73.423225,71.71878,74.97019,75.24499,75.69475,80.08443,85.09251,90.26144,97.333755,96.25981,96.37408,100.674515,94.83575,59.93072,All tokens,111,278,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+15,47.072895,59.293148,63.945213,71.122475,62.76177,60.699306,59.41652,60.838448,71.77206,78.289505,80.408875,79.23411,84.79553,84.64315,86.65792,89.3469,84.134155,87.592415,86.10195,83.76124,87.559425,94.71553,102.08277,114.38501,115.24796,118.72978,125.42696,126.823074,87.75002,All tokens,119,334,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+16,41.847965,50.34792,52.96122,57.237087,48.010315,45.69006,44.97885,47.17854,55.422474,60.438183,62.015728,62.294853,67.49669,68.440094,70.061104,72.92522,70.82378,73.91675,72.788574,72.26075,76.06036,81.395164,87.95948,96.1422,96.39714,99.3771,102.527466,101.02495,69.84176,All tokens,258,652,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+17,50.31739,58.278584,60.69609,64.56735,62.285408,61.938713,60.183815,60.707207,70.43284,76.60952,78.24636,79.240654,83.62029,84.143906,85.37851,87.51112,83.126175,86.40017,85.119606,80.62776,82.3072,89.07962,97.4258,109.37656,113.44222,119.45815,124.09244,127.66462,91.92286,All tokens,308,749,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+18,25.945698,35.64493,39.039833,44.27706,30.472366,28.089245,28.638844,32.24537,39.3912,44.62478,44.813217,45.63384,49.611973,51.62694,54.302227,58.24741,57.94987,61.20058,61.322395,61.697853,66.44046,72.11332,75.66862,82.77963,82.164696,81.61833,85.33297,74.98517,50.327682,All tokens,13,15,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+19,35.580345,44.505905,47.564693,52.98055,42.34426,39.752514,39.84229,41.70899,48.698895,53.58037,56.28816,56.432423,60.717487,62.017822,64.7768,68.66928,67.60783,71.35911,71.24953,71.8845,75.72638,79.71852,83.171326,89.04883,87.78392,88.91823,93.19941,91.621574,62.872444,All tokens,287,705,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+20,16.377491,28.46527,32.651863,38.331837,17.936674,16.248957,17.61695,21.565374,26.706707,30.576895,31.719015,33.25935,36.58721,39.358982,42.043457,45.507633,48.44994,51.663353,55.80101,57.23354,59.2446,61.8244,62.97422,66.12241,67.93524,66.263,66.50925,57.09896,35.880165,All tokens,101,228,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+21,79.34361,92.11066,91.83104,99.89573,104.39188,109.69668,107.08487,101.33289,119.42017,125.96646,133.60829,129.00496,137.3311,137.5866,138.51237,142.92116,131.55481,141.89532,143.86192,135.10504,141.06323,153.76208,171.89944,194.55023,206.46129,229.12485,246.43405,261.08588,180.26611,All tokens,214,586,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+22,30.822172,40.22787,43.555405,49.050465,36.02339,33.806873,34.591564,37.985184,43.43094,47.438587,48.902912,49.37845,52.344734,53.302536,55.31388,58.120094,58.047558,61.514282,62.49405,62.71441,65.62765,69.0103,72.96598,76.96376,76.456314,77.24322,79.51389,73.36895,47.27637,All tokens,112,282,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+23,57.657455,70.64373,72.58229,80.30902,79.841934,80.240654,77.9484,79.52705,94.24515,100.66755,102.49912,99.65931,104.70385,104.31774,104.99277,110.983444,107.670456,114.48957,112.33972,110.0466,115.13739,122.90221,134.28134,143.95428,145.28542,151.03123,160.59798,159.23958,96.25518,All tokens,229,610,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance
+24,41.197285,48.334145,50.2517,53.961136,48.050266,46.703896,46.418903,47.956966,55.077087,60.259888,61.40927,61.176014,65.93106,67.38446,69.72157,71.94825,69.41111,73.02164,73.29083,71.10972,74.43562,80.20244,86.52377,94.78574,94.43147,96.5241,97.58825,97.22179,67.20155,All tokens,301,735,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,29.846964,37.57371,40.286755,44.370907,34.814884,32.745567,33.675945,36.25614,43.044357,47.557938,46.856434,47.822506,50.941387,52.05992,53.662804,55.930687,53.930733,56.752686,56.10375,56.118916,60.086327,65.88615,73.51996,85.50616,88.310814,93.45289,99.055305,90.936966,60.80507,All tokens,142,442,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+26,29.014242,36.097088,38.98597,43.06998,35.25257,33.63353,34.962204,37.93599,45.123474,49.870113,49.697403,50.85374,54.24123,55.27343,56.69718,58.7944,56.969917,59.371746,58.86029,58.92629,63.608418,69.92513,76.74278,87.119965,91.482574,94.9299,101.025665,91.463036,58.585743,All tokens,3,3,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+27,10.200502,32.909466,38.289337,44.253117,6.823231,6.254567,7.21446,9.267193,11.894477,14.265191,14.56109,15.6107435,17.399193,18.684242,20.620646,22.729885,25.204891,27.153969,29.944334,32.51352,35.094166,39.295704,43.143265,47.920094,50.188232,49.463177,52.21054,42.754627,25.730183,All tokens,81,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+28,78.561676,88.414215,89.08836,94.310196,97.647224,101.41222,99.16939,97.1154,112.77554,117.00332,124.066536,118.43406,125.437386,122.04904,122.47309,125.149536,112.67556,119.11176,119.53218,109.07967,111.15235,120.400536,135.74648,159.83667,172.36804,199.77411,211.51576,232.41386,167.13414,All tokens,174,528,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+29,26.985966,34.308758,37.791748,42.58828,34.947346,33.605576,35.556587,38.580067,45.16004,49.10418,48.45547,48.857193,51.305195,52.087128,53.54034,55.472095,53.927204,56.59087,56.078663,55.23431,59.548073,66.07523,69.3772,78.46269,81.34457,80.23304,81.28307,71.17472,47.026836,All tokens,79,119,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting
+30,17.599237,37.243206,41.52913,47.161163,14.135267,12.682745,14.174035,18.221918,23.816841,28.03078,29.349815,30.638596,33.514698,34.956875,36.706608,39.990227,42.145706,44.556667,48.159542,49.122753,51.276787,53.655178,56.86871,59.799606,59.663353,57.994823,59.995285,50.63938,31.4642,All tokens,110,266,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+31,94.30943,107.2779,106.68961,113.72289,117.11121,120.47858,116.13936,107.542336,124.86723,129.83556,137.5614,132.08633,140.98146,138.02054,135.54662,140.91876,128.45013,138.11949,139.82565,129.8467,135.33788,146.27989,160.02464,183.27463,194.03947,219.1956,232.08784,248.82214,173.90602,All tokens,172,526,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+32,82.39728,95.11173,95.362495,102.524536,106.499054,111.56131,106.1301,100.52125,120.32924,127.02728,135.44919,131.89627,140.31511,137.40884,137.00047,138.53946,124.17952,132.54205,132.8623,123.09194,128.20734,141.54924,162.65694,189.29149,202.7287,231.32637,251.00471,272.6659,172.07954,All tokens,194,560,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+33,25.851656,34.341507,37.118492,42.254467,30.266169,28.346603,28.951458,31.297737,37.50741,41.75792,42.52958,44.404354,48.81491,50.669468,52.602432,55.729317,55.317284,59.02564,59.56769,60.06871,64.89521,71.12749,76.03008,83.25164,82.88837,82.2405,86.2091,78.30974,53.373802,All tokens,49,67,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+34,75.293076,88.952705,88.71362,98.417404,102.22003,105.688965,100.6198,94.675804,113.36046,120.654495,130.96878,126.01914,134.7192,133.28598,131.92369,136.29202,124.22666,133.24196,134.51276,125.744415,131.83603,143.29579,161.82593,182.6982,193.04489,214.03989,233.86763,250.75061,168.59535,All tokens,183,541,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+35,59.024773,73.870026,76.28782,84.190544,83.25076,83.95362,78.58131,78.64717,93.103905,98.83096,103.89959,102.27839,108.48653,106.969475,107.64602,113.333115,106.580086,114.63111,112.811035,108.51234,114.56221,123.87099,132.18651,143.87721,148.19238,155.6618,167.14906,168.5861,98.766556,All tokens,176,530,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+36,36.847828,42.44802,44.444614,47.98435,46.198593,45.879498,46.120388,49.09724,55.977325,61.02824,64.3664,65.043015,69.33725,69.986404,72.05757,74.99003,74.17343,77.87682,78.07723,77.74247,81.351204,84.06971,88.659164,94.8376,93.88309,97.486435,99.84201,100.77033,77.55892,All tokens,309,750,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+37,22.54143,31.109735,33.46884,38.457714,23.215664,21.52751,22.08757,25.355585,30.56491,34.631912,36.644436,37.96489,40.99345,42.458202,44.84523,49.042175,49.58622,53.09378,54.446556,55.704666,60.036663,62.925957,66.787704,73.32977,75.78475,77.716705,82.14092,75.963264,48.34257,All tokens,135,412,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+38,30.367247,39.171173,42.43938,47.500732,35.70285,33.739273,35.0373,37.918953,45.05871,49.801273,50.875324,52.416782,56.167156,57.98257,59.04583,62.259514,60.467213,63.18866,63.104893,62.49348,66.47827,72.41272,77.46538,86.09424,88.93146,90.08494,93.69839,82.61937,56.045673,All tokens,22,27,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+39,87.31618,101.189,102.381294,110.12313,115.45951,119.10744,115.177536,106.513535,126.12851,132.17068,138.52315,133.67589,141.11449,138.06879,137.21341,139.37102,125.054436,132.99947,132.51146,121.09588,126.73228,144.44633,166.48367,194.70505,211.80312,241.38588,258.20993,278.9859,192.25148,All tokens,235,620,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+40,31.722372,40.61022,43.847046,48.780422,35.568134,32.83986,32.991932,35.795353,43.192257,48.51166,48.710503,50.46219,54.482967,56.199978,58.465965,61.518215,61.30354,64.73095,64.72527,65.48567,68.98793,73.14263,77.00803,84.64835,84.6735,86.87045,87.38821,84.67936,61.802174,All tokens,274,675,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+41,28.655235,36.92864,40.294163,44.908665,34.46435,32.455544,33.40844,36.24074,43.878326,48.585648,48.609688,50.064453,53.926308,55.48302,56.81044,59.423973,57.20118,60.004498,59.824398,59.402443,63.196163,69.17378,74.239456,85.16017,87.28408,87.78895,93.535,85.63126,60.99897,All tokens,63,93,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+42,47.19412,55.290646,57.03156,62.695843,66.19444,69.59837,67.87826,66.32894,77.16569,82.83001,86.67788,85.96595,91.80293,91.88702,94.35923,98.780785,94.062065,100.75943,101.713005,97.51689,101.33168,109.53287,119.46898,130.18451,134.71733,144.18428,151.41658,157.15466,111.23554,All tokens,193,559,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+43,30.925682,41.44734,45.320194,50.74017,37.674366,35.067284,36.17954,39.0849,46.442204,52.016056,53.62013,54.3394,58.689163,60.38023,61.338627,64.52411,62.86714,65.67433,65.58473,65.63297,70.7375,78.37702,84.98042,93.30929,96.1277,97.95875,104.36635,96.7396,60.393906,All tokens,40,54,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+44,43.65499,52.82612,56.19767,60.419197,50.193985,47.516647,47.27609,50.17983,58.966736,64.86984,65.70126,66.56353,71.087074,72.48126,74.48231,76.4402,74.76381,78.17934,77.07901,76.286354,79.07378,84.460464,91.554405,101.52882,103.32574,106.06686,111.650085,109.8521,77.57923,All tokens,282,696,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+45,30.823648,41.12665,44.701374,50.564907,35.30414,32.710205,33.33351,36.64619,45.03517,50.523598,50.06685,50.937355,54.45619,55.00063,57.637203,59.911465,59.00262,61.64104,60.183876,60.918835,65.05626,70.74584,76.61273,86.591545,88.53277,90.99891,94.11724,85.46947,53.171265,All tokens,150,467,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+46,28.584028,36.020153,36.94016,40.43696,32.125366,30.34531,30.885515,33.28105,39.088863,43.587597,44.008133,45.247463,48.90204,50.350414,52.76227,55.71949,55.38609,58.16839,57.87973,58.292145,62.05341,66.87063,71.38395,79.28647,80.36414,82.11879,87.40329,83.80842,58.528976,All tokens,321,779,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+47,34.6162,42.67141,44.894726,48.93695,39.649033,37.349987,37.488693,40.690723,47.59195,52.341915,55.03007,56.330875,60.469227,61.81535,64.24865,67.52779,66.44087,69.86387,70.020325,68.93778,70.934166,74.93606,77.880684,83.89255,84.039566,84.01569,87.09496,84.03584,58.977673,All tokens,316,769,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+48,77.41169,88.90114,89.89489,96.818474,101.332405,105.92266,103.161064,98.90413,114.444435,119.30543,126.65658,121.68033,129.77303,128.88057,130.4035,136.61923,128.68979,140.11914,142.14804,136.43127,142.38426,151.41362,166.08215,183.14699,190.13477,210.51561,224.81738,241.05345,166.57634,All tokens,185,547,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+49,42.955093,52.53022,55.348095,60.637196,52.56199,50.43382,49.152428,50.602596,59.8608,65.91556,67.42554,68.17451,73.5419,75.03178,77.60699,81.51029,78.87912,82.62181,81.581985,80.08072,83.84473,91.27512,98.3664,110.11185,112.12101,117.78273,126.05899,126.17848,90.18065,All tokens,295,720,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+0,38.15654,40.563465,40.988506,41.704277,42.762985,43.201454,43.558777,44.251358,47.90877,49.483894,50.004284,49.591263,51.597935,51.641182,52.56738,53.527782,52.365746,53.827168,53.982845,52.570175,52.92942,55.833908,58.902576,63.719643,63.727116,67.03194,69.133255,73.50576,65.7411,Img tokens,57,77,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+1,74.4734,80.468056,81.313934,84.17818,86.806885,88.56946,86.67569,82.136566,92.3958,96.43982,97.80931,95.43014,99.42446,97.7866,97.21094,97.38618,86.455475,90.16784,90.92248,81.91734,84.705284,97.78542,112.59553,133.56096,142.75612,161.20609,172.48538,188.50009,133.2213,Img tokens,12,14,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+2,40.079193,40.463432,40.432304,41.227497,42.21132,42.801804,41.431435,42.009766,44.2158,45.966976,46.44733,45.520027,46.851147,47.239754,48.954254,49.659225,49.597866,51.668644,52.228096,51.600636,52.502335,52.93787,55.73054,59.111744,60.3062,64.01605,65.94278,66.24461,56.651054,Img tokens,140,437,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+3,44.089924,47.64664,47.0563,48.597927,49.829727,51.578014,49.361973,48.840847,55.07362,57.260185,61.654564,60.525024,63.71147,63.477818,65.28956,66.015015,64.892334,67.18557,67.07775,66.19491,66.67313,71.596535,76.95851,82.14182,81.31381,86.81881,88.27528,92.2255,68.06936,Img tokens,125,381,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+4,48.282963,51.978268,51.908134,53.038174,54.75051,56.003326,53.436573,51.652485,58.432735,59.254,60.561802,58.608322,62.42611,63.14721,65.26839,65.92559,62.802006,65.48723,64.93171,64.416145,66.44946,71.67096,77.86419,84.7511,83.51386,90.76342,94.1554,96.20149,72.68307,Img tokens,114,310,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+5,39.885914,42.006786,41.38952,42.80135,43.810974,44.607796,43.93279,43.219574,47.254047,49.573868,50.40161,50.752575,53.498512,53.952503,54.843792,55.532757,54.84031,56.99456,57.14105,57.20677,58.094273,59.804256,62.73,66.415504,65.96643,68.73706,72.53077,76.35911,59.094524,Img tokens,71,102,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+6,38.27027,39.4787,39.520344,39.87553,40.579,41.143196,40.34444,40.27336,43.256687,44.764652,43.001286,43.00189,44.079185,44.257595,44.537262,44.40212,42.953594,43.658455,42.561733,41.627228,41.78295,43.342525,46.256413,50.680588,49.85096,53.391476,54.930573,56.344284,49.902676,Img tokens,52,71,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+7,52.42359,55.994865,56.502377,58.90662,60.730164,61.837456,59.747936,57.10346,63.554478,65.833954,67.70103,67.462776,70.8678,69.85891,72.479256,72.36361,69.38957,71.76983,70.97147,69.24906,70.95656,75.27434,80.62333,87.867546,89.711006,95.569115,96.75312,102.93115,73.028244,Img tokens,279,684,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+8,49.499317,50.996826,51.78593,52.15009,53.004498,53.953197,53.167732,52.22727,55.427517,57.3964,54.682434,55.27528,56.456482,56.61133,56.60266,56.84241,54.96183,55.91743,56.055,53.0175,53.6028,57.942577,61.80568,66.40223,66.61897,68.72585,71.68128,77.2962,62.42105,Img tokens,44,60,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+9,48.82271,53.862396,55.090534,60.26035,62.52874,63.446346,61.06026,59.261177,65.49048,67.94464,67.40738,66.20564,68.96402,68.889046,70.697014,71.62644,68.6281,70.443085,69.593056,67.73936,68.9876,75.15534,78.480125,84.72334,85.60701,86.82705,90.72596,94.97577,64.94325,Img tokens,302,736,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+10,70.23176,76.28417,76.8189,80.66222,83.32722,85.31299,82.18856,76.60908,88.278015,90.998085,90.37337,89.77909,94.54853,94.032196,94.348206,96.61666,90.1038,94.3599,94.22447,88.30463,90.45239,101.20508,114.41496,128.75829,131.34734,149.27563,157.80775,172.23338,122.48788,Img tokens,216,590,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+11,40.20553,43.34909,43.63525,46.929665,48.567856,49.527393,48.078568,46.45831,50.35237,51.28931,51.37647,52.217384,54.66346,54.956776,56.438126,57.208652,56.714268,58.469334,58.547173,58.18251,57.85222,61.03153,63.64236,66.51413,64.4124,63.746964,66.004005,67.50854,55.26036,Img tokens,16,18,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+12,40.88625,42.665356,42.25872,43.95515,45.23243,45.975353,45.02342,44.53396,48.835136,50.814793,49.8086,49.884304,52.43001,53.613728,55.029728,55.68156,55.02204,56.630142,56.527195,55.476536,56.545418,60.666264,64.58216,69.10817,68.748856,71.66522,72.75401,75.7024,62.904953,Img tokens,15,17,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+13,46.968426,48.900978,48.777733,50.97056,52.775196,53.381294,52.243786,50.780994,55.106564,57.39637,55.70562,56.25266,58.771725,59.000175,59.510628,59.904095,57.529896,58.329433,57.130962,54.54064,55.2927,60.798603,64.54153,69.82843,69.371506,72.11937,77.588486,84.41042,64.99973,Img tokens,47,64,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+14,47.158627,51.012474,52.386875,55.13529,57.758972,58.50135,58.501434,56.916023,60.64856,63.030552,64.100845,62.892147,66.3714,66.42674,69.024216,69.00829,67.226944,68.7583,68.18445,67.49791,68.65857,73.08946,77.136444,81.90242,80.1964,81.936295,84.54888,86.92859,64.35216,Img tokens,111,278,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+15,63.29463,68.1682,69.02755,71.79276,73.819954,75.14015,72.30955,68.99744,76.39287,79.8289,79.687805,78.06047,81.27079,80.630684,81.51148,81.015076,75.654915,77.34981,76.726204,72.792496,73.622116,80.9311,88.57246,99.76786,100.28346,106.17039,111.290184,120.62441,92.87608,Img tokens,119,334,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+16,54.6225,56.847237,56.46028,57.344234,58.48325,59.0699,57.472733,55.815834,61.151573,63.748573,63.513397,62.13096,65.41065,65.21201,65.79366,66.19071,63.795834,65.53803,64.98969,62.736034,63.80133,68.871704,75.14302,82.39178,82.11057,87.35066,89.44251,95.63869,73.90328,Img tokens,258,652,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+17,59.44707,62.4815,62.633244,63.970654,65.313255,66.92195,65.190254,63.28636,70.025764,73.74804,73.4818,73.43023,76.0423,76.16278,76.76778,77.419846,73.01655,75.09971,75.21288,69.86474,69.8324,76.35594,84.62176,95.87114,99.61499,107.25325,111.25988,120.30756,94.37966,Img tokens,308,749,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+18,43.48865,45.024708,44.923656,45.848717,47.45301,48.025936,46.70304,46.140976,50.09164,52.348904,51.980797,51.11241,53.209663,53.784798,54.921227,55.33976,53.825233,54.86121,54.449917,53.169735,54.381516,58.910107,61.244926,66.4938,65.803535,68.9364,72.06365,74.746765,59.402134,Img tokens,13,15,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+19,46.221573,49.184715,49.392887,51.60309,53.174118,53.58211,52.749805,50.645046,55.467308,57.769028,59.904896,58.512344,61.455936,61.599995,63.428474,64.58571,62.78368,64.960075,64.57292,63.69191,64.85385,68.48495,71.40029,75.66992,73.24188,76.362495,79.5459,84.7882,65.522026,Img tokens,287,705,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+20,26.917988,29.305485,29.886864,30.655363,32.732365,34.479584,33.649796,33.685738,36.07435,37.374985,37.80139,38.127552,40.21207,42.446297,43.895905,45.510357,47.10249,49.593967,52.352627,51.687336,50.596878,50.05428,49.82255,51.061985,52.89934,55.07309,53.865788,54.492123,38.224136,Img tokens,101,228,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+21,84.37404,94.050224,92.38906,98.44176,103.03019,108.01469,106.112946,98.84128,114.68798,119.8103,125.45527,120.87332,127.94692,128.24945,129.28207,132.51315,121.83424,131.04999,134.08734,125.088615,129.71667,142.36153,161.29858,183.47903,195.70073,219.9542,236.9716,257.5264,185.44498,Img tokens,214,586,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+22,45.59569,47.257282,46.924583,47.8177,49.040024,49.78066,46.568935,46.880806,49.24862,50.58665,50.478317,50.04091,51.392254,51.880074,53.030487,54.113266,53.71187,55.614716,56.167404,54.974205,55.033535,56.94675,59.77401,61.367825,59.940037,61.971947,62.545826,63.624523,47.85263,Img tokens,112,282,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+23,67.863434,74.1514,73.15609,77.1644,81.35206,83.60247,81.667656,79.834885,90.45981,94.122406,91.935745,89.58896,93.3838,93.15942,94.41526,97.33841,94.93986,100.16694,99.0554,96.499115,98.51976,106.55773,118.24057,126.9488,128.51508,137.4152,146.05692,154.2331,102.03921,Img tokens,229,610,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance
+24,51.60454,52.901947,52.41248,53.13019,53.73135,54.75795,53.53176,51.746273,55.894424,58.66868,57.47418,56.08684,59.192947,60.19363,61.928463,62.43379,60.13038,62.337017,63.479027,60.288456,61.370953,66.97603,73.26729,80.861855,80.6413,84.51123,84.54484,91.30642,70.05138,Img tokens,301,735,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,46.69234,48.209816,48.009987,48.28795,49.144215,50.036396,49.431286,47.83769,51.724815,53.32001,52.33625,51.90364,53.33413,52.916714,52.613403,52.43811,47.231045,49.19768,49.511982,46.668762,47.63816,53.487972,61.586777,72.03833,75.041534,84.96304,89.38461,94.251755,69.81698,Img tokens,142,442,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+26,50.154675,51.710163,51.91623,52.15158,52.83988,53.53174,53.232502,52.675648,56.55472,58.586662,57.75349,57.18539,58.472683,58.007687,57.59846,57.005486,52.475952,53.486588,53.64936,50.971203,52.308857,57.821163,64.050255,73.24468,77.308624,84.77393,89.98701,95.2037,70.03412,Img tokens,3,3,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+27,27.294687,28.607151,28.586992,28.929918,30.07116,31.335062,30.88199,29.832926,31.273966,32.210876,32.117954,32.038574,32.83628,33.48344,33.52532,34.342674,34.875095,36.22363,37.144226,36.64816,36.293785,35.69915,36.088516,36.827343,37.32505,38.22434,38.044403,35.63536,28.118196,Img tokens,81,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+28,84.56992,92.14558,91.65412,95.13958,98.329544,101.4765,99.57969,95.93817,109.45252,112.15801,117.29384,111.73412,117.26874,114.04495,114.31697,116.122406,104.03265,109.6914,111.114876,100.37819,101.40738,110.528206,126.328636,149.7981,162.72661,191.57895,203.35988,229.21577,170.80783,Img tokens,174,528,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+29,49.66419,50.742916,51.155193,51.995964,53.012775,53.38781,53.37272,52.381588,54.989044,56.082832,53.871193,53.31617,53.872566,53.598835,53.35175,53.10527,49.093037,50.52685,50.28965,46.872654,47.67779,53.946716,57.737682,65.385796,67.791824,68.647835,68.76001,69.6765,58.364517,Img tokens,79,119,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting
+30,31.600943,32.19284,32.204346,33.10657,34.272007,34.824547,35.363327,34.822906,37.344116,39.11874,38.24485,37.94792,39.344215,40.13504,40.47039,41.709194,42.13018,44.074062,45.85359,44.791203,44.826004,43.6259,44.46873,44.448475,43.141426,43.60514,44.70569,45.339424,39.38476,Img tokens,110,266,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+31,101.49344,110.81772,108.605255,113.25355,116.87634,120.10161,116.49416,105.91261,121.1194,124.52617,130.20499,124.63374,131.96823,129.21608,126.985306,130.94518,119.22103,127.762436,130.54276,120.36507,124.51399,135.4946,149.9421,172.55174,183.51474,210.3003,222.95193,245.43596,178.90132,Img tokens,172,526,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+32,87.77726,97.12407,95.98389,100.90848,105.09461,110.10869,105.619995,98.390274,115.652916,120.69586,127.211,123.77268,130.60469,127.93868,127.56641,128.15067,114.45005,121.79085,123.35382,113.21883,117.036285,130.23598,152.02356,178.16951,191.85028,222.04842,242.02438,269.48257,174.9773,Img tokens,194,560,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+33,42.078606,43.57278,43.044163,44.26309,45.651787,46.319294,44.57224,42.421604,46.240017,48.23629,47.99805,48.98853,51.80767,52.302124,52.66741,53.076565,51.26463,52.915188,52.620358,50.90671,52.291325,58.350937,62.751266,68.77181,68.2321,71.127625,73.94936,78.45259,61.538017,Img tokens,49,67,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+34,79.869606,90.42919,88.79993,96.457886,100.7577,104.45034,100.29494,92.67528,109.21791,115.11742,122.96411,118.15845,125.53527,124.187805,122.910065,126.06405,114.5556,122.51286,124.99286,115.9348,120.72183,132.2507,151.32411,171.6399,181.94194,204.19102,223.48593,246.08,172.06601,Img tokens,183,541,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+35,67.304756,76.03342,75.883575,80.225464,83.28984,85.55163,80.56146,77.339195,88.605576,91.4428,93.15248,91.683014,96.509735,95.3739,96.62937,99.75621,94.365845,100.5316,99.929886,95.80478,99.13052,108.44297,116.859955,127.56623,131.79938,141.56956,152.1337,162.7,102.24811,Img tokens,176,530,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+36,43.57105,45.991467,46.302113,47.75432,49.462063,50.32426,50.20446,50.76855,55.02078,58.761803,59.699383,59.579113,62.746593,62.972446,64.45129,66.06686,65.47194,68.52739,69.0721,68.39837,70.25738,73.21482,77.45345,82.52983,81.407196,86.29431,87.79552,93.93705,79.61303,Img tokens,309,750,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+37,31.824823,34.08376,33.718517,35.13348,36.33918,37.29591,36.544067,36.7203,40.325836,42.335785,43.60384,43.845364,46.330162,46.67116,48.18617,49.148384,48.61169,50.498947,50.343918,50.24421,51.08497,52.362713,54.26851,58.132423,58.989063,62.363983,64.84602,67.022285,48.92134,Img tokens,135,412,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+38,52.87667,54.304737,54.090107,54.61987,55.657772,56.339153,55.912815,54.30005,58.021927,59.94641,58.68561,59.024456,61.120934,61.065876,60.840305,60.850983,57.661694,58.135445,57.48465,53.98198,54.572197,59.696392,63.78999,71.18962,73.59017,79.18739,82.10556,85.281715,71.17757,Img tokens,22,27,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+39,93.34253,103.913864,103.65612,109.13217,114.5029,117.93375,114.926216,104.59233,121.90036,126.295265,130.76111,126.014824,131.84381,129.01216,128.13159,129.20271,115.55574,122.4818,123.2531,111.402954,115.7413,133.25497,156.18648,183.82286,201.17131,232.21104,249.0845,275.71313,196.61136,Img tokens,235,620,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+40,44.681774,46.749397,46.806553,48.13498,49.581432,50.169617,48.596943,47.49993,52.316826,55.358154,54.609085,55.08452,57.85035,58.524452,59.35957,59.433777,57.225166,59.05805,59.19021,58.063473,58.677303,61.84165,64.39424,71.08891,70.331955,75.09753,73.24601,79.32318,65.78261,Img tokens,274,675,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+41,47.216858,49.16186,49.79932,50.524166,51.59181,52.229683,51.10206,49.598904,53.9661,55.989628,54.153496,54.61393,56.476868,56.632065,56.10415,56.098446,51.476994,52.528027,52.999733,50.04933,50.735855,56.520374,62.080227,71.55803,74.47432,79.4287,83.98216,89.695786,74.38286,Img tokens,63,93,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+42,53.042786,57.573444,57.73681,61.09448,64.06021,66.937965,65.93577,62.97744,70.989685,74.661995,75.64857,75.23642,80.05202,80.3994,82.94637,85.756004,81.71966,87.01464,89.223694,84.52706,86.4005,94.53664,105.28957,115.16178,120.31799,131.83603,138.69453,150.72481,115.11133,Img tokens,193,559,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+43,51.360382,53.59054,53.696247,54.340908,55.279736,56.030655,55.174767,53.441273,57.413704,60.024357,60.677166,59.71495,62.158688,62.01936,61.56305,61.568893,58.180847,58.802246,58.027462,55.358047,56.934914,64.2348,70.4876,76.6995,78.24796,84.387436,90.29889,95.31107,70.26244,Img tokens,40,54,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+44,56.669613,58.919262,59.48881,60.223263,61.207355,62.25768,60.750587,59.60472,65.215965,68.219635,66.38903,66.57972,69.56751,70.139984,70.91411,70.52802,68.18865,70.15049,69.290184,66.954025,67.18954,72.29463,78.89688,88.00139,89.42081,94.74462,98.95154,105.52988,81.26222,Img tokens,282,696,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+45,47.83577,50.815746,50.92258,52.54848,53.936623,55.225166,53.370193,51.94488,57.79837,60.107162,59.242535,58.138607,60.129375,59.015198,60.08635,59.414566,55.433304,56.977013,55.741436,53.193176,54.306824,59.9978,66.3589,75.29919,76.19529,81.97943,82.9671,85.996704,61.80548,Img tokens,150,467,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+46,40.047657,42.23356,40.464188,41.162727,42.173645,42.94055,41.861145,41.352505,45.31167,47.79761,46.998077,47.127537,49.93481,50.837723,52.054417,52.69616,50.401604,52.11869,51.97502,50.397854,51.53692,56.39479,60.340885,66.85245,67.55091,71.65101,75.315346,78.91389,61.195625,Img tokens,321,779,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+47,44.250427,46.30645,46.015244,47.074223,48.370377,48.544716,47.506054,47.45846,51.43035,54.064205,55.04723,55.16532,57.98263,58.68984,60.263252,60.95483,59.97941,61.678707,61.643272,59.907066,59.835922,63.225246,64.969055,69.52612,68.94573,70.29534,72.65628,76.3685,59.480328,Img tokens,316,769,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+48,82.404594,90.87749,90.541534,95.505516,99.77191,103.851395,101.69307,96.032,109.51198,113.110306,118.61723,113.95647,121.04509,120.23903,121.86846,126.65568,119.339905,129.73628,132.75983,126.78649,131.42365,140.5858,156.0475,172.56656,179.62404,201.58017,215.50516,237.12816,171.40288,Img tokens,185,547,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+49,53.56383,56.797028,56.75141,58.600243,60.63508,61.999165,60.20784,57.687546,64.36385,67.71994,68.2821,67.93511,71.325874,71.63034,73.0904,74.11018,70.877426,73.034,72.83163,69.52993,70.48583,78.04742,84.81461,96.048256,97.79434,106.000275,113.64407,121.999344,95.27737,Img tokens,295,720,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+0,24.306307,35.562347,33.618626,37.64268,1.4241878,1.4488702,1.5600905,1.7717611,2.0773485,2.3540692,2.3107035,2.4352288,2.5831232,2.7203348,2.8976963,3.1451774,3.4631395,3.7340498,4.227825,4.8893223,5.7428555,7.589305,10.329697,13.436185,16.867186,20.325294,24.79366,37.00886,26.468412,Text tokens,57,77,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+1,23.68601,34.67465,32.83593,36.51953,1.3727162,1.4031105,1.502663,1.6838326,1.9525456,2.1720967,2.1163557,2.2267606,2.3577032,2.4925416,2.6383562,2.859436,3.1318774,3.3554611,3.7667933,4.273063,4.9609346,6.3678746,8.315437,10.711647,13.632724,16.71032,21.28106,36.17917,27.677341,Text tokens,12,14,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+2,27.835382,37.44369,34.49041,38.005608,1.3602998,1.3884162,1.4788246,1.6405646,1.8719357,2.0728238,2.0317986,2.1483378,2.2512727,2.3268137,2.4346201,2.6359293,2.8497856,3.0375435,3.3846226,3.8261895,4.486265,5.784548,7.7100673,10.479604,13.794569,17.199957,21.719727,34.81585,26.286596,Text tokens,140,437,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+3,33.14386,42.081562,38.478924,42.07347,1.420125,1.4493619,1.5670407,1.747703,2.0287988,2.226622,2.1853096,2.2954364,2.3980753,2.480123,2.6276543,2.8592598,3.104088,3.329947,3.7497377,4.261268,5.0166874,6.571485,8.948801,12.172917,15.77556,19.388794,23.790487,35.244617,26.617794,Text tokens,125,381,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+4,33.14,42.002323,38.50712,42.138046,1.4082394,1.4381691,1.556992,1.7319505,2.0097904,2.1997113,2.1552901,2.2711546,2.3698978,2.4468076,2.5928438,2.819804,3.0536516,3.2584643,3.661224,4.1805487,4.944894,6.4763427,8.722559,11.833538,15.359151,18.894226,23.400328,35.381363,27.072647,Text tokens,114,310,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+5,24.400711,35.637142,33.884857,37.480743,1.4164236,1.4424736,1.5526929,1.752964,2.0398774,2.2773833,2.2229073,2.3698237,2.5133402,2.6399605,2.795931,3.0384545,3.3339381,3.582669,4.064496,4.6416564,5.4443197,7.049457,9.48069,12.333331,15.694405,19.07782,23.576706,36.89436,26.989536,Text tokens,71,102,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+6,23.725754,34.753887,32.46777,36.97014,1.3906026,1.4123067,1.520994,1.7141428,2.0011768,2.2219694,2.1841166,2.3118572,2.4589984,2.5901194,2.7432945,2.9791584,3.2778943,3.525472,3.9417017,4.5355463,5.269691,6.866995,9.118429,11.835571,15.186314,18.393847,22.71881,35.690434,27.177752,Text tokens,52,71,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+7,27.018187,36.563625,33.356087,36.583286,1.291305,1.3154006,1.3943866,1.5257151,1.7137457,1.863164,1.8327781,1.9095068,1.9840237,2.0538363,2.1459124,2.3151095,2.4983735,2.6412842,2.9000468,3.2816503,3.7619288,4.7317305,6.2122035,8.266634,10.9606285,13.758475,17.791584,32.30733,25.604265,Text tokens,279,684,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+8,24.401455,35.1769,33.515186,37.11374,1.4010863,1.4226124,1.5297906,1.7311908,2.0256608,2.274175,2.2354171,2.3730469,2.511911,2.6591756,2.817284,3.0578253,3.3596218,3.6169097,4.0865827,4.6708026,5.4391904,7.088205,9.402669,12.115705,15.320599,18.660633,23.118938,37.094994,26.98428,Text tokens,44,60,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+9,27.861404,37.350903,34.207623,37.49872,1.323925,1.342704,1.4214958,1.5650924,1.7705534,1.9347044,1.8983707,1.9904249,2.0558064,2.125105,2.223058,2.3936815,2.5767112,2.7399065,3.0198843,3.4127114,3.968817,4.992562,6.603976,8.802439,11.626038,14.514594,18.576012,32.881344,25.831171,Text tokens,302,736,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+10,36.177456,49.17555,45.58765,50.194096,1.6935725,1.7646755,1.9583843,2.3287916,2.867959,3.3546233,3.2550483,3.5082452,3.7503898,3.9603891,4.247441,4.7726083,5.429759,5.9972787,6.9286733,8.104892,9.6640415,12.501413,16.696087,21.44437,26.464054,30.697338,36.169357,45.60518,32.52775,Text tokens,216,590,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+11,25.53383,36.867752,34.398262,38.27904,1.4172262,1.4452932,1.5555583,1.7652752,2.078691,2.328311,2.275927,2.410819,2.5688322,2.706984,2.8765185,3.1179452,3.4083893,3.6845016,4.1632514,4.754676,5.6764674,7.3899565,10.218354,13.413293,17.132656,20.6784,25.323162,37.525276,26.87463,Text tokens,16,18,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+12,25.494352,37.320316,34.753746,38.553207,1.451526,1.4691917,1.5892922,1.8035449,2.1474702,2.4252617,2.3440247,2.5037415,2.672972,2.8226998,2.9947493,3.2274735,3.554751,3.8476334,4.3633127,4.9934173,5.7994175,7.5094604,10.181001,13.101977,16.741987,20.223259,24.901773,36.58721,25.972355,Text tokens,15,17,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+13,26.586159,38.505028,35.744305,39.344788,1.4656988,1.488504,1.605207,1.8343655,2.1880674,2.4908812,2.4512832,2.5967767,2.761386,2.9109135,3.114241,3.38881,3.732231,4.048577,4.551288,5.2246284,6.1727414,8.027714,10.957891,14.125017,17.792257,21.199898,25.660114,36.910973,25.534092,Text tokens,47,64,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+14,33.144047,42.202396,38.70569,42.22049,1.4339172,1.4597789,1.5786414,1.7579106,2.0389514,2.2535737,2.2125664,2.3293667,2.4365933,2.5176225,2.6548257,2.8759067,3.1096516,3.3313758,3.7359557,4.281489,5.0979424,6.6777034,9.027108,12.285707,15.837747,19.487566,24.169256,36.34485,27.673204,Text tokens,111,278,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+15,34.811325,43.782864,40.576656,43.858326,1.4386848,1.4653021,1.5859547,1.7784021,2.0934293,2.298262,2.2509623,2.367445,2.4771476,2.5612407,2.7166588,2.9680955,3.2250252,3.4437325,3.8479633,4.4072304,5.254213,6.8627634,9.288611,12.532426,16.154339,19.8704,24.578865,36.592743,27.93072,Text tokens,119,334,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+16,28.257236,38.327965,34.97211,38.067364,1.3213731,1.3482789,1.4271624,1.5707579,1.7731779,1.9348125,1.90039,1.9792045,2.059844,2.143084,2.2438567,2.4278355,2.6340995,2.7786427,3.0573149,3.4649339,4.0051093,5.0765295,6.7165523,8.92353,11.700417,14.604267,18.667412,32.869938,25.89782,Text tokens,258,652,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+17,27.02696,36.6116,33.33574,36.533184,1.3251207,1.3386482,1.4166377,1.561664,1.7781305,1.9394847,1.9075875,1.9937714,2.066806,2.145329,2.255273,2.4294891,2.6285636,2.7932317,3.0663736,3.473293,4.0257134,5.1205235,6.7238674,8.982293,11.831543,14.755194,18.700588,32.223534,24.986624,Text tokens,308,749,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+18,27.361813,39.159172,36.671017,40.168297,1.4671192,1.488306,1.6111742,1.8458962,2.188973,2.493033,2.429996,2.5969079,2.7625287,2.8997796,3.1090052,3.3898191,3.7349496,4.03759,4.5376854,5.1731405,6.1159925,7.9718413,10.745163,13.866291,17.510649,20.925219,25.453703,38.1672,27.34234,Text tokens,13,15,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+19,26.94886,36.51241,33.21605,36.58083,1.3022212,1.3249298,1.3994277,1.532179,1.7153915,1.866544,1.833764,1.9070611,1.9698492,2.038574,2.133319,2.3017042,2.4871821,2.6298895,2.8886566,3.2572265,3.761824,4.766097,6.3057833,8.424977,11.146347,14.0098715,18.003525,32.017826,25.060417,Text tokens,287,705,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+20,33.341537,42.198982,39.072304,42.306538,1.5641389,1.5921366,1.7328165,1.9770775,2.3634918,2.7091591,2.6962483,2.8508363,3.0408037,3.1593668,3.381489,3.7260978,4.1037245,4.4155674,5.016277,5.8294883,7.036237,9.3246,12.555152,16.40947,20.816126,24.502499,29.323545,39.406372,29.25281,Text tokens,101,228,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+21,36.177456,49.53426,45.82349,50.559364,1.721928,1.7904288,1.9927508,2.3692832,2.929183,3.440677,3.3421857,3.6199245,3.8965523,4.0900784,4.378845,4.937415,5.6314864,6.188814,7.1669283,8.377001,9.943801,12.962058,17.37853,22.274944,27.19849,31.468874,36.84409,45.961014,32.283253,Text tokens,214,586,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+22,33.155552,42.275463,38.654865,42.248997,1.4326124,1.4542416,1.5744834,1.7546852,2.0299041,2.2239766,2.1918423,2.3033636,2.406179,2.4891183,2.6311553,2.8447845,3.0770042,3.3037548,3.704019,4.233591,5.0202184,6.6082125,8.938041,12.079853,15.547696,19.159681,23.784214,36.11729,27.819708,Text tokens,112,282,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+23,36.177456,49.50509,45.74204,50.48621,1.7308376,1.7970948,2.0018635,2.3738382,2.9444647,3.4618225,3.3673277,3.6403012,3.8999226,4.1009226,4.3952084,4.9563966,5.6516294,6.248396,7.228672,8.50082,10.19138,13.2182045,17.757471,22.807735,27.889917,32.083645,37.25126,46.033184,32.25696,Text tokens,229,610,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance
+24,28.59271,38.391113,34.523132,38.50433,1.3247313,1.3510959,1.4327054,1.585933,1.801426,1.9753182,1.9392774,2.0262597,2.1116583,2.2049844,2.309289,2.504153,2.7188497,2.9020696,3.221763,3.6705172,4.2564297,5.3877683,7.1399097,9.470711,12.424018,15.444365,19.79,34.351444,27.139807,Text tokens,301,735,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,27.835382,37.73752,35.014202,38.32229,1.3682414,1.391143,1.4784968,1.6451349,1.8868829,2.0950994,2.0555356,2.1722326,2.2731087,2.3582873,2.4762015,2.6807027,2.8993237,3.0947895,3.4442878,3.9564197,4.624594,5.936529,7.875329,10.654066,13.97273,17.348843,21.86741,35.639374,27.12866,Text tokens,142,442,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+26,23.510794,34.64306,32.901604,36.870354,1.3959154,1.4158909,1.5195221,1.712249,1.9967713,2.2208917,2.1681378,2.3044033,2.4346757,2.5530243,2.708333,2.946608,3.2115865,3.4373257,3.88081,4.4756184,5.29923,6.8902235,9.216488,12.091463,15.444801,18.983315,23.593063,36.22656,27.0184,Text tokens,3,3,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+27,33.341537,42.258404,38.787186,42.379135,1.5505846,1.5812627,1.7223293,1.9569514,2.328781,2.676011,2.6737187,2.8192852,3.0140653,3.1249053,3.3586943,3.69656,4.0682254,4.3718176,4.9230103,5.698523,6.787117,8.940324,12.030454,15.756305,20.053452,23.65335,28.44679,39.398556,29.524702,Text tokens,81,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+28,36.177456,49.565483,45.799397,50.52366,1.7132076,1.7841331,1.9847739,2.3640985,2.9153361,3.4211926,3.3267741,3.5993383,3.8785057,4.0651617,4.35694,4.9029255,5.5859575,6.147734,7.0882688,8.249257,9.751262,12.568929,16.787905,21.566435,26.316628,30.36195,35.732395,45.11935,31.661932,Text tokens,174,528,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+29,28.305136,39.270866,36.887577,41.069466,1.4768938,1.5177561,1.6474009,1.9017336,2.2639482,2.5461376,2.4863667,2.6433232,2.797508,2.962927,3.1606789,3.4563203,3.8225424,4.1219525,4.661063,5.39071,6.397879,8.392556,11.448914,14.80949,18.546717,22.108587,26.779348,38.57897,27.802996,Text tokens,79,119,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting
+30,32.75472,42.323975,38.71118,42.371044,1.5277079,1.5569242,1.6969858,1.9295679,2.33349,2.6835608,2.6755059,2.8560367,3.0755556,3.1954968,3.3996406,3.7531705,4.1570225,4.4306884,4.9352455,5.6897783,6.6399555,8.578346,11.453341,15.067393,19.196783,22.801579,27.56307,38.30809,27.908062,Text tokens,110,266,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+31,36.177456,49.492912,45.723953,50.44644,1.7119869,1.7843561,1.9829882,2.3596478,2.912571,3.4177516,3.323427,3.610497,3.8853815,4.0832767,4.371699,4.9259386,5.613566,6.1938424,7.1627455,8.346648,9.902099,12.802939,17.05777,21.877596,26.695713,30.853039,36.178196,45.128998,31.984173,Text tokens,172,526,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+32,36.177456,49.53233,45.546116,50.347782,1.710105,1.7837555,1.986734,2.3565292,2.9103794,3.4138153,3.3149285,3.586155,3.8572133,4.0400057,4.326864,4.869138,5.556534,6.133832,7.065956,8.266299,9.816956,12.753506,17.065441,22.013575,26.931454,31.191116,36.700325,45.783726,32.97482,Text tokens,194,560,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+33,24.508358,36.053272,34.306347,37.91219,1.4410261,1.4607702,1.5714465,1.7801969,2.0858302,2.335089,2.2956023,2.443932,2.5901017,2.7195096,2.8808,3.1113913,3.4174123,3.654476,4.12,4.685983,5.5020943,7.137967,9.520211,12.254435,15.615178,18.93753,23.537897,36.9835,27.008944,Text tokens,49,67,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+34,36.177456,49.540806,45.979416,50.58051,1.7152898,1.7885088,1.9919895,2.3712063,2.9333057,3.4406376,3.3348005,3.6092577,3.8716097,4.078311,4.364358,4.909926,5.6232376,6.2062283,7.165133,8.4007015,9.993494,12.918773,17.189693,22.08565,26.970652,31.231634,36.645058,45.758137,32.204838,Text tokens,183,541,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+35,36.177456,49.29541,45.580154,50.14803,1.6960862,1.7605441,1.9561428,2.3181927,2.8764837,3.3758707,3.2864337,3.5678985,3.8204906,4.00369,4.289264,4.8398247,5.5146713,6.1019945,7.042685,8.224218,9.873273,12.88083,17.358768,22.39725,27.359764,31.502834,36.550125,44.89024,31.805109,Text tokens,176,530,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+36,27.051924,36.487812,33.633167,36.680817,1.3043453,1.3268183,1.4036747,1.5428349,1.7373435,1.8867451,1.8525027,1.933906,1.9998505,2.0663204,2.1760552,2.3411875,2.5274577,2.682849,2.9497447,3.3075879,3.8417425,4.903483,6.4554276,8.600088,11.286387,14.132978,18.071798,32.2602,25.549335,Text tokens,309,750,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+37,27.835382,37.48597,34.6173,38.009895,1.3649111,1.3908708,1.4803581,1.6417445,1.8688393,2.0689232,2.0310302,2.1508317,2.2533464,2.3348017,2.448038,2.652577,2.865805,3.053136,3.4017131,3.8526561,4.500148,5.816704,7.842225,10.671487,13.91618,17.271656,21.762022,34.99056,26.292738,Text tokens,135,412,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+38,24.31099,35.89088,33.66647,37.569912,1.4129903,1.4478639,1.5588788,1.7613208,2.0571666,2.2997332,2.2497575,2.3937397,2.5475006,2.7051451,2.859696,3.1164284,3.414306,3.6861053,4.195513,4.8077497,5.685088,7.397997,9.926859,12.82699,16.357111,19.690292,24.278173,37.491558,27.79973,Text tokens,22,27,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+39,36.177456,49.513306,45.76535,50.466904,1.7082851,1.7799859,1.9785317,2.3519928,2.9042034,3.4195251,3.3209755,3.6062164,3.890076,4.091039,4.375732,4.933355,5.6133766,6.1977205,7.1687837,8.383236,9.981778,12.947307,17.323101,22.335737,27.195726,31.509943,36.99526,46.31568,33.223274,Text tokens,235,620,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+40,27.945509,38.09232,34.983543,38.111423,1.3170668,1.3383052,1.419766,1.5630784,1.770002,1.9293038,1.8927509,1.9810209,2.0597856,2.1302364,2.2396436,2.4377904,2.64433,2.8151433,3.102025,3.5151367,4.061976,5.1476054,6.767188,9.0178175,11.9005785,14.852693,19.011848,33.442574,26.321445,Text tokens,274,675,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+41,25.706415,36.628757,34.595276,38.361923,1.4299531,1.453613,1.567991,1.7933139,2.1233711,2.3802335,2.329991,2.4795268,2.6372688,2.7752094,2.949972,3.2071712,3.5606322,3.824554,4.2955775,4.944887,5.7828646,7.5270934,10.108828,13.022343,16.695393,20.216415,24.79594,37.77346,27.648502,Text tokens,63,93,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+42,36.177456,49.4147,45.79444,50.40003,1.7601513,1.8297068,2.042674,2.4341013,3.0266578,3.5592186,3.4676044,3.7522655,4.0336514,4.2310004,4.541811,5.1077037,5.8071284,6.39464,7.3915195,8.696473,10.481012,13.630351,18.165081,23.245916,28.273422,32.330154,37.26363,45.005184,31.035318,Text tokens,193,559,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+43,26.928453,38.34469,35.918365,39.386086,1.492603,1.5054038,1.6279379,1.8517758,2.1947474,2.468533,2.4263642,2.5948567,2.7523785,2.9036887,3.0852404,3.3575857,3.7071161,4.0045342,4.5233026,5.2018566,6.115727,7.9008384,10.738768,13.981432,17.957634,21.56681,26.410887,38.230885,26.243326,Text tokens,40,54,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+44,28.279026,38.052006,35.079395,38.16229,1.3302557,1.3509867,1.4316791,1.578186,1.7886546,1.9608965,1.9225405,2.0034788,2.080434,2.159546,2.2602658,2.4474733,2.66235,2.8358436,3.1337154,3.53099,4.09967,5.214553,6.9841995,9.258972,12.119669,15.038471,18.988497,32.793556,25.531666,Text tokens,282,696,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+45,27.835382,37.752884,34.957405,38.320286,1.36678,1.3884988,1.4756973,1.641801,1.8777809,2.0798924,2.0405004,2.1611826,2.2703202,2.3600361,2.4744911,2.670519,2.8721855,3.0603855,3.416791,3.9010437,4.5287805,5.7992053,7.7282577,10.44201,13.691146,17.029491,21.464462,35.34029,27.50942,Text tokens,150,467,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+46,27.053852,36.86197,34.475185,37.155342,1.3113753,1.3286852,1.4051566,1.5420084,1.7342203,1.8861269,1.8546175,1.9434302,2.007198,2.071391,2.1679657,2.3414774,2.532959,2.6902666,2.9348414,3.3096309,3.8321495,4.844863,6.4322677,8.599608,11.351483,14.135232,18.14733,31.951134,24.668314,Text tokens,321,779,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+47,28.598013,38.538265,34.582264,38.50911,1.3263739,1.3520265,1.434062,1.5895412,1.80946,1.975085,1.942112,2.0323925,2.1241217,2.207584,2.3133209,2.510639,2.7215972,2.9120874,3.2488592,3.7389512,4.294334,5.516529,7.3669086,9.803369,12.847721,15.94557,20.202559,34.32811,26.879803,Text tokens,316,769,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+48,36.177456,49.57388,45.81483,50.531475,1.7144476,1.7854985,1.9860624,2.365751,2.9160328,3.4231007,3.3289578,3.6030903,3.8778503,4.0747848,4.366081,4.9175935,5.596281,6.176956,7.138733,8.339251,9.949941,12.872555,17.183544,22.030577,26.927256,31.17795,36.59282,45.524,32.45603,Text tokens,185,547,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+49,28.657532,37.718765,34.80673,38.00154,1.3466787,1.3697633,1.44736,1.59324,1.8067498,1.9649324,1.9257114,2.0090985,2.0789635,2.1639147,2.25911,2.4441288,2.6457095,2.815433,3.1036925,3.5217586,4.0835776,5.1687436,6.8214407,9.037215,11.837739,14.726391,18.754522,32.516937,24.889696,Text tokens,295,720,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+0,24.306307,35.520832,32.86139,36.8957,1.434098,1.4673058,1.5888348,1.8082902,2.134206,2.41552,2.4000208,2.535093,2.6892705,2.806302,3.0118763,3.27399,3.63996,3.8986614,4.3724914,5.04671,5.971396,7.8564196,10.747828,14.2215805,18.035402,21.51808,26.211222,38.253227,27.505123,Text only tokens,57,77,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+1,23.68601,34.773582,32.627808,36.586437,1.4093899,1.4438937,1.5598255,1.7624131,2.0447516,2.276371,2.2270894,2.3718545,2.5165977,2.6319306,2.8184168,3.0675442,3.401951,3.6228573,4.0485888,4.6713405,5.5082526,7.283681,9.861804,13.103771,16.79195,20.236185,24.976511,37.39505,27.159023,Text only tokens,12,14,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+2,27.835382,37.30523,34.190174,37.712612,1.3885374,1.4172637,1.5117624,1.6878437,1.9454201,2.1690085,2.1263847,2.257011,2.369103,2.4542446,2.593677,2.7933571,3.058936,3.2620237,3.6047742,4.1553693,4.9011464,6.3707623,8.577324,11.608195,15.124161,18.717674,23.341423,35.952927,28.067644,Text only tokens,140,437,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+3,33.14386,41.860733,38.018215,41.765263,1.448531,1.4784307,1.6084107,1.8043728,2.1268413,2.342009,2.2856538,2.4354582,2.547821,2.6345534,2.8107018,3.0627055,3.3568547,3.582365,3.9975512,4.5956993,5.460942,7.166159,9.71794,13.200485,17.12777,20.903887,25.380318,36.165977,27.46242,Text only tokens,125,381,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the jersey?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+4,33.14,41.891754,37.88668,41.784904,1.4402752,1.4713694,1.5993223,1.7904065,2.1046176,2.3167083,2.2687452,2.4197433,2.5323915,2.6225119,2.7995853,3.0486677,3.346453,3.5690894,3.9813044,4.6031885,5.4793425,7.224011,9.80767,13.320186,17.336918,21.097752,25.639862,36.508953,28.058146,Text only tokens,114,310,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the table?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+5,24.400711,35.40274,33.191753,37.095947,1.4374795,1.47325,1.5925766,1.80543,2.0997245,2.3463025,2.2872696,2.4451866,2.5883474,2.7016683,2.9030843,3.1692092,3.5197272,3.759327,4.187297,4.8441396,5.753607,7.571195,10.263875,13.668873,17.38718,20.850828,25.598356,38.109974,27.63179,Text only tokens,71,102,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing yellow jacket?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+6,23.725754,34.65211,32.21347,36.698174,1.4115896,1.4373429,1.5560051,1.7636832,2.0694156,2.3074985,2.2624013,2.3991318,2.5508456,2.6640744,2.8513088,3.0946112,3.4302049,3.6779027,4.1033998,4.6985707,5.554895,7.3091583,9.886599,13.132479,16.8144,20.150702,24.649498,36.66646,26.737791,Text only tokens,52,71,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+7,27.018187,36.18785,32.4565,36.056595,1.2998188,1.3252954,1.4056634,1.5421898,1.7468129,1.9118823,1.8783991,1.9610634,2.0278943,2.0928206,2.2033198,2.372244,2.5804095,2.709223,2.9557421,3.3774536,3.9444578,5.0750446,6.863618,9.318375,12.44237,15.522602,19.84272,33.6786,26.04656,Text only tokens,279,684,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+8,24.401455,35.24929,33.134525,37.01924,1.4115745,1.444071,1.5633389,1.7774317,2.0750604,2.3265219,2.2897668,2.4459035,2.59126,2.709232,2.9102519,3.170667,3.5269482,3.7753935,4.262,4.904141,5.787073,7.595074,10.356981,13.787654,17.63694,21.200628,25.973877,38.59758,28.329344,Text only tokens,44,60,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting near motor?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+9,27.861404,37.183117,33.513515,37.13519,1.3279779,1.3486646,1.4298177,1.5752647,1.7911608,1.9572198,1.925243,2.0217934,2.0837038,2.1462243,2.2638133,2.428549,2.6382635,2.7909842,3.0511386,3.4710455,4.065903,5.269533,7.131765,9.711147,12.884519,15.916172,20.088934,33.0408,25.384233,Text only tokens,302,736,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+10,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,216,590,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+11,25.53383,36.52089,33.619812,37.74246,1.4377613,1.4722012,1.5926244,1.8129574,2.1365023,2.3927052,2.336826,2.4899871,2.656108,2.7737422,2.9770048,3.2357693,3.5865486,3.8454206,4.3039703,4.9739447,5.9321556,7.9142284,10.898323,14.5636015,18.610228,22.11918,26.890873,38.440315,27.360716,Text only tokens,16,18,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+12,25.494352,36.745766,33.795677,37.81366,1.4676039,1.4942645,1.62231,1.8449837,2.197106,2.4981122,2.4184349,2.5784512,2.7490215,2.8843758,3.0824082,3.3345616,3.7049627,3.9784265,4.491936,5.1725883,6.120366,8.123481,11.344178,15.073214,19.194815,22.825865,27.726902,39.177326,27.325565,Text only tokens,15,17,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+13,26.586159,37.7733,34.432938,38.515648,1.4715658,1.5127038,1.6427025,1.8749574,2.2300775,2.539623,2.511266,2.6836207,2.8507924,2.990393,3.2481887,3.5332355,3.9417596,4.231084,4.759829,5.498621,6.6041613,8.746951,12.097727,16.108658,20.273,23.859758,28.649267,39.95832,28.053438,Text only tokens,47,64,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red letters are on the front of the train?
+OPTIONS:
+0: 6
+1: 3
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+14,33.144047,41.89694,38.07716,41.767124,1.4468143,1.4760166,1.604673,1.7980255,2.1131127,2.3320622,2.2786036,2.4247556,2.5404096,2.631517,2.8029652,3.0543413,3.3541021,3.5814373,3.9941752,4.611173,5.4746447,7.19188,9.75492,13.248653,17.198988,20.92909,25.437172,36.34485,27.924109,Text only tokens,111,278,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bottle?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+15,34.811325,43.78064,39.98831,43.707195,1.4774927,1.5068566,1.6454054,1.8534858,2.2150478,2.4494538,2.3940272,2.5541542,2.6798353,2.778711,2.9705098,3.2394593,3.5821614,3.8365438,4.2758794,4.956403,5.9201283,7.792867,10.605308,14.341709,18.45707,22.267988,26.891218,37.309612,28.292175,Text only tokens,119,334,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+16,28.257236,38.06331,34.07859,37.505234,1.3196797,1.3483766,1.4309684,1.5787734,1.788989,1.9635794,1.9234021,2.0106883,2.0861437,2.1568105,2.284807,2.454905,2.675072,2.8199866,3.0886748,3.528513,4.1561675,5.3848085,7.35645,9.949993,13.237161,16.380558,20.627012,33.837524,26.018969,Text only tokens,258,652,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person on top of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+17,27.02696,36.19047,32.223396,36.12624,1.3196297,1.3396957,1.4241652,1.5658377,1.7701238,1.9335979,1.8946117,1.989368,2.0535178,2.114561,2.2297952,2.3905087,2.5909688,2.7329485,2.988817,3.409177,3.9949405,5.1652336,6.9679523,9.490107,12.642445,15.704284,19.861296,33.14117,25.918863,Text only tokens,308,749,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch under the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+18,27.361813,38.470047,35.671253,39.6162,1.5074074,1.5389369,1.67373,1.9304358,2.305522,2.6489522,2.6048288,2.781147,2.9602988,3.0950031,3.3264985,3.623098,4.0565896,4.356065,4.885431,5.627684,6.639176,8.839499,12.14281,15.956396,20.018549,23.689539,28.43497,40.225204,28.787493,Text only tokens,13,15,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are infront of the yellow schoolbus?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+19,26.94886,36.16732,32.4575,36.252106,1.3170421,1.3435227,1.4236987,1.563588,1.7649232,1.9282806,1.8939085,1.9769034,2.0374587,2.0919418,2.2102683,2.3759313,2.5772285,2.714401,2.9646976,3.3769388,3.9571955,5.11659,6.944486,9.454501,12.550444,15.654855,19.918617,33.17113,25.659603,Text only tokens,287,705,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the backpack?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+20,33.341537,42.007454,38.30958,41.798557,1.5874329,1.623483,1.7686573,2.0452356,2.478918,2.852544,2.8195672,2.9888651,3.1776102,3.3170373,3.596656,3.9510474,4.3710465,4.7041607,5.326069,6.1567783,7.3662233,9.733838,13.011951,16.939323,21.153608,24.851784,29.505503,39.650963,28.446701,Text only tokens,101,228,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+21,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,214,586,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+22,33.155552,41.953293,38.047447,41.90573,1.4520402,1.4805964,1.6092675,1.8048372,2.1271641,2.3411603,2.287223,2.4388876,2.5501475,2.6429842,2.818276,3.075081,3.3680198,3.5950398,4.000177,4.58597,5.452228,7.1782045,9.758928,13.30364,17.258055,21.036718,25.580355,36.50602,27.766603,Text only tokens,112,282,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fork?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+23,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,229,610,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance
+24,28.59271,38.35201,33.56828,37.858845,1.3240426,1.3514798,1.4370192,1.594836,1.822567,2.018184,1.9850525,2.0766962,2.159658,2.2374196,2.364412,2.552716,2.786798,2.9439116,3.2401175,3.713291,4.3376546,5.5870194,7.5379925,10.133334,13.390458,16.558855,20.890165,34.358097,26.93221,Text only tokens,301,735,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cup at the left side of the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,27.835382,37.30523,34.190174,37.712612,1.3885374,1.4172637,1.5117624,1.6878437,1.9454201,2.1690085,2.1263847,2.257011,2.369103,2.4542446,2.593677,2.7933571,3.058936,3.2620237,3.6047742,4.1553693,4.9011464,6.3707623,8.577324,11.608195,15.124161,18.717674,23.341423,35.952927,28.067644,Text only tokens,142,442,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+26,23.510794,34.62993,32.300022,36.53978,1.4057873,1.4336379,1.5492468,1.7508981,2.0423899,2.2783766,2.2193038,2.3630247,2.5075288,2.6112213,2.798947,3.050234,3.3800988,3.6219974,4.061589,4.6857667,5.5383563,7.3081017,9.927534,13.25562,16.89671,20.403648,25.136772,37.58672,27.063875,Text only tokens,3,3,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in purple?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+27,33.341537,42.007454,38.30958,41.798557,1.5874329,1.623483,1.7686573,2.0452356,2.478918,2.852544,2.8195672,2.9888651,3.1776102,3.3170373,3.596656,3.9510474,4.3710465,4.7041607,5.326069,6.1567783,7.3662233,9.733838,13.011951,16.939323,21.153608,24.851784,29.505503,39.650963,28.446701,Text only tokens,81,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+28,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,174,528,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+29,28.305136,39.244255,36.228676,40.69408,1.5015709,1.5609112,1.6997187,1.9693161,2.3616707,2.6580265,2.587513,2.77507,2.9558802,3.1092794,3.339857,3.6441548,4.0690637,4.367489,4.8939996,5.66534,6.6984673,8.846674,12.100848,16.0186,20.168322,23.83657,28.748344,40.207283,28.315517,Text only tokens,79,119,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting
+30,32.75472,41.99621,38.1867,41.893604,1.5675055,1.6000296,1.7440737,2.013263,2.4825954,2.845111,2.7848675,3.001383,3.1774063,3.3114688,3.5610046,3.9087229,4.354037,4.6738634,5.279007,6.1124635,7.248467,9.435314,12.717812,16.642994,21.011236,24.642834,29.450748,40.149868,28.188381,Text only tokens,110,266,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+31,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,172,526,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+32,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,194,560,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+33,24.508358,35.77233,33.358696,37.340897,1.4552387,1.4851142,1.6068367,1.8268496,2.1431613,2.4018013,2.3462129,2.5061834,2.661085,2.7800105,2.9768066,3.234937,3.595291,3.8437295,4.3010845,4.978464,5.913364,7.7845716,10.584446,13.950774,17.739195,21.134012,25.823492,38.07372,27.516262,Text only tokens,49,67,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are holding a baseball bat?
+OPTIONS:
+0: 2
+1: 0
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+34,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,183,541,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+35,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,176,530,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+36,27.051924,36.262253,33.018906,36.506416,1.3145459,1.3383981,1.4203626,1.562842,1.7622851,1.9156698,1.8808589,1.971338,2.0333996,2.0896792,2.2092304,2.3672333,2.5759027,2.72465,2.9794583,3.3976288,3.998867,5.1800385,7.002183,9.467579,12.498153,15.456792,19.631561,33.02473,25.825932,Text only tokens,309,750,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+37,27.835382,37.30523,34.190174,37.712612,1.3885374,1.4172637,1.5117624,1.6878437,1.9454201,2.1690085,2.1263847,2.257011,2.369103,2.4542446,2.593677,2.7933571,3.058936,3.2620237,3.6047742,4.1553693,4.9011464,6.3707623,8.577324,11.608195,15.124161,18.717674,23.341423,35.952927,28.067644,Text only tokens,135,412,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+38,24.31099,35.721252,33.03555,37.08287,1.4275953,1.4699576,1.5916097,1.8054523,2.1156404,2.3712873,2.3144393,2.4771707,2.630865,2.757151,2.9590366,3.2217348,3.5962358,3.845563,4.321655,4.9751134,5.8866553,7.756656,10.546104,13.981922,17.93694,21.54262,26.375032,38.57089,27.860615,Text only tokens,22,27,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+39,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,235,620,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance
+40,27.945509,37.722504,33.635094,37.33079,1.3167394,1.342682,1.4263501,1.5720344,1.796357,1.9678559,1.9347765,2.0252633,2.1033998,2.1657522,2.2910829,2.4680953,2.700306,2.8469052,3.1097393,3.5546427,4.1474857,5.3664937,7.276073,9.883068,13.112625,16.291845,20.633593,34.11644,25.982813,Text only tokens,274,675,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing away from the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+41,25.706415,36.550446,33.991253,37.821674,1.4514544,1.4839647,1.6103576,1.8436103,2.2016659,2.4932663,2.4358406,2.60839,2.7758539,2.90675,3.1358528,3.4111056,3.8171144,4.0796556,4.596267,5.312847,6.2803383,8.246343,11.211861,14.790734,18.787231,22.49251,27.323702,39.133068,27.749329,Text only tokens,63,93,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+42,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,193,559,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+43,26.928453,37.776733,34.947113,38.77988,1.4970069,1.5175152,1.6482861,1.8883545,2.248306,2.530624,2.4953902,2.6689324,2.8170228,2.9349408,3.1483815,3.4389496,3.8144643,4.1048703,4.602937,5.299432,6.287721,8.269909,11.279368,14.875053,19.032694,22.669025,27.644064,39.3473,27.846949,Text only tokens,40,54,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+44,28.279026,37.85587,34.18845,37.611095,1.3297241,1.3538276,1.4383657,1.5858251,1.8003283,1.9793798,1.9411476,2.03084,2.1006765,2.164611,2.2907853,2.4612136,2.6900098,2.8409398,3.112188,3.5524123,4.180854,5.44325,7.431357,10.062286,13.329719,16.528303,20.837442,34.272247,26.264507,Text only tokens,282,696,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on top of the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+45,27.835382,37.30523,34.190174,37.712612,1.3885374,1.4172637,1.5117624,1.6878437,1.9454201,2.1690085,2.1263847,2.257011,2.369103,2.4542446,2.593677,2.7933571,3.058936,3.2620237,3.6047742,4.1553693,4.9011464,6.3707623,8.577324,11.608195,15.124161,18.717674,23.341423,35.952927,28.067644,Text only tokens,150,467,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+46,27.053852,36.17065,32.843742,36.36024,1.3146186,1.3381506,1.4194372,1.5602102,1.7707242,1.9314766,1.8937347,1.9847109,2.0483682,2.1111095,2.219101,2.3839636,2.5934842,2.73283,2.9863563,3.4138527,3.9994752,5.1903114,7.019984,9.524696,12.66082,15.734224,19.949272,33.466408,25.949509,Text only tokens,321,779,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+47,28.598013,38.33323,33.51297,37.879772,1.3253913,1.3540012,1.4405955,1.5954661,1.8357557,2.0277567,1.9906974,2.0887914,2.1715083,2.2477798,2.3729005,2.5587099,2.7950022,2.9512093,3.251718,3.7161927,4.3468266,5.6269965,7.63399,10.329827,13.599496,16.779913,21.08244,34.227276,26.261995,Text only tokens,316,769,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bench at the left side of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+48,36.177456,49.22033,44.602024,49.63538,1.7711482,1.8389432,2.0569217,2.48944,3.1278372,3.6805472,3.584638,3.9105744,4.172603,4.3614984,4.784739,5.3705387,6.145428,6.7053843,7.695368,9.134263,11.028235,14.440283,19.149252,24.436773,29.397123,33.173378,37.94138,45.14357,32.195465,Text only tokens,185,547,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance
+49,28.657532,37.639072,34.023968,37.54384,1.3516178,1.3766363,1.4615538,1.6154436,1.8452252,2.0180786,1.9824188,2.0747576,2.1431475,2.2076504,2.3289168,2.5004804,2.7284417,2.8805337,3.151815,3.5948422,4.2075825,5.461321,7.3971853,10.045515,13.355039,16.399632,20.522602,33.44966,25.684813,Text only tokens,295,720,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the surfboard beside the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation

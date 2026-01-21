@@ -44,12 +44,12 @@ random.seed(42)
 
 
 
-model_name = 'Qwen3-VL-4B-Instruct'
+model_name = 'Qwen2.5-VL-7B'
 ds_name = 'VstarBench'
 image_dir_path = None
 attn_implementation = 'eager'
 batch_size = 1
-image_use = True  # whether to include image in the prompt
+image_use = False  # whether to include image in the prompt
 hint_use = False # Option only applicable for ScienceQA
 
 experiment_tag = '' if hint_use or ds_name!='ScienceQA' else 'withoutHint'
@@ -63,7 +63,7 @@ ds = ds.filter(lambda x: x["image"]!=None and (len(x["image"])==1 if type(x["ima
 
 # filter to image input size <1700*1700 to avoid OOM
 ds = ds.filter(
-    lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900
+    lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900 # 1700 for qwen2.5 7B Vstar
     if type(x['image'])!=list 
     else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
 )
@@ -82,12 +82,12 @@ ds = ds.map(
 if 'gemma' in model_name:
     torch._dynamo.config.cache_size_limit = 32
 
-model, processor, device = load_model_and_processor(
-    model_name=model_name, 
-    model_path=HF_dir, 
-    attn_implementation=attn_implementation,
-    torch_dtype=torch.float16 if 'mistral' in model_name else 'auto'
-)
+# model, processor, device = load_model_and_processor(
+#     model_name=model_name, 
+#     model_path=HF_dir, 
+#     attn_implementation=attn_implementation,
+#     torch_dtype=torch.float16 if 'mistral' in model_name else 'auto'
+# )
 
 all_model_outputs = batch_inference(
     ds=ds, 

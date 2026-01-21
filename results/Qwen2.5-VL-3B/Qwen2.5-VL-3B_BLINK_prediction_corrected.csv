@@ -1,0 +1,6872 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,0,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue floats are there?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue floats are there?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+1,2,"system
+You are a helpful assistant.
+user
+ QUESTION: How many tvs are hung up on the wall?
+OPTIONS:
+0: 1
+1: 0
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many tvs are hung up on the wall?
+OPTIONS:
+0: 1
+1: 0
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+2,4,"system
+You are a helpful assistant.
+user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+3,6,"system
+You are a helpful assistant.
+user
+ QUESTION: How many baseball players are looking towards the camera?
+OPTIONS:
+0: 3
+1: 2
+2: 1
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many baseball players are looking towards the camera?
+OPTIONS:
+0: 3
+1: 2
+2: 1
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+4,8,"system
+You are a helpful assistant.
+user
+ QUESTION: How many black suitcases are pulled in the image?
+OPTIONS:
+0: 2
+1: 4
+2: 1
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many black suitcases are pulled in the image?
+OPTIONS:
+0: 2
+1: 4
+2: 1
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+5,9,"system
+You are a helpful assistant.
+user
+ QUESTION: How many tall buildings have a flat top?
+OPTIONS:
+0: 2
+1: 1
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many tall buildings have a flat top?
+OPTIONS:
+0: 2
+1: 1
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+6,10,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating food?
+OPTIONS:
+0: 1
+1: 0
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating food?
+OPTIONS:
+0: 1
+1: 0
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+7,14,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing glasses?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+8,17,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many fingers are in front of the bathtub?
+OPTIONS:
+0: 4
+1: 3
+2: 2
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+9,18,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green tiles are on the wall?
+OPTIONS:
+0: 6
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+10,19,"system
+You are a helpful assistant.
+user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+11,20,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+12,26,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are laying down?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are laying down?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+13,27,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting on the bed?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Counting
+14,31,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green frogs are under the table?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many green frogs are under the table?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+15,32,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white pillows are in this image?
+OPTIONS:
+0: 5
+1: 3
+2: 4
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white pillows are in this image?
+OPTIONS:
+0: 5
+1: 3
+2: 4
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+16,33,"system
+You are a helpful assistant.
+user
+ QUESTION: How many ""one way"" signs are pointing to the left in the image?
+OPTIONS:
+0: 3
+1: 5
+2: 2
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many ""one way"" signs are pointing to the left in the image?
+OPTIONS:
+0: 3
+1: 5
+2: 2
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting
+17,34,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are sitting on the bench in the image?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many kids are sitting on the bench in the image?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+18,35,"system
+You are a helpful assistant.
+user
+ QUESTION: How many wooden beams are on top of the person?
+OPTIONS:
+0: 6
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many wooden beams are on top of the person?
+OPTIONS:
+0: 6
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting
+19,36,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing a white uniform?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing a white uniform?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+20,38,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue buses are there?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue buses are there?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+21,39,"system
+You are a helpful assistant.
+user
+ QUESTION: How many skiers are wearing red?
+OPTIONS:
+0: 2
+1: 3
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many skiers are wearing red?
+OPTIONS:
+0: 2
+1: 3
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+22,41,"system
+You are a helpful assistant.
+user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+23,44,"system
+You are a helpful assistant.
+user
+ QUESTION: How many motors are driving near the bus?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many motors are driving near the bus?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+24,45,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue circles are on this building?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue circles are on this building?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+25,46,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are reading book?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are reading book?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+26,47,"system
+You are a helpful assistant.
+user
+ QUESTION: How many toilets have lids?
+OPTIONS:
+0: 4
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many toilets have lids?
+OPTIONS:
+0: 4
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+27,48,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are standing in the picture?
+OPTIONS:
+0: 2
+1: 4
+2: 1
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are standing in the picture?
+OPTIONS:
+0: 2
+1: 4
+2: 1
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+28,49,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue towels are in the picture?
+OPTIONS:
+0: 3
+1: 0
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many blue towels are in the picture?
+OPTIONS:
+0: 3
+1: 0
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting
+29,50,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating sandwich?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating sandwich?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+30,52,"system
+You are a helpful assistant.
+user
+ QUESTION: How many clear bottles of wine are on the table?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many clear bottles of wine are on the table?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting
+31,53,"system
+You are a helpful assistant.
+user
+ QUESTION: How many knobs are on the stove?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many knobs are on the stove?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+32,54,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many pieces of chicken nuggets are there?
+OPTIONS:
+0: 5
+1: 6
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+33,55,"system
+You are a helpful assistant.
+user
+ QUESTION: How many candlights are to the right of the television?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many candlights are to the right of the television?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+34,56,"system
+You are a helpful assistant.
+user
+ QUESTION: How many players are wearing face guards in the image?
+OPTIONS:
+0: 1
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many players are wearing face guards in the image?
+OPTIONS:
+0: 1
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+35,59,"system
+You are a helpful assistant.
+user
+ QUESTION: How many plates are holding sandwiches?
+OPTIONS:
+0: 2
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many plates are holding sandwiches?
+OPTIONS:
+0: 2
+1: 4
+2: 5
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+36,62,"system
+You are a helpful assistant.
+user
+ QUESTION: How many cows are on the train?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many cows are on the train?
+OPTIONS:
+0: 3
+1: 1
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting
+37,66,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white umbrellas are there on the left side?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white umbrellas are there on the left side?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting
+38,69,"system
+You are a helpful assistant.
+user
+ QUESTION: How many doors with red line are on the train?
+OPTIONS:
+0: 2
+1: 4
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many doors with red line are on the train?
+OPTIONS:
+0: 2
+1: 4
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+39,71,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many purple planes are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+40,73,"system
+You are a helpful assistant.
+user
+ QUESTION: How many of the glasses are empty?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many of the glasses are empty?
+OPTIONS:
+0: 0
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+41,75,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people ski on the mountain?
+OPTIONS:
+0: 2
+1: 3
+2: 1
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people ski on the mountain?
+OPTIONS:
+0: 2
+1: 3
+2: 1
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+42,77,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are climbing on the wall?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+43,78,"system
+You are a helpful assistant.
+user
+ QUESTION: How many of the letters printed on the climber's snowboard are consonants?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many of the letters printed on the climber's snowboard are consonants?
+OPTIONS:
+0: 2
+1: 5
+2: 4
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+44,81,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in the water?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are in the water?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting
+45,82,"system
+You are a helpful assistant.
+user
+ QUESTION: How many person in the images is wearing cap?
+OPTIONS:
+0: 4
+1: 5
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many person in the images is wearing cap?
+OPTIONS:
+0: 4
+1: 5
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+46,83,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+47,85,"system
+You are a helpful assistant.
+user
+ QUESTION: How many banners do you see in the awning?
+OPTIONS:
+0: 6
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many banners do you see in the awning?
+OPTIONS:
+0: 6
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+48,86,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating apples?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are eating apples?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+49,90,"system
+You are a helpful assistant.
+user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+50,92,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are washing hand?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are washing hand?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+51,93,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving white motor on the street?
+OPTIONS:
+0: 1
+1: 3
+2: 0
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Counting
+52,94,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people without hats are there?
+OPTIONS:
+0: 0
+1: 3
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people without hats are there?
+OPTIONS:
+0: 0
+1: 3
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+53,96,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people in this image are wearing solid red shirts?
+OPTIONS:
+0: 2
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people in this image are wearing solid red shirts?
+OPTIONS:
+0: 2
+1: 5
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+54,97,"system
+You are a helpful assistant.
+user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+55,98,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving red car front of the train?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are driving red car front of the train?
+OPTIONS:
+0: 0
+1: 1
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+56,99,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white fridges are there in the image ?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white fridges are there in the image ?
+OPTIONS:
+0: 3
+1: 2
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+57,101,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing blue shirt?
+OPTIONS:
+0: 2
+1: 4
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are wearing blue shirt?
+OPTIONS:
+0: 2
+1: 4
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+58,104,"system
+You are a helpful assistant.
+user
+ QUESTION: How many signs with arrows are in the picture?
+OPTIONS:
+0: 4
+1: 1
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many signs with arrows are in the picture?
+OPTIONS:
+0: 4
+1: 1
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+59,105,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white vertical lines are drawn on the ground?
+OPTIONS:
+0: 3
+1: 6
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many white vertical lines are drawn on the ground?
+OPTIONS:
+0: 3
+1: 6
+2: 5
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+60,106,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting
+61,111,"system
+You are a helpful assistant.
+user
+ QUESTION: How many bottles are on the round table at the bottom of the photo?
+OPTIONS:
+0: 1
+1: 2
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many bottles are on the round table at the bottom of the photo?
+OPTIONS:
+0: 1
+1: 2
+2: 3
+3: 4
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+62,113,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are standing near the right of the giraffe ?
+OPTIONS:
+0: 0
+1: 1
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are standing near the right of the giraffe ?
+OPTIONS:
+0: 0
+1: 1
+2: 2
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+63,115,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are playing in tennis?
+OPTIONS:
+0: 4
+1: 5
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are playing in tennis?
+OPTIONS:
+0: 4
+1: 5
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting
+64,116,"system
+You are a helpful assistant.
+user
+ QUESTION: How many yellow cars are in the picture?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many yellow cars are in the picture?
+OPTIONS:
+0: 0
+1: 3
+2: 2
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,Counting
+65,117,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are not wearing a blue hat?
+OPTIONS:
+0: 2
+1: 3
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many people are not wearing a blue hat?
+OPTIONS:
+0: 2
+1: 3
+2: 0
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+66,119,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"system
+You are a helpful assistant.
+user
+ QUESTION: How many small signs say ""kumquat"" on them?
+OPTIONS:
+0: 1
+1: 3
+2: 2
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting
+67,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+D",10000,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+68,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+69,123,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+70,124,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+71,125,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+72,143,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+73,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+74,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+75,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+76,169,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+D",10000,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+77,172,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+B",10000,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+78,179,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+D",10000,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+79,182,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+D",10000,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+80,183,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+81,188,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+82,196,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+83,201,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+84,203,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+85,211,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+86,213,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+87,221,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+88,228,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+89,229,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+90,232,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+91,234,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+92,237,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+93,245,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+94,249,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+95,258,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+96,260,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+97,261,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+98,262,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+99,263,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+100,264,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test
+101,266,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+102,267,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one picture can be folded from the outer surface displayed on the left?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+103,270,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fireplug?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the fireplug?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+104,272,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pizza?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pizza?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+105,275,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+106,280,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the sweater?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the sweater?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+107,281,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+108,284,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the horse?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the horse?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+109,285,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the kite?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the kite?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+110,286,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bullet train?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bullet train?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+111,287,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pillow?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pillow?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+112,290,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the signboard?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the signboard?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+113,292,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bird?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bird?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+114,296,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+115,299,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the suitcase?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the suitcase?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+116,301,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the shower curtain?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the shower curtain?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+117,302,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+118,304,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bus (vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+119,305,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the teddy bear?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the teddy bear?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+120,307,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tarp?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tarp?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+121,309,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+122,312,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the vending machine?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the vending machine?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+123,314,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bun?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bun?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+124,316,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the necktie?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the necktie?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+125,318,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the umbrella?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the umbrella?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+126,319,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+127,322,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+128,325,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the quilt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the quilt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+129,330,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bun?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bun?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+130,331,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the blanket?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the blanket?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+131,335,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+132,341,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the parking meter?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the parking meter?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+133,344,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+134,348,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the nightshirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the nightshirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+135,350,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the plate?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the plate?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+136,353,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pizza?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pizza?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+137,355,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the airplane?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+138,356,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the toilet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the toilet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+139,359,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the sandwich?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the sandwich?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+140,361,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+141,365,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the telephone?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the telephone?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+142,366,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pillow?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the pillow?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+143,368,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bed?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bed?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+144,369,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tray?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the tray?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+145,370,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+146,373,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the book?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the book?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+147,376,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the cat?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the cat?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+148,378,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bath towel?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the bath towel?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+149,379,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the train (railroad vehicle)?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+150,384,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the refrigerator?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the refrigerator?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+151,385,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the plate?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the plate?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization
+152,386,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the dish?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization,"system
+You are a helpful assistant.
+user
+ QUESTION: Which bounding box more accurately localizes and encloses the dish?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization
+153,391,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+154,392,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+155,398,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+156,400,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+157,403,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+158,406,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+159,409,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+160,410,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+161,411,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+162,416,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+163,430,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+164,435,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+165,438,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+166,445,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+167,446,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+168,452,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+169,457,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+170,460,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+171,464,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+172,467,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+173,472,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+174,479,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+175,480,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Depth
+176,481,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+177,484,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+178,492,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+179,495,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+180,497,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+181,505,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"system
+You are a helpful assistant.
+user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+182,536,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance
+183,606,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+184,631,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"system
+You are a helpful assistant.
+user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+185,648,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car beneath the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+186,649,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car under the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car under the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+187,650,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bed at the right side of the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bed at the right side of the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+188,653,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle on the bus?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle on the bus?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+189,657,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+190,659,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the suitcase contain the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the suitcase contain the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+191,662,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vase behind the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vase behind the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+192,663,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bus parallel to the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bus parallel to the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+193,664,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+194,666,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop facing the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop facing the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+195,667,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+196,670,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the umbrella on top of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the umbrella on top of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+197,673,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the motorcycle at the left side of the train?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the motorcycle at the left side of the train?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+198,677,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the car contain the donut?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the car contain the donut?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+199,689,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+200,690,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+201,691,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the refrigerator behind the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the refrigerator behind the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+202,692,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the cake consist of the truck?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the cake consist of the truck?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+203,693,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the motorcycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+204,694,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the microwave above the laptop?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the microwave above the laptop?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+205,695,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broccoli beside the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broccoli beside the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+206,698,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car at the back of the bicycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car at the back of the bicycle?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+207,707,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the sandwich touching the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the sandwich touching the dining table?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+208,710,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear facing the book?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+209,711,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the hair drier on the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the hair drier on the chair?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+210,714,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle under the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle under the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+211,715,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person facing the bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+212,718,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop opposite to the couch?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the laptop opposite to the couch?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+213,721,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+214,722,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person touching the zebra?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person touching the zebra?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+215,725,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the backpack on top of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the backpack on top of the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+216,737,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat with the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat with the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+217,738,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+218,741,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the backpack contain the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Does the backpack contain the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+219,743,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the donut inside the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the donut inside the bowl?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+220,746,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle in front of the umbrella?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bicycle in front of the umbrella?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+221,750,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+222,755,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+223,756,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+224,757,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the boat on the tv?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the boat on the tv?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+225,760,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the donut?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the donut?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+226,761,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+227,762,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the chair under the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the chair under the horse?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+228,764,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the refrigerator far from the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the refrigerator far from the cat?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+229,768,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table away from the potted plant?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table away from the potted plant?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+230,770,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bed beneath the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the bed beneath the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+231,774,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the truck far away from the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the truck far away from the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+232,777,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing away from the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat facing away from the suitcase?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation
+233,780,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the banana behind the orange?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the banana behind the orange?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+234,781,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the car under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+235,782,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch at the right side of the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the couch at the right side of the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+236,784,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the apple above the orange?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the apple above the orange?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+237,786,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dining table touching the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation
+238,789,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on top of the laptop?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cat on top of the laptop?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation

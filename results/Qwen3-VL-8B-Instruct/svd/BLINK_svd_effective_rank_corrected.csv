@@ -1,0 +1,5081 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,Mean over,idx_corrected,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,18.347803,38.980206,42.589138,43.98341,45.7243,44.83243,45.18859,9.531225,9.796062,10.646609,10.528622,10.243677,10.541502,11.060752,12.027783,12.56005,13.754113,13.809758,15.811611,18.234282,21.897911,25.352842,29.355919,34.15897,44.05284,53.6052,60.662468,67.76284,73.28272,78.5292,81.76028,85.20741,92.415764,95.047066,95.4954,91.42919,93.36914,All tokens,327,679,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+1,24.011171,46.9653,53.179523,55.212162,58.84037,59.429302,61.088043,23.111853,24.975533,28.204845,28.085716,26.958454,28.067898,30.376032,33.027496,35.17422,38.53297,23.766788,28.661707,34.482475,41.688408,49.17721,56.648697,61.55037,71.8181,78.58981,84.3909,90.99987,95.378,99.43901,103.29337,108.363014,115.698204,117.36685,115.556175,102.31317,118.82363,All tokens,57,121,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+2,16.896551,34.761543,37.984356,38.854706,41.186203,41.650738,43.486996,11.037839,11.360963,12.526842,12.56679,12.185189,12.659951,13.260185,14.429487,15.168279,16.744434,16.728552,18.983957,21.924835,25.959694,30.049782,34.20384,38.39059,48.693897,58.085464,64.819466,71.07982,75.18179,79.74045,82.49927,84.25733,89.98246,90.36031,89.54557,87.39479,79.12908,All tokens,12,19,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+3,13.780638,29.397326,33.41668,35.328587,39.7744,42.313713,46.727745,5.948951,6.484692,7.309032,7.5232263,7.353067,7.9694667,8.686889,9.808074,10.398289,11.687928,12.078794,14.78146,17.931501,23.130175,28.057846,33.22569,37.76698,46.401653,52.01118,56.13854,61.643974,64.80118,68.10653,70.88574,73.85706,77.378624,76.24646,72.3575,56.692474,74.12256,All tokens,140,255,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+4,8.697698,17.577332,19.39711,20.24962,25.014215,28.734377,35.25771,2.331407,2.4746027,2.6696293,2.7177224,2.663651,2.8351443,3.0093248,3.3029945,3.5042822,3.798222,3.8688555,4.483754,5.1638346,6.5732193,7.90128,9.532296,11.7819805,16.382462,21.540981,26.138563,31.964384,37.16091,43.39138,48.57836,52.135246,56.475548,56.599453,52.27567,40.004505,57.364746,All tokens,125,223,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+5,9.921089,19.738651,22.180738,23.00517,28.27321,31.962759,38.276596,2.28241,2.448054,2.6541648,2.7225418,2.6928275,2.8710103,3.0153787,3.3168848,3.5414038,3.8250046,3.9026053,4.5379977,5.25197,6.816863,8.280275,10.16036,12.502943,17.373465,22.963497,27.593643,33.043713,37.6068,43.168083,47.595734,50.664547,54.64274,54.513515,50.91606,40.229828,49.822506,All tokens,114,204,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+6,10.192823,18.397942,20.634962,21.388554,26.539774,30.345304,36.61504,2.235668,2.3778565,2.5755165,2.6424263,2.6444125,2.8222892,2.9827151,3.2641807,3.4898663,3.7758553,3.8470523,4.483153,5.1583376,6.6038375,7.946375,9.621371,11.8545475,16.508614,21.992676,26.786207,33.07445,38.15828,44.04689,48.80407,52.618347,57.09055,56.65899,52.407326,40.595806,53.226093,All tokens,71,141,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+7,17.573172,36.486557,37.75676,38.731453,40.496662,39.668552,40.92879,7.9261947,8.206832,8.956264,8.893633,8.656273,8.838601,9.18996,9.926988,10.295292,11.2933,6.3645616,7.1804695,8.448552,10.65027,12.645379,15.0847025,19.543032,27.73093,36.981163,43.577988,52.55282,59.72312,66.27134,75.49203,81.8779,90.1889,92.42435,92.10056,89.076904,76.124405,All tokens,52,106,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+8,19.143244,40.7372,43.429283,43.958607,46.901306,46.76585,47.758816,10.378885,10.629931,11.501475,11.276473,11.048403,11.2979145,11.863457,13.012865,13.766825,15.21612,15.355393,17.469433,20.351847,24.56693,28.332975,32.993725,37.75159,48.111584,57.82387,65.38,72.038506,77.23891,82.12964,85.51407,88.554,94.04582,95.07994,94.35613,90.05646,92.00517,All tokens,346,721,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+9,44.813976,100.95338,114.33196,115.96443,116.9482,112.08274,105.08829,103.561714,101.991486,110.40232,109.82413,112.00404,116.420906,120.77947,123.55355,126.95715,132.57057,116.9854,119.31492,123.52792,117.909744,121.884674,125.10395,116.61799,123.90188,131.17615,141.38007,150.44472,154.89989,161.60915,162.57707,167.79005,178.12433,184.73073,191.2419,178.96411,215.01578,All tokens,279,583,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+10,16.593721,36.70266,35.235004,35.92523,39.55646,39.86825,43.607597,7.639806,8.212069,9.240206,9.441135,9.781762,10.427289,11.023303,12.190809,12.696823,14.0632715,14.026091,16.055643,19.073822,23.27162,27.32714,31.771414,37.226227,47.540817,56.491974,63.83268,69.806595,74.96307,80.30665,83.76116,83.45335,84.526665,84.46438,82.32333,69.45468,62.12607,All tokens,44,90,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+11,40.174763,93.80563,104.435135,105.33919,106.25552,103.15718,97.00192,96.49455,95.13884,102.253815,101.539085,102.89042,106.0079,110.44224,112.72587,116.746895,123.891785,109.615845,113.300705,119.459526,114.491425,118.50586,122.66602,112.22927,116.39399,125.26953,133.89752,143.3865,147.6604,155.81091,154.51576,154.07262,166.87479,171.52223,176.62694,162.7606,205.75554,All tokens,302,632,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+12,20.364534,41.82665,42.892544,42.578907,44.653046,44.71178,45.508133,9.209615,9.734745,10.584804,10.237364,9.941559,10.255803,10.894009,11.787536,12.168897,13.334899,5.4397426,6.1155996,7.026491,8.634606,10.196426,12.191065,15.412975,22.219156,30.231274,36.785175,45.82064,54.154793,62.88915,72.94205,81.06179,90.42678,94.95756,96.14769,91.81037,95.77741,All tokens,216,409,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+13,15.993054,34.59502,36.246853,37.173206,39.294346,39.084892,40.20336,7.939954,8.200267,8.898783,8.886702,8.875495,9.127,9.639924,10.480676,11.073343,12.177693,12.096566,13.764969,15.885775,19.288805,22.54571,26.093239,30.635126,39.980934,49.65138,56.832,64.56132,70.72857,75.63208,82.346886,85.66258,92.141014,93.969986,93.15688,87.77094,69.733604,All tokens,16,24,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting
+14,23.765953,47.596252,51.917774,53.546288,54.949673,53.602615,53.28909,18.437113,18.753391,20.18747,19.82282,19.424377,19.885626,20.555141,21.858742,22.872002,24.796923,20.22619,22.810291,26.510948,30.9297,35.264362,39.700077,40.735207,50.471478,63.037106,71.27005,78.99355,84.42443,88.470474,94.86646,99.49949,107.17446,110.75111,112.38275,114.23801,106.26378,All tokens,15,22,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+15,18.868149,37.6883,39.429024,39.753334,42.279346,41.952095,43.191677,8.758999,9.150716,9.940052,10.1086645,10.4339695,11.065688,11.873717,12.92023,13.425457,14.77063,14.754015,16.866772,19.679089,23.83566,27.620192,31.694431,36.497433,45.925858,54.69542,61.389717,68.1001,72.31169,76.988464,80.02587,82.51543,81.72016,83.106125,82.947205,78.02922,75.31276,All tokens,47,97,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+16,11.240485,21.146463,24.409542,25.448036,30.319824,34.04078,40.412518,2.6581597,2.893776,3.15013,3.186625,3.130629,3.3333774,3.5138085,3.906469,4.2134366,4.5795417,4.7011023,5.5523753,6.5092006,8.513704,10.388582,12.614246,15.40343,21.068878,27.018148,31.858932,37.691734,42.000977,47.138958,51.708,54.609085,58.32487,57.140827,52.56848,43.486454,54.281067,All tokens,111,199,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+17,9.483997,18.486977,20.326326,20.824059,25.581852,28.730652,35.420544,2.2386334,2.3849037,2.5730822,2.615522,2.5958922,2.7518642,2.908801,3.1650643,3.378241,3.6400986,3.706918,4.2649426,4.914858,6.301461,7.5829315,9.226602,11.372699,15.915598,21.340395,25.959929,31.400944,36.34502,41.995758,46.884724,50.450138,54.659573,54.34786,50.489857,41.57718,51.110428,All tokens,119,214,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+18,31.617336,82.29676,94.80576,96.32841,96.260956,92.3355,86.84457,85.45301,84.19781,92.91684,92.575775,94.71427,99.59875,104.879745,107.10106,110.45507,116.85516,97.4166,102.62916,110.252174,109.19682,115.56456,119.33865,109.41036,119.64068,129.32597,139.66072,148.50406,154.1756,160.23157,161.70389,166.25046,173.98523,180.84665,183.76422,173.59648,207.21301,All tokens,258,531,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance
+19,35.08615,73.833405,77.21538,78.14569,80.55701,77.76983,74.005486,56.35568,58.998005,66.64744,69.00165,72.81392,75.91112,80.07798,82.99927,85.00426,89.48389,71.20316,75.64787,82.71311,85.40481,90.56888,94.36755,81.08124,92.89296,103.912476,116.19812,127.288246,134.64508,140.68645,144.96094,147.60619,154.42273,154.70827,147.13719,145.41246,146.5282,All tokens,308,645,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+20,16.087143,30.978527,32.346645,32.650818,34.863335,34.953716,37.32244,6.3340635,6.559688,6.9991198,6.964951,6.7796364,7.0676203,7.506451,8.163133,8.497173,9.323037,9.299518,10.627803,12.406321,15.410053,18.173641,21.505554,26.359798,35.735382,44.24379,50.99915,57.955704,63.14203,68.62695,73.13757,76.544914,82.44747,83.86883,83.26558,76.359764,61.77572,All tokens,13,20,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+21,47.117023,109.10824,125.51181,128.60168,128.66335,124.523254,116.8997,113.709656,109.84397,117.76168,117.383934,121.34473,126.68236,131.70615,133.27708,136.05824,140.9365,124.93952,127.37415,135.1798,128.6339,131.096,132.34015,108.06465,110.09961,125.69772,141.33383,157.27972,167.39218,177.4512,187.4935,194.62401,205.38823,208.73279,199.95824,206.20036,234.14069,All tokens,287,600,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+22,42.554825,84.8456,99.524025,102.71322,105.92656,104.09368,101.1697,88.71566,89.36019,91.63569,90.3779,86.07761,86.0586,91.61677,92.255585,96.34958,103.61383,74.05052,82.98419,95.695885,102.73001,115.72552,124.603615,125.38284,132.41122,129.63536,135.03175,141.64708,144.33728,147.98189,151.24397,158.20987,167.89163,167.52026,161.62895,144.85687,163.53833,All tokens,101,185,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+23,16.524633,37.912453,40.74558,41.694675,43.464283,43.007313,43.41868,8.827442,9.076805,9.705052,9.460328,9.490822,9.733047,10.232428,11.196719,11.789418,12.875858,12.949789,14.814847,17.026127,20.73645,24.015408,27.956724,33.027298,42.418087,51.36589,58.137226,64.65137,69.44121,74.65416,77.16948,81.95996,87.541306,89.18157,90.59159,84.592514,87.53788,All tokens,366,779,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+24,21.263603,42.16966,44.317757,45.042316,47.329784,46.279865,46.175102,9.257959,9.689844,10.488381,10.530567,10.343737,10.675044,11.01145,11.8964,12.497331,13.679385,13.660503,15.524993,17.798359,21.355326,24.715094,28.8738,32.960594,42.121002,51.905952,59.16693,66.70884,71.948074,76.666595,81.346085,85.191,91.81852,92.914314,91.483536,87.71471,87.20151,All tokens,332,690,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,17.878344,40.088333,44.83117,45.878204,47.74873,46.724762,46.239506,12.960483,13.410885,14.568242,14.25787,14.219824,14.696185,15.493072,17.014334,18.133123,20.01358,20.443027,23.429523,26.974483,31.683596,36.30745,41.570778,43.5572,52.53698,62.428787,69.78174,76.37568,80.12618,84.73651,85.74264,86.36532,90.04654,93.16573,94.66446,91.522194,98.105965,All tokens,359,761,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+26,15.768454,33.82228,34.90938,35.67869,38.09593,38.423573,39.118404,5.569464,5.9133105,6.5185804,6.4900293,6.4077444,6.8150096,7.200948,7.903137,8.294139,9.115637,9.21649,10.577847,12.303575,15.0133,17.777185,21.29288,25.500504,34.03935,41.85478,48.371628,55.192234,59.792343,64.71172,68.57351,67.48659,73.45716,75.62736,74.73604,70.62396,72.73359,All tokens,214,406,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+27,18.000961,35.089413,41.428524,43.099243,46.890995,48.498432,50.73254,10.265581,11.127919,12.8404045,12.818018,12.456959,13.463037,14.56986,16.269424,17.487936,19.524845,20.101803,24.49856,29.716719,36.4737,43.30454,50.35733,55.109425,63.565147,68.9198,73.365204,79.6676,83.0147,86.9929,89.595924,93.25809,99.03207,98.15003,93.052376,77.501625,94.92391,All tokens,112,201,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+28,17.403309,32.797417,35.96156,37.15362,38.389565,38.22846,38.503376,12.554847,13.0629425,14.091237,13.807774,13.924453,14.901218,15.82808,17.312784,18.284138,19.946024,20.253798,23.059362,26.672306,30.791723,35.33127,40.154377,42.200867,49.91898,57.153526,64.04681,69.44806,72.71563,75.666855,74.925125,78.70832,83.31788,86.09587,86.38777,82.67553,90.7478,All tokens,229,445,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+29,38.31159,93.47321,102.070305,103.60266,104.09959,100.167984,92.65929,89.556244,86.8847,93.64639,90.512794,92.55679,97.92443,104.81855,108.23938,114.28422,122.51574,93.04998,100.49705,111.331535,113.641304,123.01449,128.48419,119.94577,129.34854,136.72598,146.55475,155.65889,159.7358,164.93134,165.94543,166.62973,174.89745,176.43149,180.41496,170.40945,209.96623,All tokens,301,631,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+30,9.818252,18.70781,21.259117,22.073973,26.739523,29.653938,36.029263,2.44089,2.6234322,2.87232,2.9343293,2.9167986,3.0892065,3.2792604,3.5950747,3.8445752,4.169891,4.2650237,4.9763155,5.788198,7.4902225,9.070792,11.115125,13.611484,18.679115,24.358477,29.152077,34.884964,39.848225,45.264652,50.388817,53.85505,57.826157,56.79843,52.59013,42.844177,52.03548,All tokens,142,258,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+31,15.762505,34.844345,36.615566,37.19495,39.20552,39.06327,40.47335,10.842464,11.182039,12.109669,12.120139,11.8995,12.385792,12.844082,14.024706,14.515656,15.860279,15.772643,18.014675,21.077414,25.212782,29.257008,33.550476,37.919285,47.700325,56.348713,63.12211,69.879135,75.05285,79.04592,81.47442,81.41861,88.497314,89.76287,89.765526,83.34431,82.62946,All tokens,3,4,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+32,7.834931,15.512084,17.621994,18.621181,22.719215,26.090641,31.997896,2.2506027,2.4151056,2.5897446,2.668035,2.615018,2.7456746,2.8906589,3.1688552,3.3547277,3.6057038,3.6659417,4.263186,4.9284363,6.2959366,7.6038275,9.248691,11.449128,16.106318,21.206205,25.835772,31.017134,35.636326,41.1421,45.580597,48.90983,52.2474,52.037834,48.271774,38.49841,48.81693,All tokens,81,153,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+33,22.98689,52.543983,57.52208,58.60541,59.78153,58.052704,55.67206,20.139242,20.71128,22.60725,22.591146,22.77726,23.549644,25.072548,26.854412,27.940819,30.493988,13.260593,15.010264,17.525852,21.342693,24.933928,29.16737,34.22252,44.96876,56.45177,65.19271,74.153206,81.21206,87.72149,94.33242,98.81786,107.27846,111.611115,114.96562,115.54952,119.5756,All tokens,357,756,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+34,26.336693,54.473915,55.165398,56.267876,59.785244,57.983955,59.570705,16.899637,17.915789,20.238901,20.017056,20.124718,21.10897,22.421373,24.369158,25.384249,27.430416,27.371996,30.923101,35.54813,41.15401,46.49884,52.150414,57.109394,68.24339,75.78432,83.761406,89.44946,93.62742,99.53118,102.116005,100.86412,103.98048,103.484665,102.988495,95.39983,100.19246,All tokens,174,322,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+35,15.0529,26.457003,31.447235,33.248463,39.47648,44.09103,49.503452,2.783636,3.1008985,3.4039664,3.5282269,3.5303702,3.8163447,4.101319,4.56511,4.9245706,5.426318,5.628997,6.6443734,7.7644753,10.296837,12.491418,15.074997,18.416107,24.380426,30.62394,35.713722,40.992958,45.67758,50.33818,54.38918,57.234467,60.16347,60.002464,57.716133,46.59727,53.216846,All tokens,79,151,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+36,11.00525,21.110788,23.29515,24.213194,28.96201,32.208046,38.29395,2.7742581,2.968682,3.2285504,3.3015733,3.2314103,3.423843,3.61035,3.993064,4.277779,4.659148,4.7471266,5.6353855,6.6065516,8.608829,10.529291,12.804303,15.585162,21.581053,28.208717,33.53589,39.940575,45.056664,51.020267,55.459743,58.343536,62.737892,61.34623,55.71468,44.68128,57.488514,All tokens,110,198,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+37,23.393744,54.71953,59.531548,60.47558,62.400364,62.16839,62.289692,23.952747,24.696308,26.773865,26.178291,25.328173,25.814837,26.80499,28.45612,29.335697,31.425867,31.38786,34.865128,39.29555,43.588253,48.50457,53.55948,54.458603,64.77119,74.732155,83.01035,89.57201,93.192024,97.81905,100.44886,100.89635,108.446236,111.697044,112.130104,107.69515,124.599335,All tokens,172,319,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+38,13.395385,30.71447,34.54145,35.812935,38.845905,39.337868,42.506283,6.0887737,6.392936,6.977451,6.8225536,6.7765923,7.1067586,7.5855336,8.350874,8.7922325,9.652328,9.735347,11.276053,13.201952,16.649261,19.816559,23.509838,28.272778,37.192875,44.738297,51.225483,56.978886,61.303158,65.75,65.95785,65.301765,67.98417,68.77244,68.513626,61.002117,68.8481,All tokens,194,370,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+39,15.592115,32.832108,35.88263,36.461075,38.359108,38.634624,39.47183,8.717089,9.033187,9.774301,9.897491,9.678397,10.082154,10.874537,11.960478,12.504811,13.95521,6.7540603,7.7177577,9.072115,11.4062,13.50323,16.248701,20.480682,28.507135,37.05639,43.57992,51.363758,57.930176,64.116135,68.43184,74.00502,79.21863,82.22701,82.86024,79.91453,75.87175,All tokens,49,100,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting
+40,23.776604,54.800056,60.614243,62.216103,65.047264,63.334904,61.653618,20.725304,21.854298,24.640383,24.054106,23.910917,24.44962,25.718422,27.911003,29.184708,31.668228,13.927545,16.086437,19.019552,23.462534,27.915867,33.031113,39.401676,52.17306,63.893307,72.960205,83.63341,91.518005,99.2015,107.00484,111.44763,119.946465,124.4592,124.92951,116.337944,131.42528,All tokens,183,344,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+41,22.285276,49.28448,54.692318,56.552864,59.535156,58.93896,58.244022,19.384783,20.390436,22.606642,22.071299,21.839779,22.741007,24.031662,26.010822,27.099035,28.989815,29.283073,33.16795,37.818268,42.72323,48.26731,53.68516,57.31293,66.32059,72.48738,78.19656,83.007034,86.74577,91.5033,94.06372,93.85319,99.809685,103.350624,104.82345,95.32017,110.36331,All tokens,176,335,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+42,37.083714,84.54674,87.4225,88.38854,89.88631,86.27715,83.57174,71.16494,74.35842,84.84316,87.239235,90.604294,93.80532,97.772705,99.9807,103.03585,108.2559,73.86368,79.52379,87.83655,91.424355,98.08252,103.801796,100.694824,114.747154,125.31404,136.92921,147.62181,153.8138,161.25829,167.77246,169.82654,181.21188,181.69882,179.47105,168.18288,193.19215,All tokens,309,646,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+43,21.41687,41.714897,47.639576,49.306137,54.652637,56.394928,60.775093,7.496507,8.216262,9.239607,9.395228,9.151007,9.65108,10.22545,11.372648,12.0485525,13.429901,13.742369,16.665543,20.318863,25.374922,30.421154,35.98247,41.430336,51.821293,60.73147,66.82587,74.943634,80.60507,86.00667,90.96437,94.844475,100.28116,98.49383,92.24995,72.59603,91.91383,All tokens,135,246,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+44,13.235466,31.215437,33.059208,33.283394,35.49128,35.753143,36.76171,7.6431108,7.904841,8.594652,8.728925,8.618823,8.901776,9.325913,10.114766,10.441356,11.442562,11.536403,13.335645,15.679268,19.27374,22.570976,26.441286,31.176996,40.725,49.832718,56.35022,63.488026,68.736374,73.93561,78.472496,80.67237,86.376686,86.94156,84.47017,76.0485,69.25976,All tokens,22,41,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+45,18.500639,41.507137,43.03192,44.123627,46.516937,46.254745,47.258755,10.081345,10.491555,11.528275,11.3576,11.228867,11.631744,12.4309635,13.40299,13.865445,15.120112,15.286976,17.392193,20.078375,24.235352,28.102472,32.442997,36.835716,46.799618,56.71273,64.368484,72.524025,77.78059,82.91106,88.19261,91.26285,97.115555,98.09193,97.318085,91.49012,95.86812,All tokens,235,459,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+46,44.915943,107.279274,115.65226,117.23972,118.67539,113.96751,108.35603,106.84305,106.743454,120.17947,122.44121,127.42677,132.45366,136.20256,137.55083,139.18976,144.94075,121.6102,125.22021,132.96764,130.34383,134.89267,138.73349,128.50179,140.69,152.01376,165.48175,177.43901,184.6335,195.65974,202.6601,206.2812,218.02281,221.63281,223.93024,218.64038,255.18636,All tokens,274,574,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+47,10.009081,20.5508,22.651047,23.239624,28.033613,31.616636,37.686478,2.6552777,2.8286645,3.059893,3.1487842,3.0996284,3.3053298,3.5091069,3.879268,4.162602,4.539208,4.622944,5.4338365,6.3139825,8.212674,9.964244,12.120367,14.905051,20.619545,26.834217,32.083206,38.66427,43.824368,50.261383,55.050747,58.482018,63.00961,62.215473,57.43544,44.051613,59.47917,All tokens,63,128,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+48,24.350897,60.60548,64.62024,66.6476,69.13899,66.75666,66.18759,21.29725,22.169176,24.553331,23.972195,23.98976,24.69813,26.208359,28.255835,29.321756,31.610659,14.502803,16.612745,19.531687,24.038712,28.367926,33.185677,39.64515,52.508507,64.58995,73.589264,84.476944,92.74459,101.12489,108.14296,114.99058,124.2964,129.27086,131.74843,123.249405,136.10738,All tokens,193,362,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+49,13.787256,36.28013,35.267796,35.854126,38.541206,38.549236,40.48202,7.420815,7.821931,8.505601,8.770172,8.647555,9.08369,9.607313,10.429391,10.913787,11.877094,11.772521,13.499937,15.774861,19.444984,22.829948,26.669607,31.63987,40.71275,49.502693,56.019997,62.447067,67.91367,72.84431,75.13621,75.25546,81.660255,84.41139,85.04549,80.054794,72.44906,All tokens,40,83,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+0,24.637953,47.226097,53.275154,54.857967,54.347046,52.36577,50.045773,50.356968,49.031563,50.129013,49.622253,49.599403,50.917053,53.272484,53.422695,55.108425,56.999645,57.539444,58.09937,59.14668,56.84333,57.25939,56.166676,46.846313,50.2494,55.347126,59.909317,62.271454,64.66866,67.72082,66.961815,68.28376,73.41346,77.58093,82.358986,83.177795,91.814,Img tokens,327,679,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+1,29.60508,52.733025,59.111237,60.326496,60.92868,58.87292,56.10155,56.41679,56.81648,59.482998,57.167152,56.025204,54.75824,58.833298,59.092323,63.49768,67.37809,62.659622,67.52196,73.57228,73.190636,77.85301,81.41391,79.79078,82.54046,81.668045,83.21675,85.013824,86.666435,87.905396,89.24407,93.694046,99.91583,103.87468,107.851585,103.51353,111.74228,Img tokens,57,121,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+2,26.605644,47.91917,54.325665,55.564484,55.320557,53.800613,51.385365,51.018147,48.794533,49.741283,48.264557,47.768894,48.80989,50.432617,51.432457,53.56331,55.603344,56.32806,57.027863,59.118145,57.072506,56.932873,55.622993,45.61401,49.536232,55.148853,59.093456,60.967655,61.85029,64.4006,64.04803,64.834,68.9036,71.35074,75.47976,77.24771,85.11847,Img tokens,12,19,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+3,18.45341,33.642895,37.41314,38.65335,39.412003,38.33327,37.19331,37.912605,38.712646,40.776855,39.075947,37.67371,37.75427,40.321384,40.65803,43.51346,46.161118,47.70754,49.65918,52.260975,52.595135,54.294952,55.391872,54.536106,54.34389,51.24714,50.177414,51.44561,51.84391,52.202785,53.06501,55.977085,58.39806,60.191795,62.135933,58.254852,66.14629,Img tokens,140,255,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+4,16.189556,27.233704,29.9134,30.54054,30.69442,30.261143,29.515493,29.274578,29.012915,29.254957,28.465866,28.233934,27.010296,28.0032,28.314283,30.004988,31.049223,31.211813,32.322926,33.190117,33.03991,33.727528,34.44264,34.29362,33.496326,33.09783,33.050797,33.57315,33.396393,34.290462,34.988506,35.62369,37.12753,38.112923,39.9739,39.197865,41.480446,Img tokens,125,223,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+5,20.275171,25.95444,28.631498,29.32972,29.404413,28.593676,27.851297,27.868452,27.501125,27.887629,27.277637,26.550869,26.538073,27.465275,27.907928,29.207024,30.83797,31.774473,32.79025,33.564587,33.307716,34.000793,34.594154,33.99294,33.91824,32.869507,32.419365,32.82863,32.89112,33.114487,32.75641,33.61549,33.94883,34.628944,35.370728,34.746326,36.132294,Img tokens,114,204,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+6,20.99204,27.879337,30.378805,30.810118,31.02571,30.523657,29.910587,29.663683,29.453794,30.036901,29.24281,27.918417,27.834337,28.409405,28.686874,29.332384,30.607397,31.273636,31.485271,32.79153,32.561604,33.00299,33.70477,33.303967,33.51036,32.518604,32.043015,31.842087,32.384827,33.45333,33.797264,34.6552,35.977966,36.554478,37.30344,36.08615,39.347492,Img tokens,71,141,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+7,29.7526,55.00111,60.65232,62.15264,61.516277,59.54109,57.14284,56.42163,55.23473,57.22418,57.150253,57.459793,58.271915,58.78022,58.68561,59.70086,60.55519,60.793877,60.78174,61.94807,59.857094,58.844013,57.95289,48.151722,49.2069,56.257732,61.246536,64.87773,67.0228,69.11477,72.117065,74.79415,79.716385,83.27356,86.27028,86.412605,92.12626,Img tokens,52,106,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+8,26.933851,50.093323,55.052536,56.117046,56.00229,54.72835,52.622643,52.640633,50.928368,51.50372,50.5485,50.28796,50.85,52.69147,53.1529,54.847317,57.086685,58.16925,58.89162,60.21074,58.824516,58.260048,58.00597,48.44417,51.90607,57.3005,62.52451,64.975,67.060234,70.431366,70.80014,72.289696,75.66985,78.29073,81.23564,80.48832,88.50174,Img tokens,346,721,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+9,49.20776,105.56395,121.3548,122.933914,122.483246,116.293686,107.281845,107.62241,103.12482,107.86546,105.63053,106.322426,110.076096,113.40945,115.43551,118.51258,124.59737,124.13002,124.29036,126.46948,118.68445,119.84554,121.32489,110.36664,114.34074,120.294586,129.09851,137.03392,140.81215,147.89603,148.90674,154.50308,164.60222,171.5538,180.79234,171.39378,210.89708,Img tokens,279,583,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+10,25.188889,49.36933,50.2497,50.76839,50.403168,47.407257,45.551575,46.596546,47.039577,48.0336,46.69873,46.250515,48.77456,51.75833,52.73096,53.967052,55.535168,55.576805,56.562733,57.944847,55.410915,55.992916,55.15075,47.820717,48.61722,52.775536,56.524124,57.95137,59.62578,62.603477,62.432484,60.98612,59.025303,61.196526,64.38181,61.69244,69.573784,Img tokens,44,90,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+11,43.790913,98.2597,111.32627,112.04347,111.65408,107.321236,99.35972,100.00028,95.99872,100.10014,97.749855,97.19778,99.6693,103.3349,105.07191,109.00808,116.40054,116.101974,118.08056,122.25073,114.85862,116.394485,118.74366,105.772705,106.89197,114.63925,122.133736,130.48152,134.22603,142.73428,141.43753,141.49545,153.90962,159.10538,167.62852,155.73097,199.79173,Img tokens,302,632,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+12,28.516317,51.09385,55.769062,55.418503,54.74831,53.433872,51.061977,50.250942,49.35333,50.414635,50.44156,51.76264,52.34374,54.13534,54.6773,56.254295,58.126575,22.44375,24.462133,27.240288,30.458853,33.766663,37.195633,40.50346,47.44585,53.045364,57.731956,62.003452,65.14672,69.226974,72.7993,76.733086,81.64422,85.74722,90.167145,85.70809,97.04875,Img tokens,216,409,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+13,25.196507,50.809204,56.074383,57.569912,57.307987,55.375366,52.771664,51.724644,50.27944,52.24452,51.63221,52.207535,53.340725,54.639877,55.09794,56.33558,57.44733,57.95347,57.6294,57.774395,54.775528,53.628742,51.71805,39.148132,42.722,49.43127,54.796345,58.55784,61.035896,64.19989,67.45927,69.10432,73.792435,77.457695,80.87346,81.94668,82.93874,Img tokens,16,24,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting
+14,34.43471,62.0448,70.7336,72.68619,72.12278,69.49056,66.54522,66.30045,63.969734,65.82529,64.801544,63.50113,64.37828,65.25526,65.54725,66.712845,69.18569,69.91219,69.76597,70.95294,67.277,65.88049,64.284966,46.89412,49.37624,59.84976,66.97616,72.146965,75.4282,79.47288,83.20842,86.99725,91.97008,96.45021,102.274445,103.55405,110.712036,Img tokens,15,22,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+15,27.908535,50.1575,54.42956,55.315544,54.681416,51.855453,48.976364,48.633892,47.482433,48.745144,46.319202,47.144802,49.641567,51.57656,52.622185,54.46656,55.185055,56.12018,56.79733,57.739613,55.797897,56.372902,55.856033,49.624466,49.648907,53.0516,56.554558,59.258724,59.90495,61.80789,61.916508,63.562992,60.87696,63.7424,68.07465,69.2693,82.08825,Img tokens,47,97,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+16,20.8347,30.841705,35.48818,36.214233,36.175762,35.133644,34.02483,34.467705,32.79551,33.115467,32.02078,31.060417,31.818966,32.71294,32.80844,34.85443,36.988266,37.99683,38.91554,40.115726,39.857735,40.530914,41.25139,40.66602,40.510788,39.376537,39.320557,40.175613,39.29955,39.327824,39.71068,41.047104,42.21321,42.63486,42.906963,41.55507,40.27763,Img tokens,111,199,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+17,15.375989,25.518435,27.793068,28.435616,28.621008,28.101213,27.606537,27.813347,27.631102,28.225544,27.487404,27.01177,27.008215,27.855839,27.825106,29.138123,30.722687,31.453983,32.04426,33.087643,32.890797,33.416435,34.18641,33.96715,33.876354,32.857174,31.961786,32.765553,33.41507,33.997063,33.928036,35.305008,36.867023,37.117153,37.811264,37.285053,38.67059,Img tokens,119,214,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+18,34.363712,86.250946,100.60042,101.878334,100.58723,95.43906,88.33524,88.0707,84.40144,90.04375,88.42493,88.851135,93.139435,97.5897,99.51875,102.47571,109.30284,107.808136,110.518936,116.18394,112.05494,115.7716,117.497116,104.03826,110.87454,119.064285,128.29105,135.7059,140.60101,146.67738,147.98915,152.84607,160.28156,167.87497,173.99019,167.17218,202.37,Img tokens,258,531,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance
+19,43.86592,84.778946,91.751595,92.54448,92.24586,87.78182,80.73409,80.01324,77.59999,80.70865,82.7621,87.08043,90.74568,96.139854,96.95195,98.37142,102.207115,102.57974,102.34733,104.65798,98.83699,97.85058,96.09742,71.66047,78.16123,86.724556,97.53107,107.15352,113.64103,121.561966,126.254265,130.78331,137.89464,141.19366,139.78265,144.30678,150.90941,Img tokens,308,645,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+20,27.673706,46.897896,50.61904,51.473618,51.20193,49.778774,48.4341,48.459133,47.172752,48.32509,47.042427,47.532307,47.424023,48.883533,49.208794,50.387928,51.545128,51.93088,52.26961,53.16915,51.47466,51.974197,52.021362,46.378548,47.028233,50.089085,53.60108,55.94037,56.24971,58.696384,56.12735,56.774254,60.11759,62.948586,66.950134,68.055336,73.53338,Img tokens,13,20,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+21,51.883522,115.71216,135.14037,138.25893,136.9409,131.50671,121.94793,120.44251,113.514404,117.599,115.4424,117.039085,121.48495,125.78795,126.57773,129.15004,134.20383,134.35583,133.96706,139.51994,129.5113,128.90633,128.01202,100.25257,99.19578,113.726685,128.44688,143.06311,152.43448,162.6927,172.78122,180.64627,191.81406,196.71556,192.08792,201.65332,232.98776,Img tokens,287,600,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+22,46.37538,87.998955,103.06725,105.04911,105.95586,101.61314,95.69749,98.0116,95.6801,94.25639,93.00118,89.83121,89.35981,95.4244,94.78434,98.4581,106.74721,101.351685,106.90466,117.655495,117.26159,127.074585,132.52713,128.69531,130.81169,123.89903,127.5284,131.67706,133.2516,136.2462,138.42412,144.64717,154.01613,154.67181,151.47687,138.40239,155.9894,Img tokens,101,185,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+23,22.368855,45.127968,51.0756,52.275692,51.596214,49.44436,46.96792,46.953613,46.151947,48.20584,47.09946,45.044678,47.029324,48.68675,49.465084,51.47689,53.621124,54.742447,55.545837,56.681152,55.844906,56.031857,56.376156,50.06169,50.843082,55.025585,58.481964,59.62885,60.918743,64.22593,62.562805,65.796486,69.27442,72.37647,77.304085,74.76741,84.58005,Img tokens,366,779,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+24,29.776237,51.381348,55.839657,56.50224,56.33332,53.900227,50.8167,50.11474,48.553,50.597706,49.78675,50.412754,53.02827,55.84841,56.9653,58.451324,60.05768,60.761364,60.56348,61.447414,58.596775,57.84665,56.727737,44.013687,46.86231,53.800175,58.63191,61.874836,63.94491,67.11669,68.374954,70.23263,74.26502,76.4163,78.89713,76.41378,83.46406,Img tokens,332,690,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,23.148523,46.569427,53.791553,54.95725,54.45425,51.900303,48.6076,48.348473,46.664165,48.668774,47.369488,47.504757,49.784534,51.491745,52.520325,55.09216,57.704964,59.10439,59.642788,61.66141,59.46842,58.92974,59.114704,46.67939,49.34096,56.50825,61.9155,65.56422,67.38025,71.03483,70.20674,69.78254,71.86945,75.9219,80.65898,80.71681,92.62205,Img tokens,359,761,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+26,22.339064,39.67094,43.265083,44.033314,43.364162,41.860504,38.819675,37.91255,36.790333,38.111027,37.21908,38.324463,38.854122,41.27698,42.527935,44.66853,46.708733,47.182617,48.17086,49.68659,48.649963,50.006042,49.88103,43.712044,43.25722,46.58108,50.151207,51.60373,52.38821,54.09598,54.543137,50.502995,54.39564,57.579735,60.498222,59.204918,66.624565,Img tokens,214,406,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+27,23.620136,41.49569,47.67251,48.66491,49.256824,47.789646,45.312405,44.877926,44.46486,46.682934,46.39829,44.447155,42.743683,46.378624,47.135567,51.08471,54.18493,55.54433,57.861656,62.133175,62.12897,65.17916,67.813385,66.732124,66.423454,64.51931,64.662125,67.30714,68.86517,70.41296,71.48642,75.04637,79.63216,81.6969,83.81219,78.43056,89.6125,Img tokens,112,201,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+28,22.589373,37.09279,41.320934,42.65989,42.116756,40.47926,38.67211,38.533257,37.112198,38.162674,37.54621,38.6935,38.70146,42.757755,44.031002,46.67834,49.777695,51.12237,52.487976,54.80113,54.05332,54.757244,55.028442,44.4742,45.16008,50.06191,55.11897,57.47596,58.811024,60.430893,57.70119,60.604958,63.96552,67.54621,71.72426,72.117546,84.60707,Img tokens,229,445,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+29,41.891506,97.81886,107.620865,108.771515,107.3373,101.5896,91.1772,91.13509,84.696556,88.03904,84.24226,85.8321,91.21099,97.95465,101.3528,107.59501,116.22195,111.09146,115.934296,124.42058,121.650215,128.29697,130.34389,116.6335,122.031105,127.21737,135.52037,142.78458,145.85432,151.06602,151.76411,152.93253,160.91525,163.70628,172.05443,166.65579,208.06046,Img tokens,301,631,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+30,18.522087,26.35775,29.31179,30.05578,30.282907,29.43776,28.755306,28.93997,28.82737,29.37417,28.607077,28.427189,28.529245,29.585814,29.270452,30.826195,32.35748,33.029747,33.728374,34.801426,35.06898,35.666355,36.238453,35.90137,35.423717,34.27549,34.298615,35.197803,35.878944,36.876297,37.368057,39.000797,40.634586,41.449196,42.23976,41.81567,42.692066,Img tokens,142,258,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+31,24.163101,47.479393,51.764366,52.72097,52.67065,50.713993,48.946163,49.242443,47.8909,49.487682,48.491898,48.078102,49.731625,51.194603,52.3625,53.76345,55.487568,56.417515,57.11064,58.33856,56.887638,56.661804,56.482307,48.0859,49.07014,54.42287,58.61335,61.11441,63.413803,65.6873,65.77857,64.24792,69.45837,73.18054,77.796425,74.30257,87.07686,Img tokens,3,4,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+32,16.08188,20.858284,23.903254,24.804468,24.602549,23.760077,23.238503,23.735249,23.275057,24.170662,23.415188,23.141409,23.436035,24.34497,24.367752,26.073874,27.750708,28.658953,29.386799,30.609034,31.031693,31.841413,32.334236,32.05206,31.942793,31.717049,32.136974,32.71877,32.810112,33.279972,32.94542,33.597717,34.566425,35.3422,35.982155,34.802387,34.47004,Img tokens,81,153,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+33,29.226898,59.110386,66.982,68.089096,67.1702,64.287964,59.678776,59.34154,57.45645,59.22059,59.36775,60.300186,63.285328,67.17292,67.85793,70.086525,72.161514,51.85016,54.07778,57.117947,57.899742,59.625664,60.424324,53.00952,56.773663,65.684784,73.38574,77.221565,80.38617,83.55552,86.699005,88.70107,95.12946,99.77582,105.46494,106.77832,116.12013,Img tokens,357,756,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+34,34.45529,62.054565,64.22795,64.86795,64.737686,61.077904,58.8905,59.854725,59.615826,63.22474,62.9013,63.918266,65.44047,69.21664,69.435905,71.06237,72.92987,72.85517,74.32716,76.034904,74.116264,74.79875,74.82964,66.86055,69.43756,71.76962,76.38132,77.9422,78.88172,82.95547,82.61697,79.85686,81.12385,80.75127,83.42363,80.02714,87.50596,Img tokens,174,322,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+35,24.402832,32.47024,36.673218,37.522896,37.25662,34.96233,33.366486,34.852814,34.03425,34.074142,32.85346,30.92184,31.381632,32.667107,33.092964,34.654194,37.16152,38.004784,38.80276,39.053043,38.595245,39.152473,39.372437,38.26673,37.787685,37.0513,37.352844,37.542854,37.07779,37.82614,38.60371,39.15445,39.661552,38.256386,36.975502,32.444668,37.16249,Img tokens,79,151,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+36,20.894455,29.52882,33.205837,34.24893,34.345547,33.553795,32.85208,32.666943,32.239185,33.094204,31.893585,31.250992,31.530396,32.348988,32.659866,34.13566,35.991966,37.24633,38.61579,40.547672,40.436535,41.20371,41.9886,41.180256,41.718937,40.83183,41.002823,42.072834,42.779346,43.335052,43.725834,44.86578,46.942192,47.472034,48.34104,46.33187,48.420933,Img tokens,110,198,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+37,30.626192,65.74655,74.613304,75.13811,74.498085,72.68033,69.69879,69.5174,68.01816,70.20862,67.61788,66.035324,65.86048,67.93758,69.02735,70.65533,73.04932,73.83587,74.62675,76.27908,71.68901,71.25734,70.55059,57.803276,61.894276,69.01771,75.236305,78.80334,80.3748,85.34994,85.77122,84.95195,91.173546,95.20769,100.691895,98.75206,115.56787,Img tokens,172,319,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+38,19.632853,38.44461,43.274647,44.441296,44.156693,42.719067,41.22817,40.665527,40.055553,42.157814,41.1442,41.537712,41.678066,44.24739,45.398335,47.715313,49.148705,49.774456,51.14712,52.42834,51.366875,52.571827,53.024757,50.477844,50.724384,50.718716,52.6644,51.87095,51.77193,52.35557,48.10959,45.841717,45.970146,47.91722,51.671288,50.656677,58.678616,Img tokens,194,370,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+39,22.952137,42.550247,48.08617,48.8972,48.512962,46.471977,43.786415,43.467175,42.579994,44.366516,42.805042,42.979507,44.44717,45.285213,46.2656,48.758938,51.256256,30.609163,32.762836,35.89784,38.302135,40.980377,42.93491,41.00647,45.78649,50.88428,54.69482,56.54561,58.03809,59.603752,58.213398,61.37078,64.348694,68.26839,72.83406,73.31338,82.5525,Img tokens,49,100,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting
+40,30.070171,60.465515,68.79166,69.52006,68.99875,65.09222,59.72868,58.400646,57.765614,62.29474,62.269554,63.97742,64.690926,66.54601,67.91918,70.35215,72.979836,51.726044,54.956276,60.102406,61.47959,65.60197,68.70872,68.67399,75.05664,78.39051,83.008766,87.064896,89.40674,93.11785,96.117165,97.92196,103.367386,108.91575,113.4115,109.009895,121.83464,Img tokens,183,344,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+41,28.518602,54.54462,61.537224,62.867744,62.333183,59.612133,55.19342,54.926228,53.54675,55.85257,53.811577,52.974792,53.50874,55.812366,57.089684,59.0085,61.429836,62.61091,64.17088,65.70471,65.106094,67.18352,68.00902,63.80358,65.18068,66.31234,68.76263,70.07333,71.5809,75.10877,75.387856,74.580574,78.794945,83.41015,88.937515,84.14796,99.441284,Img tokens,176,335,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+42,44.03753,92.7186,98.20195,98.788895,97.88027,92.63433,86.862,86.880806,85.79049,92.626595,94.548256,97.51964,100.88259,104.91781,105.53758,108.656746,113.99048,108.05549,109.9343,114.5467,110.744934,112.0495,113.03057,100.81815,108.05574,115.08032,124.130554,132.28198,136.56581,143.65558,149.34506,151.62915,162.40894,165.17091,168.6272,162.31209,189.7626,Img tokens,309,646,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+43,31.093618,50.635242,56.337673,57.213516,57.497013,54.896305,52.48441,51.52042,51.538685,54.350502,51.93225,51.979355,51.575195,53.332115,53.666245,54.795086,56.88181,57.692005,58.552475,60.954803,59.23914,60.871704,62.42581,61.360245,64.74326,63.87637,64.98331,67.67846,69.78693,73.092804,73.47646,76.091736,79.85327,81.42668,82.99436,77.66525,85.85572,Img tokens,135,246,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+44,21.377834,43.6019,49.27408,50.297764,50.27165,48.76453,46.37825,46.112816,44.845493,46.81197,46.67402,47.174202,47.89944,49.586655,49.76628,51.211952,52.85721,53.791973,54.56132,55.988377,54.320614,54.2796,53.23224,42.567814,43.42165,49.11595,53.71056,56.694153,57.798725,59.952328,61.264004,61.910164,65.30696,67.87353,70.3705,67.68488,75.76337,Img tokens,22,41,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+45,26.25201,53.44679,57.048862,58.519203,58.236053,56.28577,53.541206,53.2798,51.076176,53.28473,53.53045,54.792923,56.362156,58.5761,60.111744,61.809868,63.75459,64.49289,65.16001,66.45018,64.02003,63.709892,63.04919,51.024155,52.10455,58.466152,64.01783,67.90953,69.27056,73.11689,75.25718,76.67592,80.365364,82.989334,87.17282,86.186,97.17187,Img tokens,235,459,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+46,49.86736,113.91621,124.82245,126.2577,126.03748,120.19185,112.19123,113.38311,109.46249,118.57922,119.27351,122.39311,126.8622,129.89091,130.48601,131.94897,138.37494,135.75851,136.31526,141.27122,134.7765,136.17917,137.41899,123.02059,131.18535,141.17986,153.1135,163.77783,170.08383,181.40094,188.0834,192.50227,203.94728,208.91899,215.4662,213.33702,253.46104,Img tokens,274,574,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+47,19.372099,30.004913,32.664707,32.827805,33.153454,32.61533,31.851862,31.592424,31.783749,32.787384,31.934698,31.062885,31.198896,31.80576,32.20153,33.487743,35.1601,35.934093,36.462215,37.530636,37.268433,38.262787,39.353184,39.17914,40.148994,39.509968,39.950043,40.10585,40.050007,40.64386,41.230465,41.748894,42.55256,43.439224,44.43702,42.90422,46.53402,Img tokens,63,128,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+48,31.49757,69.47373,77.205215,79.07755,78.18803,74.16094,69.60862,68.74712,67.8023,71.17038,70.49477,70.97175,71.92098,74.1588,74.68813,76.88032,79.14383,58.05916,60.952015,65.42693,67.01149,70.72415,73.35278,73.77154,79.59693,82.43807,87.28438,90.57509,93.599434,98.02548,98.5122,102.57441,108.637,114.11312,120.09636,115.921524,128.4328,Img tokens,193,362,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+49,20.681915,48.865257,52.371964,53.306156,53.345848,51.494553,49.67031,49.982086,48.914352,50.371212,47.32905,49.39216,51.548252,54.116055,55.044376,56.38148,57.635086,57.64888,57.68202,57.43224,54.851425,54.401424,52.581264,42.00181,42.665688,48.359894,53.08155,55.283794,57.2994,59.87519,58.41803,56.897163,60.945942,64.51155,68.586426,66.58216,75.2245,Img tokens,40,83,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+0,26.53539,28.823896,27.435595,26.37285,28.84741,30.718277,33.095253,37.16428,37.31965,36.536713,35.802303,34.322712,33.394054,33.11722,32.1884,31.430908,30.751911,30.144335,29.085215,28.76909,28.722418,29.106586,29.878605,29.764765,29.098856,29.194471,29.731041,30.534615,30.708715,31.370398,32.119125,31.71524,32.24656,32.421352,32.406635,29.2386,25.459595,Text tokens,327,679,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+1,32.297817,32.999634,33.60823,33.439774,35.345764,36.41724,38.06831,42.195854,42.53402,42.35145,40.54631,39.156242,37.429367,36.974327,36.567146,36.484615,36.787167,35.727802,34.730927,34.98767,35.317482,35.785244,36.81044,37.06987,36.927433,36.650604,37.479702,37.96233,38.395386,39.179104,40.019096,38.936447,39.03975,38.084766,36.2761,29.424868,31.101017,Text tokens,57,121,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+2,25.476099,29.624607,30.611252,30.657618,32.644512,34.399807,36.657,41.00958,41.14101,40.75238,40.255695,38.91966,37.537575,37.223774,36.279964,35.625237,35.47735,34.889206,33.591488,33.530212,33.941975,34.242428,35.064625,35.262177,34.453396,34.0401,34.420765,35.02285,35.264683,36.376816,37.277637,36.707466,37.472958,37.618618,37.6485,33.668545,23.829592,Text tokens,12,19,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+3,32.297817,32.93958,33.536274,33.348568,35.305103,36.5003,38.1651,42.299675,42.548374,42.363308,40.58258,39.182823,37.26886,36.99076,36.629498,36.487446,36.83125,36.09276,35.22349,35.343506,35.773514,36.197895,37.112286,37.32068,37.07265,36.67592,37.341488,37.877903,38.41676,39.161278,39.936718,39.04686,39.257694,38.106308,36.032497,29.105324,31.365868,Text tokens,140,255,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+4,32.297817,32.94337,33.53356,33.446842,35.271835,36.554638,38.15354,42.156216,42.40315,42.261253,40.841087,38.810394,35.991737,36.454346,36.242367,36.470127,36.928886,36.455757,35.69904,35.918358,36.293133,37.07129,38.12012,38.400616,38.464077,38.31532,39.06884,39.796883,40.292843,41.291912,42.147068,41.31469,41.590336,40.410843,38.151928,31.409838,34.52161,Text tokens,125,223,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+5,32.297817,32.937435,33.480907,33.350815,35.28162,36.56767,38.17869,42.313744,42.572693,42.382065,40.659428,38.990215,36.567696,36.55833,36.372463,36.437576,36.76919,36.10359,35.28079,35.4253,35.673378,36.16245,37.172974,37.278786,37.002617,36.448242,37.065403,37.51092,38.153393,38.987343,39.616226,38.977577,39.27076,38.213303,36.482952,29.91674,31.018126,Text tokens,114,204,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+6,32.297817,32.939526,33.487957,33.3691,35.23031,36.48602,38.145626,42.270668,42.521477,42.311142,40.664528,38.82286,36.48848,36.597797,36.488094,36.41635,37.090237,36.52716,35.60718,35.39162,35.719036,36.479412,37.558502,37.813805,37.73816,37.290005,37.95924,38.616444,39.263573,40.255157,40.90661,40.183838,40.536926,39.428356,37.452984,30.32292,31.469872,Text tokens,71,141,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+7,24.399542,28.461891,29.289867,29.214523,30.97914,32.724747,34.877296,38.49134,38.382664,37.77559,37.312458,36.08062,35.15026,35.147507,34.113945,33.475067,33.247734,4.920743,5.5911584,6.5900445,8.646361,10.530821,12.819996,16.209057,21.058594,24.855688,27.782728,30.078197,31.793251,33.84826,35.49613,35.33523,36.087196,36.6458,36.75066,33.23968,23.39532,Text tokens,52,106,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+8,28.35585,30.573872,29.932878,29.493103,31.683187,33.163277,34.75422,37.5788,37.723694,37.0467,35.95509,34.597305,33.790283,33.545418,32.665325,31.875603,31.275324,30.660406,29.330103,28.973486,28.943861,29.493448,30.320065,30.363997,29.398586,29.527046,30.16054,30.973885,31.391264,31.936256,32.40733,32.293514,32.93029,33.008076,33.138287,30.027172,25.670158,Text tokens,346,721,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+9,36.36196,38.453075,39.915062,39.666733,42.866737,44.70437,47.244087,52.215233,52.600334,52.186623,51.554737,49.290516,48.348537,47.77711,46.92297,46.42729,46.09802,44.962887,43.446835,43.204224,43.47158,44.07197,45.78696,45.50871,44.404602,43.720383,44.970337,45.375698,45.331646,45.404217,45.802685,44.340405,44.635227,44.77164,44.29444,37.467037,34.583885,Text tokens,279,583,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+10,29.63986,33.957623,35.219425,35.36762,37.393448,39.021034,41.005795,44.847946,44.557228,44.14521,43.382122,41.714767,40.200745,39.927795,39.144306,38.831303,38.53443,38.06005,36.867245,36.858665,36.969406,37.611885,38.770576,38.7343,37.94168,37.762745,38.594074,38.94737,39.40517,40.7019,41.696346,40.679016,41.166035,40.951355,40.56925,35.428932,25.654324,Text tokens,44,90,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+11,36.36196,38.526737,40.000164,39.802338,43.084,45.013844,47.480656,52.417248,52.618828,52.2355,51.569553,49.169533,48.13975,47.568584,46.715054,46.217354,45.959415,44.87326,43.593513,43.508854,43.72005,44.31166,46.02232,45.667255,44.647873,43.889927,44.972622,45.649708,45.566925,45.957596,46.361774,44.9378,45.5008,45.51423,44.82854,37.514114,36.63255,Text tokens,302,632,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+12,26.164284,29.080345,29.60738,29.167416,31.040777,32.7721,34.466145,37.029526,37.116596,36.352047,35.77321,34.178806,33.22553,32.762592,32.446575,31.914139,31.449629,30.474571,29.590294,29.37873,29.743881,30.27294,31.31701,31.384258,30.655256,30.474604,31.27674,31.907818,32.34593,32.547764,33.21699,32.712597,33.326996,33.575497,33.226948,29.213696,26.259129,Text tokens,216,409,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+13,24.580158,28.727657,29.672327,29.861176,31.646082,33.256954,35.207882,38.97214,39.08056,38.850803,38.397427,36.964252,35.96814,35.812572,35.087925,34.30438,34.06299,33.658443,32.600826,32.51842,33.031475,33.552906,34.280056,34.302483,33.51446,33.045464,33.425037,33.732918,34.367916,35.23982,35.97108,35.434864,36.183407,36.528694,36.871025,33.082375,23.72936,Text tokens,16,24,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting
+14,24.11327,27.974667,28.96064,28.932022,30.776228,32.5748,34.630222,38.086746,38.078457,37.882057,37.381065,36.18513,35.139427,35.136505,34.013603,33.150627,32.649338,21.71626,22.982824,25.38017,27.81053,29.744287,31.168556,32.135002,32.376865,32.270153,32.560215,32.873363,33.510593,34.664825,35.53242,35.24264,36.045662,36.30324,36.38653,33.09135,24.057758,Text tokens,15,22,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+15,24.116581,28.715357,29.22533,29.225195,31.644184,33.18138,35.253014,38.749214,38.97399,38.544083,38.28678,36.77284,35.60558,35.327747,34.431072,33.953373,34.021343,33.655582,32.96305,33.14719,33.555405,34.286865,35.363083,35.165863,34.41879,34.060997,34.797348,35.197304,35.614445,36.260666,36.921223,36.236958,36.211517,36.631634,36.120056,31.738993,24.444887,Text tokens,47,97,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+16,32.297817,32.903263,33.48938,33.3811,35.296318,36.55231,38.20393,42.31116,42.569088,42.351543,40.932682,39.14142,36.639008,36.4667,36.43471,36.43795,36.909267,36.37744,35.26965,35.098667,35.34548,35.696007,36.695312,36.98337,37.02037,36.96675,37.719845,38.39653,39.049644,40.213787,40.941547,40.260418,40.501945,39.26395,37.21092,30.265253,31.343445,Text tokens,111,199,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+17,32.297817,32.99131,33.514038,33.400932,35.31338,36.49965,38.13895,42.19978,42.44277,42.162395,40.6028,38.702045,36.07956,36.130898,36.126606,36.00086,36.40336,35.938606,34.858406,34.932693,35.08866,35.574062,36.407104,36.561428,36.525017,36.20687,36.95152,37.48369,38.229443,39.28571,39.977066,39.286465,39.558388,38.472836,36.753555,30.146765,30.691694,Text tokens,119,214,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+18,36.36196,38.45303,39.946995,39.81364,43.048992,45.06583,47.582672,52.594246,52.719444,52.201015,51.432426,49.0275,47.983143,47.320026,46.47428,46.22368,46.107166,45.111614,43.79603,43.692413,43.878353,44.511562,46.224728,45.916927,44.838192,44.090733,45.157066,45.851936,46.014652,46.277607,46.768726,45.13869,45.634754,45.832485,45.031063,37.79877,35.651783,Text tokens,258,531,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance
+19,36.36196,38.64333,40.183586,40.21647,43.466263,45.394577,47.89049,52.908047,52.976967,52.239086,51.35584,48.873165,47.747974,47.22382,46.54447,46.431763,46.512405,45.530357,44.3678,44.33647,44.30365,44.996037,46.839546,46.74359,45.58525,44.936943,46.07073,46.852097,46.985798,47.48822,48.235317,46.787308,47.237717,47.331127,46.795033,39.415234,33.935375,Text tokens,308,645,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+20,22.718609,27.567678,28.546183,28.346064,30.307922,31.782927,33.909164,37.401466,37.60152,37.16602,36.456554,35.04527,34.30362,33.998394,33.23297,32.6369,32.576992,32.2304,31.761953,31.97368,32.396114,32.92928,33.73922,34.002613,33.45075,33.558212,34.12832,34.50497,34.886124,35.58366,36.402237,35.9501,36.443077,36.3046,35.531574,31.416872,22.126822,Text tokens,13,20,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+21,36.36196,38.679123,40.221397,40.24511,43.528736,45.393444,47.851593,52.81509,52.867447,52.14981,51.30188,48.835,47.762417,47.047447,46.25898,46.009937,45.93619,44.914867,43.603336,43.24057,43.330887,43.835247,45.461327,45.398388,44.547543,44.115383,45.376213,46.205227,46.421257,46.944813,47.604973,46.093086,46.76148,46.97508,46.289978,38.775837,34.041595,Text tokens,287,600,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+22,32.297817,32.915863,33.62013,33.631084,35.504696,36.574886,38.195404,42.367783,42.66158,42.51932,41.058975,39.217888,37.39494,37.116314,36.848797,36.67139,36.852283,35.997765,35.199036,35.086388,35.66269,36.142643,36.906975,37.069344,36.75496,36.291515,36.912354,37.573406,38.468277,39.56472,40.488262,40.10793,40.54924,40.03584,38.52342,32.878544,32.184242,Text tokens,101,185,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+23,24.968,27.421013,26.279167,25.617563,28.18834,30.032658,32.274853,35.53197,35.56669,34.953785,34.04467,32.678757,31.859972,31.67001,30.8182,30.161768,29.547127,28.87793,27.83265,27.47626,27.425144,27.775932,28.455261,28.50617,27.88641,27.90536,28.371641,29.152779,29.241806,29.762205,30.402962,30.334208,30.952953,31.050335,30.933168,27.457142,23.374777,Text tokens,366,779,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+24,24.933733,27.281435,25.427397,23.937477,26.752893,28.988369,31.640139,35.508457,35.582268,35.046597,34.20619,32.804623,31.977713,31.697498,30.81206,30.141935,29.503633,28.776205,27.732218,27.43279,27.443686,27.86571,28.559572,28.6702,28.027431,27.986313,28.65316,29.412476,29.817661,30.477186,31.128187,31.005852,31.612812,31.785784,31.749954,28.764544,24.663528,Text tokens,332,690,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,26.65219,28.904015,27.318043,26.102943,28.321932,30.67174,32.724735,36.757076,36.80037,36.151855,35.027218,33.471058,32.556885,32.395267,31.652851,30.973602,30.473368,29.734386,28.732698,28.45991,28.42795,28.623144,29.443964,29.565063,28.724083,28.649784,29.231441,30.015862,30.25679,30.70691,31.28856,31.033672,31.633087,31.72107,31.951233,28.709677,24.53793,Text tokens,359,761,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+26,26.164284,29.10336,29.596144,29.11695,30.927122,32.724003,34.406372,37.04603,37.05801,36.270653,35.7432,34.19801,33.2639,32.80512,32.502766,31.913143,31.421507,30.55936,29.746016,29.57837,29.930346,30.398745,31.483755,31.592182,30.923714,30.774775,31.6186,32.258877,32.62059,32.829063,33.533634,33.104134,33.66231,33.75974,33.424667,29.745419,26.791885,Text tokens,214,406,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+27,32.297817,32.967094,33.557194,33.462936,35.387207,36.479233,38.206272,42.33448,42.614117,42.324863,40.90174,38.827488,36.678795,36.541138,36.41878,36.47216,36.695267,35.930443,34.966766,35.27621,35.98011,36.644226,37.398342,37.629993,37.571903,37.497536,38.301373,38.918324,39.679977,40.811607,41.687206,41.135757,41.319912,40.568474,38.700077,32.16939,30.87686,Text tokens,112,201,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+28,26.164284,29.095474,29.603708,29.137186,30.981277,32.76855,34.467545,37.089367,37.11227,36.268345,35.754875,34.12093,33.151123,32.774864,32.45672,31.988369,31.518456,30.60326,29.80908,29.61337,29.944563,30.353567,31.575382,31.525051,30.800978,30.558947,31.243298,31.880125,32.189518,32.438934,33.08769,32.74591,33.352383,33.582314,33.2672,29.49143,27.369947,Text tokens,229,445,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+29,36.36196,38.57443,40.294178,40.355366,43.57284,45.471207,47.86063,52.733475,52.67787,52.040714,51.14832,48.629047,47.46701,46.94772,46.162018,45.87641,45.729153,44.717865,43.477093,43.1861,43.26369,43.821617,45.45773,45.253105,44.138958,43.404472,44.417793,44.93872,45.190823,45.49814,45.98853,44.23687,44.631004,44.7229,44.062794,36.477154,34.487713,Text tokens,301,631,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+30,32.297817,32.963406,33.451347,33.387524,35.340946,36.57372,38.238888,42.351574,42.608784,42.302746,40.504185,38.791977,36.56441,36.494144,36.32055,36.439697,36.833584,36.261158,35.32341,35.51053,35.874214,36.338303,37.196133,37.3341,37.04087,36.4396,37.12737,37.638786,38.348,39.3786,40.129845,39.52237,39.728035,38.660664,37.12632,30.56206,30.86381,Text tokens,142,258,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+31,24.89658,28.791742,29.628258,29.683027,31.627394,33.311943,35.325413,39.0536,39.200054,39.006954,38.38152,36.851715,35.443558,34.9254,33.855312,33.157112,32.794415,32.89996,32.098427,32.27494,32.57795,33.350277,34.132454,34.349876,33.488262,33.17651,33.528675,34.031788,34.67746,35.62732,36.33988,35.73121,36.437263,36.68041,36.399426,32.422592,24.293432,Text tokens,3,4,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+32,32.297817,32.95453,33.526447,33.44759,35.365635,36.59057,38.210625,42.407295,42.657707,42.405273,40.472733,38.953125,37.19395,36.87214,36.813515,36.372356,36.787235,36.190258,35.205204,35.108646,35.38992,36.031643,37.20108,37.385193,37.389668,37.211895,37.94071,38.600876,39.48272,40.5322,41.350845,40.817482,41.10997,40.17157,38.38033,31.326727,31.209164,Text tokens,81,153,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+33,24.963676,27.260351,26.199102,25.594378,28.193476,30.111044,32.156128,35.455345,35.601852,35.05477,34.157204,32.75255,31.86649,31.607794,30.882792,30.23972,29.65307,28.878557,27.578049,27.397436,27.493917,27.962229,28.720835,28.806963,28.040625,28.10476,28.473919,29.19474,29.394978,29.852373,30.318035,30.08855,30.52791,30.682625,30.836132,27.70114,23.703537,Text tokens,357,756,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+34,32.395786,33.769707,33.65357,33.465866,35.384125,36.789597,38.177944,41.226505,41.18058,39.965664,38.82102,37.07116,36.421364,36.18775,35.78167,35.458,35.065643,34.07952,33.27767,33.12978,33.467228,33.79258,34.974937,34.844948,34.25508,34.293655,35.03998,35.622845,36.13152,36.41612,36.920944,36.514683,37.20969,37.390087,36.750305,32.355675,30.611528,Text tokens,174,322,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+35,32.297817,32.921005,33.51306,33.411922,35.323795,36.619843,38.163845,42.356136,42.645348,42.50504,41.219234,39.318153,37.118748,37.295437,37.22495,37.03775,37.384853,36.531887,35.582012,35.679546,35.734837,35.824795,36.618042,36.98278,36.854965,36.84859,37.660664,38.150093,38.912804,39.925434,40.759163,40.19797,40.48097,39.611042,38.15564,31.604393,30.535757,Text tokens,79,151,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+36,32.297817,32.924706,33.450703,33.253464,35.194546,36.495705,38.152813,42.263786,42.53751,42.3043,40.68751,39.077995,36.868366,36.73046,36.551594,36.252953,36.791405,36.234375,35.451508,35.346725,35.532234,36.039333,36.916183,37.00933,36.773804,36.357395,37.062603,37.703075,38.27298,39.294193,39.968254,39.1783,39.472694,38.338737,36.431004,29.535484,30.266819,Text tokens,110,198,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+37,31.531857,33.077797,32.81006,32.713066,34.600235,35.983955,37.39664,40.392193,40.310658,39.090622,38.151844,36.617912,35.959282,35.567455,35.113667,34.62115,34.158863,33.11704,32.350723,32.36447,32.859924,33.118973,34.48492,34.446743,33.787094,33.846416,34.39068,34.92695,35.300316,35.39344,36.04989,35.50503,36.118378,36.289326,35.82768,31.095367,29.622227,Text tokens,172,319,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+38,31.535713,33.11732,32.87026,32.63617,34.550426,36.00736,37.42452,40.449642,40.37028,39.10661,37.956303,36.055397,35.341164,34.90982,34.393757,33.947567,33.509945,32.48307,31.620893,31.493216,32.20223,32.633053,33.89559,33.75619,33.195473,33.356762,34.09388,34.59098,35.158947,35.367596,35.972794,35.602776,36.27578,36.446224,35.944454,31.916882,29.504814,Text tokens,194,370,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+39,22.71903,27.476158,28.39704,28.24153,30.23082,31.816217,33.881966,37.317204,37.67495,37.08389,36.510513,34.90666,33.94078,33.566765,32.886673,32.47334,32.58264,32.414394,31.768465,31.954144,32.190765,32.893475,33.962955,33.84135,32.81533,32.68759,32.95077,33.09135,33.461803,33.871517,34.88011,34.385014,35.044384,35.35993,35.233612,31.542444,22.545984,Text tokens,49,100,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting
+40,32.401005,33.87687,33.74712,33.549435,35.383575,36.778854,38.20414,41.134617,41.04711,39.678726,38.462254,36.810486,36.086674,35.666317,35.09592,34.76782,34.335415,33.238674,32.509903,32.316204,32.869152,33.27632,34.470848,34.30993,33.613632,33.79084,34.44497,35.09981,35.732933,36.044575,36.659264,36.286835,37.026745,37.18255,36.631325,32.985294,33.447765,Text tokens,183,344,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+41,32.41496,33.97595,33.874092,33.696728,35.582355,37.021755,38.380505,41.33331,41.170067,39.74937,38.592117,36.94638,36.192898,35.760185,35.313538,34.821,34.251205,33.123512,32.28757,32.053955,32.50385,33.0204,34.36512,34.35074,33.797043,33.8553,34.483414,35.062717,35.75214,36.081684,36.9424,36.542995,37.41876,37.67689,37.361298,33.699493,33.03069,Text tokens,176,335,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+42,36.36196,38.50453,40.142735,39.940487,43.15519,45.134678,47.661083,52.659412,52.758602,52.20526,51.450203,48.99705,47.894005,47.27813,46.506214,46.06789,45.94823,44.91914,43.656563,43.62122,43.70746,44.45146,46.231342,45.914097,45.049683,44.56527,45.559284,46.455574,46.797318,47.29241,47.8932,46.53687,47.121674,47.25228,46.55324,39.087048,38.134296,Text tokens,309,646,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+43,32.297817,32.98416,33.62763,33.40586,35.264015,36.36648,38.097908,42.121593,42.37747,42.128616,40.654716,39.075928,37.25926,37.106174,36.717644,36.91999,37.108562,36.16764,35.264824,35.333263,35.51784,35.91353,36.78868,37.02162,36.831318,36.67434,37.435623,37.965225,38.58199,39.5048,40.208057,39.307972,39.636086,38.70139,36.80916,30.550402,31.248945,Text tokens,135,246,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+44,25.655846,29.391663,30.0155,29.656445,31.545938,33.47786,35.532707,39.13043,39.307274,39.326332,38.641308,37.120686,35.851162,35.465828,34.42435,33.861946,33.69396,33.26901,32.337315,32.26924,32.282997,33.013035,33.818428,34.30083,34.023304,34.07557,34.50807,34.712334,35.20716,36.31045,37.15092,36.58075,37.282795,37.357094,36.836685,33.33134,25.361464,Text tokens,22,41,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+45,26.164284,29.159237,29.679285,29.219036,31.035156,32.70796,34.41698,37.003113,37.076813,36.301285,35.800156,34.196304,33.22123,32.865566,32.555428,32.114353,31.586178,30.546497,29.649857,29.301718,29.569046,30.062672,31.004766,31.121284,30.554634,30.285255,31.057615,31.695724,32.053,32.305607,33.048676,32.61481,33.213436,33.465935,33.281036,29.431656,24.695702,Text tokens,235,459,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+46,36.36196,38.569584,40.276382,40.139267,43.29446,45.10341,47.566635,52.43497,52.554382,52.066055,51.412964,49.04477,47.85267,47.16336,46.32287,45.913845,45.749714,44.759037,43.468376,43.45274,43.58017,44.39081,46.159504,45.85392,44.81057,44.111214,45.133816,45.738003,45.518623,46.020737,46.544895,44.98756,45.56044,45.70138,45.209293,37.94718,36.511375,Text tokens,274,574,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+47,32.297817,32.910965,33.531418,33.359295,35.212826,36.44872,38.088417,42.176693,42.45571,42.270306,40.631004,38.886917,36.940693,36.846733,36.602516,36.567028,37.08224,36.46476,35.553463,35.361725,35.690308,36.243248,37.309303,37.586704,37.611443,37.40472,38.130386,38.73568,39.382656,40.35505,41.04902,40.327984,40.618122,39.764645,38.040974,30.928669,32.270077,Text tokens,63,128,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+48,32.393295,33.812954,33.75559,33.525738,35.42414,36.87444,38.278065,41.265007,41.202747,39.682693,38.385246,36.754124,35.982185,35.554268,35.00297,34.487583,34.093567,32.883656,32.07908,31.889624,32.371716,32.959778,34.177387,33.95904,33.334385,33.357113,34.018925,34.74068,35.4462,35.749565,36.310963,35.820255,36.558384,36.77871,36.37224,32.2234,32.30619,Text tokens,193,362,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+49,25.656807,29.403326,29.403444,29.101349,31.472864,33.507645,35.66914,39.09261,39.19281,38.898933,38.21581,36.77743,35.72249,35.39321,34.313026,33.67462,33.20391,33.059006,32.03996,31.891376,32.111977,32.598694,33.322315,33.382263,32.813004,32.64582,32.980545,33.412975,33.882,35.190083,36.007366,35.222137,35.989197,36.534374,36.527325,33.40548,24.540844,Text tokens,40,83,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting
+0,26.53539,28.79066,27.187305,25.844692,28.715864,30.718887,33.02537,37.129333,37.181587,36.25158,35.56936,34.237087,33.039135,33.052727,32.38711,31.842361,31.348148,30.666922,29.900318,29.123384,28.91514,29.34592,30.212057,30.526001,30.128515,30.702969,31.29409,32.094215,32.371685,33.23945,33.67525,33.44982,33.762535,33.426567,33.201725,29.776762,27.909151,Text only tokens,327,679,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the surfboard left of the bed?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+1,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,57,121,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+2,25.476099,29.668064,30.455662,30.412685,32.828186,34.7526,36.84837,40.97341,40.935844,40.079292,39.355446,38.059296,36.87226,36.872334,36.226566,36.130383,36.238953,36.07453,34.990067,34.92549,35.063637,35.685215,36.740574,37.009647,36.744617,36.99099,37.739788,38.38377,38.529255,39.672447,40.228878,39.744987,39.786633,38.92889,37.774185,32.681458,27.346142,Text only tokens,12,19,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,Counting,"user
+ QUESTION: How many toilets are to the left of the basins?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+3,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,140,255,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+4,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,125,223,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+5,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,114,204,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test
+6,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,71,141,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+7,24.399542,28.462238,29.12655,29.035336,31.250128,33.146984,35.154915,38.630405,38.33774,37.130157,36.99926,35.63005,34.489586,34.51204,33.77984,33.41639,33.666767,2.4890282,2.7300897,3.072975,3.9049149,4.6419735,5.647723,7.4622993,10.70972,14.016401,17.62994,20.811457,24.129068,27.492796,29.8656,31.432049,32.91273,34.126617,34.42571,31.671528,25.756592,Text only tokens,52,106,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many people are sitting in the image?
+OPTIONS:
+0: 5
+1: 4
+2: 3
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Counting
+8,28.35585,30.472767,29.580328,28.998144,31.605684,33.061886,34.654854,37.596474,37.655464,36.92143,36.08331,34.83384,33.789005,33.69807,33.130173,32.472874,31.806797,31.2454,30.29515,29.659357,29.390465,30.00294,30.95493,31.125551,30.843493,31.431734,32.04663,32.75914,33.172607,33.98525,34.498833,34.314713,34.62037,34.34507,33.986877,30.658049,28.665297,Text only tokens,346,721,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the fire hydrant touching the teddy bear?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+9,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,279,583,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+10,29.63986,34.002407,34.885742,35.06497,37.708633,39.495537,41.472996,44.904606,44.377327,43.64935,42.704903,40.882355,39.57655,39.738586,39.06489,38.999886,39.102024,38.736282,38.02199,38.062683,38.05948,39.109688,40.253433,40.159687,39.987045,40.629124,41.77376,42.146988,42.705708,44.01422,44.77446,44.00374,43.919403,43.066017,41.906162,36.01456,28.892317,Text only tokens,44,90,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting,"user
+ QUESTION: How many words on the sign in this image have the letter ""i"" in them?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting
+11,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,302,632,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+12,26.164284,29.11906,29.404736,28.897705,30.999643,32.786182,34.476295,37.00579,37.04475,36.0148,35.71567,34.24949,33.143444,32.93724,32.563843,32.373123,32.093605,31.104431,30.373648,29.74242,29.806614,30.554443,31.61704,31.872387,31.355368,31.2937,31.944881,32.491585,32.595802,32.903694,33.4604,33.10192,33.27959,33.08055,32.65115,28.951107,26.491604,Text only tokens,216,409,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+13,24.580158,28.753984,29.652683,29.905884,32.111637,33.72395,35.51178,39.050743,38.98226,38.43229,37.800137,36.41358,35.610664,35.809185,35.306416,34.930004,34.89604,34.340454,33.647186,33.750317,33.81683,34.615173,35.49913,35.662987,35.5336,35.46792,36.02387,36.353546,36.816166,37.78444,38.237747,37.70195,37.76081,37.231133,36.168816,30.960976,27.583218,Text only tokens,16,24,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting,"user
+ QUESTION: How many slices of tomatoes are on the plate?
+OPTIONS:
+0: 4
+1: 2
+2: 3
+3: 1
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,Counting
+14,24.11327,28.043573,28.797962,28.832375,31.125952,32.950306,34.85835,38.175167,38.0158,37.38413,36.711124,35.564484,34.804596,35.222805,34.759613,34.423695,34.44993,33.94076,33.266953,33.2388,33.326706,34.361755,35.036682,35.22603,34.982933,35.168636,35.617348,35.813667,36.26148,37.395515,38.002575,37.44902,37.461063,36.89875,35.78896,30.992727,25.883078,Text only tokens,15,22,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many bananas are on the plate?
+OPTIONS:
+0: 3
+1: 4
+2: 6
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+15,24.116581,28.768364,28.60315,28.3203,31.336018,33.29512,35.446766,38.823254,38.76044,38.00973,37.45029,35.799767,34.72052,34.885185,34.218815,34.258602,34.554405,34.180973,33.617783,33.84043,34.074844,34.944748,35.97692,35.92752,35.53209,35.520718,36.150814,36.58764,36.85224,37.661533,38.16157,37.486095,37.223766,36.862766,35.8203,30.700588,25.997849,Text only tokens,47,97,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,Counting,"user
+ QUESTION: How many trains are stopped at a station?
+OPTIONS:
+0: 2
+1: 1
+2: 3
+3: 0
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,Counting
+16,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,111,199,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+17,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,119,214,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test
+18,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,258,531,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Relative Reflectance
+19,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,308,645,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+20,22.718609,27.647202,28.432531,28.034184,30.397947,32.021706,34.12176,37.462345,37.62629,36.939426,36.29656,34.809185,33.85193,33.836582,33.414104,33.29726,33.444916,33.036232,32.517624,32.392097,32.386665,33.123363,33.898064,34.05863,33.720596,33.867588,34.498062,34.892937,35.2596,36.042007,36.593197,36.134438,36.10208,35.502678,34.39546,29.809052,25.871267,Text only tokens,13,20,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting,"user
+ QUESTION: How many red buses are there?
+OPTIONS:
+0: 1
+1: 2
+2: 0
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+21,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,287,600,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+22,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,101,185,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+23,24.968,27.412798,25.886114,24.988506,27.966866,29.904953,32.131603,35.551353,35.482044,34.70132,33.90224,32.526936,31.519386,31.478651,30.93923,30.447556,29.988968,29.316618,28.55665,27.870333,27.637646,28.261911,29.140451,29.297981,28.977362,29.295244,29.932714,30.676226,31.005623,31.72897,32.37648,32.32199,32.63971,32.32126,31.809603,28.63016,27.23689,Text only tokens,366,779,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat facing the refrigerator?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+24,24.933733,27.276682,24.864199,22.948687,26.298044,28.71245,31.447027,35.505924,35.460373,34.799564,34.0765,32.689636,31.582355,31.716793,31.22676,30.738007,30.233637,29.412876,28.604397,27.838224,27.44056,28.045292,28.90305,29.14826,28.802725,29.267138,29.902914,30.553593,30.881311,31.589207,32.117332,31.977348,32.10122,31.759747,31.443525,28.25378,26.079391,Text only tokens,332,690,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the cat in the sink?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+25,26.65219,28.859028,26.803667,25.153902,27.874685,30.422394,32.666508,36.787857,36.714878,36.13333,35.10714,33.64747,32.478775,32.59529,32.115826,31.60347,31.226816,30.53377,29.74561,29.106955,28.775057,29.25516,30.156225,30.345947,29.907398,30.277098,30.89328,31.645191,32.073235,32.9318,33.537975,33.384827,33.721806,33.373825,33.197353,29.966053,27.930368,Text only tokens,359,761,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Spatial Relation,"user
+ QUESTION: Is the teddy bear under the dog?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Spatial Relation
+26,26.164284,29.11906,29.404736,28.897705,30.999643,32.786182,34.476295,37.00579,37.04475,36.0148,35.71567,34.24949,33.143444,32.93724,32.563843,32.373123,32.093605,31.104431,30.373648,29.74242,29.806614,30.554443,31.61704,31.872387,31.355368,31.2937,31.944881,32.491585,32.595802,32.903694,33.4604,33.10192,33.27959,33.08055,32.65115,28.951107,26.491604,Text only tokens,214,406,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+27,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,112,201,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,1,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,IQ Test
+28,26.164284,29.11906,29.404736,28.897705,30.999643,32.786182,34.476295,37.00579,37.04475,36.0148,35.71567,34.24949,33.143444,32.93724,32.563843,32.373123,32.093605,31.104431,30.373648,29.74242,29.806614,30.554443,31.61704,31.872387,31.355368,31.2937,31.944881,32.491585,32.595802,32.903694,33.4604,33.10192,33.27959,33.08055,32.65115,28.951107,26.491604,Text only tokens,229,445,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+29,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,301,631,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+30,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,142,258,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,IQ Test
+31,24.89658,28.847523,29.429068,29.309023,31.70495,33.525112,35.541214,39.31404,39.223164,38.73464,37.99614,36.499126,35.49932,35.52627,35.067875,34.812355,34.7759,34.19947,33.277615,33.197727,33.2523,34.09189,34.975204,35.178375,35.008232,35.177635,35.742798,36.131596,36.60432,37.66638,38.38132,37.834587,38.080235,37.156902,35.924934,31.395405,27.838024,Text only tokens,3,4,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Counting,"user
+ QUESTION: How many colored tiles are above the sink?
+OPTIONS:
+0: 6
+1: 3
+2: 4
+3: 5
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting
+32,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,81,153,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,0,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,IQ Test
+33,24.963676,27.265102,25.970972,25.123594,28.036451,30.029608,32.06964,35.557224,35.53886,34.84478,33.9033,32.618763,31.581663,31.540998,30.988997,30.593815,30.158058,29.41864,28.491879,27.784773,27.54341,28.14908,29.0229,29.28613,28.795126,29.152363,29.783092,30.493654,30.898914,31.537043,32.01181,31.967691,32.235237,32.106102,31.815704,28.639036,27.721767,Text only tokens,357,756,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Spatial Relation,"user
+ QUESTION: Is the sandwich touching the person?
+OPTIONS:
+0: yes
+1: no
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Spatial Relation
+34,32.395786,33.703285,33.417835,33.297382,35.689526,37.065926,38.453697,41.360584,41.225452,39.55341,38.67697,36.502045,35.787216,35.48504,35.208447,35.26853,34.798653,33.707336,33.330643,33.33163,33.459385,34.352375,35.593433,35.580196,35.514027,36.018738,36.452164,37.093384,37.381275,37.66324,38.332146,37.87806,38.042377,37.8719,37.24792,33.297653,32.751774,Text only tokens,174,322,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the baseball glove?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+35,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,79,151,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+36,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,110,198,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+37,31.531857,33.095123,32.598087,32.495514,34.865147,36.25022,37.633053,40.53678,40.44181,38.669006,37.874214,35.810795,35.223717,34.915756,34.646946,34.623505,34.115738,32.95081,32.46554,32.391537,32.675816,33.582508,34.789898,34.93516,34.796112,35.218243,35.686596,36.255375,36.55254,36.79906,37.515347,37.031265,37.20642,36.999752,36.458183,32.71048,32.321922,Text only tokens,172,319,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the cabinet?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+38,31.535713,33.097984,32.6884,32.583344,34.90637,36.268887,37.676777,40.55204,40.47368,38.812355,37.86834,35.730545,35.04806,34.696396,34.427242,34.47273,34.04165,32.933815,32.531334,32.490284,32.668407,33.557682,34.772858,34.890762,34.794598,35.233627,35.704327,36.290955,36.568638,36.796955,37.48442,37.07898,37.243893,37.127724,36.599968,32.79343,32.2392,Text only tokens,194,370,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the knife?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+39,22.71903,27.598558,28.219183,27.733997,30.155542,32.013176,34.08931,37.414127,37.303333,36.556953,35.998585,34.430912,33.399185,33.415268,32.93873,32.755375,32.819653,32.33465,31.827028,31.768738,31.762217,32.502647,33.23462,33.503998,33.354656,33.5822,34.06072,34.499798,34.945343,35.74977,36.630898,36.307186,36.366634,35.88273,34.790607,30.283112,26.19014,Text only tokens,49,100,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Counting,"user
+ QUESTION: How many red buildings are there?
+OPTIONS:
+0: 3
+1: 0
+2: 1
+3: 2
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,1,Counting
+40,32.401005,33.871677,33.42783,33.24071,35.647907,37.082294,38.50007,41.369297,41.229374,39.544952,38.643387,36.51179,35.763756,35.503365,35.186497,35.217674,34.713203,33.57255,33.138294,33.017914,33.150288,34.044823,35.30602,35.263874,35.166725,35.728424,36.196754,36.90246,37.203884,37.514206,38.212193,37.729046,37.888752,37.688847,37.04721,33.211693,32.535484,Text only tokens,183,344,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the tablecloth?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+41,32.41496,34.02022,33.604248,33.383636,35.737793,37.231667,38.535854,41.447636,41.31204,39.62748,38.72785,36.55775,35.88156,35.60288,35.33221,35.335983,34.89616,33.814262,33.336674,33.03732,33.199646,34.16159,35.400845,35.555676,35.44958,35.91266,36.463276,37.082268,37.424995,37.65391,38.423233,37.956554,38.15087,38.04228,37.59666,33.702442,33.103077,Text only tokens,176,335,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the wok?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Object Localization
+42,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,309,646,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Relative Reflectance
+43,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,135,246,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,IQ Test
+44,25.655846,29.443851,29.825945,29.432686,31.851225,33.93314,35.783962,39.30147,39.18855,38.73786,37.94187,36.334553,35.203068,35.15416,34.38794,34.39729,34.581776,34.011166,33.236084,33.279766,33.426968,34.394775,35.389614,35.57311,35.425056,35.642086,36.290443,36.476936,36.78117,37.838795,38.527023,37.93215,37.99229,37.316322,35.963173,30.938663,27.676556,Text only tokens,22,41,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,2,Counting,"user
+ QUESTION: How many flower pots have flowers in them?
+OPTIONS:
+0: 5
+1: 4
+2: 6
+3: 3
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,2,Counting
+45,26.164284,29.11906,29.404736,28.897705,30.999643,32.786182,34.476295,37.00579,37.04475,36.0148,35.71567,34.24949,33.143444,32.93724,32.563843,32.373123,32.093605,31.104431,30.373648,29.74242,29.806614,30.554443,31.61704,31.872387,31.355368,31.2937,31.944881,32.491585,32.595802,32.903694,33.4604,33.10192,33.27959,33.08055,32.65115,28.951107,26.491604,Text only tokens,235,459,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,Relative Depth,"user
+ QUESTION: Which point is closer to the camera?
+OPTIONS:
+0: A is closer
+1: B is closer
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,1,Relative Depth
+46,36.36196,38.498775,39.62511,39.713085,43.169422,45.14597,47.664883,52.65224,52.469635,51.702618,50.70345,48.108765,46.945587,47.01135,46.38965,46.398167,46.408348,45.150578,44.25884,43.70655,43.16833,43.953327,45.816685,46.02599,45.328575,44.700478,45.80085,46.560253,46.52051,46.98463,47.470978,45.7301,45.68056,45.501144,44.76628,37.396896,37.05881,Text only tokens,274,574,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,2,Relative Reflectance,"user
+ QUESTION: Consider the surface color (color without shading) of the two points in the image. Which one is darker, or the color is about the same?
+OPTIONS:
+0: A is darker
+1: B is darker
+2: About the same
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,Relative Reflectance
+47,32.297817,33.005188,32.987537,32.911106,35.37276,36.76274,38.406174,42.493458,42.69823,42.152435,41.251736,39.655,37.49534,37.29766,37.19531,37.471092,37.836685,37.346718,36.22741,35.984005,35.80189,36.556953,37.70918,37.83085,37.470753,37.143505,37.563286,38.20456,38.772087,39.815502,40.448242,39.691727,40.018185,39.306477,38.339428,32.599205,30.878353,Text only tokens,63,128,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,IQ Test,"user
+ QUESTION: Which one picture follows the same pattern or rule established by the previous pictures?
+OPTIONS:
+0: Picture A
+1: Picture B
+2: Picture C
+3: Picture D
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,3,IQ Test
+48,32.393295,33.82621,33.550957,33.357178,35.703148,37.243324,38.60174,41.471775,41.370705,39.581707,38.61673,36.476753,35.745388,35.403187,35.07956,35.139946,34.66085,33.55814,33.13584,33.12989,33.28858,34.215836,35.49173,35.45198,35.31604,35.744484,36.20721,36.791615,37.080025,37.340446,38.02058,37.58414,37.71811,37.61057,37.07614,33.26584,32.526882,Text only tokens,193,362,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Object Localization,"user
+ QUESTION: Which bounding box more accurately localizes and encloses the polo shirt?
+OPTIONS:
+0: Box A
+1: Box B
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,Object Localization
+49,25.656807,29.425991,28.872374,28.198666,31.185429,33.502377,35.785454,39.193928,38.95207,38.242878,37.281006,35.88554,35.149952,35.31941,34.711544,34.72062,34.93151,34.44582,33.762173,33.646378,33.5069,34.31908,35.110107,35.129963,34.989574,35.279205,36.056824,36.51397,36.884926,38.163937,38.70594,37.960464,38.048935,37.39128,36.04683,31.225344,27.492184,Text only tokens,40,83,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+2",2,0,Counting,"user
+ QUESTION: How many people are wearing a white hat?
+OPTIONS:
+0: 4
+1: 3
+2: 5
+3: 6
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+
+Answer: 
+assistant
+1",1,0,Counting

@@ -1,0 +1,3833 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,Mean over,idx_corrected,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,18.423824,18.672997,19.360025,20.251938,21.958519,25.50273,30.836563,38.14928,47.47845,58.63445,72.35367,85.011635,96.46419,103.899185,107.961334,116.016365,116.75453,115.76465,118.562775,118.71127,119.21079,117.76196,119.73354,121.217674,123.72105,126.3481,130.755,131.12337,135.47878,131.43512,128.68457,125.65031,65.525276,All tokens,1309,1309,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade7,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0.",0,1,grade7
+1,23.688057,23.893162,24.587736,25.938608,27.65988,30.79644,35.27505,41.861652,49.089985,57.759575,66.66718,73.839455,82.46434,86.835075,87.332504,95.59993,96.212585,95.78354,98.54179,99.74185,100.57404,101.6224,104.83055,107.24241,113.149475,115.86307,123.12517,126.9008,133.60045,134.63289,138.70457,139.23935,101.539764,All tokens,228,228,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,0,grade3,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+2,28.75233,28.983677,29.049982,30.148388,31.861395,34.892273,38.789803,44.28386,50.865395,58.111145,65.608505,72.186325,80.57183,84.541214,84.94364,93.16489,94.074036,94.06282,96.74837,95.5399,97.15603,97.93797,100.8344,103.12703,107.026566,108.8701,114.29217,116.92869,123.36363,123.65393,127.338135,125.63413,89.05244,All tokens,51,51,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade2,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade2
+3,26.048368,26.409094,26.786612,28.14865,30.418129,34.513466,40.71049,48.07795,55.2303,63.01408,70.485794,76.80194,84.275894,88.56997,89.3155,96.887375,97.57974,97.47598,100.560326,102.4997,104.404915,102.70074,106.9381,105.48305,109.25104,112.259834,117.964966,121.49654,126.64153,126.61914,127.82544,127.530045,80.3807,All tokens,1518,1518,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+4,23.730099,23.931957,24.60462,25.935307,27.639479,30.768122,35.284977,41.902565,49.099117,57.738647,66.45044,73.34918,81.81331,86.328964,86.62107,94.69688,95.22404,94.715034,97.083275,98.26308,99.16112,99.77985,103.520096,105.79657,111.41263,114.25539,121.05247,124.61549,131.26683,132.23758,135.89835,136.7383,100.72551,All tokens,563,563,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade5,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade5
+5,48.43483,48.908188,49.749207,52.384327,56.42597,63.043983,71.1296,80.713005,90.26613,100.75721,112.00142,122.834595,132.52934,136.98517,136.03244,148.18462,147.4823,145.38832,150.51028,149.39983,151.77715,149.99,154.11635,154.83011,158.94333,160.88448,170.09146,173.34816,180.81526,178.28152,177.87181,173.19885,102.047386,All tokens,501,501,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade4,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+6,31.992403,32.41514,33.082375,34.99553,37.65982,42.132214,48.678543,55.685833,62.79158,71.28524,78.10512,82.90197,90.8152,95.21682,94.473,102.463745,103.94667,103.67199,106.912056,108.44288,111.55142,109.8094,109.74346,108.94878,112.21354,114.548996,119.74816,122.96082,128.26779,128.69499,129.4511,129.36089,85.46841,All tokens,457,457,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade5,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+7,27.787964,28.127886,29.11632,30.60609,32.977028,36.948463,42.423195,48.071877,54.042557,61.83952,68.74906,75.355255,82.0591,86.26934,86.94115,93.092636,95.228806,93.89523,94.09907,96.044876,99.70004,98.75997,94.8262,96.0157,96.91708,98.70667,104.644806,107.20963,113.02884,114.726585,115.418175,118.350624,83.4672,All tokens,285,285,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+8,19.179138,19.331013,19.778898,20.452234,21.55065,23.865627,27.340866,32.464798,39.208717,46.90306,55.53421,62.06498,69.29801,73.35786,75.14119,82.738,83.39472,82.826775,86.3521,85.4726,86.60352,86.61454,89.985634,91.48816,95.11921,96.37408,101.06859,104.17398,110.436806,110.218796,113.467865,113.72874,80.66079,All tokens,1508,1508,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade7
+9,22.907682,23.340824,24.30711,25.954046,28.733015,34.252117,42.60215,51.98745,62.609657,75.74613,90.893654,104.843895,116.67901,125.22921,130.35757,138.6743,139.4523,137.84657,140.74611,139.56627,141.8295,139.831,141.21364,140.86131,144.32028,146.32872,149.65659,149.23735,152.51147,148.15591,144.79349,138.77306,73.34894,All tokens,209,209,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,0,grade7,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+10,21.43961,21.668674,22.1014,22.952845,24.35684,27.204395,31.60867,36.981354,43.199085,50.858543,58.371723,64.5342,71.61866,75.059425,75.39443,82.40345,84.068665,82.406006,84.950645,85.97182,85.29334,84.33346,87.28545,89.53745,92.16057,95.84975,99.90572,102.65359,107.01468,107.72525,107.78805,108.51109,72.856606,All tokens,1385,1385,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+11,11.633497,11.759505,12.374712,12.871229,13.844545,16.020819,19.84307,25.40706,33.76874,43.996803,58.012253,72.5177,85.2792,95.790665,102.49208,110.823204,112.72548,110.94916,115.89368,115.928604,116.924446,115.25851,118.28506,119.07297,123.5234,127.97632,131.97716,133.12129,137.23833,133.03523,132.12262,126.95782,69.97129,All tokens,1516,1516,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade8
+12,17.084978,17.240059,17.615189,18.115612,19.125622,21.236443,24.869938,29.21839,34.510933,40.80131,47.977573,53.55188,59.087116,63.302628,65.442444,70.41981,71.98357,71.84914,74.42501,75.38091,76.541016,75.91749,79.01005,79.37665,82.74806,85.47302,89.47194,91.09867,94.86903,94.22241,93.377426,92.69049,58.470955,All tokens,1827,1827,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,0,grade4,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+13,11.3818245,11.4831915,12.087694,12.39816,13.01535,14.432914,17.09135,20.814861,25.94923,32.6433,40.91765,48.952618,56.979107,63.28011,67.17958,72.76106,74.28011,74.644554,76.97632,77.445366,79.066284,78.93941,79.20771,80.494194,83.35631,84.7319,88.36735,89.581696,93.39617,93.61457,94.331924,93.085396,61.671116,All tokens,1116,1116,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+14,13.966946,14.101286,14.790875,15.348797,16.245392,18.210186,21.430437,26.003338,31.788088,39.06092,46.808655,54.03418,60.668076,65.234314,66.10063,71.7126,71.555275,70.19258,72.09609,72.44726,73.24238,71.39131,71.04526,71.83225,72.49108,74.6909,77.1043,78.37617,81.679146,81.85198,83.00568,83.04674,60.72296,All tokens,178,178,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+15,31.788841,32.084522,32.811966,34.67996,37.18135,41.52806,47.425823,55.317993,63.46659,72.708755,82.10356,88.87956,97.9319,102.734184,100.448814,110.826546,110.53706,109.55784,112.56971,114.037674,115.883896,116.56677,120.650696,122.763275,129.4574,132.37845,140.91956,145.05324,152.80148,154.07683,157.56271,157.67575,110.39568,All tokens,1209,1209,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade5,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+16,23.535606,23.851448,24.5359,25.562437,27.588509,31.809309,38.187756,44.92413,53.620037,64.15794,77.25007,88.706436,98.668274,106.23212,113.92534,123.36852,124.40568,125.38195,131.55463,131.65674,134.29228,132.76382,135.35588,135.60478,139.22568,142.05914,147.68327,150.27951,155.56992,153.55211,152.01537,148.86258,80.28429,All tokens,864,864,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade8,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.00.00.00. 000000000000000000000000000000000000",0,1,grade8
+17,28.654646,28.893232,29.078342,30.261547,32.06074,35.257923,39.379383,45.007717,51.929066,59.422726,67.3604,74.23284,82.50425,86.58006,87.15716,95.833244,97.07929,96.864136,99.755455,98.32617,99.93556,100.808105,103.82099,106.12594,110.00941,111.09161,116.96839,119.52259,126.460686,126.9959,130.20201,128.93092,92.94684,All tokens,65,65,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+18,12.862692,13.111566,14.147053,15.2474575,17.219269,20.90545,26.8628,34.458538,43.692356,54.3512,65.57582,74.580894,83.22778,88.40385,90.19411,97.23973,97.634796,96.36889,98.6845,99.57742,99.29866,97.57517,99.29242,99.59732,103.31959,104.26387,109.25239,111.04495,115.962105,115.5088,115.93352,116.45561,84.62256,All tokens,61,61,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade7,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+19,14.044223,14.147515,14.752365,15.09505,15.838403,17.560266,20.44558,24.61203,30.89311,38.576946,48.592632,58.250107,67.851974,74.7493,78.41504,85.58798,88.23648,88.85885,91.30725,90.796486,92.80489,90.858475,90.460884,90.34541,92.83115,93.77687,98.33522,99.712456,103.77665,104.26522,104.93612,104.060036,70.58434,All tokens,191,191,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+20,22.369076,22.692875,23.741314,25.228947,27.402554,31.223547,36.95543,43.529037,50.38024,57.779415,65.653694,71.74044,79.69819,82.24693,82.47751,89.34375,89.77117,88.00714,90.95192,89.797935,91.66509,86.022415,86.54952,86.56838,88.497894,89.49763,92.39277,93.76512,96.310684,95.788795,95.39961,93.8097,65.17145,All tokens,447,447,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,1,grade4
+21,18.072578,18.214651,18.704042,19.372278,20.402065,22.585636,25.929657,31.017387,37.97178,45.694115,54.503597,60.865,67.60743,72.188805,73.8277,80.98039,81.503914,80.830475,84.723625,83.78374,84.72807,84.864204,88.24902,90.31388,94.0165,95.3248,99.9683,102.62642,108.66918,108.27278,111.40852,110.87629,78.977844,All tokens,476,476,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade7
+22,31.0104,31.504969,32.033844,34.16525,37.275143,42.29219,48.85462,56.27437,64.28748,71.75443,77.3915,81.98741,88.915344,91.99991,89.5022,97.26663,97.516106,95.19248,97.28476,96.80218,99.34071,97.6449,97.73765,99.391556,102.192795,105.12855,108.92156,109.92005,113.5595,114.13108,114.27,112.81169,71.530975,All tokens,1034,1034,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+23,18.39037,18.540167,18.846375,19.476377,20.490658,22.647573,26.067343,30.788666,37.653606,45.75694,54.62396,62.17915,69.71365,74.15925,74.955925,82.887856,84.00387,83.96271,86.53116,85.94571,87.32934,86.88429,89.43864,91.038055,95.481476,98.43783,103.58433,106.81845,112.90069,113.3303,116.03877,115.732086,84.69316,All tokens,1232,1232,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+24,28.556107,29.015987,30.154177,32.22666,35.350178,40.489536,47.96121,55.8624,63.992126,73.743645,82.38922,88.46255,96.34012,101.30743,101.14361,109.122856,109.32681,108.426025,109.638535,110.92684,115.99319,113.39171,113.73606,114.14262,118.12854,121.101204,126.2978,129.7486,134.73601,135.60985,137.15373,136.09193,90.64655,All tokens,54,54,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade5,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+25,23.433193,23.634422,24.32945,25.682793,27.387259,30.512293,35.049957,41.6679,49.06587,57.976017,67.26719,74.880974,83.94725,88.70141,89.001495,97.54335,98.380615,98.05236,100.95044,101.98258,103.167015,104.112206,107.78727,110.23494,116.2439,119.363815,126.98705,130.80345,137.71216,138.82268,142.62134,143.53932,103.60043,All tokens,1149,1149,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+26,11.68818,11.814774,12.426463,12.930063,13.919614,16.119081,19.996534,25.559668,34.05592,44.27752,58.48785,73.2377,85.89405,96.23103,102.33444,110.24235,111.57823,109.20859,114.14958,113.60853,114.64232,112.5994,115.42533,116.23697,120.54598,124.387955,128.4772,129.93507,134.18213,130.57065,129.99878,125.23257,70.414,All tokens,407,407,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+27,23.901548,24.103386,24.799212,26.122776,27.844559,30.998909,35.558937,42.223297,49.658543,58.715088,68.22868,75.77365,84.77192,89.4101,89.628784,97.98033,98.63779,98.30052,101.15171,102.25157,103.29569,104.43524,108.32855,110.74715,116.78497,119.491486,126.88295,130.38063,137.16232,138.28444,141.9862,142.49016,102.59085,All tokens,1466,1466,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+28,11.911386,12.01073,12.374715,12.594321,13.164914,14.501843,16.665205,20.34441,25.535975,32.056725,40.24223,48.566143,56.59837,62.13063,66.44489,71.39876,73.38746,73.80735,74.99539,75.509995,76.92938,75.21794,77.23431,78.32666,80.90378,82.59424,85.982025,86.70595,90.40889,89.716354,90.14621,88.90034,63.789745,All tokens,1330,1330,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade5,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade5
+29,23.832008,24.036581,24.727533,26.099874,27.824278,30.985249,35.513042,42.17355,49.371216,58.100723,66.800514,73.70006,82.27675,86.861084,87.22692,95.212685,95.645294,95.13114,97.45061,98.576195,99.38099,99.936035,103.67491,105.86434,111.50573,114.29773,121.11512,124.57218,131.17035,132.1625,135.8087,136.54074,99.39545,All tokens,1436,1436,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+30,33.98104,34.559902,35.75552,38.57049,42.739716,48.97159,57.241352,65.764145,73.6644,81.79899,90.02074,93.35371,102.37227,105.43719,104.25433,114.57581,114.69732,113.7863,115.95144,117.011116,121.475044,118.07555,117.37856,116.77819,117.82317,118.13862,122.951744,126.22886,131.31822,133.96584,135.99603,136.13435,84.89901,All tokens,859,859,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.",0,1,grade8
+31,27.450207,27.826658,28.802986,30.453367,32.950565,36.86625,42.67002,49.193676,56.549084,64.39901,70.76804,76.558395,83.42263,87.76006,87.543884,94.08139,95.67522,96.80573,100.963585,102.14733,105.248764,103.65851,107.05281,105.91847,108.17282,111.00001,116.072075,119.31612,124.39981,125.922615,127.94544,127.27228,82.56825,All tokens,451,451,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+32,23.86274,24.191101,24.743353,26.065975,28.04976,31.62792,36.927784,43.223648,49.915863,57.286125,64.82556,71.199394,78.778984,83.1849,85.0178,92.1458,92.87346,93.076385,95.67796,97.05341,99.25194,97.101654,100.30899,99.60834,103.02112,105.369835,110.421005,113.125465,117.610115,117.67502,118.6023,118.64575,78.87465,All tokens,919,919,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade8,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade8
+33,16.194895,16.392805,16.937458,17.621868,18.847448,21.198101,25.073032,29.890732,35.520447,42.665993,50.351875,57.472977,64.359314,68.77545,71.1684,75.2626,76.11922,75.95822,76.67077,77.5718,79.67774,77.78908,79.247345,79.89536,82.96488,84.52687,88.56296,90.44088,95.066154,94.87075,95.73491,97.12527,73.514984,All tokens,1206,1206,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+34,25.839731,26.496656,28.430836,31.684322,37.00811,45.54015,57.605495,69.13388,80.005226,92.47166,103.83629,111.00123,120.90895,125.37598,125.11725,135.91922,137.67137,136.71255,138.95601,139.22203,141.64525,136.45653,140.18108,143.07962,147.64145,149.57825,155.33977,155.85364,161.1745,160.54047,159.0096,159.82684,103.61042,All tokens,569,569,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2000000000000000000000000000000000000000000000000",2000000000000000000000000000000000000000000000000,1,grade7
+35,23.547134,23.74919,24.442312,25.748701,27.439806,30.558647,35.11649,41.763348,49.094013,57.949436,67.14787,74.470024,83.28396,87.88686,87.99677,96.49948,97.18017,96.995125,99.81293,101.15654,102.29853,102.93219,106.937744,109.487274,115.49971,118.54504,126.01494,129.83264,136.72218,137.84796,141.66356,142.42691,102.43956,All tokens,1657,1657,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+36,11.48543,11.61217,12.24445,12.78804,13.798158,16.03,19.967445,25.656445,34.254936,44.645096,59.02837,74.069626,86.75272,97.1917,103.11754,110.92314,112.30674,109.89054,114.772064,114.43543,115.440475,113.491035,116.47938,117.291885,121.59669,125.40814,129.14659,130.003,133.9332,130.57301,129.95416,125.30991,69.81489,All tokens,1780,1780,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+37,24.288216,24.550236,25.542238,26.708967,28.78908,32.68448,38.607628,46.352745,55.707508,66.59985,80.150215,92.903275,104.55617,115.154594,117.30419,129.02509,132.68217,131.31303,135.993,137.60234,139.97035,138.09274,141.61365,143.16562,146.7985,148.31198,156.31046,157.64124,164.90201,164.48595,167.66656,165.75081,102.28019,All tokens,13,13,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade6,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade6
+38,34.77958,35.105038,35.96908,37.961533,40.732525,45.52936,52.14216,60.79446,69.8647,80.07657,90.65537,98.4196,109.05014,114.29011,111.84057,123.584724,123.65635,122.59627,126.54725,128.05208,129.98788,131.17184,135.62872,137.94217,145.09966,148.54527,157.94356,162.39647,170.50764,172.17796,176.52448,176.63512,127.288185,All tokens,1554,1554,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade2,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade2
+39,19.199684,19.596174,21.11132,23.001873,26.138071,31.776783,40.237423,50.18245,60.46459,72.39222,81.89488,89.915375,97.98164,102.23109,100.222885,108.964935,110.14923,108.32985,112.887665,112.58689,113.44454,111.90309,114.37094,115.352486,118.717674,120.014946,125.163025,126.3514,130.9892,130.21542,129.67258,128.99696,85.1007,All tokens,1650,1650,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+40,20.972054,21.2481,21.802404,22.780403,24.448862,27.909187,33.21814,39.87264,48.681747,59.040417,71.98071,83.494865,94.71766,102.129166,108.21007,117.54642,121.56439,123.33376,130.57362,130.68462,134.65149,135.7288,140.27435,144.17204,149.82875,155.06941,163.67242,166.4627,172.72142,170.03932,171.03294,168.46477,104.42817,All tokens,326,326,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 200. 20.0000.",2,1,grade3
+41,18.396086,18.873537,20.46317,22.77411,26.330177,32.39269,41.262928,51.161106,61.22525,72.40057,83.04595,91.9112,100.858635,105.4478,104.60734,111.08462,112.034004,109.43603,113.555336,114.48199,112.95879,110.33664,113.21132,113.349434,117.190315,118.6462,122.895294,123.81595,127.074776,126.5146,124.9552,123.0913,83.71923,All tokens,1429,1429,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+42,35.96916,36.30925,37.142982,39.310276,42.26445,47.29043,54.099174,62.991013,72.0408,82.15146,92.46054,99.949234,110.145195,115.51767,113.036705,123.738396,123.759865,122.429306,126.25872,127.8895,130.0211,131.66162,136.45575,139.8382,146.83847,150.0415,160.18848,165.36958,173.82758,175.84792,180.38951,181.00299,120.09554,All tokens,865,865,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade2,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade2
+43,29.631664,30.010641,30.790459,32.34161,34.693146,38.676796,44.390976,50.62165,57.68917,66.32787,73.56477,79.51021,86.860214,90.9701,91.42108,98.28463,98.85146,98.43143,99.98493,100.6775,102.92773,101.92182,100.771,101.78782,103.84878,105.8701,110.48838,112.14577,117.06872,117.05577,117.37324,116.73259,70.582855,All tokens,696,696,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+44,22.64631,22.839489,23.61478,24.296896,25.639357,28.421108,32.90647,38.8704,46.65928,55.70947,66.42814,75.706955,85.76022,93.05082,96.40206,104.866936,108.09233,107.80695,111.79061,113.33561,115.22263,116.42258,120.80389,123.78844,128.32812,132.04861,137.7335,140.68706,146.73935,147.14035,148.4145,146.75139,77.1014,All tokens,318,318,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+45,23.873812,24.077993,24.756279,26.096346,27.829073,31.01553,35.58398,42.288914,49.57313,58.254967,67.113785,74.07489,82.655624,87.02199,87.089645,95.3424,96.07281,95.278946,97.894455,99.13899,99.89005,100.32105,103.88874,105.80827,111.30526,113.68775,120.62247,124.1183,130.7464,131.53067,135.01637,135.64987,99.881065,All tokens,440,440,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+46,36.933968,37.473797,38.123283,40.591076,44.25123,49.83038,57.24948,64.875595,72.53423,80.88615,86.900444,92.53623,100.691414,103.77804,101.576614,111.58052,111.47793,109.61532,112.86586,111.1814,115.554245,112.79986,112.00452,112.75915,116.44383,118.9766,124.027374,128.72299,134.96371,137.84053,141.00224,142.24527,94.331696,All tokens,1960,1960,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+47,12.195876,12.3725605,13.00735,13.606858,14.7198,17.026941,21.028114,26.453588,33.455738,41.870728,52.424694,62.10613,70.15303,75.85619,79.08463,85.2055,86.284355,85.28793,85.817566,85.332275,84.449066,82.85292,84.44608,85.592804,87.940315,88.71147,92.18364,91.50683,94.45574,92.91936,91.30481,88.83096,56.50475,All tokens,1563,1563,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade8,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0. 0 0 0 00. 00 000000000000000000000000000000000",0,2,grade8
+48,27.895782,28.28887,29.336271,31.047136,33.69854,37.902332,44.204853,50.811115,57.704662,66.69052,74.564255,81.416084,89.51342,94.16281,94.32378,102.283554,102.620155,102.64614,104.361824,104.905304,108.59097,106.65391,106.35305,107.956345,111.202065,114.0106,119.03721,122.52993,127.702866,128.38608,129.06631,128.74146,83.31871,All tokens,689,689,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+49,32.164448,32.591064,33.240387,35.11675,37.829468,42.14023,48.414246,55.040012,62.23865,70.69762,78.57464,84.695145,91.91528,96.42533,95.62116,103.53486,103.96327,104.901245,107.54074,108.47468,111.86734,111.59,113.671326,115.89793,120.402596,122.40058,127.75695,131.55269,137.35408,138.82559,140.78833,141.09721,87.96884,All tokens,189,189,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,0,grade4,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade4
+0,18.222334,18.283974,18.45711,18.760326,19.51908,21.237768,24.11003,28.50222,34.592182,42.48266,52.534542,62.68395,72.16925,78.19064,81.414024,87.6731,88.313896,87.63854,89.84933,90.05646,90.62901,90.01533,92.40228,94.24964,96.16961,98.9038,102.46818,103.02244,106.75541,103.46004,101.433395,99.2448,53.775085,Img tokens,1309,1309,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade7,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0.",0,1,grade7
+1,23.545242,23.62483,23.834246,24.812826,26.03316,28.331436,31.7326,37.152233,43.298138,50.95083,58.83661,65.32617,73.391205,77.381096,77.716896,85.287605,85.74767,85.50717,87.925385,88.97867,89.71319,90.770226,93.96819,96.23439,101.65457,104.32813,110.871475,114.623566,120.866806,122.057365,126.05996,126.76146,95.37322,Img tokens,228,228,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,0,grade3,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+2,28.620321,28.712963,29.016865,29.8167,31.104029,33.382874,36.404556,41.03917,46.747616,53.207214,59.675873,65.395676,73.23012,76.736305,76.79861,84.34874,84.901924,84.76383,87.07532,85.83496,87.28846,88.03555,90.715004,92.913864,96.49349,98.27371,103.13538,105.72102,111.7475,112.12438,115.71172,114.30041,83.833885,Img tokens,51,51,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade2,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade2
+3,27.116108,27.234833,27.610184,28.299856,29.614445,32.17483,36.16627,41.40222,46.38758,52.11582,57.648087,62.573456,68.97464,72.623276,72.75533,78.86066,79.08,78.78777,81.13159,82.6085,84.05556,82.749916,86.42728,85.71677,88.85516,91.59448,96.35157,99.5694,103.89663,103.74316,104.83504,104.854645,70.08877,Img tokens,1518,1518,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+4,23.563927,23.638653,23.868872,24.837421,26.050333,28.35669,31.786253,37.255577,43.398365,51.06215,58.80951,65.04658,72.96097,77.10567,77.24248,84.62559,84.97657,84.62894,86.68921,87.70722,88.47891,89.11165,92.61918,94.774536,99.964005,102.68971,108.899025,112.39073,118.59015,119.71424,123.37471,124.38985,94.68316,Img tokens,563,563,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade5,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade5
+5,49.45641,49.62346,50.221447,52.122032,55.194023,60.303608,66.8281,74.978905,83.194534,92.56774,102.65946,112.55844,121.87659,125.87705,124.77294,136.12119,135.38222,133.32367,138.00224,136.95082,139.25575,137.66447,141.6067,142.37767,146.22821,148.21805,156.81624,160.11656,167.15886,164.82262,164.63246,160.4696,97.01229,Img tokens,501,501,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade4,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+6,34.504017,34.61073,34.943054,35.909676,37.418484,39.938683,43.965103,48.490116,53.152924,59.455997,64.36646,67.92559,74.62028,78.16663,77.25236,83.38207,84.33974,83.96507,86.41019,87.35262,90.00035,88.32847,88.39955,87.93801,90.57643,92.77477,97.01608,100.15166,104.63762,105.032585,105.852684,106.08355,74.93141,Img tokens,457,457,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade5,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+7,29.32195,29.399569,29.840572,30.575184,31.91017,34.247757,37.531517,41.149616,45.11905,51.069187,56.143063,61.33585,67.02254,70.436806,70.7886,75.61463,77.27136,76.00725,75.802895,77.24399,80.3055,79.34622,76.32904,77.45459,78.079056,79.662575,84.50958,86.770226,91.70886,93.12686,93.90624,96.90748,74.48011,Img tokens,285,285,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+8,18.94288,19.025747,19.291767,19.760237,20.577682,22.393278,25.16162,29.479649,35.359505,42.224194,49.985687,55.89912,62.615475,66.31721,67.92647,74.825935,75.24606,74.781456,77.93565,77.07221,78.1252,78.29462,81.43332,82.97252,86.343376,87.59905,91.87256,94.878845,100.713936,100.55107,103.717674,104.03846,75.80123,Img tokens,1508,1508,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade7
+9,24.06127,24.148407,24.40288,24.995955,26.14787,28.86304,33.25575,38.721573,45.56605,54.855824,66.00155,77.14593,86.973076,93.75013,97.94358,104.13677,104.826546,103.84441,105.90806,105.10122,106.7691,105.80499,107.199104,107.34479,109.75732,111.68884,113.90881,113.869446,116.54215,113.18168,110.518295,106.143555,59.988758,Img tokens,209,209,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,0,grade7,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+10,21.357298,21.436977,21.68376,22.080084,22.834929,24.589437,27.466291,31.221613,35.660915,41.671894,47.5043,52.5551,58.537567,61.427433,61.397705,67.23018,68.54921,67.09209,69.103134,69.9123,69.37112,68.67295,71.156425,73.351135,75.527534,78.84498,82.21423,84.68679,88.27137,88.727425,88.71092,89.67055,63.0261,Img tokens,1385,1385,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+11,11.362594,11.401866,11.576688,11.743052,12.182534,13.343609,15.415649,18.461597,23.62093,30.256414,39.98063,50.89272,60.937687,69.314,74.89512,81.81963,83.5423,83.063995,86.96706,87.4373,88.45441,87.71931,90.55929,92.21894,95.79888,99.86734,103.27244,104.841194,108.25239,105.00855,104.35037,100.1445,58.24586,Img tokens,1516,1516,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade8
+12,16.805073,16.859568,17.132822,17.403496,18.066074,19.511803,22.089087,25.341524,29.441172,34.579426,40.482887,45.142643,49.98108,53.475452,55.037045,59.153446,60.17966,59.778084,61.8134,62.49747,63.356224,62.77057,65.51163,65.99437,68.91385,71.43779,74.903046,76.43907,79.82042,79.338196,78.65606,78.35987,51.80901,Img tokens,1827,1827,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,0,grade4,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+13,11.095255,11.135966,11.253464,11.431097,11.828628,12.823984,14.758851,17.51675,21.46275,26.90658,33.6208,40.477047,47.546314,53.070923,56.45681,61.28761,62.387844,62.627186,64.4144,64.7429,66.136444,65.922195,66.12478,67.415474,69.862305,71.1359,74.328865,75.57083,78.950356,79.30533,80.15457,79.311455,55.184338,Img tokens,1116,1116,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+14,13.631201,13.690825,13.942514,14.277621,14.81787,16.121346,18.327496,21.648949,26.026066,31.844603,38.03166,44.04633,49.83612,53.716866,54.333828,58.920948,58.608322,57.353363,58.83992,59.036896,59.704273,58.25247,58.0869,58.926258,59.63633,61.762108,63.751038,64.99595,67.750916,67.87826,69.07743,69.13309,53.128777,Img tokens,178,178,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+15,31.894278,31.994675,32.366802,33.74352,35.56879,38.783634,43.351685,49.954926,56.948925,65.16042,73.477135,79.54757,88.07847,92.43616,90.104614,99.61708,99.24616,98.43012,101.055534,102.38784,104.06242,104.84315,108.746826,110.788445,117.01709,119.92713,127.71078,131.82664,139.09085,140.57816,144.13615,144.57043,104.4742,Img tokens,1209,1209,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade5,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+16,23.747318,23.839203,24.093796,24.548532,25.676857,28.381382,32.706722,37.46263,44.046795,52.56612,63.318474,73.288734,82.243484,88.80776,95.54082,103.570015,104.367,105.40351,110.71736,110.975716,113.3288,112.36684,114.787224,115.284836,118.40599,121.14695,126.08587,128.61415,133.33537,131.57552,130.12015,127.47271,71.00242,Img tokens,864,864,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade8,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.00.00.00. 000000000000000000000000000000000000",0,1,grade8
+17,28.603136,28.69573,29.017979,29.871382,31.193764,33.56952,36.713768,41.387882,47.333134,53.936863,60.80072,66.73871,74.41979,78.0364,78.292274,86.21185,87.10078,86.81521,89.29898,87.9074,89.35482,90.25068,93.0219,95.2398,98.75818,99.88301,105.13876,107.71576,114.191505,114.822525,118.01166,117.02178,87.44793,Img tokens,65,65,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+18,13.413549,13.457071,13.629732,13.900895,14.4655905,15.755321,18.010647,21.276083,25.61574,31.026743,37.206173,42.892704,48.62429,52.037174,53.48668,57.76073,58.204372,56.965546,57.968777,58.54363,58.304432,57.44911,58.885838,59.371693,61.816353,62.75276,66.222374,67.82351,71.30227,71.24538,72.22906,73.49052,58.8246,Img tokens,61,61,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade7,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+19,13.674609,13.716158,13.910126,14.108392,14.614368,15.859681,17.977665,21.151516,26.193605,32.645416,41.162075,49.768715,58.3899,64.64359,67.868744,74.22041,76.45693,76.95837,78.953674,78.434525,80.21188,78.47653,78.1259,78.092865,80.253586,81.16209,85.14994,86.52617,90.19226,90.75628,91.542534,91.00039,64.366585,Img tokens,191,191,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+20,23.140709,23.220222,23.585493,24.24455,25.253933,27.226904,30.435823,34.526794,38.95553,44.283314,50.193718,55.053505,61.750977,63.7331,63.84397,69.02903,69.174904,67.54936,69.662186,68.7139,70.20654,65.14433,65.481895,65.591736,67.08208,68.04597,70.141624,71.383606,73.3073,72.94503,72.69336,71.72461,55.05857,Img tokens,447,447,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,1,grade4
+21,17.856453,17.936611,18.214046,18.71002,19.499056,21.247677,23.95849,28.32493,34.47196,41.43241,49.42791,55.200367,61.52414,65.74066,67.19057,73.737595,74.06468,73.50299,77.04402,76.14027,77.01901,77.24676,80.43031,82.47665,85.956154,87.24613,91.51363,94.07516,99.755165,99.43588,102.48827,102.06504,74.56507,Img tokens,476,476,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade7
+22,33.019497,33.1457,33.771267,34.80627,36.44087,39.248936,42.94082,47.748295,53.175705,58.590824,62.245037,65.56041,71.513214,73.91558,71.298225,77.322075,77.2304,74.90669,76.310005,75.790924,77.9117,76.37229,76.251335,77.811226,80.08287,82.67766,85.64857,86.69487,89.72752,90.34394,90.57907,89.76402,61.26219,Img tokens,1034,1034,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+23,18.20852,18.290993,18.533072,19.000343,19.766834,21.471859,24.254831,28.270033,34.341656,41.673317,49.685993,56.57409,63.575302,67.64358,68.18533,75.40069,76.20114,76.15573,78.359985,77.74558,79.00221,78.660034,81.06473,82.679276,86.79597,89.63186,94.32954,97.52322,103.22661,103.74984,106.41717,106.278824,79.88203,Img tokens,1232,1232,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+24,31.853382,31.952171,32.273327,33.043045,34.366226,36.66174,40.244274,44.533394,49.16678,55.805,61.369606,65.66666,71.781494,75.62372,75.31933,81.219185,81.15744,80.525826,81.16289,82.51393,86.77233,84.88007,85.620636,86.50307,89.56701,92.18461,96.26403,99.224495,103.19684,103.648964,104.934166,104.68109,76.10832,Img tokens,54,54,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade5,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+25,23.272163,23.349573,23.563534,24.536993,25.746387,28.038006,31.501888,36.931164,43.227303,51.114788,59.35731,66.26398,74.75586,79.120285,79.26548,87.095,87.77513,87.63018,90.16349,91.10315,92.13636,93.13343,96.5806,98.94847,104.48943,107.54376,114.4905,118.27746,124.73434,125.961365,129.71141,130.78824,97.49435,Img tokens,1149,1149,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+26,11.422374,11.463132,11.616407,11.7987995,12.244767,13.422942,15.533923,18.62582,23.901735,30.580795,40.41327,51.52135,61.455353,69.746414,74.8814,81.47554,82.77383,81.83259,85.755394,85.76975,86.804565,85.73168,88.42783,90.04203,93.501114,97.21951,100.64125,102.51545,105.98879,103.1526,102.89603,99.08578,58.486652,Img tokens,407,407,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+27,23.753477,23.83291,24.084778,25.048923,26.285494,28.631134,32.126583,37.62666,43.994118,52.041595,60.52612,67.38468,75.82971,80.09451,80.16821,87.82725,88.31646,88.11288,90.635666,91.6061,92.49441,93.67386,97.33042,99.66345,105.24179,107.862175,114.63455,118.11502,124.45997,125.72919,129.43875,130.08585,96.636795,Img tokens,1466,1466,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+28,11.323217,11.370964,11.546501,11.629296,11.968956,12.841273,14.301345,17.00665,20.958752,26.092695,32.61914,39.56072,46.34693,51.056255,54.712822,58.75956,60.242912,60.586987,61.542034,61.978718,63.22932,61.95106,63.742462,64.84198,66.97644,68.54686,71.34628,72.050186,75.16968,74.561165,74.97026,74.12792,55.710136,Img tokens,1330,1330,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade5,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade5
+29,23.682108,23.759764,23.996786,24.965942,26.18683,28.507645,31.946669,37.420105,43.533394,51.235035,58.95234,65.166756,73.186066,77.37376,77.575935,84.851746,85.1313,84.75768,86.77274,87.75977,88.4628,89.02501,92.522026,94.60296,99.78903,102.48132,108.69852,112.101074,118.220055,119.381004,122.96763,123.89355,93.32686,Img tokens,1436,1436,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+30,38.252346,38.356014,39.02607,40.33559,42.56942,45.79248,50.240738,55.336407,60.195934,65.72849,71.17411,73.522835,80.99047,83.35444,81.76097,90.15683,90.00816,89.1213,90.51991,91.20151,95.141716,92.536934,91.68634,91.16556,91.6668,91.733185,95.361176,98.37527,102.41332,104.73995,106.76003,107.52377,72.59564,Img tokens,859,859,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.",0,1,grade8
+31,29.003782,29.08884,29.507198,30.298567,31.567389,33.557354,36.958107,41.262627,46.41119,52.31493,56.87397,61.441673,67.281494,70.825264,70.47003,75.628075,76.67373,77.5,80.76089,81.70212,84.28245,83.08841,86.07322,85.77196,87.54247,90.123474,94.28587,97.239365,101.52712,102.7774,104.683685,104.49312,72.22554,Img tokens,451,451,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+32,24.4791,24.579802,24.880726,25.489994,26.608292,28.686733,31.991037,36.21231,40.743813,46.249905,51.86907,56.894203,63.323944,66.96114,68.22849,73.813965,73.99804,73.91442,75.777596,76.609695,78.440994,76.44126,78.99976,78.815094,81.59833,83.75426,87.83764,90.48855,94.13565,94.23724,95.19417,95.553986,68.49194,Img tokens,919,919,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade8,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade8
+33,16.061079,16.119164,16.31869,16.650003,17.29735,18.691833,21.134537,24.333244,28.201935,33.540382,39.304607,44.852875,50.518253,54.098316,55.813972,58.978344,59.27958,58.902435,59.436245,59.983616,61.708767,60.33818,61.903103,62.728436,65.207726,66.71742,69.96068,71.716286,75.64874,75.53895,76.5201,78.08736,62.23192,Img tokens,1206,1206,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+34,34.48675,34.56123,35.037148,35.819122,37.335472,39.968403,43.82319,47.945374,52.165398,58.542652,64.21,68.89388,75.31456,78.04991,78.216446,84.28433,85.372444,84.56887,85.01719,84.99793,86.73808,82.76282,85.23829,87.84736,90.59933,92.47201,96.51674,97.91253,101.633934,101.984535,101.70597,103.61264,74.61853,Img tokens,569,569,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2000000000000000000000000000000000000000000000000",2000000000000000000000000000000000000000000000000,1,grade7
+35,23.391222,23.465788,23.673233,24.62509,25.828997,28.122509,31.583822,37.046364,43.28963,51.140682,59.328842,65.97398,74.2459,78.46834,78.45457,86.23257,86.7574,86.748215,89.2022,90.44101,91.446106,92.23086,96.00989,98.43899,104.021935,106.98412,113.79889,117.53527,123.972145,125.26691,129.07259,130.02116,96.62315,Img tokens,1657,1657,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+36,11.248848,11.287709,11.474775,11.663368,12.102268,13.286698,15.410608,18.518333,23.81086,30.564024,40.50933,51.772644,61.683174,69.97269,74.9383,81.39431,82.768616,81.85034,85.69089,85.8911,86.925476,85.93104,88.70348,90.3651,93.78734,97.30239,100.4114,101.70626,104.880745,102.25084,101.87094,98.1212,57.712173,Img tokens,1780,1780,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+37,25.051462,25.128078,25.488773,25.926966,26.862171,28.892633,32.11127,36.63523,42.732624,50.27394,60.11123,69.96195,79.496796,88.024895,89.969025,99.474106,102.46189,101.870514,105.53099,107.05499,109.05081,108.09213,111.38495,113.55582,116.70727,118.47213,125.17084,127.15235,133.32196,133.49026,136.96709,135.98308,87.23998,Img tokens,13,13,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade6,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade6
+38,35.07456,35.201233,35.555283,37.009914,39.06302,42.69062,47.867523,55.122227,62.930603,72.02885,81.38165,88.4555,98.61672,103.47099,101.033264,111.945465,112.00228,111.16188,114.78968,116.25798,118.10342,119.3596,123.65735,126.06483,132.76483,136.16125,144.86627,149.39177,157.08005,158.99852,163.43175,163.89836,121.55622,Img tokens,1554,1554,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade2,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade2
+39,21.906929,21.97981,22.283108,22.821407,23.746737,25.728985,28.84462,33.032906,37.674194,44.19696,49.3258,54.800945,60.321667,63.254135,62.104473,66.95291,67.615974,66.121315,68.64129,68.68648,69.28925,68.21522,69.979095,71.043495,73.115005,74.686066,77.982346,79.571205,82.715515,82.83843,83.15436,83.361916,60.973495,Img tokens,1650,1650,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+40,20.97799,21.062777,21.282658,21.754862,22.657188,24.732985,28.194687,32.833828,39.41372,47.71872,58.254826,68.283005,78.22506,84.71069,90.02391,98.31252,101.818794,103.47498,109.650085,109.99985,113.54759,114.86792,119.19636,123.001755,128.01556,133.33995,140.87375,143.88991,149.87546,147.85683,149.12866,146.96428,94.08665,Img tokens,326,326,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 200. 20.0000.",2,1,grade3
+41,22.09919,22.168053,22.485,23.112589,24.0858,25.967154,28.876099,32.618107,36.844624,42.49831,47.81793,53.378178,59.3953,62.335476,62.03634,65.80508,66.58728,64.745705,66.92996,67.43843,66.27564,64.30508,66.311485,66.88826,69.262596,70.59316,73.17929,74.11079,76.38074,76.215164,75.68306,75.44953,56.205254,Img tokens,1429,1429,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+42,36.32519,36.45105,36.870304,38.458206,40.642952,44.455193,49.820107,57.31774,65.11122,74.13125,83.2653,90.024086,99.7955,104.736206,102.223,112.1955,112.155716,111.04682,114.49568,116.02278,118.00952,119.69193,124.36019,127.73392,134.31842,137.48683,146.87749,152.11049,160.09319,162.30403,166.86453,167.77966,114.45731,Img tokens,865,865,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade2,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade2
+43,31.645561,31.737307,32.276672,33.022488,34.290703,36.478443,39.85024,43.743484,48.476925,54.82658,60.068623,64.61456,70.93446,74.161865,74.36424,79.746544,79.84052,79.137794,80.03922,80.32783,82.24819,81.323,80.6699,81.70926,83.37602,85.26537,89.040634,90.66311,94.770645,94.82268,95.10687,94.71936,60.768345,Img tokens,696,696,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+44,22.429062,22.5077,22.859827,23.252752,24.168623,26.139008,29.421967,33.99851,40.203094,47.88034,57.116905,65.49226,74.58321,81.221466,84.124245,91.671,94.388565,94.019325,97.387054,98.677925,100.32669,101.36803,105.42623,108.30329,112.37032,115.966866,121.00266,123.93366,129.52136,130.04082,131.41945,130.28867,70.5262,Img tokens,318,318,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+45,23.697723,23.775833,24.017166,24.981579,26.214111,28.560595,32.052834,37.59451,43.829422,51.513123,59.40822,65.67508,73.7009,77.70311,77.63407,85.20046,85.720856,85.112915,87.41971,88.52094,89.1681,89.66204,93.024284,94.88125,99.96534,102.33742,108.64658,112.11203,118.249756,119.179535,122.618065,123.43636,93.90252,Img tokens,440,440,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+46,40.53808,40.666763,41.38483,42.61932,44.576332,47.54101,51.58255,56.194542,61.02582,67.04734,70.80956,75.24621,82.3377,84.84746,82.63884,90.584724,90.05672,88.20266,90.46205,88.83164,92.52882,89.898094,88.88732,89.70968,92.68439,94.95593,98.998215,103.26023,108.60308,111.28759,114.3523,116.03419,83.58346,Img tokens,1960,1960,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+47,11.8122,11.849266,11.998469,12.11532,12.513156,13.548775,15.484226,18.344585,22.451588,27.853851,34.925648,42.13186,48.384865,52.73505,55.358555,59.718456,60.480766,59.85689,60.146408,59.67712,58.95029,58.244442,59.422897,60.5683,62.19237,62.955338,65.44581,64.91373,66.973755,65.66474,64.27068,62.513653,42.197296,Img tokens,1563,1563,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade8,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0. 0 0 0 00. 00 000000000000000000000000000000000",0,2,grade8
+48,30.029057,30.119034,30.551317,31.352835,32.67669,34.74749,38.203457,42.158585,46.49099,53.004242,58.51084,63.779926,70.49315,74.17693,74.23819,80.42145,80.430466,80.486824,81.55896,81.92582,84.96625,83.2809,83.33766,85.08033,87.5239,89.965805,93.99494,97.08207,101.40022,101.96275,102.641785,102.73232,71.65842,Img tokens,689,689,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+49,34.504734,34.601357,35.033463,36.04185,37.595882,39.955795,43.912285,48.24731,53.076794,59.404392,65.23389,69.887566,76.06703,79.770386,78.61091,84.88769,84.73032,85.34473,87.19615,87.64832,90.46878,90.11569,92.13833,94.30422,98.0995,99.946365,104.479324,108.139496,113.14057,114.5113,116.47877,117.1035,77.79149,Img tokens,189,189,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,0,grade4,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade4
+0,49.127193,41.854668,1.196886,1.4136379,1.7628528,2.4617674,3.4959564,4.8427625,6.7593455,9.247778,13.095247,17.429005,21.1871,25.52993,31.206472,38.26132,45.715183,53.599815,58.898228,64.63471,68.07137,68.898476,67.819214,67.14727,68.72696,68.85164,70.27242,70.28006,71.56602,72.003235,72.10837,71.73975,45.713047,Text tokens,1309,1309,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade7,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0.",0,1,grade7
+1,31.218555,28.922682,1.0617604,1.140424,1.2344077,1.3884275,1.6011797,1.8552771,2.1858711,2.5590549,3.135964,3.7655556,4.4298034,5.2962265,6.413043,8.028391,10.188241,12.901708,15.358411,19.502178,22.858482,25.869343,28.462475,30.899805,32.910763,34.62759,36.518444,38.08891,39.97303,41.57171,43.06576,49.10498,32.363125,Text tokens,228,228,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,0,grade3,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+2,27.213856,26.249157,1.0347067,1.0734441,1.122437,1.2078958,1.319937,1.4512558,1.6278529,1.8024662,2.0785055,2.40886,2.728648,3.1557176,3.7003012,4.548982,5.689847,7.2344165,8.6151285,11.300914,13.680038,15.821947,17.78624,20.09871,22.044704,23.891096,25.645102,27.530382,29.53303,31.507254,33.4883,45.14668,30.15035,Text tokens,51,51,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade2,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade2
+3,47.678886,41.810425,1.0905598,1.1903645,1.3283963,1.5625613,1.8994265,2.308742,2.862608,3.4949064,4.389583,5.5642605,6.627435,7.834251,9.631245,12.295215,15.958246,20.374657,24.10126,29.852522,34.90706,38.96327,42.20651,44.194557,46.842438,48.60407,51.1135,52.696552,54.980892,56.773445,58.341312,63.673656,42.404293,Text tokens,1518,1518,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+4,30.467028,28.639208,1.0595802,1.1348461,1.2274312,1.3773026,1.5910729,1.844804,2.1666043,2.5122263,3.0538952,3.7020822,4.3432965,5.153701,6.251378,7.874612,10.015987,12.715059,15.17902,19.327332,22.666216,25.675158,28.433702,30.953316,33.08454,34.917614,36.757877,38.362385,40.35377,41.884598,43.331917,49.70614,32.322952,Text tokens,563,563,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade5,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade5
+5,30.265356,28.34394,1.0362287,1.0782176,1.1316161,1.2229816,1.3449183,1.4769373,1.6590863,1.8575107,2.1417115,2.4612637,2.8117616,3.2764533,3.8247895,4.7192955,5.921127,7.6115394,9.087542,11.830926,14.41897,16.86462,19.058748,21.605429,23.743748,25.777803,27.746935,29.771711,31.995108,34.164597,36.184227,48.415874,31.369709,Text tokens,501,501,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade4,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+6,45.611816,39.320248,1.0928284,1.207004,1.3414087,1.5779165,1.9047942,2.323174,2.8733196,3.499073,4.403067,5.739452,6.8655376,8.12771,9.86439,12.538017,16.164213,20.472149,24.233408,30.03474,34.850155,38.82621,41.789635,44.16207,46.708733,48.371403,50.645405,51.763218,53.951225,55.371483,56.46763,61.33076,45.11055,Text tokens,457,457,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade5,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+7,47.7259,39.356853,1.0842854,1.1837683,1.3132173,1.5310816,1.828045,2.1936054,2.6929002,3.2634082,4.1286745,5.226861,6.310734,7.465177,9.118016,11.605228,15.151335,19.090164,22.758324,28.450817,33.061028,37.128384,39.66227,42.45945,44.74344,46.732605,49.189716,50.91743,53.255135,55.228962,56.555473,61.753483,41.623802,Text tokens,285,285,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+8,34.93157,30.99538,1.0609878,1.1400014,1.2326263,1.3880366,1.5972553,1.8479452,2.1621554,2.5270963,3.0591261,3.7402942,4.383019,5.23025,6.3155847,7.9368463,10.407143,13.458249,16.179956,20.582918,24.142035,27.267775,30.005804,32.35559,34.59722,36.312897,38.140186,39.51192,41.457626,43.079582,44.53863,50.594837,33.993717,Text tokens,1508,1508,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade7
+9,62.021667,51.651203,1.4331986,1.9366271,2.8016346,4.5104456,7.587324,11.530862,16.511505,22.54327,29.949934,36.905243,41.827873,47.511982,53.284096,59.8634,66.58823,70.88371,74.87134,77.532036,80.21135,79.45363,79.347694,78.63678,80.69045,80.627525,82.71169,82.65925,83.61694,83.6006,83.20795,81.76315,52.517593,Text tokens,209,209,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,0,grade7,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+10,49.97097,42.42668,1.0925659,1.202516,1.3553213,1.6157482,1.9769332,2.401507,3.0434992,3.7167296,4.743218,6.0634656,7.2672005,8.714735,10.638403,13.309792,17.235006,21.599243,25.366623,30.7238,35.10891,38.094185,41.101562,43.13256,45.45475,46.96903,49.11892,50.58241,53.022026,54.93262,56.525497,61.034145,43.12162,Text tokens,1385,1385,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+11,72.71843,60.329468,1.6580582,2.5434408,4.0974927,7.2077956,12.726038,20.630255,29.714336,40.549644,51.5348,61.845425,69.20172,77.66536,84.19384,91.20064,97.445404,100.53651,103.2423,104.54286,106.44809,104.94683,105.08178,102.060326,103.76927,102.8428,103.79045,102.09191,102.83829,101.97943,101.16898,97.95081,59.031948,Text tokens,1516,1516,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade8
+12,28.100245,26.533072,1.0451223,1.0945868,1.1609254,1.2740017,1.4376442,1.6248484,1.8749753,2.1539564,2.551412,3.0310595,3.5115027,4.220621,4.979059,6.2105055,7.855212,10.049254,12.036002,15.565233,18.718649,21.39293,23.789953,26.293919,28.458723,30.260008,32.12946,33.93549,35.85322,37.46452,39.19608,47.723644,29.906008,Text tokens,1827,1827,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,0,grade4,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+13,30.605385,27.99721,1.0415567,1.0836092,1.1419833,1.2376449,1.3683202,1.5232759,1.7290218,1.9232336,2.2326517,2.5440342,2.931506,3.3741515,3.9600198,4.9165783,6.187156,7.810623,9.457581,12.541429,15.23253,17.637453,20.00314,22.643288,24.744385,26.695103,28.49785,30.361456,32.403152,34.108097,36.032227,46.526012,29.82165,Text tokens,1116,1116,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+14,35.89608,31.74641,1.0767174,1.1613536,1.2804571,1.4802502,1.7699883,2.1412494,2.6060278,3.1629355,3.9779944,4.9630938,5.936376,7.2149205,8.943694,11.6615715,15.038759,19.232584,23.070604,28.565248,32.944424,36.2343,38.600277,40.60566,42.237,43.349007,44.986904,46.034645,47.911312,49.068134,49.90664,53.70399,36.870125,Text tokens,178,178,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+15,31.152847,29.139631,1.0523431,1.1146549,1.1923746,1.3284051,1.5097903,1.7218937,1.9931498,2.3070884,2.7723916,3.3149207,3.8693688,4.5628166,5.5001173,7.0431,8.948754,11.55305,13.886023,17.812777,21.213919,24.165245,26.780556,29.461605,31.765184,33.758553,35.587616,37.36542,39.28081,40.927864,42.4807,49.734535,31.483938,Text tokens,1209,1209,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade5,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+16,42.054092,37.130245,1.0760567,1.1559035,1.2740684,1.479306,1.7984807,2.146744,2.6323774,3.194505,4.0814776,5.0302577,5.9123664,7.0895386,8.82385,11.329795,14.604359,18.847124,22.841887,28.623299,33.645588,37.272877,40.54028,43.39277,46.21696,48.079166,50.307613,51.867558,53.867138,55.209026,56.405464,61.815613,39.205124,Text tokens,864,864,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade8,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.00.00.00. 000000000000000000000000000000000000",0,1,grade8
+17,27.6124,26.518618,1.0399674,1.0844514,1.1416643,1.2406783,1.3720689,1.526467,1.7364956,1.950716,2.2838593,2.696394,3.0896301,3.6151009,4.286096,5.338507,6.736447,8.60255,10.267155,13.308406,15.965356,18.312986,20.479385,22.84089,24.87234,26.723936,28.505033,30.306786,32.310894,34.135765,35.92748,45.897392,30.586134,Text tokens,65,65,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+18,71.21114,54.664783,1.6557323,2.5107431,4.2124248,7.5827894,13.408263,21.117996,30.42041,42.441948,55.865887,68.659485,77.78552,87.3632,94.91134,103.50904,111.20526,116.85366,120.94314,123.16532,126.20178,122.26239,120.50938,118.44203,119.5637,118.51988,119.813965,119.74325,121.15867,121.13961,120.32185,117.22312,74.20799,Text tokens,61,61,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade7,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+19,33.075718,30.164896,1.0529531,1.1090473,1.1883603,1.3185123,1.5068932,1.7337629,2.0269575,2.3424213,2.7929633,3.3036735,3.8775258,4.57933,5.5210977,7.096922,9.039987,11.579207,14.026301,17.999163,21.311687,24.283503,26.786594,29.50585,31.671883,33.60922,35.464622,37.1816,39.13042,40.774303,42.401257,49.68008,31.53926,Text tokens,191,191,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+20,58.050377,48.21056,1.1710757,1.3740463,1.6710795,2.1746984,2.9579742,3.931693,5.2905507,6.8354716,9.177453,12.160674,14.756474,18.226988,22.576664,27.710169,34.569313,41.608624,47.226475,52.96154,57.57658,60.21238,62.001297,63.090805,64.772484,65.33839,67.820244,68.22134,70.161064,70.58609,70.87448,71.33948,46.168896,Text tokens,447,447,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,1,grade4
+21,31.9435,28.867336,1.0499946,1.1134063,1.1875879,1.3100128,1.4809952,1.6778058,1.9255061,2.193201,2.5956094,3.1105604,3.5967352,4.2493033,5.123169,6.3780107,8.22227,10.600153,12.861987,16.69598,19.93261,22.935223,25.465818,27.916008,30.145327,31.997728,33.80316,35.444965,37.40956,39.10438,40.666992,48.164055,31.86823,Text tokens,476,476,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade7
+22,53.88924,46.61847,1.1390085,1.2997141,1.525514,1.8868715,2.4548087,3.1621578,4.1110725,5.296495,7.0352683,9.272969,11.289698,13.668213,16.934443,21.220665,26.83873,33.938206,39.219475,45.11071,50.003914,52.70115,55.406086,56.851704,58.71346,59.812725,61.995827,62.642296,64.26167,64.727615,65.29722,66.841866,45.13425,Text tokens,1034,1034,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+23,29.086159,26.638365,1.0421219,1.0904025,1.1516206,1.2553251,1.3892511,1.5490264,1.7545955,1.9729508,2.3027613,2.7194762,3.0837421,3.5642238,4.251084,5.307378,6.7932463,8.715514,10.636629,13.947635,16.812033,19.532772,21.958813,24.418604,26.606272,28.524555,30.309713,32.00786,34.07141,35.833355,37.59304,46.989628,30.667456,Text tokens,1232,1232,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+24,70.59848,57.400974,1.1757433,1.3952348,1.7042361,2.2335582,3.0838482,4.1296506,5.6022434,7.429692,9.913308,13.392248,16.069221,19.466639,23.968296,29.802265,37.2567,44.495186,49.930504,56.259747,62.210728,64.36327,65.843346,66.926254,69.285126,70.18091,72.90512,73.71162,75.852394,77.37752,78.36013,79.31263,54.88447,Text tokens,54,54,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade5,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+25,31.232283,28.725302,1.0600159,1.1409395,1.235125,1.3872727,1.5915331,1.8429533,2.168859,2.5207465,3.0695338,3.6978586,4.349675,5.1907053,6.3390594,7.914215,10.096782,12.8413105,15.470208,19.543964,23.020758,26.079765,28.82449,31.290077,33.452446,35.272392,37.116154,38.682766,40.552273,42.09712,43.5414,49.6124,32.65529,Text tokens,1149,1149,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+26,72.35736,60.68941,1.6355757,2.4814968,4.0135202,6.9919286,12.338181,19.788406,28.752317,39.06338,50.858883,61.646275,69.07648,77.22551,83.790924,90.57669,96.79003,100.10343,102.96165,104.24315,106.05416,104.744354,104.855835,101.984245,103.68831,102.356155,103.39331,101.81054,102.63367,102.020966,101.23698,98.26041,61.24177,Text tokens,407,407,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+27,29.74832,27.826738,1.0571307,1.1316122,1.220463,1.3661844,1.568331,1.8138504,2.1206279,2.4542453,2.9657767,3.5721877,4.1736507,4.9368362,5.9840736,7.4863696,9.539688,12.175473,14.575931,18.473253,21.763998,24.812897,27.413351,29.897146,32.011047,33.88482,35.707924,37.305897,39.18017,40.749584,42.255173,48.75316,31.673008,Text tokens,1466,1466,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+28,48.863647,41.59823,1.1058631,1.2272605,1.393676,1.6940604,2.1143777,2.6415153,3.336105,4.1864543,5.417643,6.867319,8.350034,10.069513,12.459279,15.735506,20.351915,25.387178,29.757088,35.423084,39.878925,42.774815,45.323364,47.477093,49.63457,50.939434,53.015064,54.197308,56.18251,57.62481,58.895916,61.623463,42.76415,Text tokens,1330,1330,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade5,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade5
+29,31.984173,29.219685,1.0629255,1.1517705,1.2508935,1.4105899,1.6313204,1.901251,2.253948,2.6370788,3.221391,3.8912292,4.602424,5.497554,6.6945004,8.422678,10.70934,13.567836,16.211939,20.44503,23.919693,27.03753,29.784025,32.34706,34.437405,36.22831,38.068214,39.653233,41.589058,43.05165,44.499557,50.533394,32.542076,Text tokens,1436,1436,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+30,57.1043,47.710106,1.1981366,1.4461399,1.7916704,2.394287,3.3913753,4.7061586,6.421988,8.3807125,11.457423,15.264497,18.609997,22.677496,27.531334,33.589535,40.976273,48.320583,53.706684,58.971176,62.740467,63.204422,64.77905,65.74762,67.416985,67.9585,70.572395,70.94337,72.96754,74.00619,74.66616,74.60056,49.155067,Text tokens,859,859,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.",0,1,grade8
+31,49.99003,42.160133,1.1121678,1.2415855,1.4215028,1.7241685,2.154469,2.671867,3.401384,4.2450743,5.39361,6.947843,8.357413,10.052034,12.307415,15.591292,19.77663,24.747654,29.137403,35.158676,40.088795,43.386333,46.317272,47.8743,50.29887,51.769005,54.04395,55.45644,57.486374,59.11947,60.27636,63.19951,43.14376,Text tokens,451,451,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+32,47.016,40.19911,1.0919482,1.2057352,1.3385978,1.5759104,1.896645,2.3198032,2.897619,3.5337284,4.4181876,5.7278757,6.865821,8.124114,9.842202,12.604526,16.491774,20.876125,25.074461,31.183071,36.298912,40.469482,44.07793,46.188957,48.85643,50.615387,53.070694,53.948463,56.482067,57.950706,59.11744,64.36281,47.591316,Text tokens,919,919,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade8,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade8
+33,43.590485,37.500423,1.0778718,1.163097,1.2885828,1.4967405,1.7707776,2.0959268,2.5410862,3.087871,3.886244,4.8602405,5.7917304,6.9798975,8.617184,11.266954,14.561442,18.661636,22.452185,28.017607,32.661533,36.00852,38.26174,40.33795,42.680218,44.118977,46.17068,47.63326,49.627422,51.07592,52.309376,56.406166,38.67589,Text tokens,1206,1206,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+34,92.123924,70.91411,2.059894,3.7929575,7.3971577,14.47061,26.72804,40.454895,55.240627,70.67783,86.824524,98.96711,106.538574,115.04827,121.75926,130.4147,137.8991,142.42963,146.9013,148.08197,151.31523,147.27365,146.8391,144.50647,147.02962,145.70334,148.08853,146.87566,149.46745,149.86446,149.46169,145.63373,88.90114,Text tokens,569,569,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2000000000000000000000000000000000000000000000000",2000000000000000000000000000000000000000000000000,1,grade7
+35,30.46214,28.306122,1.0575644,1.1311804,1.2199557,1.3649467,1.5712314,1.8163258,2.12631,2.4573686,2.9665065,3.5729527,4.173622,4.9468503,6.036861,7.485866,9.56126,12.165894,14.5784235,18.554972,21.803778,24.748344,27.320799,29.795258,31.816698,33.512806,35.295216,36.930344,38.86914,40.50996,42.070667,48.518482,31.180775,Text tokens,1657,1657,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+36,72.707855,59.840313,1.726442,2.7790432,4.643651,8.182915,14.447392,23.212275,33.23443,44.54852,56.924976,67.89208,75.32612,83.63967,89.58144,96.0598,101.80913,103.992676,106.19165,106.750984,108.47436,106.51094,106.676735,103.50835,105.14509,104.247574,105.341705,103.52256,104.2102,103.71259,102.55378,99.36223,58.069065,Text tokens,1780,1780,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+37,72.131485,59.520874,1.4023051,1.9156415,2.7887301,4.4442134,7.228006,11.2378435,16.362057,22.975117,31.64133,40.5207,47.46144,56.05238,64.05843,72.74152,81.39982,87.419174,91.60786,95.090454,98.13151,97.448746,98.11531,95.59656,96.80785,96.22787,97.417015,95.95346,96.822815,96.49303,95.84019,93.269646,57.590744,Text tokens,13,13,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade6,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade6
+38,31.205137,28.884533,1.047952,1.106254,1.1775805,1.2960955,1.4585153,1.639511,1.8871642,2.1643643,2.570838,3.058739,3.5809112,4.264494,5.0846753,6.382475,8.084504,10.251684,12.299331,15.785682,18.76436,21.58468,24.019691,26.703657,29.00224,30.973742,32.84067,34.659363,36.700397,38.51581,40.24328,48.823425,31.136185,Text tokens,1554,1554,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade2,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade2
+39,82.72065,62.734,1.6058495,2.415251,4.017436,7.231996,12.959342,20.276394,29.652384,40.446854,53.801434,66.1767,74.29736,83.7192,92.10895,103.30721,112.71442,120.17179,125.32772,127.48991,131.1641,129.56033,129.64877,127.96638,130.80377,129.29546,132.7483,132.09572,134.73222,134.17804,134.14029,131.70226,77.67217,Text tokens,1650,1650,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+40,45.644123,39.080482,1.1067375,1.2200608,1.3853109,1.6827022,2.1205711,2.65782,3.4192958,4.257477,5.5660677,7.14165,8.779266,10.596595,13.117656,17.063005,21.663435,27.2553,32.480904,38.939697,43.828182,47.36489,50.56974,53.301746,55.827408,57.14489,59.322563,60.302254,61.71277,62.655468,63.42932,66.30311,41.853813,Text tokens,326,326,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 200. 20.0000.",2,1,grade3
+41,84.393196,65.19526,1.6908089,2.7111833,4.637371,8.393389,14.999473,23.396992,34.111202,45.278473,59.88307,72.36878,81.25567,90.54987,97.77731,107.004364,115.248245,120.03829,125.22534,128.57674,131.21251,127.963936,127.10095,125.31531,127.432594,126.7284,129.82669,129.58128,131.0578,131.24411,131.0298,127.00541,82.209335,Text tokens,1429,1429,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+42,32.008293,29.609758,1.0470287,1.1047468,1.1777745,1.2952847,1.4536288,1.6327806,1.8776906,2.1532235,2.5527894,3.0186288,3.5172422,4.200019,5.019008,6.30259,7.962621,10.237142,12.3145895,15.761245,18.799053,21.642601,24.19552,26.77479,29.129665,31.082933,32.98225,34.80262,36.863453,38.706787,40.47622,49.382282,31.363764,Text tokens,865,865,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade2,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade2
+43,42.247242,36.429276,1.0845644,1.1850659,1.3128632,1.5311854,1.8210925,2.2042675,2.7208261,3.336397,4.202331,5.37825,6.4209743,7.6777353,9.393988,11.938571,15.316514,19.771029,23.544422,29.27434,33.930527,37.777786,40.54114,43.134636,45.5501,47.38747,49.66012,51.172676,53.515476,55.110603,56.592457,62.115524,43.504147,Text tokens,696,696,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+44,34.659374,31.754465,1.0511383,1.107485,1.1824064,1.3100158,1.490849,1.705703,1.9888921,2.27869,2.706726,3.1857407,3.7525806,4.407876,5.2653637,6.680432,8.545113,10.950705,13.310218,17.23747,20.601982,23.72081,26.349878,29.271296,31.593042,33.685707,35.757202,37.67132,39.760445,41.5954,43.423832,51.82353,32.23798,Text tokens,318,318,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+45,30.424465,28.156355,1.0587996,1.1369828,1.2304982,1.383803,1.5921602,1.8434995,2.1612139,2.5220697,3.0573819,3.7011082,4.3684716,5.166882,6.334295,7.936394,10.069423,12.858893,15.318161,19.30402,22.579111,25.623838,28.182617,30.680489,32.74925,34.453594,36.265247,37.742973,39.621025,41.162697,42.683434,48.88027,32.540073,Text tokens,440,440,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+46,52.392605,45.59919,1.1289577,1.2826805,1.4955035,1.8389357,2.3829582,3.0649242,3.9731927,4.9670305,6.593561,8.672266,10.585772,12.911453,15.939793,20.266888,25.469042,31.977211,37.389286,43.43976,48.516552,51.661278,54.563286,56.30378,58.463512,59.497578,61.716534,62.827763,64.66265,65.2239,65.81822,67.24227,42.967323,Text tokens,1960,1960,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+47,58.108837,49.0888,1.2505786,1.5520111,2.0022314,2.81749,4.187726,6.1746416,8.875405,12.259726,16.872486,22.32722,26.598776,32.24267,37.99509,44.45937,52.085995,59.970825,65.363815,70.95926,74.82148,74.36063,75.31779,75.000046,76.52561,76.58256,78.764,79.04181,81.256645,82.563255,83.01451,82.62689,55.97161,Text tokens,1563,1563,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade8,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0. 0 0 0 00. 00 000000000000000000000000000000000",0,2,grade8
+48,57.993137,48.380947,1.1301908,1.2716863,1.4730543,1.8204564,2.3472192,2.9679396,3.8507807,4.8930516,6.3576255,8.318902,10.03861,12.366335,15.293355,19.303303,24.814962,30.717617,35.701244,42.600647,48.188965,51.95692,54.403446,56.649807,59.399017,61.009705,63.44674,64.70342,66.72799,67.91766,68.824234,71.78972,47.725876,Text tokens,689,689,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+49,44.17862,38.09629,1.0779433,1.1679852,1.281896,1.4754368,1.7278494,2.0438585,2.4928813,2.9941251,3.721334,4.75143,5.6147285,6.659727,8.044417,10.340803,13.413775,17.305819,20.899641,26.569145,31.69827,35.880367,39.354282,42.36942,45.1539,47.22491,49.576607,51.009327,53.416164,55.122463,56.613274,62.783768,43.038578,Text tokens,189,189,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,0,grade4,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade4
+0,49.127193,9.866425,1.3604373,1.5502508,1.8664886,2.0862792,2.2324474,2.3481305,2.4977906,2.721422,3.0293539,3.410907,3.8756833,4.34538,4.8257537,5.590469,7.3157964,8.95381,10.593061,13.024529,14.99724,16.75153,18.287148,20.051426,21.421656,22.619083,23.919374,25.222712,26.901909,27.982836,29.031563,34.41057,28.209787,Text only tokens,1309,1309,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade7,"USER: 
+ QUESTION: Think about the magnetic force between the magnets in each pair. Which of the following statements is true?
+OPTIONS:
+0: The magnitude of the magnetic force is smaller in Pair 2.
+1: The magnitude of the magnetic force is smaller in Pair 1.
+2: The magnitude of the magnetic force is the same in both pairs.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0.",0,1,grade7
+1,31.218555,11.073483,1.4896823,1.6306409,1.7242882,1.7797251,1.8476253,1.9006367,1.974852,2.072366,2.187415,2.3028433,2.4437876,2.5672991,2.7176294,2.9023046,3.2644382,3.6372273,4.0175347,4.6158075,5.123004,5.5754,6.0544653,6.6245475,7.0096545,7.508789,7.9178123,8.39976,9.107044,9.836425,10.654192,13.852423,14.502643,Text only tokens,228,228,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,0,grade3,"USER: 
+ QUESTION: What is the capital of Oregon?
+OPTIONS:
+0: Salem
+1: Denver
+2: Milwaukee
+3: Portland
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+2,27.213856,9.464766,1.4532113,1.5378588,1.5880736,1.6504582,1.7022052,1.747104,1.8092227,1.8911506,1.981165,2.0746005,2.1870327,2.2889936,2.4271283,2.5822427,2.8715472,3.185188,3.4907756,3.9475713,4.3634634,4.7109056,5.0778093,5.547589,5.841022,6.2539606,6.617402,7.0705614,7.6579523,8.38094,9.141396,11.951882,13.392038,Text only tokens,51,51,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade2,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade2
+3,47.678886,17.04409,1.2079177,1.3121817,1.4658614,1.5596738,1.6393534,1.6917057,1.7663007,1.8636684,1.9835973,2.11596,2.2744846,2.4276865,2.590721,2.8062952,3.2728078,3.7148592,4.146711,4.873001,5.4877057,6.052287,6.6207457,7.347609,7.8505235,8.520961,9.108037,9.83248,10.694155,11.482476,12.479112,17.628448,17.041843,Text only tokens,1518,1518,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which bird's beak is also adapted to catch insects?
+OPTIONS:
+0: hanging parrot
+1: sand martin
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+4,30.467028,10.87939,1.5726057,1.6246344,1.7128848,1.7597024,1.8253865,1.8789896,1.9532124,2.0590494,2.1839774,2.309061,2.4589386,2.5911906,2.7578626,2.9709682,3.4134893,3.8845737,4.3533216,5.0472937,5.6919265,6.2448726,6.8112473,7.497074,7.956505,8.567941,9.05582,9.658031,10.476583,11.328861,12.2658,16.04694,15.67111,Text only tokens,563,563,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade5,"USER: 
+ QUESTION: What is the capital of New Hampshire?
+OPTIONS:
+0: Boston
+1: Manchester
+2: Des Moines
+3: Concord
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade5
+5,30.265356,10.401754,1.2592005,1.4212179,1.4898288,1.598471,1.6553109,1.706102,1.7753402,1.8726914,1.9777519,2.0844898,2.209786,2.3234873,2.4668877,2.634605,2.9787977,3.3630676,3.739408,4.248851,4.755943,5.1660056,5.6061254,6.1459565,6.5092416,7.0041842,7.434105,7.979003,8.71949,9.554875,10.443688,14.084237,14.332828,Text only tokens,501,501,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade4,"USER: 
+ QUESTION: Which of these continents does the equator intersect?
+OPTIONS:
+0: North America
+1: Africa
+2: Europe
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+6,45.611816,18.043844,1.5691595,1.663718,1.8814845,2.0175724,2.118543,2.1888094,2.2791104,2.416134,2.5906212,2.795792,3.0284114,3.2602084,3.5067682,3.8879483,4.6449647,5.358258,6.0602713,7.244505,8.173712,9.087849,9.973907,11.114688,11.891795,12.721797,13.475073,14.339616,15.470565,16.293102,17.135817,21.207264,18.676886,Text only tokens,457,457,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade5,"USER: 
+ QUESTION: Select the organism in the same genus as the axolotl.
+OPTIONS:
+0: Python reticulatus
+1: Tigrisoma mexicanum
+2: Ambystoma opacum
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+7,47.7259,16.95845,1.4319541,1.4675826,1.6564912,1.7646898,1.8612711,1.922695,2.0056186,2.1212204,2.2630882,2.4253533,2.6088302,2.7838538,2.964618,3.2215002,3.7470315,4.284184,4.7792625,5.6690845,6.3767037,7.0779366,7.803459,8.69829,9.28969,10.031985,10.674643,11.473618,12.472841,13.282999,14.223663,18.976263,17.277939,Text only tokens,285,285,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Select the reptile below.
+OPTIONS:
+0: clownfish
+1: helmeted iguana
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+8,34.93157,12.578363,1.4137536,1.5713905,1.6905274,1.8039947,1.8726798,1.9255767,2.002408,2.0975037,2.2127557,2.332697,2.4751854,2.6071324,2.7575302,2.9509153,3.3485072,3.7312486,4.11168,4.761518,5.2972913,5.7828903,6.272652,6.903513,7.314699,7.8716846,8.322951,8.895995,9.644828,10.385135,11.240793,14.900063,15.547339,Text only tokens,1508,1508,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Palau
+1: Papua New Guinea
+2: the Marshall Islands
+3: the Federated States of Micronesia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade7
+9,62.021667,12.268989,1.3953835,1.6171296,1.8677043,2.0461388,2.166613,2.2634656,2.3831973,2.5642838,2.799617,3.1019123,3.4560757,3.8004405,4.149051,4.712781,5.922577,7.063992,8.215639,9.993203,11.486256,12.84049,14.058451,15.419087,16.490068,17.44862,18.440536,19.413351,20.724192,21.60339,22.461935,27.375893,23.12664,Text only tokens,209,209,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,0,grade7,"USER: 
+ QUESTION: During this time, thermal energy was transferred from () to ().
+OPTIONS:
+0: the surroundings . . . each vial
+1: each vial . . . the surroundings
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+10,49.97097,18.744755,1.3575331,1.6550266,1.7999501,1.9163388,2.003983,2.066961,2.1566362,2.2764912,2.4377418,2.6210124,2.821805,3.0165286,3.2384236,3.5541916,4.2033825,4.848827,5.4990525,6.5556293,7.385646,8.2139015,9.027581,9.999801,10.686796,11.535052,12.312659,13.199243,14.329637,15.303666,16.389137,21.666733,20.121307,Text only tokens,1385,1385,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: What type of rock is shale?
+OPTIONS:
+0: sedimentary
+1: igneous
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+11,72.71843,11.282634,1.5304588,1.70258,1.9135987,1.9936894,2.091866,2.1854804,2.3152637,2.4886432,2.7353427,3.0399573,3.4048424,3.8118944,4.196645,4.866641,6.269009,7.412283,8.683089,10.727644,12.275719,13.754907,15.051024,16.608099,17.700422,18.755814,19.947466,21.1548,22.695498,24.04727,25.518318,29.400831,25.747965,Text only tokens,1516,1516,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: What can Shivani and Austin trade to each get what they want?
+OPTIONS:
+0: Austin can trade his almonds for Shivani's tomatoes.
+1: Shivani can trade her tomatoes for Austin's broccoli.
+2: Austin can trade his broccoli for Shivani's oranges.
+3: Shivani can trade her tomatoes for Austin's carrots.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade8
+12,28.100245,9.831226,1.495426,1.5853862,1.6965282,1.7732302,1.8500775,1.9129385,1.9969544,2.1130621,2.251824,2.3964696,2.5682158,2.7293155,2.9158282,3.1542926,3.6737452,4.178875,4.670262,5.456006,6.132718,6.7257934,7.3073287,8.044045,8.550941,9.2083645,9.739401,10.346951,11.179383,12.008517,12.979388,17.054195,16.403292,Text only tokens,1827,1827,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,0,grade4,"USER: 
+ QUESTION: Is an icicle a solid, a liquid, or a gas?
+OPTIONS:
+0: a solid
+1: a liquid
+2: a gas
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+13,30.605385,10.023067,1.2891794,1.4853237,1.5392398,1.6681796,1.7153678,1.7608107,1.8248464,1.9166257,2.016972,2.1201484,2.2474113,2.3619146,2.5207267,2.7077746,3.0756292,3.479742,3.8554814,4.4485292,4.9538574,5.353817,5.7869244,6.3604646,6.71591,7.164087,7.577004,8.063329,8.733136,9.567036,10.410118,13.440106,13.761739,Text only tokens,1116,1116,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade3,"USER: 
+ QUESTION: Which property matches this object?
+OPTIONS:
+0: transparent
+1: bouncy
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade3
+14,35.89608,14.588951,1.4080224,1.6084975,1.7817132,1.9153172,2.0008779,2.0658796,2.1567395,2.2792938,2.42773,2.5910306,2.78509,2.977933,3.199911,3.5155838,4.149863,4.7873077,5.394274,6.400038,7.2369747,8.083065,8.875745,9.858635,10.517279,11.313398,12.0254755,12.872709,13.923376,14.802673,15.877523,20.693491,18.623589,Text only tokens,178,178,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the sled dog team
+1: toward the sled dog team
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+15,31.152847,10.597952,1.3382074,1.4623406,1.5636945,1.6975726,1.7635025,1.8215431,1.9002396,2.008203,2.132465,2.259498,2.405174,2.5414388,2.7034225,2.9163215,3.3241448,3.7464705,4.148658,4.7708645,5.3081846,5.780561,6.2821245,6.9066,7.3328724,7.8834543,8.323483,8.841594,9.598638,10.456268,11.351651,15.177834,14.707587,Text only tokens,1209,1209,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade5,"USER: 
+ QUESTION: Which of these cities is marked on the map?
+OPTIONS:
+0: Los Angeles
+1: Chicago
+2: San Francisco
+3: Denver
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade5
+16,42.054092,14.818463,1.2680091,1.5662428,1.7341504,1.8588808,1.9457113,2.00664,2.0895014,2.218673,2.3760157,2.554028,2.7754345,2.9794095,3.2378936,3.5711603,4.2734036,5.0217285,5.7445254,6.8337393,7.7849545,8.704968,9.590315,10.636875,11.338527,12.183514,12.929989,13.849356,14.985485,15.943482,17.064266,22.412197,20.63542,Text only tokens,864,864,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade8,"USER: 
+ QUESTION: Is the following statement about our solar system true or false?
+Jupiter's volume is more than 10,000 times as large as the volume of Mars.
+OPTIONS:
+0: true
+1: false
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.00.00.00. 000000000000000000000000000000000000",0,1,grade8
+17,27.6124,10.005404,1.2845702,1.3849585,1.4565842,1.5675386,1.6242865,1.6728436,1.7406383,1.8306715,1.9308188,2.0318568,2.1528287,2.2613645,2.399693,2.5580697,2.8686008,3.2201722,3.537768,4.0325084,4.4909406,4.873216,5.2636485,5.768712,6.1030807,6.573173,6.9663334,7.4792814,8.144182,8.921094,9.765017,13.133337,14.149309,Text only tokens,65,65,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: Which continent is highlighted?
+OPTIONS:
+0: North America
+1: Africa
+2: Asia
+3: South America
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+18,71.21114,12.654918,1.659049,1.7713685,1.9031948,1.9276937,1.9835491,2.0303347,2.084063,2.159232,2.2618725,2.3913522,2.5537522,2.730698,2.9177532,3.208242,3.8415935,4.449759,5.126501,6.190604,7.0000176,7.7768555,8.467862,9.391625,10.054252,10.79887,11.56139,12.482298,13.536317,14.689281,15.895759,19.799887,20.323631,Text only tokens,61,61,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade7,"USER: 
+ QUESTION: Identify the question that Jaden and Ron's experiment can best answer.
+OPTIONS:
+0: Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?
+1: Do ping pong balls stop rolling along the ground sooner after being launched from a 30° angle or a 45° angle?
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade7
+19,33.075718,10.096069,1.2549683,1.4457979,1.5372349,1.6410147,1.7050816,1.7621511,1.84119,1.9548942,2.0839596,2.2211204,2.3812068,2.5388026,2.7251081,2.9940522,3.535014,4.081999,4.6221414,5.508522,6.2459865,6.894126,7.548627,8.358676,8.942112,9.622805,10.19244,10.954221,11.909561,12.947927,14.061911,19.008131,16.998556,Text only tokens,191,191,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: flexible
+1: transparent
+2: opaque
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+20,58.050377,12.464682,1.3271564,1.5036545,1.7984283,1.9951982,2.117369,2.2149212,2.3454869,2.5557353,2.830095,3.167782,3.5949533,4.008398,4.4476953,5.1285167,6.6612153,8.1083355,9.576639,11.848202,13.731128,15.437939,16.977938,18.699026,20.002298,21.208303,22.503317,23.809557,25.417755,26.540548,27.690353,33.75104,27.632093,Text only tokens,447,447,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Serengeti National Park ecosystem?
+OPTIONS:
+0: It has a rainy season and a dry season. It also has long, cold winters.
+1: It has warm summers and warm winters. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,1,grade4
+21,31.9435,10.78736,1.5123922,1.5776328,1.6715261,1.7304924,1.795977,1.8471588,1.9210929,2.0134041,2.1219656,2.2333577,2.366714,2.4886894,2.6308153,2.8085215,3.161732,3.5059507,3.8546567,4.4479933,4.92562,5.3537173,5.790262,6.3499384,6.7219496,7.21509,7.623367,8.106567,8.779464,9.497812,10.311246,13.588273,14.246728,Text only tokens,476,476,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,2,grade7,"USER: 
+ QUESTION: Which country is highlighted?
+OPTIONS:
+0: Solomon Islands
+1: Tonga
+2: Fiji
+3: Vanuatu
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,2,grade7
+22,53.88924,14.627127,1.412404,1.6033587,1.9614418,2.2353666,2.3923416,2.5215752,2.6866245,2.9652562,3.3373249,3.809021,4.3596725,4.9209924,5.5059576,6.4914827,8.578175,10.448002,12.323647,14.954444,17.16703,19.130285,20.783772,22.738338,24.048134,25.083239,26.41341,27.892815,29.637486,30.548403,31.407112,36.54552,30.230755,Text only tokens,1034,1034,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: Which better describes the Cape Breton Highlands National Park ecosystem?
+OPTIONS:
+0: It has short, cool summers. It also has soil that is rich in nutrients.
+1: It has many evergreen trees. It also has soil that is poor in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+23,29.086159,10.505657,1.6377842,1.6373934,1.7181784,1.7269913,1.7901638,1.8383608,1.9074966,1.9974279,2.1044667,2.2111852,2.3432145,2.4662392,2.6126957,2.8079553,3.184215,3.5697634,3.9595726,4.5624466,5.1101813,5.5740476,6.0619984,6.656972,7.0496526,7.5903025,8.02452,8.547149,9.27268,10.061002,10.903807,14.551865,14.5404625,Text only tokens,1232,1232,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: What is the name of the colony shown?
+OPTIONS:
+0: Florida
+1: Virginia
+2: Vermont
+3: West Virginia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+24,70.59848,11.70417,1.2558687,1.4256217,1.6873546,1.8509748,1.9637325,2.0675313,2.2078366,2.40657,2.6827748,3.0180845,3.4253178,3.8378878,4.244509,4.856655,6.2885413,7.6123724,8.9956455,11.1714325,12.917756,14.437926,15.877521,17.536469,18.75987,19.956322,21.139473,22.275507,23.765385,24.75496,25.763544,31.50165,25.928492,Text only tokens,54,54,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade5,"USER: 
+ QUESTION: Which animal's legs are also adapted for wading?
+OPTIONS:
+0: kookaburra
+1: Eurasian spoonbill
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+25,31.232283,11.232472,1.5075827,1.5060699,1.6130613,1.665829,1.7347223,1.7886573,1.862988,1.9640418,2.0801637,2.1944602,2.3370285,2.461354,2.6073034,2.7912233,3.1515687,3.5241656,3.89196,4.4865875,4.9925237,5.435082,5.902293,6.475782,6.8534646,7.356372,7.764466,8.229995,8.910809,9.657297,10.461992,13.660943,14.175312,Text only tokens,1149,1149,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Tennessee?
+OPTIONS:
+0: Honolulu
+1: Nashville
+2: Little Rock
+3: Memphis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+26,72.35736,10.977367,1.5166893,1.7145264,1.9387125,2.034467,2.1382415,2.2348635,2.368027,2.5532413,2.8134327,3.1370757,3.5352368,3.9770553,4.4068565,5.1324983,6.626415,7.841889,9.171735,11.301637,12.840824,14.339159,15.652152,17.212847,18.294771,19.300177,20.471205,21.595625,23.127495,24.403652,25.720762,29.449455,25.410803,Text only tokens,407,407,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Austin and Colin trade to each get what they want?
+OPTIONS:
+0: Colin can trade his broccoli for Austin's oranges.
+1: Colin can trade his almonds for Austin's tomatoes.
+2: Austin can trade his tomatoes for Colin's carrots.
+3: Austin can trade his tomatoes for Colin's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+27,29.74832,10.861689,1.4870437,1.5977347,1.6908201,1.7786702,1.8455161,1.8978249,1.9695783,2.0639224,2.171324,2.2794409,2.4082382,2.5261097,2.669915,2.8465762,3.1952593,3.5561457,3.9287815,4.502091,5.0160685,5.4727745,5.944056,6.513156,6.8861547,7.3888807,7.796513,8.278415,8.974705,9.673896,10.483619,13.445151,14.26564,Text only tokens,1466,1466,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: What is the capital of Arizona?
+OPTIONS:
+0: Phoenix
+1: Juneau
+2: Helena
+3: Salt Lake City
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+28,48.863647,17.773298,1.451993,1.6826031,1.8853492,2.0097609,2.1126301,2.1781423,2.2635968,2.3839352,2.54335,2.7251365,2.9365609,3.1391773,3.359996,3.6853251,4.33714,4.968969,5.587829,6.644387,7.48269,8.363391,9.212942,10.222241,10.889825,11.679358,12.370057,13.165066,14.276758,15.140051,16.001785,20.10103,18.987656,Text only tokens,1330,1330,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade5,"USER: 
+ QUESTION: Complete the statement.
+Hydrogen peroxide is ().
+OPTIONS:
+0: a compound
+1: an elementary substance
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade5
+29,31.984173,11.327022,1.4041791,1.418221,1.532709,1.602407,1.6764436,1.7347534,1.8143212,1.9289801,2.0625498,2.1932454,2.3541718,2.4934664,2.6624134,2.869733,3.3024313,3.763967,4.209154,4.9152894,5.524193,6.0620284,6.629625,7.29997,7.760701,8.347,8.819996,9.410343,10.205598,11.088057,12.031202,15.916202,15.765002,Text only tokens,1436,1436,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Vermont?
+OPTIONS:
+0: Omaha
+1: Montpelier
+2: Boston
+3: Burlington
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+30,57.1043,11.575327,1.3059657,1.5616647,1.9120522,2.1349175,2.2753098,2.3996546,2.5622017,2.8212848,3.1787496,3.6276464,4.185833,4.7665443,5.3505983,6.3265586,8.4945135,10.550982,12.654061,15.733211,18.261585,20.449533,22.274918,24.381922,25.92607,27.245346,28.780184,30.289984,32.076675,33.204227,34.315685,40.338615,31.32321,Text only tokens,859,859,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,1,grade8,"USER: 
+ QUESTION: Which statement describes the Yasuni National Park ecosystem?
+OPTIONS:
+0: It has mostly small plants.
+1: It has soil that is poor in nutrients.
+2: It has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 00.",0,1,grade8
+31,49.99003,17.72948,1.3185345,1.3848517,1.5399027,1.6373307,1.7169862,1.7683965,1.8415275,1.9405597,2.0637536,2.1996531,2.3690412,2.5308213,2.712472,2.9658368,3.4870946,4.0008554,4.4931517,5.333359,6.0271506,6.661436,7.311975,8.140843,8.702439,9.39664,10.026965,10.782197,11.682613,12.486627,13.492998,18.742247,18.005316,Text only tokens,451,451,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade3,"USER: 
+ QUESTION: Which animal's limbs are also adapted for climbing trees?
+OPTIONS:
+0: okapi
+1: Sumatran orangutan
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+32,47.016,18.256426,1.4479423,1.5768684,1.7712369,1.8897151,1.9869425,2.0521252,2.1353889,2.2644327,2.4265692,2.6173546,2.8399222,3.051413,3.2654226,3.6034818,4.305748,4.9764977,5.6454453,6.780311,7.6684613,8.530433,9.380917,10.350465,11.104392,11.897413,12.638661,13.424984,14.4912815,15.315853,16.186241,20.849464,18.733429,Text only tokens,919,919,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade8,"USER: 
+ QUESTION: Select the organism in the same genus as the European nightjar.
+OPTIONS:
+0: Caprimulgus macrurus
+1: Ulex europaeus
+2: Acanthaster planci
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade8
+33,43.590485,16.168766,1.4122576,1.5468982,1.700795,1.7838763,1.8605355,1.9121035,1.9890229,2.0863254,2.2033284,2.3274102,2.4762554,2.6159291,2.7882433,3.010667,3.4616635,3.9128757,4.3543243,5.0843725,5.6990123,6.304781,6.9065337,7.623634,8.1086445,8.758575,9.308598,9.971999,10.843105,11.606919,12.552162,16.922922,16.25991,Text only tokens,1206,1206,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the direction of this pull?
+OPTIONS:
+0: away from the magnet
+1: toward the magnet
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+34,92.123924,14.145009,1.4785162,1.5688177,1.655665,1.6926101,1.7378092,1.7726417,1.8159298,1.8693901,1.9302062,2.0026755,2.0889082,2.17219,2.2773125,2.4007,2.700215,2.987027,3.3129582,3.8319087,4.3030014,4.709896,5.074452,5.5717,5.943618,6.3605547,6.7542167,7.3766785,8.050626,8.8040695,9.719652,12.903608,16.592787,Text only tokens,569,569,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Which of the following could Stanley's test show?
+OPTIONS:
+0: if the sample fabric would absorb one drop of water in less than one second
+1: how long it would take the sample fabric to dry after it absorbed one drop of water
+2: how much athletes would sweat in the fabric
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2000000000000000000000000000000000000000000000000",2000000000000000000000000000000000000000000000000,1,grade7
+35,30.46214,10.737544,1.4487871,1.4667329,1.5677568,1.6354352,1.7021605,1.755239,1.8288428,1.9318053,2.0515633,2.1693246,2.3174434,2.4466412,2.6059988,2.8092592,3.2335439,3.6931577,4.1421485,4.850655,5.496435,6.0456276,6.621803,7.3078403,7.7678766,8.368703,8.856912,9.461235,10.270229,11.165217,12.100916,16.071846,15.821583,Text only tokens,1657,1657,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade4,"USER: 
+ QUESTION: What is the capital of North Carolina?
+OPTIONS:
+0: Concord
+1: Raleigh
+2: Jefferson City
+3: Charlotte
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade4
+36,72.707855,11.027751,1.6426495,1.8280804,2.071059,2.1807253,2.2980816,2.411498,2.553937,2.7511683,3.0417807,3.4036858,3.8339128,4.3436127,4.8207955,5.64361,7.3480253,8.741674,10.21134,12.578933,14.312707,16.004595,17.47739,19.20103,20.424055,21.477243,22.735851,23.99738,25.691128,27.125744,28.664549,32.366756,27.947647,Text only tokens,1780,1780,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,3,grade8,"USER: 
+ QUESTION: What can Bella and Darnell trade to each get what they want?
+OPTIONS:
+0: Darnell can trade his broccoli for Bella's oranges.
+1: Darnell can trade his almonds for Bella's tomatoes.
+2: Bella can trade her tomatoes for Darnell's carrots.
+3: Bella can trade her tomatoes for Darnell's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade8
+37,72.131485,10.711295,1.6327702,1.7845054,2.0164404,2.1159854,2.2252195,2.3241403,2.459775,2.6423833,2.9133623,3.2541163,3.6370535,4.0775456,4.527877,5.2781324,6.8084197,8.107968,9.49855,11.686193,13.306226,14.928147,16.300388,17.923292,19.044287,20.120155,21.35042,22.541695,24.269403,25.646202,27.03188,30.864656,26.424994,Text only tokens,13,13,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 3",3,3,grade6,"USER: 
+ QUESTION: What can Greta and Allie trade to each get what they want?
+OPTIONS:
+0: Greta can trade her tomatoes for Allie's sandwich.
+1: Allie can trade her broccoli for Greta's oranges.
+2: Allie can trade her almonds for Greta's tomatoes.
+3: Greta can trade her tomatoes for Allie's broccoli.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,3,grade6
+38,31.205137,10.469205,1.5646806,1.6364887,1.7154495,1.7239779,1.7899019,1.8428642,1.915062,2.017345,2.1405165,2.2623172,2.403791,2.542571,2.6975038,2.9058967,3.3262975,3.767726,4.2049766,4.860468,5.462925,5.97886,6.51958,7.1788945,7.6354294,8.222386,8.708582,9.318036,10.120507,10.98509,11.931326,15.816023,15.503924,Text only tokens,1554,1554,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade2,"USER: 
+ QUESTION: Which of these states is farthest east?
+OPTIONS:
+0: Georgia
+1: North Dakota
+2: Oklahoma
+3: Louisiana
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade2
+39,82.72065,11.524265,1.5245728,1.6716908,1.815718,1.8514946,1.9121497,1.9592868,2.0165727,2.0936353,2.190773,2.3106139,2.4531648,2.5986624,2.7553973,3.00492,3.5486634,4.0470233,4.605515,5.500377,6.213883,6.9090405,7.5337114,8.335928,8.950259,9.629342,10.271929,11.163157,12.140254,13.145003,14.338169,17.733397,19.240059,Text only tokens,1650,1650,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following could Caden's test show?
+OPTIONS:
+0: how well the weather station would work when it was windy
+1: if the weather station would work when the temperature was 50°C
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+40,45.644123,15.970147,1.4173082,1.544868,1.7587802,1.9074509,2.0143936,2.086017,2.1814876,2.3212667,2.5004025,2.7145224,2.9738865,3.2153845,3.4867048,3.9147608,4.778729,5.6295214,6.446542,7.7569966,8.84668,9.928636,10.945358,12.191757,13.066023,13.979559,14.861611,16.01963,17.36924,18.494564,19.6259,25.24811,22.658588,Text only tokens,326,326,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which statement is true about the average monthly precipitation in Nairobi?
+OPTIONS:
+0: Nairobi gets about the same amount of precipitation each month.
+1: More precipitation falls in April than in August.
+2: February is the wettest month of the year.
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 200. 20.0000.",2,1,grade3
+41,84.393196,11.420381,1.6450611,1.8604201,2.006502,2.0273373,2.092705,2.1517003,2.222249,2.3133235,2.435433,2.5901504,2.7718542,2.968432,3.1892886,3.5460672,4.2841616,4.9487057,5.714878,6.9592066,7.8812933,8.806424,9.591201,10.532101,11.232636,11.93648,12.690638,13.490528,14.560611,15.52191,16.541624,19.646984,19.122963,Text only tokens,1429,1429,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade6,"USER: 
+ QUESTION: Which of the following was a dependent variable in this experiment?
+OPTIONS:
+0: the watering method used
+1: the change in weight for each plant
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade6
+42,32.008293,10.784578,1.5457716,1.5799986,1.674814,1.7355862,1.8033348,1.8594646,1.9356738,2.0437522,2.17352,2.302163,2.4525583,2.5969574,2.761108,2.9770858,3.4041035,3.8580937,4.2973394,4.9645634,5.544195,6.054486,6.5877876,7.23444,7.690395,8.261805,8.727589,9.294668,10.061661,10.899914,11.81716,15.498788,15.190678,Text only tokens,865,865,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade2,"USER: 
+ QUESTION: Which of these states is farthest west?
+OPTIONS:
+0: Delaware
+1: Idaho
+2: Georgia
+3: Arkansas
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade2
+43,42.247242,17.602734,1.5063125,1.6054565,1.8226386,1.9548035,2.0517867,2.120183,2.2092803,2.342423,2.5076816,2.703559,2.9321213,3.1574807,3.3954487,3.7760937,4.513616,5.2387915,5.946138,7.091085,8.005823,8.907322,9.754415,10.776938,11.535483,12.358,13.101997,13.939154,15.056049,15.871733,16.760494,21.42411,19.494677,Text only tokens,696,696,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,1,grade7,"USER: 
+ QUESTION: Select the organism in the same species as the American alligator.
+OPTIONS:
+0: Alligator sinensis
+1: Alligator mississippiensis
+2: Aequorea victoria
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade7
+44,34.659374,10.37744,1.3961612,1.576338,1.6669202,1.7097666,1.7776202,1.8338172,1.9116367,2.023041,2.1536257,2.2915678,2.453332,2.6109428,2.7919354,3.0476038,3.5636034,4.071245,4.5847783,5.4206243,6.1043043,6.708233,7.3239655,8.093136,8.648632,9.309549,9.848394,10.569342,11.487386,12.468938,13.550641,18.314016,16.541939,Text only tokens,318,318,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which property do these three objects have in common?
+OPTIONS:
+0: stretchy
+1: rough
+2: bouncy
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+45,30.424465,10.663732,1.5637641,1.5955554,1.6787249,1.6694903,1.7384208,1.7922763,1.8676672,1.9708643,2.09146,2.2101903,2.3559284,2.4811141,2.637232,2.8299184,3.2392523,3.6456618,4.059266,4.7046995,5.2967443,5.793585,6.3102765,6.947545,7.362866,7.9158096,8.3738785,8.923578,9.688118,10.565313,11.456992,15.00767,15.22337,Text only tokens,440,440,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 1",1,1,grade5,"USER: 
+ QUESTION: What is the capital of Hawaii?
+OPTIONS:
+0: Lincoln
+1: Honolulu
+2: Hilo
+3: Juneau
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade5
+46,52.392605,12.732314,1.3653833,1.5387591,1.7811584,1.9358174,2.0436811,2.1267915,2.2266455,2.3723352,2.5676506,2.7980254,3.0977197,3.3880405,3.6898723,4.1394253,5.1548676,6.17221,7.2083063,8.871266,10.2982855,11.628064,12.833485,14.271605,15.341985,16.389606,17.429855,18.617159,20.10437,21.170233,22.342424,28.491522,23.275166,Text only tokens,1960,1960,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",50,1,grade3,"USER: 
+ QUESTION: Which better describes the Pantanal ecosystem?
+OPTIONS:
+0: It has soil that is poor in nutrients. It also has only a few types of organisms.
+1: It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,1,grade3
+47,58.108837,8.922676,1.5669922,1.7285388,2.140147,2.4379559,2.609756,2.7571235,2.942154,3.242016,3.6885304,4.2791276,5.018899,5.763464,6.4877434,7.774252,10.4200535,12.482546,14.680762,17.719873,20.07834,22.310661,24.072224,26.135466,27.612955,28.75332,30.152843,31.293165,33.07719,33.975235,34.629036,37.40259,28.855177,Text only tokens,1563,1563,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,2,grade8,"USER: 
+ QUESTION: What is the probability that a Labrador retriever produced by this cross will have brown fur?
+OPTIONS:
+0: 4/4
+1: 2/4
+2: 0/4
+3: 3/4
+4: 1/4
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0. 0 0 0 00. 00 000000000000000000000000000000000",0,2,grade8
+48,57.993137,16.324,1.3888147,1.5108508,1.690465,1.8077888,1.8977107,1.9609878,2.051265,2.1709826,2.3283443,2.5105903,2.7243278,2.9213204,3.1388063,3.4355154,4.1240916,4.7747965,5.434076,6.534026,7.4448323,8.3663645,9.244445,10.265755,11.033977,11.93879,12.732852,13.644939,14.851201,15.824007,16.91583,22.623318,20.248259,Text only tokens,689,689,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0",0,0,grade4,"USER: 
+ QUESTION: Which animal's feet are also adapted for swimming?
+OPTIONS:
+0: European beaver
+1: sable
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT:",10000,0,grade4
+49,44.17862,17.397587,1.5031954,1.6392478,1.8575175,1.9906663,2.0977683,2.1717796,2.2633617,2.4027808,2.579153,2.7828372,3.0192451,3.2553425,3.5104856,3.898037,4.674763,5.408452,6.1122394,7.279252,8.211411,9.1439,10.022733,11.0942545,11.849206,12.675545,13.429837,14.314823,15.432316,16.234625,17.11838,21.524012,19.570854,Text only tokens,189,189,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 2",2,0,grade4,"USER: 
+ QUESTION: Select the organism in the same species as the Eurasian beaver.
+OPTIONS:
+0: Castor fiber
+1: Ovis canadensis
+2: Lontra canadensis
+
+Answer with the correct option from 0 to 2. Only provide the numeric and nothing else 
+
+Answer:  ASSISTANT: 0000000000000000000000000000000000000000000000000",0,0,grade4

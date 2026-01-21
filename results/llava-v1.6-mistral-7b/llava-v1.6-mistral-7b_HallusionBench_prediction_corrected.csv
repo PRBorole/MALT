@@ -1,0 +1,1565 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,8,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+1,11,"[INST]  
+ QUESTION: From 2010 to 2019, Is 2015 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2010 to 2019, Is 2015 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+2,16,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+3,17,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+4,18,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+5,19,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+6,21,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+7,24,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+8,29,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the UK higher than those of the U.S. Central Bank , Eurozone, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the UK higher than those of the U.S. Central Bank , Eurozone, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+9,30,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+10,40,"[INST]  
+ QUESTION: According to the image, were African Americans the largest population group in the United States in 2020, with Whites and Latinos as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, were African Americans the largest population group in the United States in 2020, with Whites and Latinos as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+11,42,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+12,53,"[INST]  
+ QUESTION: According to the image, did the global death toll from earthquakes surpass 200,000 in any year between 2000 and 2015?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, did the global death toll from earthquakes surpass 200,000 in any year between 2000 and 2015?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+13,55,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+14,56,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+15,61,"[INST]  
+ QUESTION: According to the image, in 2020, did China have a larger population aged between 90 and 94 years than those aged between 0 and 4 years?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2020, did China have a larger population aged between 90 and 94 years than those aged between 0 and 4 years?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+16,69,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+17,72,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+18,74,"[INST]  
+ QUESTION: According to the table, did Xiaomi sell most units of the smartphone in Q2 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, did Xiaomi sell most units of the smartphone in Q2 2020?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+19,77,"[INST]  
+ QUESTION: According to the table, Which state in the United States has the average maximum temperature in 2021 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Which state in the United States has the average maximum temperature in 2021 ?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+20,81,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+21,82,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+22,83,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+23,90,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 12 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table
+24,91,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table
+25,93,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+26,95,"[INST]  
+ QUESTION: Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: Accroding to the information provided in the table, does Taylor Swift release the album ""Harry's House""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+27,105,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+28,108,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+29,134,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+30,146,"[INST]  
+ QUESTION: Is the formula in this image representative of the Gravity equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Gravity equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+31,148,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+32,155,"[INST]  
+ QUESTION: Is the text in this figure made by John F. Kennedy?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr,"[INST]  
+ QUESTION: Is the text in this figure made by John F. Kennedy?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr
+33,161,"[INST]  
+ QUESTION: Is the text in this figure made in Canada?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: Is the text in this figure made in Canada?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+34,164,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+35,165,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+36,167,"[INST]  
+ QUESTION: Is the right grey box larger than the left grey box?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right grey box larger than the left grey box?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+37,170,"[INST]  
+ QUESTION: Is the top line longer than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line longer than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+38,171,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+39,176,"[INST]  
+ QUESTION: Are there any grey points actually in the intersection of the white lines?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are there any grey points actually in the intersection of the white lines?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+40,191,"[INST]  
+ QUESTION: Is the black solid circle on the left smaller than the black solid circle on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the black solid circle on the left smaller than the black solid circle on the right?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+41,194,"[INST]  
+ QUESTION: Whether lines of blocks are parallel? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion,"[INST]  
+ QUESTION: Whether lines of blocks are parallel? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion
+42,195,"[INST]  
+ QUESTION: Whether the red shape in the image is a square? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion,"[INST]  
+ QUESTION: Whether the red shape in the image is a square? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion
+43,201,"[INST]  
+ QUESTION: Are two squares in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Are two squares in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+44,203,"[INST]  
+ QUESTION: Are two circles in the image the same color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Are two circles in the image the same color? yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+45,208,"[INST]  
+ QUESTION: Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Are two circles in the image the same color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+46,214,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+47,216,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+48,223,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+49,225,"[INST]  
+ QUESTION: Is the yellow line longer than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the yellow line longer than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+50,226,"[INST]  
+ QUESTION: Is the yellow line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the yellow line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+51,238,"[INST]  
+ QUESTION: Is angleA + angleB +angleC = 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC = 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math
+52,239,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+53,240,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+54,241,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+55,242,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+56,243,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+57,252,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+58,255,"[INST]  
+ QUESTION: The area of B is 16 and the of area of C is 9. Is the area of square A smaller than 25? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: The area of B is 16 and the of area of C is 9. Is the area of square A smaller than 25? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+59,256,"[INST]  
+ QUESTION: Is the area of the rectangle equal to 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math,"[INST]  
+ QUESTION: Is the area of the rectangle equal to 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math
+60,257,"[INST]  
+ QUESTION: Is the area of the rectangle larger than 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is the area of the rectangle larger than 12? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+61,260,"[INST]  
+ QUESTION: As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB larger than 50.0? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: As shown in the figure, ∠AOB = 100.0, is the degree of ∠ACB larger than 50.0? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+62,265,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+63,267,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+64,272,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+65,275,"[INST]  
+ QUESTION: If angle BAF equals to angle CAF, is CF larger than BF? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: If angle BAF equals to angle CAF, is CF larger than BF? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+66,278,"[INST]  
+ QUESTION: If angle A is equal to 60 degree, is AB larger than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: If angle A is equal to 60 degree, is AB larger than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+67,279,"[INST]  
+ QUESTION: If angle A is equal to 60 degree, is AB smaller than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: If angle A is equal to 60 degree, is AB smaller than 2AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+68,281,"[INST]  
+ QUESTION: If angle B is equal to 45 degree, is AB larger than sqrt(2)AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: If angle B is equal to 45 degree, is AB larger than sqrt(2)AC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+69,286,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+70,291,"[INST]  
+ QUESTION: According to the text in this image, is this a poster for ""Forrest Gump""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text in this image, is this a poster for ""Forrest Gump""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+71,293,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+72,294,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Pepperoni Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Pepperoni Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+73,306,"[INST]  
+ QUESTION: According to the text given in the image, is this a Washington style cheesecake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this a Washington style cheesecake?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+74,308,"[INST]  
+ QUESTION: According to the text given in the image, is this restaurant named Maryland Roadhouse?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this restaurant named Maryland Roadhouse?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+75,310,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+76,314,"[INST]  
+ QUESTION: According to the text given in the image, is this logo for Red Deer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this logo for Red Deer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+77,316,"[INST]  
+ QUESTION: According to the text given in the image, does this poster depict the movie Utopia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, does this poster depict the movie Utopia?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+78,317,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+79,319,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+80,332,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+81,337,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+82,340,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+83,343,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+84,346,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+85,350,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+86,351,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+87,352,"[INST]  
+ QUESTION: Are all the penguins in this figure characters of the movie Madagascar?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the penguins in this figure characters of the movie Madagascar?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+88,357,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+89,360,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+90,362,"[INST]  
+ QUESTION: Are all the items in this figure fried chicken?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure fried chicken?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+91,367,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure

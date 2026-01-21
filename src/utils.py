@@ -261,24 +261,6 @@ def process_image(image_path):
     images = [Image.open(path).convert("RGB") for path in image_path]
     return images
 
-# def build_scienceqa_prompt(ds_item, hint_use=True):
-#     question = ds_item["question"]
-#     choices = ds_item["choices"]
-#     hint = f"HINT: {ds_item['hint']}\n" if hint_use else ""
-    
-#     choices_str = "\n".join(
-#         [f"{i}: {c}" for i, c in enumerate(choices)]
-#     )
-    
-#     prompt = (
-#         f"QUESTION: {question}\n"
-#         f"{hint}"
-#         f"OPTIONS:\n{choices_str}\n\n"
-#         f"Answer with the correct option from 0 to {len(choices)-1}. Only provide the numeric and nothing else \n\n"
-#         f"Answer: "
-#     )
-#     return prompt
-
 def build_prompt(
     ds_item: str,
     ds_name: str, 
@@ -314,21 +296,6 @@ def build_prompt(
     )
     return prompt
 
-# def build_microvqa_prompt(ds_item):
-#     question = ds_item["question"]
-#     choices = ds_item["choices"]
-    
-#     choices_str = "\n".join(
-#         [f"{i}: {c}" for i, c in enumerate(choices)]
-#     )
-    
-#     prompt = (
-#         f"QUESTION: {question}\n"
-#         f"OPTIONS:\n{choices_str}\n\n"
-#         f"Answer with the correct option from 0 to {len(choices)-1}. Only provide the numeric and nothing else \n\n"
-#         f"Answer: "
-#     )
-#     return prompt
 
 def process_input_data(
     ds, 

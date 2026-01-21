@@ -1,0 +1,416 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,1,0,0,3,Counting,1,1,3,Counting
+1,2,0,0,1,Counting,2,2,1,Counting
+2,4,6,6,0,Counting,2,2,0,Counting
+3,5,3,3,0,Counting,2,2,0,Counting
+4,6,2,2,2,Counting,0,0,2,Counting
+5,10,0,0,1,Counting,2,2,1,Counting
+6,11,3,3,1,Counting,2,2,1,Counting
+7,13,0,0,1,Counting,2,2,1,Counting
+8,14,1,1,3,Counting,2,2,3,Counting
+9,15,5,5,1,Counting,2,2,1,Counting
+10,16,1,1,2,Counting,0,0,2,Counting
+11,17,5,5,1,Counting,2,2,1,Counting
+12,19,6,6,0,Counting,0,0,0,Counting
+13,21,0,0,2,Counting,1,1,2,Counting
+14,25,0,0,1,Counting,2,2,1,Counting
+15,26,1,1,1,Counting,2,2,1,Counting
+16,27,1,1,1,Counting,2,2,1,Counting
+17,28,0,0,3,Counting,2,2,3,Counting
+18,30,0,0,0,Counting,2,2,0,Counting
+19,31,0,0,0,Counting,2,2,0,Counting
+20,34,5,5,3,Counting,2,2,3,Counting
+21,35,6,6,1,Counting,2,2,1,Counting
+22,37,1,1,0,Counting,2,2,0,Counting
+23,38,1,1,1,Counting,2,2,1,Counting
+24,40,2,2,2,Counting,0,0,2,Counting
+25,41,5,5,2,Counting,1,1,2,Counting
+26,42,1,1,1,Counting,2,2,1,Counting
+27,43,0,0,0,Counting,1,1,0,Counting
+28,44,1,1,0,Counting,2,2,0,Counting
+29,46,0,0,3,Counting,1,1,3,Counting
+30,47,1,1,3,Counting,2,2,3,Counting
+31,50,0,0,2,Counting,2,2,2,Counting
+32,51,1,1,1,Counting,0,0,1,Counting
+33,52,1,1,0,Counting,2,2,0,Counting
+34,53,5,5,2,Counting,2,2,2,Counting
+35,60,1,1,2,Counting,2,2,2,Counting
+36,62,1,1,3,Counting,0,0,3,Counting
+37,63,4,4,1,Counting,2,2,1,Counting
+38,65,1,1,1,Counting,2,2,1,Counting
+39,67,1,1,3,Counting,0,0,3,Counting
+40,73,1,1,3,Counting,2,2,3,Counting
+41,77,0,0,2,Counting,2,2,2,Counting
+42,80,3,3,2,Counting,2,2,2,Counting
+43,81,4,4,0,Counting,0,0,0,Counting
+44,83,3,3,0,Counting,0,0,0,Counting
+45,85,6,6,0,Counting,2,2,0,Counting
+46,86,0,0,0,Counting,2,2,0,Counting
+47,87,2,2,2,Counting,0,0,2,Counting
+48,88,4,4,0,Counting,2,2,0,Counting
+49,91,2,2,2,Counting,0,0,2,Counting
+50,92,0,0,3,Counting,1,1,3,Counting
+51,95,0,0,3,Counting,2,2,3,Counting
+52,97,1,1,3,Counting,2,2,3,Counting
+53,98,1,1,0,Counting,0,0,0,Counting
+54,99,1,1,3,Counting,2,2,3,Counting
+55,100,0,0,1,Counting,2,2,1,Counting
+56,112,1,1,1,Counting,2,2,1,Counting
+57,113,0,0,0,Counting,1,1,0,Counting
+58,114,1,1,3,Counting,2,2,3,Counting
+59,115,4,4,0,Counting,2,2,0,Counting
+60,117,1,1,3,Counting,2,2,3,Counting
+61,119,1,1,0,Counting,2,2,0,Counting
+62,120,0,0,2,IQ Test,2,2,2,IQ Test
+63,121,0,0,3,IQ Test,2,2,3,IQ Test
+64,122,0,0,0,IQ Test,2,2,0,IQ Test
+65,123,0,0,3,IQ Test,2,2,3,IQ Test
+66,124,0,0,0,IQ Test,2,2,0,IQ Test
+67,125,3,3,3,IQ Test,2,2,3,IQ Test
+68,126,0,0,0,IQ Test,2,2,0,IQ Test
+69,127,0,0,1,IQ Test,2,2,1,IQ Test
+70,128,0,0,3,IQ Test,2,2,3,IQ Test
+71,129,0,0,1,IQ Test,2,2,1,IQ Test
+72,130,0,0,2,IQ Test,2,2,2,IQ Test
+73,131,0,0,3,IQ Test,2,2,3,IQ Test
+74,132,0,0,2,IQ Test,2,2,2,IQ Test
+75,133,0,0,2,IQ Test,2,2,2,IQ Test
+76,135,0,0,2,IQ Test,2,2,2,IQ Test
+77,137,0,0,3,IQ Test,2,2,3,IQ Test
+78,138,3,3,3,IQ Test,2,2,3,IQ Test
+79,140,0,0,1,IQ Test,2,2,1,IQ Test
+80,141,0,0,3,IQ Test,2,2,3,IQ Test
+81,142,3,3,3,IQ Test,2,2,3,IQ Test
+82,143,3,3,1,IQ Test,2,2,1,IQ Test
+83,144,0,0,0,IQ Test,2,2,0,IQ Test
+84,145,0,0,1,IQ Test,2,2,1,IQ Test
+85,147,0,0,0,IQ Test,2,2,0,IQ Test
+86,148,1,1,1,IQ Test,2,2,1,IQ Test
+87,149,0,0,2,IQ Test,2,2,2,IQ Test
+88,150,0,0,2,IQ Test,2,2,2,IQ Test
+89,151,0,0,2,IQ Test,2,2,2,IQ Test
+90,152,0,0,3,IQ Test,2,2,3,IQ Test
+91,157,0,0,3,IQ Test,2,2,3,IQ Test
+92,159,0,0,3,IQ Test,2,2,3,IQ Test
+93,161,0,0,3,IQ Test,2,2,3,IQ Test
+94,162,0,0,1,IQ Test,2,2,1,IQ Test
+95,163,3,3,2,IQ Test,2,2,2,IQ Test
+96,164,0,0,0,IQ Test,2,2,0,IQ Test
+97,165,0,0,1,IQ Test,2,2,1,IQ Test
+98,166,0,0,3,IQ Test,2,2,3,IQ Test
+99,167,1,1,1,IQ Test,2,2,1,IQ Test
+100,168,0,0,1,IQ Test,2,2,1,IQ Test
+101,170,0,0,1,IQ Test,2,2,1,IQ Test
+102,172,0,0,2,IQ Test,2,2,2,IQ Test
+103,173,0,0,2,IQ Test,2,2,2,IQ Test
+104,174,0,0,1,IQ Test,2,2,1,IQ Test
+105,175,0,0,1,IQ Test,2,2,1,IQ Test
+106,176,0,0,2,IQ Test,2,2,2,IQ Test
+107,177,0,0,0,IQ Test,2,2,0,IQ Test
+108,178,0,0,3,IQ Test,2,2,3,IQ Test
+109,182,0,0,1,IQ Test,2,2,1,IQ Test
+110,183,3,3,1,IQ Test,2,2,1,IQ Test
+111,185,0,0,0,IQ Test,2,2,0,IQ Test
+112,186,3,3,1,IQ Test,2,2,1,IQ Test
+113,188,0,0,1,IQ Test,2,2,1,IQ Test
+114,189,3,3,1,IQ Test,2,2,1,IQ Test
+115,190,0,0,2,IQ Test,2,2,2,IQ Test
+116,191,0,0,3,IQ Test,2,2,3,IQ Test
+117,193,1,1,2,IQ Test,2,2,2,IQ Test
+118,194,0,0,0,IQ Test,2,2,0,IQ Test
+119,196,3,3,1,IQ Test,2,2,1,IQ Test
+120,198,1,1,3,IQ Test,2,2,3,IQ Test
+121,200,0,0,3,IQ Test,2,2,3,IQ Test
+122,202,3,3,1,IQ Test,2,2,1,IQ Test
+123,203,0,0,1,IQ Test,2,2,1,IQ Test
+124,205,0,0,2,IQ Test,2,2,2,IQ Test
+125,207,0,0,2,IQ Test,2,2,2,IQ Test
+126,208,3,3,3,IQ Test,2,2,3,IQ Test
+127,209,3,3,0,IQ Test,2,2,0,IQ Test
+128,210,0,0,0,IQ Test,2,2,0,IQ Test
+129,211,0,0,2,IQ Test,2,2,2,IQ Test
+130,212,0,0,0,IQ Test,2,2,0,IQ Test
+131,213,0,0,1,IQ Test,2,2,1,IQ Test
+132,215,1,1,3,IQ Test,2,2,3,IQ Test
+133,216,1,1,3,IQ Test,2,2,3,IQ Test
+134,217,3,3,3,IQ Test,2,2,3,IQ Test
+135,218,0,0,1,IQ Test,2,2,1,IQ Test
+136,219,0,0,3,IQ Test,2,2,3,IQ Test
+137,220,0,0,3,IQ Test,2,2,3,IQ Test
+138,221,3,3,3,IQ Test,2,2,3,IQ Test
+139,222,3,3,0,IQ Test,2,2,0,IQ Test
+140,223,3,3,3,IQ Test,2,2,3,IQ Test
+141,224,3,3,2,IQ Test,2,2,2,IQ Test
+142,225,0,0,0,IQ Test,2,2,0,IQ Test
+143,226,3,3,0,IQ Test,2,2,0,IQ Test
+144,227,1,1,3,IQ Test,2,2,3,IQ Test
+145,228,1,1,1,IQ Test,2,2,1,IQ Test
+146,230,3,3,3,IQ Test,2,2,3,IQ Test
+147,232,1,1,3,IQ Test,2,2,3,IQ Test
+148,233,3,3,0,IQ Test,2,2,0,IQ Test
+149,234,3,3,2,IQ Test,2,2,2,IQ Test
+150,235,3,3,1,IQ Test,2,2,1,IQ Test
+151,236,1,1,2,IQ Test,2,2,2,IQ Test
+152,237,3,3,0,IQ Test,2,2,0,IQ Test
+153,238,0,0,2,IQ Test,2,2,2,IQ Test
+154,239,3,3,3,IQ Test,2,2,3,IQ Test
+155,240,0,0,3,IQ Test,2,2,3,IQ Test
+156,241,0,0,2,IQ Test,2,2,2,IQ Test
+157,242,1,1,3,IQ Test,2,2,3,IQ Test
+158,243,0,0,1,IQ Test,2,2,1,IQ Test
+159,244,3,3,0,IQ Test,2,2,0,IQ Test
+160,246,3,3,2,IQ Test,2,2,2,IQ Test
+161,247,0,0,2,IQ Test,2,2,2,IQ Test
+162,248,3,3,0,IQ Test,2,2,0,IQ Test
+163,249,3,3,3,IQ Test,2,2,3,IQ Test
+164,250,0,0,0,IQ Test,2,2,0,IQ Test
+165,251,0,0,2,IQ Test,2,2,2,IQ Test
+166,252,0,0,1,IQ Test,2,2,1,IQ Test
+167,254,3,3,1,IQ Test,2,2,1,IQ Test
+168,255,3,3,1,IQ Test,2,2,1,IQ Test
+169,256,0,0,2,IQ Test,2,2,2,IQ Test
+170,257,3,3,2,IQ Test,2,2,2,IQ Test
+171,259,0,0,2,IQ Test,2,2,2,IQ Test
+172,260,0,0,2,IQ Test,2,2,2,IQ Test
+173,261,0,0,1,IQ Test,2,2,1,IQ Test
+174,262,0,0,1,IQ Test,2,2,1,IQ Test
+175,263,0,0,2,IQ Test,2,2,2,IQ Test
+176,264,0,0,1,IQ Test,2,2,1,IQ Test
+177,265,0,0,3,IQ Test,2,2,3,IQ Test
+178,266,0,0,0,IQ Test,2,2,0,IQ Test
+179,267,0,0,2,IQ Test,2,2,2,IQ Test
+180,268,0,0,1,Object Localization,1,1,1,Object Localization
+181,270,0,0,0,Object Localization,1,1,0,Object Localization
+182,271,0,0,1,Object Localization,1,1,1,Object Localization
+183,272,0,0,0,Object Localization,1,1,0,Object Localization
+184,276,0,0,0,Object Localization,1,1,0,Object Localization
+185,278,0,0,1,Object Localization,1,1,1,Object Localization
+186,281,0,0,1,Object Localization,1,1,1,Object Localization
+187,282,0,0,1,Object Localization,1,1,1,Object Localization
+188,283,0,0,0,Object Localization,1,1,0,Object Localization
+189,287,0,0,0,Object Localization,1,1,0,Object Localization
+190,289,0,0,0,Object Localization,1,1,0,Object Localization
+191,299,0,0,1,Object Localization,1,1,1,Object Localization
+192,305,0,0,1,Object Localization,1,1,1,Object Localization
+193,306,0,0,1,Object Localization,1,1,1,Object Localization
+194,308,0,0,0,Object Localization,1,1,0,Object Localization
+195,310,0,0,0,Object Localization,1,1,0,Object Localization
+196,312,0,0,0,Object Localization,1,1,0,Object Localization
+197,320,0,0,1,Object Localization,1,1,1,Object Localization
+198,321,0,0,0,Object Localization,1,1,0,Object Localization
+199,334,0,0,0,Object Localization,1,1,0,Object Localization
+200,337,0,0,0,Object Localization,1,1,0,Object Localization
+201,341,0,0,1,Object Localization,1,1,1,Object Localization
+202,346,0,0,0,Object Localization,1,1,0,Object Localization
+203,348,0,0,1,Object Localization,1,1,1,Object Localization
+204,349,0,0,0,Object Localization,1,1,0,Object Localization
+205,351,0,0,1,Object Localization,1,1,1,Object Localization
+206,359,0,0,1,Object Localization,1,1,1,Object Localization
+207,366,0,0,0,Object Localization,1,1,0,Object Localization
+208,371,0,0,1,Object Localization,1,1,1,Object Localization
+209,377,0,0,0,Object Localization,1,1,0,Object Localization
+210,381,0,0,1,Object Localization,1,1,1,Object Localization
+211,382,0,0,1,Object Localization,1,1,1,Object Localization
+212,385,0,0,1,Object Localization,1,1,1,Object Localization
+213,388,0,0,0,Object Localization,1,1,0,Object Localization
+214,393,0,0,0,Relative Depth,1,1,0,Relative Depth
+215,394,0,0,0,Relative Depth,1,1,0,Relative Depth
+216,395,0,0,0,Relative Depth,1,1,0,Relative Depth
+217,396,0,0,0,Relative Depth,1,1,0,Relative Depth
+218,397,0,0,1,Relative Depth,1,1,1,Relative Depth
+219,399,0,0,0,Relative Depth,1,1,0,Relative Depth
+220,401,0,0,0,Relative Depth,1,1,0,Relative Depth
+221,403,0,0,0,Relative Depth,1,1,0,Relative Depth
+222,407,0,0,0,Relative Depth,1,1,0,Relative Depth
+223,408,0,0,1,Relative Depth,1,1,1,Relative Depth
+224,412,0,0,1,Relative Depth,1,1,1,Relative Depth
+225,413,0,0,0,Relative Depth,1,1,0,Relative Depth
+226,414,0,0,0,Relative Depth,1,1,0,Relative Depth
+227,415,0,0,0,Relative Depth,1,1,0,Relative Depth
+228,417,0,0,0,Relative Depth,1,1,0,Relative Depth
+229,418,0,0,0,Relative Depth,1,1,0,Relative Depth
+230,419,0,0,0,Relative Depth,1,1,0,Relative Depth
+231,420,0,0,0,Relative Depth,1,1,0,Relative Depth
+232,422,0,0,1,Relative Depth,1,1,1,Relative Depth
+233,423,0,0,0,Relative Depth,1,1,0,Relative Depth
+234,424,0,0,0,Relative Depth,1,1,0,Relative Depth
+235,426,0,0,0,Relative Depth,1,1,0,Relative Depth
+236,428,0,0,0,Relative Depth,1,1,0,Relative Depth
+237,429,0,0,0,Relative Depth,1,1,0,Relative Depth
+238,431,0,0,0,Relative Depth,1,1,0,Relative Depth
+239,435,0,0,0,Relative Depth,1,1,0,Relative Depth
+240,436,0,0,1,Relative Depth,1,1,1,Relative Depth
+241,439,0,0,1,Relative Depth,1,1,1,Relative Depth
+242,440,0,0,1,Relative Depth,1,1,1,Relative Depth
+243,441,0,0,0,Relative Depth,1,1,0,Relative Depth
+244,442,0,0,1,Relative Depth,1,1,1,Relative Depth
+245,443,0,0,0,Relative Depth,1,1,0,Relative Depth
+246,444,0,0,1,Relative Depth,1,1,1,Relative Depth
+247,445,0,0,1,Relative Depth,1,1,1,Relative Depth
+248,448,0,0,1,Relative Depth,1,1,1,Relative Depth
+249,450,0,0,0,Relative Depth,1,1,0,Relative Depth
+250,453,0,0,0,Relative Depth,1,1,0,Relative Depth
+251,454,0,0,0,Relative Depth,1,1,0,Relative Depth
+252,455,0,0,0,Relative Depth,1,1,0,Relative Depth
+253,458,0,0,0,Relative Depth,1,1,0,Relative Depth
+254,461,0,0,0,Relative Depth,1,1,0,Relative Depth
+255,462,0,0,0,Relative Depth,1,1,0,Relative Depth
+256,463,0,0,0,Relative Depth,1,1,0,Relative Depth
+257,465,0,0,1,Relative Depth,1,1,1,Relative Depth
+258,466,0,0,1,Relative Depth,1,1,1,Relative Depth
+259,468,0,0,1,Relative Depth,1,1,1,Relative Depth
+260,471,0,0,0,Relative Depth,1,1,0,Relative Depth
+261,473,0,0,0,Relative Depth,1,1,0,Relative Depth
+262,474,0,0,1,Relative Depth,1,1,1,Relative Depth
+263,476,0,0,0,Relative Depth,1,1,0,Relative Depth
+264,480,0,0,0,Relative Depth,1,1,0,Relative Depth
+265,482,0,0,0,Relative Depth,1,1,0,Relative Depth
+266,485,0,0,0,Relative Depth,1,1,0,Relative Depth
+267,486,0,0,0,Relative Depth,1,1,0,Relative Depth
+268,487,0,0,1,Relative Depth,1,1,1,Relative Depth
+269,488,0,0,0,Relative Depth,1,1,0,Relative Depth
+270,489,0,0,0,Relative Depth,1,1,0,Relative Depth
+271,490,0,0,0,Relative Depth,1,1,0,Relative Depth
+272,491,0,0,1,Relative Depth,1,1,1,Relative Depth
+273,496,0,0,0,Relative Depth,1,1,0,Relative Depth
+274,498,0,0,1,Relative Depth,1,1,1,Relative Depth
+275,499,0,0,0,Relative Depth,1,1,0,Relative Depth
+276,500,0,0,0,Relative Depth,1,1,0,Relative Depth
+277,502,0,0,0,Relative Depth,1,1,0,Relative Depth
+278,504,0,0,0,Relative Depth,1,1,0,Relative Depth
+279,506,0,0,0,Relative Depth,1,1,0,Relative Depth
+280,509,0,0,0,Relative Depth,1,1,0,Relative Depth
+281,511,0,0,0,Relative Depth,1,1,0,Relative Depth
+282,513,0,0,0,Relative Depth,1,1,0,Relative Depth
+283,515,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+284,517,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+285,520,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+286,524,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+287,529,2,2,2,Relative Reflectance,1,1,2,Relative Reflectance
+288,530,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+289,531,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+290,532,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+291,535,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+292,537,2,2,0,Relative Reflectance,1,1,0,Relative Reflectance
+293,539,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+294,541,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+295,546,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+296,547,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+297,548,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+298,549,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+299,550,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+300,553,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+301,554,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+302,555,2,2,1,Relative Reflectance,1,1,1,Relative Reflectance
+303,556,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+304,558,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+305,565,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+306,566,2,2,2,Relative Reflectance,1,1,2,Relative Reflectance
+307,570,2,2,1,Relative Reflectance,1,1,1,Relative Reflectance
+308,571,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+309,575,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+310,580,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+311,582,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+312,583,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+313,584,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+314,593,2,2,1,Relative Reflectance,1,1,1,Relative Reflectance
+315,596,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+316,598,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+317,604,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+318,606,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+319,613,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+320,616,2,2,1,Relative Reflectance,1,1,1,Relative Reflectance
+321,617,2,2,0,Relative Reflectance,1,1,0,Relative Reflectance
+322,619,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+323,624,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+324,632,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+325,633,0,0,1,Relative Reflectance,1,1,1,Relative Reflectance
+326,634,2,2,1,Relative Reflectance,1,1,1,Relative Reflectance
+327,635,2,2,2,Relative Reflectance,1,1,2,Relative Reflectance
+328,637,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+329,639,0,0,2,Relative Reflectance,1,1,2,Relative Reflectance
+330,642,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+331,643,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+332,646,0,0,0,Relative Reflectance,1,1,0,Relative Reflectance
+333,649,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+334,650,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+335,651,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+336,652,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+337,654,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+338,655,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+339,656,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+340,657,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+341,660,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+342,661,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+343,662,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+344,665,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+345,668,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+346,669,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+347,670,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+348,671,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+349,672,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+350,675,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+351,676,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+352,677,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+353,680,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+354,681,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+355,683,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+356,685,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+357,686,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+358,688,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+359,689,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+360,690,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+361,691,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+362,692,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+363,696,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+364,698,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+365,700,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+366,702,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+367,703,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+368,704,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+369,706,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+370,707,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+371,709,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+372,710,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+373,713,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+374,714,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+375,717,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+376,718,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+377,719,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+378,720,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+379,723,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+380,725,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+381,728,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+382,730,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+383,732,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+384,733,1,1,1,Spatial Relation,0,0,1,Spatial Relation
+385,740,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+386,742,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+387,744,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+388,745,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+389,746,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+390,749,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+391,750,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+392,752,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+393,753,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+394,754,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+395,756,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+396,757,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+397,758,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+398,760,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+399,761,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+400,762,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+401,763,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+402,767,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+403,771,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+404,772,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+405,775,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+406,778,1,1,0,Spatial Relation,0,0,0,Spatial Relation
+407,780,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+408,781,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+409,782,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+410,783,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+411,785,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+412,787,0,0,0,Spatial Relation,1,1,0,Spatial Relation
+413,789,0,0,1,Spatial Relation,1,1,1,Spatial Relation
+414,790,0,0,1,Spatial Relation,1,1,1,Spatial Relation

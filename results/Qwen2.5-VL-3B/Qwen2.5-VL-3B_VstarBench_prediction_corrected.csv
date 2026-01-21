@@ -1,0 +1,1427 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,1,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+1,3,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+2,9,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+3,10,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+4,15,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+5,16,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+6,24,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+7,26,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+8,29,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+9,31,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+10,36,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+11,39,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+12,44,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+13,49,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+14,53,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+15,57,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+16,61,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+17,65,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+18,66,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+19,67,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+20,74,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+21,81,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the guard's glove?
+0 black
+1 white
+2 blue
+3 brown
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the guard's glove?
+0 black
+1 white
+2 blue
+3 brown
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,89,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+23,92,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+24,106,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+25,109,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+26,111,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+27,114,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+28,115,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+29,116,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+30,117,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the soccer ball on the left or right side of the water dispenser?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the soccer ball on the left or right side of the water dispenser?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+31,118,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+32,119,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+33,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+34,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+35,127,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+36,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+37,132,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+38,133,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+39,135,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the suitcase on the left or right side of the river?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the suitcase on the left or right side of the river?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+40,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+41,146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+42,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+43,148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+44,149,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wheelchair on the left or right side of the lamp post?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wheelchair on the left or right side of the lamp post?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+45,153,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+46,154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+47,155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+48,156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+49,157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+50,160,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+51,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+52,163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+53,165,Skipped,1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position

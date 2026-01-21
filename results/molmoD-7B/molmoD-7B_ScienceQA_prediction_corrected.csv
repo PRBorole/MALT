@@ -1,0 +1,858 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,1, 1,1,1,grade5,0,0,1,grade5
+1,3, 0,0,1,grade8,3,3,1,grade8
+2,5, 0,0,2,grade8,1,1,2,grade8
+3,10, 0,0,0,grade3,1,1,0,grade3
+4,15, 3,3,3,grade5,0,0,3,grade5
+5,18, 0,0,1,grade3,1,1,1,grade3
+6,19, 0,0,0,grade3,1,1,0,grade3
+7,26, 0,0,0,grade5,1,1,0,grade5
+8,28, 0,0,0,grade8,2,2,0,grade8
+9,32, 0,0,2,grade7,2,2,2,grade7
+10,34, 0,0,0,grade7,1,1,0,grade7
+11,41, 0,0,0,grade3,1,1,0,grade3
+12,42, 3,3,3,grade8,2,2,3,grade8
+13,44, 0,0,1,grade5,1,1,1,grade5
+14,45, 0,0,1,grade8,1,1,1,grade8
+15,46, 1,1,1,grade3,0,0,1,grade3
+16,51, 2,2,2,grade2,1,1,2,grade2
+17,53, 2,2,2,grade6,1,1,2,grade6
+18,56, 0,0,1,grade3,1,1,1,grade3
+19,59, 4,4,2,grade8,0,0,2,grade8
+20,70, 2,2,2,grade8,0,0,2,grade8
+21,71, 0,0,0,grade4,1,1,0,grade4
+22,81, 2,2,3,grade4,0,0,3,grade4
+23,82, 2,2,2,grade4,1,1,2,grade4
+24,85, 1,1,1,grade2,0,0,1,grade2
+25,88," To determine which sample has the higher temperature, I'll compare the average kinetic energies:
+
+1. Calculate kinetic energy for Sample A:
+   Mass (m) = 40 u
+   Speed (v) = 950 m/s
+",50,1,grade6,1,1,1,grade6
+26,98, 0,0,0,grade4,1,1,0,grade4
+27,99, 0,0,0,grade6,1,1,0,grade6
+28,100," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 44 u (atomic mass units)
+",50,1,grade7,1,1,1,grade7
+29,109, 1,1,2,grade7,2,2,2,grade7
+30,110," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 17 u
+Average speed =",50,1,grade6,1,1,1,grade6
+31,116, 1,1,1,grade3,2,2,1,grade3
+32,118, 1,1,1,grade3,0,0,1,grade3
+33,119, 1,1,1,grade7,2,2,1,grade7
+34,120," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For both samples:
+Mass of each particle = 26 u (for Sample A)",50,2,grade6,1,1,2,grade6
+35,121, 1,1,0,grade4,0,0,0,grade4
+36,128, 1,1,1,grade3,3,3,1,grade3
+37,129, 1,1,1,grade6,2,2,1,grade6
+38,131, 1,1,1,grade4,2,2,1,grade4
+39,141, 1,1,1,grade7,2,2,1,grade7
+40,142, 1,1,1,grade7,2,2,1,grade7
+41,143, 1,1,1,grade3,2,2,1,grade3
+42,146, 2,2,2,grade3,1,1,2,grade3
+43,147, 0,0,0,grade5,1,1,0,grade5
+44,150, 2,2,2,grade6,1,1,2,grade6
+45,154, 0,0,0,grade8,1,1,0,grade8
+46,156, 2,2,2,grade4,0,0,2,grade4
+47,160, 2,2,1,grade7,1,1,1,grade7
+48,161, 3,3,1,grade8,1,1,1,grade8
+49,162, 3,3,2,grade4,2,2,2,grade4
+50,164, 0,0,0,grade2,1,1,0,grade2
+51,166, 1,1,1,grade8,2,2,1,grade8
+52,167, 2,2,1,grade8,1,1,1,grade8
+53,171, 0,0,0,grade5,2,2,0,grade5
+54,174, 1,1,1,grade3,0,0,1,grade3
+55,178, 0,0,1,grade4,1,1,1,grade4
+56,179, 0,0,3,grade5,1,1,3,grade5
+57,181, 3,3,3,grade5,2,2,3,grade5
+58,183, 2,2,2,grade6,1,1,2,grade6
+59,192, 1,1,1,grade7,0,0,1,grade7
+60,193, 1,1,1,grade4,2,2,1,grade4
+61,195, 1,1,1,grade8,2,2,1,grade8
+62,196, 0,0,0,grade5,1,1,0,grade5
+63,197, 1,1,1,grade4,0,0,1,grade4
+64,201, 2,2,2,grade4,1,1,2,grade4
+65,202, 2,2,2,grade3,1,1,2,grade3
+66,203, 0,0,0,grade6,1,1,0,grade6
+67,205, 0,0,1,grade6,1,1,1,grade6
+68,206, 1,1,1,grade2,0,0,1,grade2
+69,207, 0,0,0,grade7,1,1,0,grade7
+70,208, 2,2,2,grade8,1,1,2,grade8
+71,209, 0,0,0,grade7,1,1,0,grade7
+72,211, 0,0,0,grade2,1,1,0,grade2
+73,222, 2,2,0,grade8,3,3,0,grade8
+74,237, 3,3,3,grade8,2,2,3,grade8
+75,239," To answer this question, I need to:
+1. Count the total number of planets in our solar system
+2. Count how many planets are larger than Venus
+3. Compare the two numbers
+
+In our solar system, there are 8 planets",50,0,grade6,0,0,0,grade6
+76,241, 1,1,1,grade2,0,0,1,grade2
+77,245, 0,0,1,grade8,1,1,1,grade8
+78,248, 0,0,0,grade2,1,1,0,grade2
+79,250, 1,1,1,grade6,0,0,1,grade6
+80,254, 1,1,1,grade3,0,0,1,grade3
+81,256, 1,1,0,grade6,0,0,0,grade6
+82,259, 2,2,2,grade4,1,1,2,grade4
+83,263, 1,1,1,grade4,0,0,1,grade4
+84,269, 2,2,2,grade3,0,0,2,grade3
+85,273, 1,1,1,grade5,0,0,1,grade5
+86,275, 2,2,2,grade7,1,1,2,grade7
+87,276, 3,3,3,grade7,2,2,3,grade7
+88,282, 2,2,2,grade6,1,1,2,grade6
+89,283, 1,1,1,grade5,2,2,1,grade5
+90,287, 1,1,1,grade5,2,2,1,grade5
+91,288," To determine which sample has the higher temperature, we need to consider the relationship between mass and kinetic energy. Both samples have particles with the same mass (17 u) and average speed (2000 m/s). 
+
+In physics, kinetic",50,0,grade8,1,1,0,grade8
+92,291, 0,0,0,grade2,1,1,0,grade2
+93,297, 0,0,0,grade4,1,1,0,grade4
+94,301, 0,0,0,grade5,2,2,0,grade5
+95,302, 2,2,0,grade5,1,1,0,grade5
+96,304, 1,1,1,grade7,2,2,1,grade7
+97,307, 0,0,0,grade7,2,2,0,grade7
+98,312, 0,0,0,grade2,1,1,0,grade2
+99,318, 1,1,1,grade3,0,0,1,grade3
+100,320, 1,1,1,grade8,2,2,1,grade8
+101,322, 3,3,1,grade4,2,2,1,grade4
+102,323, 1,1,1,grade2,0,0,1,grade2
+103,326, 1,1,1,grade3,0,0,1,grade3
+104,332, 1,1,1,grade3,0,0,1,grade3
+105,335, 3,3,3,grade3,2,2,3,grade3
+106,342, 2,2,2,grade6,0,0,2,grade6
+107,343, 0,0,0,grade8,1,1,0,grade8
+108,345," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 30 u
+Average particle speed =",50,0,grade8,1,1,0,grade8
+109,347, 0,0,0,grade7,1,1,0,grade7
+110,349, 3,3,3,grade7,2,2,3,grade7
+111,352, 0,0,0,grade5,2,2,0,grade5
+112,359, 2,2,2,grade3,1,1,2,grade3
+113,362, 1,1,1,grade3,0,0,1,grade3
+114,367, 1,1,2,grade4,2,2,2,grade4
+115,369, 2,2,2,grade8,0,0,2,grade8
+116,372, 1,1,1,grade4,0,0,1,grade4
+117,374, 2,2,2,grade6,1,1,2,grade6
+118,377, 0,0,0,grade8,1,1,0,grade8
+119,383, 3,3,3,grade8,0,0,3,grade8
+120,388, 0,0,1,grade7,1,1,1,grade7
+121,394, 0,0,0,grade3,1,1,0,grade3
+122,395, 0,0,1,grade4,1,1,1,grade4
+123,401, 0,0,0,grade8,1,1,0,grade8
+124,402, 1,1,1,grade8,2,2,1,grade8
+125,404, 3,3,3,grade8,2,2,3,grade8
+126,405, 1,1,1,grade3,0,0,1,grade3
+127,406, 1,1,1,grade7,0,0,1,grade7
+128,412, 0,0,0,grade4,1,1,0,grade4
+129,414, 0,0,4,grade7,1,1,4,grade7
+130,415, 1,1,1,grade2,0,0,1,grade2
+131,418," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 28 u
+Average speed =",50,0,grade6,1,1,0,grade6
+132,419, 1,1,1,grade8,3,3,1,grade8
+133,420, 1,1,1,grade3,0,0,1,grade3
+134,421, 0,0,0,grade6,1,1,0,grade6
+135,422, 0,0,0,grade7,1,1,0,grade7
+136,424, 0,0,1,grade8,1,1,1,grade8
+137,426, 0,0,1,grade3,1,1,1,grade3
+138,429, 0,0,2,grade12,2,2,2,grade12
+139,432, 0,0,0,grade3,1,1,0,grade3
+140,437, 1,1,1,grade3,2,2,1,grade3
+141,441, 0,0,0,grade3,1,1,0,grade3
+142,442, 3,3,3,grade8,0,0,3,grade8
+143,444," To compare the average kinetic energies, I'll use the formula: KE = (1/2) * m * v^2
+
+For Sample A:
+Mass (m) = 28 u
+Speed (v) = 760",50,2,grade6,1,1,2,grade6
+144,445, 1,1,1,grade7,0,0,1,grade7
+145,447, 1,1,1,grade4,0,0,1,grade4
+146,448, 1,1,1,grade7,2,2,1,grade7
+147,450, 1,1,1,grade8,2,2,1,grade8
+148,460, 3,3,3,grade8,0,0,3,grade8
+149,462, 0,0,2,grade8,1,1,2,grade8
+150,463, 0,0,0,grade6,2,2,0,grade6
+151,464, 0,0,0,grade3,1,1,0,grade3
+152,465, 0,0,0,grade6,3,3,0,grade6
+153,468, 1,1,1,grade5,0,0,1,grade5
+154,472, 2,2,2,grade7,1,1,2,grade7
+155,473, 3,3,3,grade4,2,2,3,grade4
+156,479, 1,1,1,grade8,0,0,1,grade8
+157,491, 0,0,0,grade5,1,1,0,grade5
+158,495, 0,0,0,grade5,2,2,0,grade5
+159,498, 1,1,1,grade7,2,2,1,grade7
+160,499, 2,2,2,grade5,0,0,2,grade5
+161,500, 3,3,3,grade7,2,2,3,grade7
+162,509, 2,2,2,grade5,1,1,2,grade5
+163,516, 2,2,2,grade7,0,0,2,grade7
+164,520, 0,0,0,grade6,2,2,0,grade6
+165,521, 0,0,2,grade7,2,2,2,grade7
+166,529, 1,1,1,grade7,0,0,1,grade7
+167,533, 0,0,0,grade2,1,1,0,grade2
+168,534, 0,0,0,grade7,2,2,0,grade7
+169,535, 2,2,2,grade8,3,3,2,grade8
+170,540, 2,2,2,grade3,1,1,2,grade3
+171,542, 0,0,0,grade2,1,1,0,grade2
+172,544, 1,1,0,grade6,0,0,0,grade6
+173,546, 0,0,0,grade6,1,1,0,grade6
+174,554, 3,3,3,grade7,1,1,3,grade7
+175,555, 0,0,0,grade5,2,2,0,grade5
+176,556, 0,0,1,grade8,1,1,1,grade8
+177,560, 0,0,0,grade5,2,2,0,grade5
+178,561," To answer this question, I need to:
+1. Count the total number of planets in the solar system
+2. Count the number of rocky planets
+3. Calculate the percentage of rocky planets
+4. Compare this percentage to 75%
+
+",50,1,grade7,0,0,1,grade7
+179,562," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to the average kinetic energy of its particles.
+
+For Sample A:
+Mass of each particle = 40 u
+Average",50,0,grade6,1,1,0,grade6
+180,565, 3,3,3,grade8,0,0,3,grade8
+181,567, 0,0,0,grade6,1,1,0,grade6
+182,572, 0,0,0,grade4,1,1,0,grade4
+183,575," To determine which sample has the higher temperature, I'll compare the masses of the particles in each sample:
+
+Sample A: 46 u (unspecified unit)
+Sample B: 34 u
+
+The temperature of a system is directly related to",50,0,grade6,1,1,0,grade6
+184,581, 0,0,0,grade7,2,2,0,grade7
+185,583, 2,2,2,grade4,1,1,2,grade4
+186,584, 0,0,0,grade5,1,1,0,grade5
+187,585, 1,1,1,grade6,0,0,1,grade6
+188,588," To answer this question, I need to:
+1. Count the total number of planets in the solar system
+2. Count how many planets are made of gas or ice
+3. Compare these numbers
+
+The solar system has 8 planets total.
+",50,1,grade6,1,1,1,grade6
+189,593, 1,1,1,grade6,0,0,1,grade6
+190,596, 0,0,0,grade8,1,1,0,grade8
+191,605, 0,0,0,grade8,1,1,0,grade8
+192,606, 1,1,1,grade5,2,2,1,grade5
+193,608, 0,0,2,grade8,2,2,2,grade8
+194,613, 1,1,1,grade6,0,0,1,grade6
+195,617, 1,1,1,grade4,0,0,1,grade4
+196,630, 0,0,0,grade6,1,1,0,grade6
+197,639," To determine which sample has the higher temperature, I'll compare the masses of the particles in each sample:
+
+Sample A: 44 u (unspecified unit)
+Sample B: 26 u
+
+The temperature of a system is directly related to",50,2,grade7,1,1,2,grade7
+198,642, 0,0,1,grade6,1,1,1,grade6
+199,645, 0,0,0,grade4,1,1,0,grade4
+200,647, 3,3,3,grade7,2,2,3,grade7
+201,653, 3,3,3,grade4,1,1,3,grade4
+202,666," To compare the average kinetic energies, I'll use the formula: KE = (1/2) * m * v^2
+
+For Sample A:
+Mass (m) = 46 u
+Speed (v) = 880",50,2,grade7,1,1,2,grade7
+203,670, 0,0,3,grade4,3,3,3,grade4
+204,672, 1,1,1,grade6,0,0,1,grade6
+205,678, 0,0,1,grade3,1,1,1,grade3
+206,681, 0,0,0,grade5,2,2,0,grade5
+207,683, 1,1,1,grade7,0,0,1,grade7
+208,684," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 28 u
+Average speed =",50,1,grade6,1,1,1,grade6
+209,692, 0,0,1,grade7,1,1,1,grade7
+210,694, 1,1,1,grade5,0,0,1,grade5
+211,695, 0,0,2,grade8,1,1,2,grade8
+212,703, 3,3,2,grade5,2,2,2,grade5
+213,705," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The kinetic energy of a particle is directly related to its mass and speed. 
+
+For Sample A:
+Mass of each particle = 32 u
+Average speed",50,2,grade6,1,1,2,grade6
+214,707, 1,1,0,grade4,0,0,0,grade4
+215,710, 1,1,1,grade7,0,0,1,grade7
+216,716, 1,1,1,grade3,2,2,1,grade3
+217,717, 1,1,0,grade7,0,0,0,grade7
+218,722, 2,2,2,grade3,0,0,2,grade3
+219,726," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 36 u
+Average speed =",50,1,grade8,1,1,1,grade8
+220,727, 1,1,1,grade2,0,0,1,grade2
+221,728, 1,1,1,grade5,2,2,1,grade5
+222,734, 1,1,0,grade6,0,0,0,grade6
+223,738, 1,1,1,grade7,2,2,1,grade7
+224,740, 2,2,2,grade5,1,1,2,grade5
+225,745, 0,0,2,grade7,1,1,2,grade7
+226,749, 0,0,0,grade7,2,2,0,grade7
+227,753, 1,1,1,grade6,0,0,1,grade6
+228,760, 0,0,0,grade3,1,1,0,grade3
+229,763, 0,0,0,grade6,1,1,0,grade6
+230,765," To answer this question, I need to:
+1. Count the total number of planets in the solar system
+2. Count the number of rocky planets
+3. Calculate the percentage of rocky planets
+4. Compare this percentage to 75%
+
+",50,0,grade7,0,0,0,grade7
+231,767, 1,1,1,grade6,0,0,1,grade6
+232,768, 1,1,1,grade7,0,0,1,grade7
+233,770, 1,1,1,grade3,0,0,1,grade3
+234,771, 0,0,0,grade8,1,1,0,grade8
+235,774," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to the average kinetic energy of its particles.
+
+For Sample A:
+Mass of each particle = 32 u
+Average",50,1,grade7,1,1,1,grade7
+236,776, 1,1,1,grade7,2,2,1,grade7
+237,783, 0,0,0,grade7,1,1,0,grade7
+238,785, 2,2,1,grade6,1,1,1,grade6
+239,791, 0,0,0,grade5,1,1,0,grade5
+240,796, 1,1,1,grade3,2,2,1,grade3
+241,797, 1,1,1,grade8,2,2,1,grade8
+242,803, 0,0,0,grade6,1,1,0,grade6
+243,804, 3,3,3,grade6,0,0,3,grade6
+244,805, 0,0,0,grade8,1,1,0,grade8
+245,806," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The key information provided is the mass of each particle, which is 46 micrograms (μg) for both samples.
+
+For both samples:
+Mass (",50,1,grade7,2,2,1,grade7
+246,808, 0,0,0,grade4,2,2,0,grade4
+247,809, 2,2,2,grade7,1,1,2,grade7
+248,811, 1,1,1,grade7,0,0,1,grade7
+249,813, 0,0,0,grade2,1,1,0,grade2
+250,814, 3,3,3,grade6,2,2,3,grade6
+251,815, 2,2,2,grade8,1,1,2,grade8
+252,817, 2,2,2,grade6,0,0,2,grade6
+253,819, 1,1,1,grade8,2,2,1,grade8
+254,830," To determine which sample has the higher temperature, I'll compare the average kinetic energies:
+
+1. Calculate kinetic energy for Sample A:
+   Mass = 26 u (assuming atomic mass units)
+   Speed = 410 m/s
+  ",50,1,grade7,1,1,1,grade7
+255,833, 3,3,3,grade4,0,0,3,grade4
+256,834, 1,1,1,grade5,2,2,1,grade5
+257,837, 1,1,2,grade8,0,0,2,grade8
+258,838, 1,1,1,grade3,0,0,1,grade3
+259,845, 0,0,0,grade4,1,1,0,grade4
+260,847, 1,1,1,grade3,0,0,1,grade3
+261,857, 1,1,1,grade6,0,0,1,grade6
+262,858, 1,1,1,grade7,2,2,1,grade7
+263,863," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The key factor here is the mass of each particle.
+
+For Sample A:
+Mass of each particle = 28 u ( micrograms )
+Average particle speed =",50,0,grade6,1,1,0,grade6
+264,869," To compare the average kinetic energies, I'll use the formula: KE = (1/2) * m * v^2
+
+For Sample A:
+Mass (m) = 46 u
+Speed (v) = 700",50,1,grade8,1,1,1,grade8
+265,871, 2,2,1,grade8,1,1,1,grade8
+266,874," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 32 u
+Average speed =",50,1,grade7,1,1,1,grade7
+267,881, 1,1,1,grade5,0,0,1,grade5
+268,886, 0,0,0,grade7,2,2,0,grade7
+269,889, 0,0,0,grade3,2,2,0,grade3
+270,891, 2,2,2,grade4,1,1,2,grade4
+271,893," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 34 u
+Average speed =",50,0,grade6,1,1,0,grade6
+272,897, 3,3,3,grade6,1,1,3,grade6
+273,898, 0,0,0,grade5,2,2,0,grade5
+274,899, 1,1,1,grade5,2,2,1,grade5
+275,905, 0,0,0,grade4,2,2,0,grade4
+276,907, 2,2,2,grade3,1,1,2,grade3
+277,908, 1,1,1,grade5,2,2,1,grade5
+278,909, 1,1,1,grade5,2,2,1,grade5
+279,913, 2,2,2,grade5,0,0,2,grade5
+280,915, 3,3,3,grade7,2,2,3,grade7
+281,916, 1,1,1,grade7,0,0,1,grade7
+282,917, 0,0,0,grade7,3,3,0,grade7
+283,922, 0,0,0,grade4,2,2,0,grade4
+284,923," To answer this question, I need to:
+1. Count the number of ice planets (Uranus and Neptune)
+2. Count the number of rocky planets (Mercury, Venus, Earth, Mars)
+3. Compare these numbers
+
+There are",50,0,grade6,0,0,0,grade6
+285,924, 2,2,2,grade7,1,1,2,grade7
+286,927, 0,0,0,grade3,1,1,0,grade3
+287,928," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 46 u (atomic mass units)
+",50,2,grade6,1,1,2,grade6
+288,930," To answer this question, I need to compare the volumes of Uranus and Neptune as shown in the chart. 
+
+Uranus is listed as having a volume of 6.83 x 10^13 km³
+Neptune",50,1,grade8,0,0,1,grade8
+289,934, 0,0,0,grade6,1,1,0,grade6
+290,938, 0,0,0,grade6,1,1,0,grade6
+291,940, 2,2,2,grade4,1,1,2,grade4
+292,941, 1,1,1,grade2,0,0,1,grade2
+293,943," To answer this question, I need to:
+1. Count the total number of planets in the solar system
+2. Count how many planets are made of gas or ice
+3. Compare these numbers
+
+The solar system has 8 planets total.
+",50,0,grade6,1,1,0,grade6
+294,944, 0,0,2,grade5,1,1,2,grade5
+295,948, 0,0,0,grade7,1,1,0,grade7
+296,950, 0,0,0,grade7,1,1,0,grade7
+297,951, 1,1,4,grade8,2,2,4,grade8
+298,953, 3,3,3,grade7,1,1,3,grade7
+299,956, 0,0,0,grade7,1,1,0,grade7
+300,960, 1,1,1,grade6,2,2,1,grade6
+301,961, 0,0,0,grade7,1,1,0,grade7
+302,962, 1,1,0,grade8,0,0,0,grade8
+303,965, 0,0,1,grade6,1,1,1,grade6
+304,966, 0,0,2,grade8,1,1,2,grade8
+305,968, 3,3,3,grade5,1,1,3,grade5
+306,971, 0,0,2,grade6,1,1,2,grade6
+307,974, 0,0,0,grade6,1,1,0,grade6
+308,976, 0,0,0,grade2,1,1,0,grade2
+309,977, 0,0,0,grade7,1,1,0,grade7
+310,979, 0,0,0,grade8,1,1,0,grade8
+311,981, 2,2,2,grade7,0,0,2,grade7
+312,983, 1,1,2,grade8,2,2,2,grade8
+313,991, 0,0,0,grade7,2,2,0,grade7
+314,992, 0,0,0,grade8,2,2,0,grade8
+315,994, 3,3,3,grade5,0,0,3,grade5
+316,996, 0,0,3,grade8,3,3,3,grade8
+317,998," To answer this question, I need to compare the volumes of Saturn and Uranus as shown in the chart. The chart indicates that Saturn's volume is 8.27 x 10^14 km³, while Uranus's volume",50,1,grade8,1,1,1,grade8
+318,999, 0,0,0,grade8,1,1,0,grade8
+319,1000, 0,0,0,grade8,2,2,0,grade8
+320,1001, 0,0,0,grade4,2,2,0,grade4
+321,1002, 0,0,0,grade5,1,1,0,grade5
+322,1005, 0,0,2,grade8,1,1,2,grade8
+323,1006, 2,2,2,grade7,1,1,2,grade7
+324,1010, 3,3,3,grade3,0,0,3,grade3
+325,1011, 2,2,2,grade5,0,0,2,grade5
+326,1012, 0,0,0,grade2,1,1,0,grade2
+327,1015, 0,0,0,grade6,1,1,0,grade6
+328,1016, 0,0,2,grade6,1,1,2,grade6
+329,1021, 3,3,3,grade7,1,1,3,grade7
+330,1024, 3,3,1,grade4,1,1,1,grade4
+331,1025, 1,1,1,grade4,2,2,1,grade4
+332,1027, 3,3,3,grade8,0,0,3,grade8
+333,1030, 0,0,0,grade7,1,1,0,grade7
+334,1032, 0,0,0,grade7,1,1,0,grade7
+335,1033, 0,0,0,grade4,1,1,0,grade4
+336,1036, 1,1,1,grade6,0,0,1,grade6
+337,1037, 3,3,3,grade5,2,2,3,grade5
+338,1043, 1,1,1,grade7,0,0,1,grade7
+339,1045, 1,1,1,grade4,0,0,1,grade4
+340,1046," To answer this question, I need to compare the volumes of Neptune and Uranus in the solar system. Looking at the data provided:
+
+Neptune's volume: 62,530 billion km³
+Uranus's volume: ",50,0,grade6,0,0,0,grade6
+341,1047, 0,0,0,grade5,1,1,0,grade5
+342,1049, 1,1,1,grade8,0,0,1,grade8
+343,1055, 3,3,3,grade8,1,1,3,grade8
+344,1058, 0,0,0,grade7,1,1,0,grade7
+345,1060, 0,0,0,grade2,1,1,0,grade2
+346,1061, 2,2,2,grade4,1,1,2,grade4
+347,1062, 1,1,1,grade5,0,0,1,grade5
+348,1063, 2,2,0,grade5,1,1,0,grade5
+349,1065, 2,2,2,grade4,0,0,2,grade4
+350,1066, 1,1,1,grade3,0,0,1,grade3
+351,1068, 0,0,0,grade3,1,1,0,grade3
+352,1072, 0,0,1,grade2,1,1,1,grade2
+353,1077, 1,1,1,grade4,0,0,1,grade4
+354,1079," To determine which sample has the higher temperature, I'll compare the average kinetic energies:
+
+1. Calculate kinetic energy for Sample A:
+   KE_A = (1/2) * m_A * v_A^2
+   KE_A = (1",50,2,grade7,1,1,2,grade7
+355,1082, 2,2,2,grade6,1,1,2,grade6
+356,1084, 0,0,0,grade3,2,2,0,grade3
+357,1087," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The key information provided is the mass of each particle, which is 44 u (likely atomic mass units).
+
+For both samples, we can use the formula",50,2,grade8,1,1,2,grade8
+358,1088, 0,0,1,grade8,1,1,1,grade8
+359,1093, 0,0,0,grade4,1,1,0,grade4
+360,1096," To answer this question, I need to compare the volumes of Neptune and Uranus in the solar system. Looking at the data provided:
+
+Neptune's volume: 62,530 billion km³
+Uranus's volume: ",50,0,grade6,0,0,0,grade6
+361,1097, 0,0,0,grade6,1,1,0,grade6
+362,1101, 0,0,0,grade3,2,2,0,grade3
+363,1116, 0,0,0,grade3,1,1,0,grade3
+364,1118, 2,2,2,grade8,1,1,2,grade8
+365,1121, 1,1,1,grade8,0,0,1,grade8
+366,1123, 1,1,1,grade4,3,3,1,grade4
+367,1125, 1,1,1,grade4,0,0,1,grade4
+368,1126, 0,0,0,grade5,2,2,0,grade5
+369,1127, 0,0,1,grade8,1,1,1,grade8
+370,1128, 0,0,0,grade7,2,2,0,grade7
+371,1130, 0,0,0,grade7,1,1,0,grade7
+372,1133, 0,0,2,grade7,1,1,2,grade7
+373,1139, 0,0,0,grade3,2,2,0,grade3
+374,1144, 1,1,1,grade2,0,0,1,grade2
+375,1150, 1,1,0,grade6,0,0,0,grade6
+376,1152, 3,3,3,grade6,0,0,3,grade6
+377,1154, 3,3,3,grade5,1,1,3,grade5
+378,1157, 3,3,2,grade4,2,2,2,grade4
+379,1167, 1,1,1,grade3,2,2,1,grade3
+380,1168, 3,3,3,grade3,2,2,3,grade3
+381,1170," To compare the average kinetic energies, I'll use the formula: KE = (1/2) * m * v^2
+
+For Sample A:
+Mass (m) = 28 u
+Speed (v) = 340",50,0,grade8,1,1,0,grade8
+382,1171, 0,0,0,grade6,1,1,0,grade6
+383,1173, 0,0,0,grade4,1,1,0,grade4
+384,1174, 2,2,2,grade5,0,0,2,grade5
+385,1175, 1,1,1,grade8,0,0,1,grade8
+386,1179, 3,3,3,grade8,0,0,3,grade8
+387,1189, 3,3,3,grade6,0,0,3,grade6
+388,1190, 2,2,2,grade7,1,1,2,grade7
+389,1192, 0,0,0,grade4,3,3,0,grade4
+390,1193, 1,1,1,grade8,2,2,1,grade8
+391,1195, 1,1,1,grade4,2,2,1,grade4
+392,1196, 3,3,3,grade5,1,1,3,grade5
+393,1197, 1,1,1,grade6,2,2,1,grade6
+394,1200, 2,2,2,grade6,1,1,2,grade6
+395,1205, 0,0,0,grade6,1,1,0,grade6
+396,1209, 0,0,2,grade5,2,2,2,grade5
+397,1210, 0,0,0,grade3,1,1,0,grade3
+398,1211, 2,2,2,grade4,0,0,2,grade4
+399,1213, 0,0,1,grade8,2,2,1,grade8
+400,1214, 1,1,1,grade5,0,0,1,grade5
+401,1217, 3,3,3,grade3,2,2,3,grade3
+402,1222, 3,3,3,grade4,2,2,3,grade4
+403,1227, 1,1,1,grade4,2,2,1,grade4
+404,1228, 0,0,1,grade4,1,1,1,grade4
+405,1230," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 17 u
+Average particle speed =",50,1,grade7,1,1,1,grade7
+406,1244, 3,3,3,grade8,2,2,3,grade8
+407,1246, 1,1,1,grade5,0,0,1,grade5
+408,1247, 0,0,0,grade3,2,2,0,grade3
+409,1253, 2,2,2,grade4,1,1,2,grade4
+410,1256, 2,2,1,grade7,1,1,1,grade7
+411,1257, 0,0,0,grade7,1,1,0,grade7
+412,1258, 0,0,0,grade3,2,2,0,grade3
+413,1260, 3,3,3,grade7,1,1,3,grade7
+414,1261, 0,0,0,grade4,1,1,0,grade4
+415,1263, 1,1,2,grade8,2,2,2,grade8
+416,1268, 0,0,0,grade8,1,1,0,grade8
+417,1270, 1,1,1,grade6,0,0,1,grade6
+418,1275, 0,0,0,grade8,1,1,0,grade8
+419,1277, 0,0,0,grade5,1,1,0,grade5
+420,1279, 0,0,0,grade2,1,1,0,grade2
+421,1284," To answer this question, I'll compare the volumes of Earth and Mercury as shown in the chart:
+
+Earth's volume: 1.08 x 10^12 km³
+Mercury's volume: 6.08 x",50,0,grade8,1,1,0,grade8
+422,1287, 0,0,0,grade7,1,1,0,grade7
+423,1290, 0,0,0,grade5,1,1,0,grade5
+424,1294, 1,1,1,grade6,0,0,1,grade6
+425,1297, 1,1,1,grade4,0,0,1,grade4
+426,1299, 0,0,0,grade5,1,1,0,grade5
+427,1301, 1,1,0,grade8,0,0,0,grade8
+428,1304, 0,0,0,grade3,1,1,0,grade3
+429,1310, 1,1,3,grade4,3,3,3,grade4
+430,1316, 2,2,2,grade6,0,0,2,grade6
+431,1319, 1,1,1,grade6,0,0,1,grade6
+432,1324, 0,0,0,grade5,1,1,0,grade5
+433,1326, 2,2,2,grade8,1,1,2,grade8
+434,1329, 1,1,1,grade7,0,0,1,grade7
+435,1332, 0,0,0,grade7,1,1,0,grade7
+436,1334," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the square of the average particle speed.
+
+For Sample A:
+Average speed = 1900 m/s
+Average",50,1,grade8,1,1,1,grade8
+437,1335, 4,4,1,grade8,0,0,1,grade8
+438,1336, 1,1,1,grade3,0,0,1,grade3
+439,1343, 1,1,1,grade4,0,0,1,grade4
+440,1344, 1,1,2,grade6,0,0,2,grade6
+441,1345," To answer this question, I need to:
+1. Count the total number of planets in the solar system
+2. Count how many planets are made of gas or ice
+3. Compare these numbers
+
+The solar system has 8 planets total.
+",50,1,grade7,1,1,1,grade7
+442,1346, 0,0,0,grade2,1,1,0,grade2
+443,1354, 0,0,1,grade3,1,1,1,grade3
+444,1360, 0,0,1,grade8,1,1,1,grade8
+445,1361, 2,2,2,grade7,1,1,2,grade7
+446,1364, 2,2,2,grade4,0,0,2,grade4
+447,1367, 0,0,1,grade6,1,1,1,grade6
+448,1376, 1,1,0,grade6,0,0,0,grade6
+449,1384, 1,1,1,grade3,0,0,1,grade3
+450,1387, 0,0,1,grade3,1,1,1,grade3
+451,1390, 2,2,0,grade8,0,0,0,grade8
+452,1393, 0,0,0,grade8,2,2,0,grade8
+453,1397, 0,0,0,grade4,1,1,0,grade4
+454,1399, 1,1,0,grade7,0,0,0,grade7
+455,1405, 0,0,1,grade7,1,1,1,grade7
+456,1411, 0,0,1,grade8,2,2,1,grade8
+457,1413, 0,0,0,grade7,1,1,0,grade7
+458,1414, 0,0,2,grade6,1,1,2,grade6
+459,1425, 3,3,3,grade7,2,2,3,grade7
+460,1431, 0,0,0,grade8,2,2,0,grade8
+461,1434, 3,3,3,grade8,2,2,3,grade8
+462,1438, 1,1,1,grade5,3,3,1,grade5
+463,1440, 0,0,0,grade8,1,1,0,grade8
+464,1441, 2,2,2,grade8,0,0,2,grade8
+465,1450, 1,1,1,grade8,0,0,1,grade8
+466,1454, 1,1,1,grade6,0,0,1,grade6
+467,1465," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The key information provided is the mass of each particle, which is 28 u (likely micrograms).
+
+For both samples, we can use the formula:
+",50,0,grade6,1,1,0,grade6
+468,1467," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The kinetic energy of a particle is directly related to its mass and speed. 
+
+For Sample A:
+Mass of each particle = 16 u
+Average speed",50,1,grade8,1,1,1,grade8
+469,1468, 0,0,0,grade6,1,1,0,grade6
+470,1470," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 20 u
+Average particle speed =",50,0,grade7,1,1,0,grade7
+471,1472, 0,0,0,grade8,2,2,0,grade8
+472,1473, 2,2,2,grade2,1,1,2,grade2
+473,1479, 3,3,3,grade8,2,2,3,grade8
+474,1483, 0,0,0,grade6,1,1,0,grade6
+475,1487, 0,0,0,grade5,2,2,0,grade5
+476,1488, 0,0,0,grade3,1,1,0,grade3
+477,1490, 1,1,1,grade3,0,0,1,grade3
+478,1491, 1,1,1,grade4,0,0,1,grade4
+479,1492, 3,3,3,grade6,0,0,3,grade6
+480,1503, 0,0,0,grade7,2,2,0,grade7
+481,1504, 1,1,1,grade8,0,0,1,grade8
+482,1506, 2,2,2,grade3,3,3,2,grade3
+483,1508, 3,3,3,grade7,0,0,3,grade7
+484,1510," To compare the average kinetic energies, we need to use the formula for kinetic energy: KE = (1/2)mv^2
+
+For Sample A:
+Mass (m) = 46 u
+Speed (v) = 13",50,2,grade6,1,1,2,grade6
+485,1515, 0,0,0,grade7,1,1,0,grade7
+486,1516, 1,1,1,grade8,2,2,1,grade8
+487,1517," To determine which sample has the higher temperature, I'll compare the average kinetic energies:
+
+1. Sample A:
+   Mass of each particle = 36 u
+   Average particle speed = 910 m/s
+
+2. Sample B:
+",50,1,grade7,1,1,1,grade7
+488,1519, 2,2,2,grade5,1,1,2,grade5
+489,1523, 0,0,2,grade6,1,1,2,grade6
+490,1524, 2,2,2,grade7,1,1,2,grade7
+491,1526, 0,0,0,grade2,1,1,0,grade2
+492,1528, 1,1,1,grade4,2,2,1,grade4
+493,1532, 1,1,1,grade5,0,0,1,grade5
+494,1533, 2,2,2,grade7,1,1,2,grade7
+495,1538, 1,1,1,grade8,0,0,1,grade8
+496,1539, 3,3,3,grade7,2,2,3,grade7
+497,1548, 0,0,2,grade6,2,2,2,grade6
+498,1549, 2,2,2,grade2,1,1,2,grade2
+499,1553, 3,3,3,grade7,1,1,3,grade7
+500,1555, 0,0,0,grade3,1,1,0,grade3
+501,1557, 2,2,2,grade3,1,1,2,grade3
+502,1558, 1,1,1,grade8,0,0,1,grade8
+503,1560, 2,2,1,grade6,1,1,1,grade6
+504,1563, 0,0,2,grade8,2,2,2,grade8
+505,1564, 1,1,1,grade7,2,2,1,grade7
+506,1566, 1,1,1,grade4,0,0,1,grade4
+507,1570, 0,0,0,grade3,1,1,0,grade3
+508,1576, 0,0,0,grade8,2,2,0,grade8
+509,1583," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The kinetic energy of a particle is directly related to its speed, as given by the equation KE = (1/2)mv^2, where m is",50,0,grade6,1,1,0,grade6
+510,1584, 0,0,0,grade8,2,2,0,grade8
+511,1591, 2,2,2,grade4,0,0,2,grade4
+512,1593, 0,0,0,grade8,1,1,0,grade8
+513,1595, 0,0,0,grade6,1,1,0,grade6
+514,1605," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The kinetic energy of a particle is directly related to its speed, and we're given the average particle speed for each sample.
+
+For Sample A: Average particle speed",50,1,grade8,2,2,1,grade8
+515,1608, 0,0,0,grade8,2,2,0,grade8
+516,1610, 1,1,1,grade7,2,2,1,grade7
+517,1614," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The kinetic energy of a particle is directly related to its mass and speed. 
+
+For Sample A:
+Mass of each particle = 32 u
+Average speed",50,1,grade8,1,1,1,grade8
+518,1615, 2,2,2,grade8,3,3,2,grade8
+519,1619, 1,1,1,grade5,2,2,1,grade5
+520,1620, 1,1,1,grade5,0,0,1,grade5
+521,1627, 1,1,1,grade3,0,0,1,grade3
+522,1628, 0,0,0,grade3,2,2,0,grade3
+523,1630, 0,0,0,grade5,2,2,0,grade5
+524,1632, 1,1,1,grade8,2,2,1,grade8
+525,1633, 1,1,1,grade4,0,0,1,grade4
+526,1634, 0,0,1,grade2,1,1,1,grade2
+527,1636, 4,4,0,grade8,3,3,0,grade8
+528,1637, 0,0,1,grade2,1,1,1,grade2
+529,1647, 1,1,1,grade6,2,2,1,grade6
+530,1650, 0,0,1,grade6,1,1,1,grade6
+531,1652, 0,0,3,grade3,1,1,3,grade3
+532,1654, 3,3,3,grade8,0,0,3,grade8
+533,1655, 2,2,2,grade8,0,0,2,grade8
+534,1661," To answer this question, I need to compare the volumes of Neptune and Earth as shown in the chart.
+
+Neptune's volume: 62,530 billion km³
+Earth's volume: 1,090 billion km³",50,0,grade6,1,1,0,grade6
+535,1662, 2,2,2,grade3,1,1,2,grade3
+536,1665, 2,2,0,grade8,3,3,0,grade8
+537,1667, 0,0,0,grade8,1,1,0,grade8
+538,1669, 2,2,2,grade12,1,1,2,grade12
+539,1673, 0,0,0,grade3,1,1,0,grade3
+540,1674, 0,0,0,grade7,2,2,0,grade7
+541,1681," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The average kinetic energy is directly related to the mass and speed of particles.
+
+For Sample A:
+Mass of each particle = 28 u
+Average speed =",50,0,grade6,1,1,0,grade6
+542,1687, 0,0,0,grade2,2,2,0,grade2
+543,1688, 0,0,2,grade7,2,2,2,grade7
+544,1689, 1,1,1,grade2,0,0,1,grade2
+545,1691, 1,1,1,grade3,2,2,1,grade3
+546,1694, 0,0,0,grade5,1,1,0,grade5
+547,1697, 2,2,2,grade4,1,1,2,grade4
+548,1699, 2,2,2,grade5,1,1,2,grade5
+549,1700, 2,2,2,grade7,1,1,2,grade7
+550,1701, 3,3,3,grade5,2,2,3,grade5
+551,1719, 3,3,3,grade4,0,0,3,grade4
+552,1728, 0,0,1,grade6,2,2,1,grade6
+553,1729, 2,2,2,grade5,0,0,2,grade5
+554,1738, 0,0,0,grade3,1,1,0,grade3
+555,1742, 2,2,2,grade6,0,0,2,grade6
+556,1746, 2,2,2,grade4,1,1,2,grade4
+557,1749, 3,3,3,grade5,2,2,3,grade5
+558,1752, 1,1,0,grade7,0,0,0,grade7
+559,1756, 3,3,3,grade7,2,2,3,grade7
+560,1760, 0,0,1,grade6,1,1,1,grade6
+561,1764, 2,2,2,grade7,0,0,2,grade7
+562,1766, 0,0,0,grade4,1,1,0,grade4
+563,1767, 0,0,0,grade8,1,1,0,grade8
+564,1772, 0,0,0,grade5,1,1,0,grade5
+565,1774, 0,0,2,grade4,2,2,2,grade4
+566,1775, 3,3,3,grade4,2,2,3,grade4
+567,1776, 0,0,1,grade3,1,1,1,grade3
+568,1777," To answer this question, I need to compare the volumes of Saturn and Jupiter as shown in the chart.
+
+Jupiter's volume: 1,431,280 billion km³
+Saturn's volume: 827,",50,1,grade6,1,1,1,grade6
+569,1789, 0,0,2,grade7,2,2,2,grade7
+570,1791, 1,1,1,grade5,0,0,1,grade5
+571,1793, 2,2,2,grade7,1,1,2,grade7
+572,1799, 0,0,0,grade6,2,2,0,grade6
+573,1800, 2,2,2,grade7,1,1,2,grade7
+574,1803, 0,0,1,grade2,1,1,1,grade2
+575,1804, 2,2,2,grade6,3,3,2,grade6
+576,1805, 1,1,1,grade6,0,0,1,grade6
+577,1808, 0,0,0,grade7,1,1,0,grade7
+578,1813, 1,1,1,grade7,0,0,1,grade7
+579,1819, 1,1,1,grade7,2,2,1,grade7
+580,1824, 0,0,1,grade4,1,1,1,grade4
+581,1825, 0,0,0,grade7,1,1,0,grade7
+582,1826, 3,3,4,grade8,2,2,4,grade8
+583,1828," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 30 u
+Average particle speed =",50,0,grade7,1,1,0,grade7
+584,1829, 0,0,0,grade3,2,2,0,grade3
+585,1833, 0,0,0,grade5,1,1,0,grade5
+586,1836, 1,1,1,grade8,2,2,1,grade8
+587,1838, 1,1,0,grade6,0,0,0,grade6
+588,1840, 0,0,0,grade8,1,1,0,grade8
+589,1842, 1,1,0,grade6,0,0,0,grade6
+590,1844, 0,0,0,grade7,1,1,0,grade7
+591,1851, 0,0,0,grade6,1,1,0,grade6
+592,1853, 0,0,2,grade6,2,2,2,grade6
+593,1854, 0,0,0,grade4,1,1,0,grade4
+594,1856, 2,2,2,grade8,3,3,2,grade8
+595,1857, 0,0,0,grade6,1,1,0,grade6
+596,1861, 3,3,3,grade2,2,2,3,grade2
+597,1862, 3,3,3,grade6,2,2,3,grade6
+598,1865, 0,0,0,grade7,2,2,0,grade7
+599,1866, 2,2,2,grade4,0,0,2,grade4
+600,1867, 2,2,2,grade4,1,1,2,grade4
+601,1876, 1,1,1,grade8,2,2,1,grade8
+602,1878, 1,1,1,grade3,0,0,1,grade3
+603,1880, 2,2,2,grade3,0,0,2,grade3
+604,1881, 0,0,0,grade5,2,2,0,grade5
+605,1887, 0,0,0,grade4,1,1,0,grade4
+606,1888, 1,1,1,grade5,0,0,1,grade5
+607,1889, 2,2,1,grade7,1,1,1,grade7
+608,1897, 3,3,3,grade7,1,1,3,grade7
+609,1909, 2,2,2,grade3,0,0,2,grade3
+610,1921," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 16 u
+Average particle speed =",50,1,grade7,1,1,1,grade7
+611,1923, 0,0,1,grade5,3,3,1,grade5
+612,1926, 3,3,3,grade7,0,0,3,grade7
+613,1929, 1,1,1,grade8,0,0,1,grade8
+614,1930, 2,2,2,grade3,1,1,2,grade3
+615,1932, 2,2,3,grade2,0,0,3,grade2
+616,1937, 3,3,3,grade7,2,2,3,grade7
+617,1939, 0,0,0,grade8,1,1,0,grade8
+618,1942, 1,1,1,grade5,3,3,1,grade5
+619,1947, 0,0,2,grade8,3,3,2,grade8
+620,1949," To compare the average kinetic energies, we need to use the formula for kinetic energy: KE = (1/2)mv^2
+
+For Sample A:
+Mass (m) = 17 u
+Speed (v) = 10",50,0,grade8,1,1,0,grade8
+621,1958, 0,0,0,grade3,2,2,0,grade3
+622,1972, 1,1,1,grade5,0,0,1,grade5
+623,1978, 2,2,2,grade7,1,1,2,grade7
+624,1981," To determine which sample has the higher temperature, we need to compare their average kinetic energies. The temperature of a system is directly related to its average kinetic energy.
+
+For Sample A:
+Mass of each particle = 26 u
+Average particle speed =",50,2,grade7,1,1,2,grade7
+625,1983, 0,0,0,grade6,2,2,0,grade6
+626,1986, 0,0,0,grade7,1,1,0,grade7
+627,1987, 1,1,1,grade4,0,0,1,grade4
+628,1988, 2,2,2,grade6,1,1,2,grade6
+629,1989, 2,2,2,grade5,1,1,2,grade5
+630,1993, 0,0,0,grade8,2,2,0,grade8
+631,1997, 3,3,3,grade7,2,2,3,grade7
+632,1999, 1,1,1,grade5,2,2,1,grade5
+633,2002, 3,3,3,grade6,1,1,3,grade6
+634,2005, 2,2,1,grade6,1,1,1,grade6
+635,2008, 0,0,0,grade4,1,1,0,grade4
+636,2009, 2,2,0,grade5,0,0,0,grade5
+637,2012, 0,0,0,grade3,3,3,0,grade3
+638,2013, 1,1,1,grade5,2,2,1,grade5
+639,2014, 1,1,1,grade3,0,0,1,grade3
+640,2015, 1,1,1,grade5,2,2,1,grade5

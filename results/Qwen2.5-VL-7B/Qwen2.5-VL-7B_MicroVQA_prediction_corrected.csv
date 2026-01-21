@@ -1,0 +1,2180 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,8,"system
+You are a helpful assistant.
+user
+ QUESTION: A bright-field microscopy image of a Pap-smear sample reveals various artifacts, including linear-shaped structures. Which of the following artifacts is most likely indicative of bacterial contamination in the sample?
+OPTIONS:
+0: Filamentous bacteria
+1: Spiral-shaped microorganisms
+2: Aggregated cellular debris
+3: Spherical microbial clusters
+4: Bacilli
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A bright-field microscopy image of a Pap-smear sample reveals various artifacts, including linear-shaped structures. Which of the following artifacts is most likely indicative of bacterial contamination in the sample?
+OPTIONS:
+0: Filamentous bacteria
+1: Spiral-shaped microorganisms
+2: Aggregated cellular debris
+3: Spherical microbial clusters
+4: Bacilli
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,perception
+1,21,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image of HEK293T cells shows the protein PSMB7 endogenously tagged with GFP. Based on its localization, where is PSMB7 primarily found within the cell?
+OPTIONS:
+0: Primarily in the nucleus, excluding the nucleolus
+1: In the cytoplasm
+2: Associated with the cell membrane
+3: In the nucleolus
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image of HEK293T cells shows the protein PSMB7 endogenously tagged with GFP. Based on its localization, where is PSMB7 primarily found within the cell?
+OPTIONS:
+0: Primarily in the nucleus, excluding the nucleolus
+1: In the cytoplasm
+2: Associated with the cell membrane
+3: In the nucleolus
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,perception
+2,27,"system
+You are a helpful assistant.
+user
+ QUESTION: In immunofluorescent images of eukaryotic immune cells stained for various cellular components, the cells are displayed before and after a 24-hour exposure to heat-killed bacterial agents. Based on these images, identify the most notable morphological change observed between the pre-exposure and post-exposure cells.
+OPTIONS:
+0: Fragmentation of cytoskeleton
+1: Formation of lipid droplets
+2: Fragmentation of Golgi apparatus
+3: Decay of cellular DNA integrity
+4: Formation of Golgi vesicles
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In immunofluorescent images of eukaryotic immune cells stained for various cellular components, the cells are displayed before and after a 24-hour exposure to heat-killed bacterial agents. Based on these images, identify the most notable morphological change observed between the pre-exposure and post-exposure cells.
+OPTIONS:
+0: Fragmentation of cytoskeleton
+1: Formation of lipid droplets
+2: Fragmentation of Golgi apparatus
+3: Decay of cellular DNA integrity
+4: Formation of Golgi vesicles
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,perception
+3,34,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal immunostaining image shows TH-positive neurons in nigral sections of macaques stained for lysosomes (using LAMP-2). The sections include both control samples and those treated with shATP13A2 (a short hairpin RNA targeting ATP13A2) for five months. What is the most likely difference observed between the control and shATP13A2-treated sections?
+OPTIONS:
+0: Increased lysosomal pH levels in shATP13A2-treated neurons
+1: Fragmented lysosomes in shATP13A2-treated neurons
+2: Increased number of lysosomes in shATP13A2-treated neurons
+3: No significant change in lysosome number between groups
+4: Enlarged lysosomes in shATP13A2-treated neurons
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal immunostaining image shows TH-positive neurons in nigral sections of macaques stained for lysosomes (using LAMP-2). The sections include both control samples and those treated with shATP13A2 (a short hairpin RNA targeting ATP13A2) for five months. What is the most likely difference observed between the control and shATP13A2-treated sections?
+OPTIONS:
+0: Increased lysosomal pH levels in shATP13A2-treated neurons
+1: Fragmented lysosomes in shATP13A2-treated neurons
+2: Increased number of lysosomes in shATP13A2-treated neurons
+3: No significant change in lysosome number between groups
+4: Enlarged lysosomes in shATP13A2-treated neurons
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,2,perception
+4,38,"system
+You are a helpful assistant.
+user
+ QUESTION: A live-cell imaging study of HeLa cells expressing GFP-tagged cGAS reveals varying levels of cGAS expression across different stages of the S phase: high expression in early S phase, decreasing expression in mid S phase, and low expression in late S phase. How do these changes in cGAS expression most likely relate to its cellular function?
+OPTIONS:
+0: cGAS acts primarily in the nucleus during late S phase to suppress gene transcription.
+1: Reduced cGAS levels in late S phase are necessary to allow successful mitosis.
+2: High cGAS expression in early S phase facilitates DNA damage repair mechanisms.
+3: cGAS localization to the cytoplasm increases in mid S phase to initiate inflammatory responses.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A live-cell imaging study of HeLa cells expressing GFP-tagged cGAS reveals varying levels of cGAS expression across different stages of the S phase: high expression in early S phase, decreasing expression in mid S phase, and low expression in late S phase. How do these changes in cGAS expression most likely relate to its cellular function?
+OPTIONS:
+0: cGAS acts primarily in the nucleus during late S phase to suppress gene transcription.
+1: Reduced cGAS levels in late S phase are necessary to allow successful mitosis.
+2: High cGAS expression in early S phase facilitates DNA damage repair mechanisms.
+3: cGAS localization to the cytoplasm increases in mid S phase to initiate inflammatory responses.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,hypothesis_gen
+5,41,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of cultured cells shows the following staining:
+- Channel 0: Endoplasmic reticulum with mApple
+- Channel 1: Golgi apparatus with oxVenus
+- Channel 2: Lysosomes with mTurquoise2
+- Channel 3: Mitochondria with eGFP
+- Channel 4: Nuclei
+- Channel 5: Cell membrane
+
+Based on this image, how many transfected cells are present?
+OPTIONS:
+0: One transfected cell is partially visible
+1: One transfected cell is fully visible
+2: No transfected cells are present
+3: One transfected cell is fully visible and one is partially visible
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of cultured cells shows the following staining:
+- Channel 0: Endoplasmic reticulum with mApple
+- Channel 1: Golgi apparatus with oxVenus
+- Channel 2: Lysosomes with mTurquoise2
+- Channel 3: Mitochondria with eGFP
+- Channel 4: Nuclei
+- Channel 5: Cell membrane
+
+Based on this image, how many transfected cells are present?
+OPTIONS:
+0: One transfected cell is partially visible
+1: One transfected cell is fully visible
+2: No transfected cells are present
+3: One transfected cell is fully visible and one is partially visible
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,perception
+6,45,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal immunofluorescence image depicts the apical surface of the lateral ventricle of a P14 mouse. Nuclei are labeled in blue, and a protein of interest is stained in magenta. Based on the staining pattern, where is the protein of interest most likely localized?
+OPTIONS:
+0: Motile cilia of ependymal cells
+1: Microglial processes
+2: Astrocyte endfeet
+3: Neuronal dendrites
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal immunofluorescence image depicts the apical surface of the lateral ventricle of a P14 mouse. Nuclei are labeled in blue, and a protein of interest is stained in magenta. Based on the staining pattern, where is the protein of interest most likely localized?
+OPTIONS:
+0: Motile cilia of ependymal cells
+1: Microglial processes
+2: Astrocyte endfeet
+3: Neuronal dendrites
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,perception
+7,53,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image of the hippocampus displays sections of the molecular layer (ML), granule cell layer (GCL), and dentate gyrus stained with BT-Igsf (red), GFAP (green), and DAPI (blue). Observably, BT-Igsf fluorescence intensity is significantly higher in the GCL compared to the ML. What is the most plausible explanation for the enhanced BT-Igsf signal in the GCL?
+OPTIONS:
+0: The GCL contains more tightly packed cells, resulting in increased accumulation of BT-Igsf proteins.
+1: The GCL contains a higher concentration of synaptic terminals, resulting in elevated BT-Igsf localization.
+2: The GCL demonstrates enhanced membrane receptor density, promoting more BT-Igsf attachment.
+3: The GCL exhibits increased vesicular transport activity, facilitating greater BT-Igsf accumulation.
+4: The GCL has a denser arrangement of dendritic spines, leading to enhanced BT-Igsf binding.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image of the hippocampus displays sections of the molecular layer (ML), granule cell layer (GCL), and dentate gyrus stained with BT-Igsf (red), GFAP (green), and DAPI (blue). Observably, BT-Igsf fluorescence intensity is significantly higher in the GCL compared to the ML. What is the most plausible explanation for the enhanced BT-Igsf signal in the GCL?
+OPTIONS:
+0: The GCL contains more tightly packed cells, resulting in increased accumulation of BT-Igsf proteins.
+1: The GCL contains a higher concentration of synaptic terminals, resulting in elevated BT-Igsf localization.
+2: The GCL demonstrates enhanced membrane receptor density, promoting more BT-Igsf attachment.
+3: The GCL exhibits increased vesicular transport activity, facilitating greater BT-Igsf accumulation.
+4: The GCL has a denser arrangement of dendritic spines, leading to enhanced BT-Igsf binding.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,hypothesis_gen
+8,63,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopy image displays eukaryotic cells cultured for 12 days, with purple staining noticeable in the central portion on day 12. Given that the stain is a reactive probe sensitive to pH changes in the endoplasmic reticulum (ER), what is the purple staining pattern most indicative of regarding ER processes in these cells?
+OPTIONS:
+0: Accumulation of misfolded proteins in the ER
+1: Active ER restructuring involving autophagic processes
+2: Increase in endoplasmic reticulum calcium storage
+3: Transport of proteins from ER to the Golgi apparatus
+4: Expansion of ER membrane folds to accommodate more proteins
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopy image displays eukaryotic cells cultured for 12 days, with purple staining noticeable in the central portion on day 12. Given that the stain is a reactive probe sensitive to pH changes in the endoplasmic reticulum (ER), what is the purple staining pattern most indicative of regarding ER processes in these cells?
+OPTIONS:
+0: Accumulation of misfolded proteins in the ER
+1: Active ER restructuring involving autophagic processes
+2: Increase in endoplasmic reticulum calcium storage
+3: Transport of proteins from ER to the Golgi apparatus
+4: Expansion of ER membrane folds to accommodate more proteins
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,hypothesis_gen
+9,78,"system
+You are a helpful assistant.
+user
+ QUESTION: In a live cell microscopy image of MRC5 primary human fibroblasts, red-stained mitochondria regions overlap with cyan-stained endoplasmic reticulum (ER) regions. What is the most likely biological significance of this overlapping?
+
+OPTIONS:
+0: Initiation of apoptosis pathways
+1: Regulation of calcium signaling between mitochondria and ER
+2: Increased ATP production at the contact sites
+3: Enhanced lipid transfer between organelles
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In a live cell microscopy image of MRC5 primary human fibroblasts, red-stained mitochondria regions overlap with cyan-stained endoplasmic reticulum (ER) regions. What is the most likely biological significance of this overlapping?
+
+OPTIONS:
+0: Initiation of apoptosis pathways
+1: Regulation of calcium signaling between mitochondria and ER
+2: Increased ATP production at the contact sites
+3: Enhanced lipid transfer between organelles
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,hypothesis_gen
+10,90,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image shows sections from Sema4B+/− and Sema4B−/− mice 24 hours post-injury, located approximately 800 μm from the injury site. The samples are stained with Iba1 (green channel) and DAPI (blue channel). What notable difference in microglial morphology is detected between Sema4B+/− and Sema4B−/− mice?
+OPTIONS:
+0: Sema4B+/− microglia display elongated processes, whereas Sema4B−/− microglia have condensed structures.
+1: Sema4B+/− microglia have a higher density in the stained regions than Sema4B−/− microglia.
+2: Sema4B+/− microglia exhibit a more amoeboid shape, while Sema4B−/− microglia are ramified.
+3: Sema4B+/− microglia show increased branching complexity compared to Sema4B−/− microglia.
+4: Sema4B+/− microglia demonstrate larger nuclei size compared to Sema4B−/− microglia.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,2,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image shows sections from Sema4B+/− and Sema4B−/− mice 24 hours post-injury, located approximately 800 μm from the injury site. The samples are stained with Iba1 (green channel) and DAPI (blue channel). What notable difference in microglial morphology is detected between Sema4B+/− and Sema4B−/− mice?
+OPTIONS:
+0: Sema4B+/− microglia display elongated processes, whereas Sema4B−/− microglia have condensed structures.
+1: Sema4B+/− microglia have a higher density in the stained regions than Sema4B−/− microglia.
+2: Sema4B+/− microglia exhibit a more amoeboid shape, while Sema4B−/− microglia are ramified.
+3: Sema4B+/− microglia show increased branching complexity compared to Sema4B−/− microglia.
+4: Sema4B+/− microglia demonstrate larger nuclei size compared to Sema4B−/− microglia.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,perception
+11,101,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image displays Iba1 (gray channel) and pSTAT3 (magenta channel) in microglia 24 hours after cortical injury. Green arrows indicate pSTAT3-negative/Iba1-positive cells with a ramified morphology, while yellow arrows mark pSTAT3-positive/Iba1-positive cells with an amoeboid morphology. Why do the microglia exhibit different morphologies in this context?
+OPTIONS:
+0: Variations in neuronal density around microglia influence their shape
+1: Differences in blood-brain barrier integrity affect microglial morphology
+2: Fluctuations in extracellular cytokine levels cause morphological changes
+3: Differential expression of Sema4B leads to varying activation states of microglia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal fluorescence microscopy image displays Iba1 (gray channel) and pSTAT3 (magenta channel) in microglia 24 hours after cortical injury. Green arrows indicate pSTAT3-negative/Iba1-positive cells with a ramified morphology, while yellow arrows mark pSTAT3-positive/Iba1-positive cells with an amoeboid morphology. Why do the microglia exhibit different morphologies in this context?
+OPTIONS:
+0: Variations in neuronal density around microglia influence their shape
+1: Differences in blood-brain barrier integrity affect microglial morphology
+2: Fluctuations in extracellular cytokine levels cause morphological changes
+3: Differential expression of Sema4B leads to varying activation states of microglia
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,3,hypothesis_gen
+12,106,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryogenic electron tomography slice through avian sarcoma leukosis virus (ASLV) particles in vitro shows green circles along the membranes of the particles. What do these green circles most likely represent?
+OPTIONS:
+0: Areas of membrane curvature necessary for viral assembly
+1: Centers of lipid raft formation within the viral envelope
+2: Sites of viral RNA packaging
+3: Locations of trimeric glycoprotein spikes on the virus surface
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryogenic electron tomography slice through avian sarcoma leukosis virus (ASLV) particles in vitro shows green circles along the membranes of the particles. What do these green circles most likely represent?
+OPTIONS:
+0: Areas of membrane curvature necessary for viral assembly
+1: Centers of lipid raft formation within the viral envelope
+2: Sites of viral RNA packaging
+3: Locations of trimeric glycoprotein spikes on the virus surface
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,perception
+13,110,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of Caco-2 cells is stained with DAPI (blue) for nuclei, a-tubulin (red) for microtubules, and a target protein (green). The green fluorescence forms stringy, thread-like structures throughout the cytoplasm. What is the most likely localization of the target protein based on this staining pattern?
+OPTIONS:
+0: Endoplasmic Reticulum
+1: Golgi Apparatus
+2: Nucleus
+3: Mitochondria
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of Caco-2 cells is stained with DAPI (blue) for nuclei, a-tubulin (red) for microtubules, and a target protein (green). The green fluorescence forms stringy, thread-like structures throughout the cytoplasm. What is the most likely localization of the target protein based on this staining pattern?
+OPTIONS:
+0: Endoplasmic Reticulum
+1: Golgi Apparatus
+2: Nucleus
+3: Mitochondria
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception
+14,134,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image reveals neural support cells from neonatal rodents cultured over a period. The cells showcase fluorescence markers: rabbit anti-X (red), guinea pig Y-protein and rabbit anti-X (green), and a nuclear stain (blue). It is observed that the Y-protein's presence is notably diminished in the cell nuclei.
+
+What factor best accounts for the reduced presence of Y-protein within the nuclei?
+OPTIONS:
+0: Presence of Y-protein in the nucleus is a marker for cell differentiation process, thus seldom found there.
+1: Due to its affinity for cytoplasmic molecular complexes, Y-protein is naturally depleted in nuclear regions.
+2: The Y-protein plays a critical role in the assembly of cytoplasmic structures, necessitating its relocation away from the nucleus.
+3: Y-protein undergoes a temporary transformation within the nucleus before reassociating with cytoplasmic networks.
+4: Y-protein is believed to be involved in the organization of cellular components outside the nucleus, limiting its nuclear presence.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image reveals neural support cells from neonatal rodents cultured over a period. The cells showcase fluorescence markers: rabbit anti-X (red), guinea pig Y-protein and rabbit anti-X (green), and a nuclear stain (blue). It is observed that the Y-protein's presence is notably diminished in the cell nuclei.
+
+What factor best accounts for the reduced presence of Y-protein within the nuclei?
+OPTIONS:
+0: Presence of Y-protein in the nucleus is a marker for cell differentiation process, thus seldom found there.
+1: Due to its affinity for cytoplasmic molecular complexes, Y-protein is naturally depleted in nuclear regions.
+2: The Y-protein plays a critical role in the assembly of cytoplasmic structures, necessitating its relocation away from the nucleus.
+3: Y-protein undergoes a temporary transformation within the nucleus before reassociating with cytoplasmic networks.
+4: Y-protein is believed to be involved in the organization of cellular components outside the nucleus, limiting its nuclear presence.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,2,hypothesis_gen
+15,137,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays hippocampus cells from P2-old mice cultured for 10 days in vitro. The red channel shows rabbit anti–BT-IgSF, the green channel shows guinea pig XYZ protein and rabbit anti–BT-IgSF, and the blue channel shows DAPI. Some regions of the cells exhibit brighter green fluorescence, indicating higher concentrations of XYZ protein. What is the most likely reason for the increased XYZ protein concentration in these areas?
+OPTIONS:
+0: XYZ protein is vital for maintaining cellular structure, requiring elevated concentrations in structurally stressed regions.
+1: XYZ protein is involved in nutrient transport, requiring higher levels in nutrient-rich areas.
+2: Elevated XYZ protein levels correlate with heightened protein synthesis activities in those regions.
+3: XYZ protein assists in cellular adhesion, necessitating greater amounts in areas with increased cell-cell interactions.
+4: XYZ protein is involved in signaling pathways that regulate gene expression in response to external stimuli.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays hippocampus cells from P2-old mice cultured for 10 days in vitro. The red channel shows rabbit anti–BT-IgSF, the green channel shows guinea pig XYZ protein and rabbit anti–BT-IgSF, and the blue channel shows DAPI. Some regions of the cells exhibit brighter green fluorescence, indicating higher concentrations of XYZ protein. What is the most likely reason for the increased XYZ protein concentration in these areas?
+OPTIONS:
+0: XYZ protein is vital for maintaining cellular structure, requiring elevated concentrations in structurally stressed regions.
+1: XYZ protein is involved in nutrient transport, requiring higher levels in nutrient-rich areas.
+2: Elevated XYZ protein levels correlate with heightened protein synthesis activities in those regions.
+3: XYZ protein assists in cellular adhesion, necessitating greater amounts in areas with increased cell-cell interactions.
+4: XYZ protein is involved in signaling pathways that regulate gene expression in response to external stimuli.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,hypothesis_gen
+16,144,"system
+You are a helpful assistant.
+user
+ QUESTION: A laser-scanning confocal fluorescence microscopy image of a 13-week mouse embryo skin 24 hours after an incision is shown. The green channel marks mouse macrophages, the red channel marks endothelial cells, and the blue channel marks nuclei. A yellow arrow points to a specific structure in the image. What is the structure indicated by the yellow arrow?
+OPTIONS:
+0: Fibroblast migration pathway
+1: Wound ridge along the epidermis
+2: Neoangiogenesis region
+3: Macrophage aggregation site
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A laser-scanning confocal fluorescence microscopy image of a 13-week mouse embryo skin 24 hours after an incision is shown. The green channel marks mouse macrophages, the red channel marks endothelial cells, and the blue channel marks nuclei. A yellow arrow points to a specific structure in the image. What is the structure indicated by the yellow arrow?
+OPTIONS:
+0: Fibroblast migration pathway
+1: Wound ridge along the epidermis
+2: Neoangiogenesis region
+3: Macrophage aggregation site
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception
+17,148,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image shows rod-shaped formations within PFA-fixed human cancer cells. Without access to the image, which technique would be most effective in confirming whether these formations are bacterial structures?
+OPTIONS:
+0: Conduct time-lapse microscopy to monitor structural dynamics
+1: Perform DNA staining using specific dyes like DAPI or Hoechst
+2: Execute a protein expression assay targeting bacterial enzymes
+3: Enhance image resolution to reveal minute structural features
+4: Apply a lipid-specific stain to identify membrane components
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image shows rod-shaped formations within PFA-fixed human cancer cells. Without access to the image, which technique would be most effective in confirming whether these formations are bacterial structures?
+OPTIONS:
+0: Conduct time-lapse microscopy to monitor structural dynamics
+1: Perform DNA staining using specific dyes like DAPI or Hoechst
+2: Execute a protein expression assay targeting bacterial enzymes
+3: Enhance image resolution to reveal minute structural features
+4: Apply a lipid-specific stain to identify membrane components
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,experiment_proposal
+18,155,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image reveals immunohistochemical staining of BT-IgSF (red) and nuclei (DAPI, blue) within certain cells along the ventricular system in an unidentified mammalian brain. What could be the purpose of BT-IgSF in this context?
+OPTIONS:
+0: BT-IgSF plays a part in forming diverse intercellular junctions across organ systems.
+1: BT-IgSF contributes to maintaining cell structural integrity and enhancing their motile capabilities.
+2: BT-IgSF facilitates the rapid transport of signaling molecules in cerebrospinal fluid.
+3: BT-IgSF is primarily involved in the regulation of gene expression in response to neuronal activities.
+4: BT-IgSF enables the exchange of nutrients and waste products across the ventricular barrier.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image reveals immunohistochemical staining of BT-IgSF (red) and nuclei (DAPI, blue) within certain cells along the ventricular system in an unidentified mammalian brain. What could be the purpose of BT-IgSF in this context?
+OPTIONS:
+0: BT-IgSF plays a part in forming diverse intercellular junctions across organ systems.
+1: BT-IgSF contributes to maintaining cell structural integrity and enhancing their motile capabilities.
+2: BT-IgSF facilitates the rapid transport of signaling molecules in cerebrospinal fluid.
+3: BT-IgSF is primarily involved in the regulation of gene expression in response to neuronal activities.
+4: BT-IgSF enables the exchange of nutrients and waste products across the ventricular barrier.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,1,hypothesis_gen
+19,164,"system
+You are a helpful assistant.
+user
+ QUESTION: A researcher is performing iterative immunofluorescence staining using NanoPlex on cultured cells. After several staining cycles, significant residual signal from previous rounds is observed following fluorescence nanobody cleavage. The researcher does not have access to a lower affinity antibody to reduce un-cleaved signals. Which of the following strategies could the researcher employ to achieve similar signal reduction?
+OPTIONS:
+0: Extend the duration of the antibody incubation
+1: Decrease the antibody incubation time
+2: Increase the UV intensity during nanobody cleavage
+3: Use a higher concentration of the primary antibody
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A researcher is performing iterative immunofluorescence staining using NanoPlex on cultured cells. After several staining cycles, significant residual signal from previous rounds is observed following fluorescence nanobody cleavage. The researcher does not have access to a lower affinity antibody to reduce un-cleaved signals. Which of the following strategies could the researcher employ to achieve similar signal reduction?
+OPTIONS:
+0: Extend the duration of the antibody incubation
+1: Decrease the antibody incubation time
+2: Increase the UV intensity during nanobody cleavage
+3: Use a higher concentration of the primary antibody
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,experiment_proposal
+20,166,"system
+You are a helpful assistant.
+user
+ QUESTION: In iterative immunofluorescence staining using NanoPlex, incomplete cleavage of fluorescence signals may result from too strong of antibody binding due to high antibody affinity. What is the most likely negative consequence if lower-affinity antibodies were used in this context?
+OPTIONS:
+0: Elevated background noise resulting from antibody cross-reactivity
+1: Incomplete signal due to partial antibody dissociation
+2: Variable staining patterns caused by inconsistent antibody binding
+3: Decreased signal intensity from weak antibody-antibody interactions
+4: Reduced staining of targets with lower abundance
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,4,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: In iterative immunofluorescence staining using NanoPlex, incomplete cleavage of fluorescence signals may result from too strong of antibody binding due to high antibody affinity. What is the most likely negative consequence if lower-affinity antibodies were used in this context?
+OPTIONS:
+0: Elevated background noise resulting from antibody cross-reactivity
+1: Incomplete signal due to partial antibody dissociation
+2: Variable staining patterns caused by inconsistent antibody binding
+3: Decreased signal intensity from weak antibody-antibody interactions
+4: Reduced staining of targets with lower abundance
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,experiment_proposal
+21,167,"system
+You are a helpful assistant.
+user
+ QUESTION: An image captured via advanced fluorescence microscopy using iterative immunofluorescence and NanoPlex on a single eukaryotic cell was processed. Across three cycles, a fluorescent nanobody was removed after each cycle. The cycles were marked as follows: first cycle with reddish for cytoskeletal filament proteins and yellowish for endocytic vesicles, second cycle with greenish for intermediate filaments and cyanish for metabolic organelles, third cycle with bluish for intranuclear structures. After nanobody cleavage, some leftover fluorescence remains from prior cycles. Identify where this residual signal is most prominently located.
+OPTIONS:
+0: Diffuse red staining in the cytosol the organelle image
+1: Faint cyan staining in the peroxisome image
+2: Residual yellow signal in the nuclear speckles
+3: Punctate vesicle signal that colocalizes with filaments
+4: Residual tubulin signal in the vimentin image
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: An image captured via advanced fluorescence microscopy using iterative immunofluorescence and NanoPlex on a single eukaryotic cell was processed. Across three cycles, a fluorescent nanobody was removed after each cycle. The cycles were marked as follows: first cycle with reddish for cytoskeletal filament proteins and yellowish for endocytic vesicles, second cycle with greenish for intermediate filaments and cyanish for metabolic organelles, third cycle with bluish for intranuclear structures. After nanobody cleavage, some leftover fluorescence remains from prior cycles. Identify where this residual signal is most prominently located.
+OPTIONS:
+0: Diffuse red staining in the cytosol the organelle image
+1: Faint cyan staining in the peroxisome image
+2: Residual yellow signal in the nuclear speckles
+3: Punctate vesicle signal that colocalizes with filaments
+4: Residual tubulin signal in the vimentin image
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,4,perception
+22,168,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy experiment employing sequential immunofluorescence staining with NanoPlex led to incomplete removal of the fluorescence nanobody, resulting in over half of the signal remaining uncleared. Given that bleaching methods do not effectively diminish the fluorescence signal between staining cycles, which alternative approach should be pursued?
+OPTIONS:
+0: Implementing a detergent wash between staining rounds
+1: Introducing a quenching step between staining cycles
+2: Eluting the antibodies between staining cycles
+3: Reducing the duration of each staining step to minimize stain accumulation
+4: Utilizing a different antibody conjugate with cleavable linkers
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy experiment employing sequential immunofluorescence staining with NanoPlex led to incomplete removal of the fluorescence nanobody, resulting in over half of the signal remaining uncleared. Given that bleaching methods do not effectively diminish the fluorescence signal between staining cycles, which alternative approach should be pursued?
+OPTIONS:
+0: Implementing a detergent wash between staining rounds
+1: Introducing a quenching step between staining cycles
+2: Eluting the antibodies between staining cycles
+3: Reducing the duration of each staining step to minimize stain accumulation
+4: Utilizing a different antibody conjugate with cleavable linkers
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,experiment_proposal
+23,174,"system
+You are a helpful assistant.
+user
+ QUESTION: In confocal microscopy images obtained using NanoPlex iterative immunofluorescence staining, nonspecific signals from previous staining rounds have been excluded. The proteins stained are tubulin (red), clathrin vesicles (yellow), vimentin (green), peroxisomes (cyan), and nuclear speckles (blue). Excluding the unspecific signal from previous rounds, do the observed localization patterns of these proteins accurately reflect their known cellular distributions?
+OPTIONS:
+0: Yes, the localization of all stained proteins is consistent with their known cellular functions and distributions.
+1: Yes, except for clathrin vesicles, which are usually found in the mitochondria.
+2: No, peroxisomes do not exhibit fluorescence in the cyan channel under these conditions.
+3: No, vimentin is typically localized to the cell nucleus, not the cytoplasm.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In confocal microscopy images obtained using NanoPlex iterative immunofluorescence staining, nonspecific signals from previous staining rounds have been excluded. The proteins stained are tubulin (red), clathrin vesicles (yellow), vimentin (green), peroxisomes (cyan), and nuclear speckles (blue). Excluding the unspecific signal from previous rounds, do the observed localization patterns of these proteins accurately reflect their known cellular distributions?
+OPTIONS:
+0: Yes, the localization of all stained proteins is consistent with their known cellular functions and distributions.
+1: Yes, except for clathrin vesicles, which are usually found in the mitochondria.
+2: No, peroxisomes do not exhibit fluorescence in the cyan channel under these conditions.
+3: No, vimentin is typically localized to the cell nucleus, not the cytoplasm.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,perception
+24,179,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopy image displays COS7 cells under three conditions: control, overexpressing VAP-B, and overexpressing PTPIP51. In the cells overexpressing VAP-B, how does the association between mitochondria and the endoplasmic reticulum differ from that in control cells?
+OPTIONS:
+0: VAP-B overexpression results in the clustering of mitochondria away from the endoplasmic reticulum.
+1: VAP-B overexpression causes a reduction in the number of mitochondria associated with the endoplasmic reticulum.
+2: VAP-B overexpression results in a higher density of contact sites between mitochondria and the endoplasmic reticulum.
+3: VAP-B overexpression induces a uniform distribution of mitochondria without altering their association with the endoplasmic reticulum.
+4: VAP-B overexpression leads to increased interactions between mitochondria and the endoplasmic reticulum.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopy image displays COS7 cells under three conditions: control, overexpressing VAP-B, and overexpressing PTPIP51. In the cells overexpressing VAP-B, how does the association between mitochondria and the endoplasmic reticulum differ from that in control cells?
+OPTIONS:
+0: VAP-B overexpression results in the clustering of mitochondria away from the endoplasmic reticulum.
+1: VAP-B overexpression causes a reduction in the number of mitochondria associated with the endoplasmic reticulum.
+2: VAP-B overexpression results in a higher density of contact sites between mitochondria and the endoplasmic reticulum.
+3: VAP-B overexpression induces a uniform distribution of mitochondria without altering their association with the endoplasmic reticulum.
+4: VAP-B overexpression leads to increased interactions between mitochondria and the endoplasmic reticulum.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,4,perception
+25,182,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image of cultured cortical microglia stained with Ligand A or Ligand B (red channel), CD11b (green channel), and DAPI (blue channel) exhibits a variation in CD11b intensity between the two treatments. What is the most plausible explanation for this observed difference in CD11b intensity?
+OPTIONS:
+0: Ligand A interferes with CD11b antibody binding, resulting in altered fluorescent signal.
+1: Differences in CD11b intensity are due to varying cell densities across treatments.
+2: Ligand B causes a redistribution of CD11b within the cells without altering its expression levels.
+3: Ligand A downregulates CD11b expression following cellular stress.
+4: Ligand A treatment leads to increased CD11b expression after cellular stress.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,4,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image of cultured cortical microglia stained with Ligand A or Ligand B (red channel), CD11b (green channel), and DAPI (blue channel) exhibits a variation in CD11b intensity between the two treatments. What is the most plausible explanation for this observed difference in CD11b intensity?
+OPTIONS:
+0: Ligand A interferes with CD11b antibody binding, resulting in altered fluorescent signal.
+1: Differences in CD11b intensity are due to varying cell densities across treatments.
+2: Ligand B causes a redistribution of CD11b within the cells without altering its expression levels.
+3: Ligand A downregulates CD11b expression following cellular stress.
+4: Ligand A treatment leads to increased CD11b expression after cellular stress.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,hypothesis_gen
+26,183,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays cultured cortical microglia stained with Sema4B-Fc or Fc-only (red channel), CD11b (green channel), and DAPI (blue channel). Notably, the Fc-only condition shows a significant reduction in red channel intensity compared to the Sema4B-Fc condition. What is the most likely interpretation of this observation?
+OPTIONS:
+0: Fc-only treatment reduces the expression of DAPI-stained nuclei.
+1: Fc-only treatment decreases the binding efficiency of the red fluorescent antibody.
+2: Sema4B-Fc enhances the binding of CD11b to microglia.
+3: Sema4B-Fc promotes the stability of the targeted protein, resulting in higher red channel intensity.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays cultured cortical microglia stained with Sema4B-Fc or Fc-only (red channel), CD11b (green channel), and DAPI (blue channel). Notably, the Fc-only condition shows a significant reduction in red channel intensity compared to the Sema4B-Fc condition. What is the most likely interpretation of this observation?
+OPTIONS:
+0: Fc-only treatment reduces the expression of DAPI-stained nuclei.
+1: Fc-only treatment decreases the binding efficiency of the red fluorescent antibody.
+2: Sema4B-Fc enhances the binding of CD11b to microglia.
+3: Sema4B-Fc promotes the stability of the targeted protein, resulting in higher red channel intensity.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,perception
+27,192,"system
+You are a helpful assistant.
+user
+ QUESTION: A study involves treating naive neurons with α-synuclein (α-syn) and co-culturing them with microglia (WT) for 6 hours to quantify mitochondrial elongation under various conditions. To further assess how mitochondria function within these cells, which of the following approaches would be most appropriate?
+OPTIONS:
+0: Utilize electron microscopy to observe the ultrastructure of mitochondria.
+1: Add markers for other organelles to evaluate mitochondrial interactions within the cell.
+2: Measure the mitochondrial DNA content to assess genetic stability.
+3: Perform assays to determine the mitochondrial membrane potential.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A study involves treating naive neurons with α-synuclein (α-syn) and co-culturing them with microglia (WT) for 6 hours to quantify mitochondrial elongation under various conditions. To further assess how mitochondria function within these cells, which of the following approaches would be most appropriate?
+OPTIONS:
+0: Utilize electron microscopy to observe the ultrastructure of mitochondria.
+1: Add markers for other organelles to evaluate mitochondrial interactions within the cell.
+2: Measure the mitochondrial DNA content to assess genetic stability.
+3: Perform assays to determine the mitochondrial membrane potential.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,experiment_proposal
+28,202,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image shows neurons with immunostaining for endoplasmic reticulum proteins and mitochondria stained with a red fluorescent marker. If the physical linkage between these two organelles is compromised, which of the following neuronal functions is most susceptible to this disturbance?
+OPTIONS:
+0: Mitochondrial oxidative phosphorylation regulation
+1: Neuronal signal transduction efficiency
+2: Protein turnover in neurofilaments
+3: Synaptic plasticity underlying learning and memory
+4: Neurotransmitter accumulation at synapses
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image shows neurons with immunostaining for endoplasmic reticulum proteins and mitochondria stained with a red fluorescent marker. If the physical linkage between these two organelles is compromised, which of the following neuronal functions is most susceptible to this disturbance?
+OPTIONS:
+0: Mitochondrial oxidative phosphorylation regulation
+1: Neuronal signal transduction efficiency
+2: Protein turnover in neurofilaments
+3: Synaptic plasticity underlying learning and memory
+4: Neurotransmitter accumulation at synapses
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,3,hypothesis_gen
+29,207,"system
+You are a helpful assistant.
+user
+ QUESTION: In an experiment, naive neurons (Ctrl) and α-syn-treated neurons (α-syn) were co-cultured with wild type microglia (Ctrl+WT and α-syn+WT) for 6 hours to quantify mitochondrial elongation. How does adding wild type microglia affect the mitochondrial morphology in neurons treated with α-syn?
+OPTIONS:
+0: It causes mitochondrial fragmentation, serving as a comparison to abnormal cells
+1: It increases mitochondrial elongation, promoting neuronal survival
+2: It has no significant effect on mitochondrial morphology
+3: It enhances mitochondrial fusion, improving cellular function
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In an experiment, naive neurons (Ctrl) and α-syn-treated neurons (α-syn) were co-cultured with wild type microglia (Ctrl+WT and α-syn+WT) for 6 hours to quantify mitochondrial elongation. How does adding wild type microglia affect the mitochondrial morphology in neurons treated with α-syn?
+OPTIONS:
+0: It causes mitochondrial fragmentation, serving as a comparison to abnormal cells
+1: It increases mitochondrial elongation, promoting neuronal survival
+2: It has no significant effect on mitochondrial morphology
+3: It enhances mitochondrial fusion, improving cellular function
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,perception
+30,214,"system
+You are a helpful assistant.
+user
+ QUESTION: An immunofluorescence (IF) image of cultured epithelial cells shows nuclei stained in blue and includes a green channel designated as a negative control. Unexpectedly, a signal is observed in the green channel. What is the most likely explanation for the observed signal?
+OPTIONS:
+0: Non-specific binding of the secondary antibody.
+1: Non-specific binding of the primary antibody to cellular structures.
+2: Innate autofluorescence of the cells.
+3: Signal overlap due to incorrect filter settings.
+4: Autofluorescence caused by residual media components.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: An immunofluorescence (IF) image of cultured epithelial cells shows nuclei stained in blue and includes a green channel designated as a negative control. Unexpectedly, a signal is observed in the green channel. What is the most likely explanation for the observed signal?
+OPTIONS:
+0: Non-specific binding of the secondary antibody.
+1: Non-specific binding of the primary antibody to cellular structures.
+2: Innate autofluorescence of the cells.
+3: Signal overlap due to incorrect filter settings.
+4: Autofluorescence caused by residual media components.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen
+31,217,"system
+You are a helpful assistant.
+user
+ QUESTION: In an intravital microscopy image of neutrophils in mouse liver, neutrophils are labeled with PE-anti-Ly6G in green, while blood vessels are labeled with AF647-WGA in purple. What does the green staining most likely indicate?
+OPTIONS:
+0: General distribution of neutrophils within the liver tissue
+1: Aggregation of neutrophils due to inflammation
+2: Non-specific binding of the PE-anti-Ly6G antibody
+3: Presence of neutrophil-derived migrasomes involved in haemostasis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In an intravital microscopy image of neutrophils in mouse liver, neutrophils are labeled with PE-anti-Ly6G in green, while blood vessels are labeled with AF647-WGA in purple. What does the green staining most likely indicate?
+OPTIONS:
+0: General distribution of neutrophils within the liver tissue
+1: Aggregation of neutrophils due to inflammation
+2: Non-specific binding of the PE-anti-Ly6G antibody
+3: Presence of neutrophil-derived migrasomes involved in haemostasis
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,perception
+32,219,"system
+You are a helpful assistant.
+user
+ QUESTION: A 2D tomogram of a fungal spore showcases several organelles. Which of the following organelles are not clearly visible in this image?
+OPTIONS:
+0: Mitochondria
+1: Sporoplasm
+2: Polar vesicle
+3: Golgi apparatus
+4: Exospore wall
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A 2D tomogram of a fungal spore showcases several organelles. Which of the following organelles are not clearly visible in this image?
+OPTIONS:
+0: Mitochondria
+1: Sporoplasm
+2: Polar vesicle
+3: Golgi apparatus
+4: Exospore wall
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,0,perception
+33,226,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy micrograph displays an interaction between tanycyte, presynaptic, and postsynaptic parts. The yellow shaded region is highlighted within this image. 
+
+What is the yellow shaded region most likely representing?
+OPTIONS:
+0: Tanycyte end-feet
+1: Synaptic vesicles
+2: Postsynaptic density
+3: Presynaptic terminal
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,2,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy micrograph displays an interaction between tanycyte, presynaptic, and postsynaptic parts. The yellow shaded region is highlighted within this image. 
+
+What is the yellow shaded region most likely representing?
+OPTIONS:
+0: Tanycyte end-feet
+1: Synaptic vesicles
+2: Postsynaptic density
+3: Presynaptic terminal
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,perception
+34,229,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy micrograph displays interactions between a tanycyte, a presynaptic part, and a postsynaptic part. In the image, a red shaded region is highlighted. What does the red shaded region most likely represent?
+OPTIONS:
+0: Tanycyte
+1: Postsynaptic density
+2: Astrocyte
+3: Presynaptic terminal
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy micrograph displays interactions between a tanycyte, a presynaptic part, and a postsynaptic part. In the image, a red shaded region is highlighted. What does the red shaded region most likely represent?
+OPTIONS:
+0: Tanycyte
+1: Postsynaptic density
+2: Astrocyte
+3: Presynaptic terminal
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,perception
+35,232,"system
+You are a helpful assistant.
+user
+ QUESTION: A transmission electron microscopy (TEM) image of eukaryotic cells exhibits organelles featuring a centrally located darker region. Which intracellular structure could this darker area most likely indicate?
+OPTIONS:
+0: Nucleus
+1: Cytosol
+2: Golgi Apparatus
+3: Mitochondrial matrix
+4: Lysosome
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A transmission electron microscopy (TEM) image of eukaryotic cells exhibits organelles featuring a centrally located darker region. Which intracellular structure could this darker area most likely indicate?
+OPTIONS:
+0: Nucleus
+1: Cytosol
+2: Golgi Apparatus
+3: Mitochondrial matrix
+4: Lysosome
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,perception
+36,233,"system
+You are a helpful assistant.
+user
+ QUESTION: A transmission electron microscopy (TEM) image of eukaryotic cells shows arrows pointing at a membranous structure intricately linked with an organelle responsible for energy conversion and lipid metabolism. Identify the structure indicated by the arrows.
+OPTIONS:
+0: Nuclear envelope
+1: Endoplasmic reticulum (ER) membrane
+2: Outer mitochondrial membrane
+3: Mitochondrial cristae
+4: Endosomal compartments
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A transmission electron microscopy (TEM) image of eukaryotic cells shows arrows pointing at a membranous structure intricately linked with an organelle responsible for energy conversion and lipid metabolism. Identify the structure indicated by the arrows.
+OPTIONS:
+0: Nuclear envelope
+1: Endoplasmic reticulum (ER) membrane
+2: Outer mitochondrial membrane
+3: Mitochondrial cristae
+4: Endosomal compartments
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception
+37,243,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryo-electron microscopy (cryo-EM) micrograph of lipidic Aβ40 fibrils displays several arrows pointing to specific formations within the sample. What structures are the arrows highlighting?
+OPTIONS:
+0: Partial vesicular membranes interacting with fibrils
+1: Incomplete liposomes in contact with fibrils
+2: Amorphous lipid aggregates surrounding fibrils
+3: Fully enclosed vesicles containing fibrils
+4: Lipid bilayer disruptions adjacent to fibrils
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryo-electron microscopy (cryo-EM) micrograph of lipidic Aβ40 fibrils displays several arrows pointing to specific formations within the sample. What structures are the arrows highlighting?
+OPTIONS:
+0: Partial vesicular membranes interacting with fibrils
+1: Incomplete liposomes in contact with fibrils
+2: Amorphous lipid aggregates surrounding fibrils
+3: Fully enclosed vesicles containing fibrils
+4: Lipid bilayer disruptions adjacent to fibrils
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,perception
+38,247,"system
+You are a helpful assistant.
+user
+ QUESTION: In a study, fluorescently tagged eukaryotic cells were tested for their response to a sudden change in intracellular environment using a novel signal protein attached to an import sequence for targeted organelles. The cells, maintained under special conditions before being exposed to a stimulant, included a subset where a protein was suppressed through a molecular technique. Initial imaging showed no apparent difference between those with and without the suppression. However, after the stimulant was applied, cells without suppression showed vibrant fluorescence in certain organelles, while those with suppression showed minimal change. Based on this outcome, what role is the suppressed protein likely involved in?
+OPTIONS:
+0: Lipid biosynthesis
+1: Regulation of signal transduction
+2: Mitochondrial calcium uptake
+3: Vesicular trafficking pathways
+4: DNA replication
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,2,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In a study, fluorescently tagged eukaryotic cells were tested for their response to a sudden change in intracellular environment using a novel signal protein attached to an import sequence for targeted organelles. The cells, maintained under special conditions before being exposed to a stimulant, included a subset where a protein was suppressed through a molecular technique. Initial imaging showed no apparent difference between those with and without the suppression. However, after the stimulant was applied, cells without suppression showed vibrant fluorescence in certain organelles, while those with suppression showed minimal change. Based on this outcome, what role is the suppressed protein likely involved in?
+OPTIONS:
+0: Lipid biosynthesis
+1: Regulation of signal transduction
+2: Mitochondrial calcium uptake
+3: Vesicular trafficking pathways
+4: DNA replication
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,hypothesis_gen
+39,252,"system
+You are a helpful assistant.
+user
+ QUESTION: A double in situ hybridization microscopy image displays Sema4B in the red channel, CX3CR1 (a microglia/macrophage marker) in the green channel, and DAPI in the blue channel. What is the primary role of CX3CR1 in microglial cells?
+OPTIONS:
+0: Regulating microglial proliferation and survival
+1: Facilitating chemotactic migration of microglia
+2: Acting as a transmembrane receptor involved in microglial signaling
+3: Modulating phagocytic activity in microglia
+4: Initiating antigen presentation in microglial cells
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A double in situ hybridization microscopy image displays Sema4B in the red channel, CX3CR1 (a microglia/macrophage marker) in the green channel, and DAPI in the blue channel. What is the primary role of CX3CR1 in microglial cells?
+OPTIONS:
+0: Regulating microglial proliferation and survival
+1: Facilitating chemotactic migration of microglia
+2: Acting as a transmembrane receptor involved in microglial signaling
+3: Modulating phagocytic activity in microglia
+4: Initiating antigen presentation in microglial cells
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,hypothesis_gen
+40,265,"system
+You are a helpful assistant.
+user
+ QUESTION: In a study examining wild-type and BT-IgSF–deficient astrocytes stained with γ-adaptin antibodies specific for secretory vesicles, what is the primary function of y-adaptin in wild-type cells?
+OPTIONS:
+0: y-adaptin regulates the sorting of proteins within the Golgi apparatus and endosomes
+1: y-adaptin facilitates the trafficking of vesicles between the endoplasmic reticulum and the Golgi
+2: y-adaptin plays a role in the stabilization of microtubules during vesicle transport
+3: y-adaptin traffics proteins to the membrane through the Golgi and endosomes
+4: y-adaptin is involved in the recycling of membrane receptors during endocytosis
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In a study examining wild-type and BT-IgSF–deficient astrocytes stained with γ-adaptin antibodies specific for secretory vesicles, what is the primary function of y-adaptin in wild-type cells?
+OPTIONS:
+0: y-adaptin regulates the sorting of proteins within the Golgi apparatus and endosomes
+1: y-adaptin facilitates the trafficking of vesicles between the endoplasmic reticulum and the Golgi
+2: y-adaptin plays a role in the stabilization of microtubules during vesicle transport
+3: y-adaptin traffics proteins to the membrane through the Golgi and endosomes
+4: y-adaptin is involved in the recycling of membrane receptors during endocytosis
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,hypothesis_gen
+41,266,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays wild-type and BT-IgSF–deficient astrocytes stained with γ-adaptin antibodies specific for secretory vesicles. To investigate the effect of y-adaptin on cx43, which of the following experimental approaches would be most appropriate?
+OPTIONS:
+0: Inhibit γ-adaptin function and observe changes in cx43 expression
+1: Use siRNA to reduce cx43 expression and evaluate y-adaptin activity
+2: Overexpress y-adaptin in astrocytes and measure cx43 levels
+3: Knockout y-adaptin specifically and assess cx43 localization
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image displays wild-type and BT-IgSF–deficient astrocytes stained with γ-adaptin antibodies specific for secretory vesicles. To investigate the effect of y-adaptin on cx43, which of the following experimental approaches would be most appropriate?
+OPTIONS:
+0: Inhibit γ-adaptin function and observe changes in cx43 expression
+1: Use siRNA to reduce cx43 expression and evaluate y-adaptin activity
+2: Overexpress y-adaptin in astrocytes and measure cx43 levels
+3: Knockout y-adaptin specifically and assess cx43 localization
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,experiment_proposal
+42,271,"system
+You are a helpful assistant.
+user
+ QUESTION: In a fluorescence microscopy experiment, gRNAs are sequenced in their natural location using five distinct fluorescent channels: white indicates the nucleus, cyan represents nucleotide G, green stands for nucleotide T, magenta signifies nucleotide A, and red denotes nucleotide C. The sequencing process involves ten iterative cycles, with each cycle incorporating an additional nucleotide into the gRNA sequence. Under optimal conditions, each individual cell is expected to produce only one type of gRNA, and the majority of cells should generate unique gRNAs. Observations in the later cycles, particularly in cycle 9, show a predominant fluorescent signal. What is the most probable interpretation of this finding?
+OPTIONS:
+0: The majority of cells are expressing nucleotide A in their gRNA sequences.
+1: Nucleotide A is being selectively incorporated in later sequencing cycles.
+2: The majority signal remaining in later cycles corresponds to nucleotide A.
+3: The is reduced expression of nucleotide A in the final sequencing cycles.
+4: There is increased diversity of nucleotides expressed in the final sequencing cycles.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In a fluorescence microscopy experiment, gRNAs are sequenced in their natural location using five distinct fluorescent channels: white indicates the nucleus, cyan represents nucleotide G, green stands for nucleotide T, magenta signifies nucleotide A, and red denotes nucleotide C. The sequencing process involves ten iterative cycles, with each cycle incorporating an additional nucleotide into the gRNA sequence. Under optimal conditions, each individual cell is expected to produce only one type of gRNA, and the majority of cells should generate unique gRNAs. Observations in the later cycles, particularly in cycle 9, show a predominant fluorescent signal. What is the most probable interpretation of this finding?
+OPTIONS:
+0: The majority of cells are expressing nucleotide A in their gRNA sequences.
+1: Nucleotide A is being selectively incorporated in later sequencing cycles.
+2: The majority signal remaining in later cycles corresponds to nucleotide A.
+3: The is reduced expression of nucleotide A in the final sequencing cycles.
+4: There is increased diversity of nucleotides expressed in the final sequencing cycles.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,perception
+43,272,"system
+You are a helpful assistant.
+user
+ QUESTION: A population of cultured eukaryotic cells has undergone in situ gRNA sequencing utilizing five distinct fluorescent channels to identify nucleotide bases: white indicates the nucleus, while cyan, green, magenta, and red correspond to guanine (G), thymine (T), adenine (A), and cytosine (C) respectively. The sequencing procedure comprises ten iterative cycles, each determining a new base of the gRNA sequence. By the tenth cycle, numerous cells display a reduction in clear sequencing signals alongside an escalation in background fluorescence, hindering the accurate identification of the nucleotide present.
+
+What is the most probable cause for the difficulty in determining the base present in the tenth cycle for these cells?
+OPTIONS:
+0: Thermal fluctuations affecting the stability of fluorescent complexes during sequencing
+1: Interference from overlapping emission spectra of similar fluorescent dyes
+2: Reduction in signal clarity from extended imaging processes over multiple cycles
+3: Degradation of fluorescent markers due to prolonged exposure to sequencing conditions
+4: Accumulation of non-specific binding agents increasing background fluorescence
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A population of cultured eukaryotic cells has undergone in situ gRNA sequencing utilizing five distinct fluorescent channels to identify nucleotide bases: white indicates the nucleus, while cyan, green, magenta, and red correspond to guanine (G), thymine (T), adenine (A), and cytosine (C) respectively. The sequencing procedure comprises ten iterative cycles, each determining a new base of the gRNA sequence. By the tenth cycle, numerous cells display a reduction in clear sequencing signals alongside an escalation in background fluorescence, hindering the accurate identification of the nucleotide present.
+
+What is the most probable cause for the difficulty in determining the base present in the tenth cycle for these cells?
+OPTIONS:
+0: Thermal fluctuations affecting the stability of fluorescent complexes during sequencing
+1: Interference from overlapping emission spectra of similar fluorescent dyes
+2: Reduction in signal clarity from extended imaging processes over multiple cycles
+3: Degradation of fluorescent markers due to prolonged exposure to sequencing conditions
+4: Accumulation of non-specific binding agents increasing background fluorescence
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,perception
+44,277,"system
+You are a helpful assistant.
+user
+ QUESTION: In an in situ sequencing experiment, cultured cells are imaged over ten sequencing rounds using five fluorescent channels: white for the nucleus, cyan for base G, green for base T, magenta for base A, and red for base C. Each sequencing round adds a new base to the gRNA, with each cell expected to express only one type of gRNA. However, images from the latter rounds show an accumulation of background signal. What is the most likely reason for this background accumulation?
+OPTIONS:
+0: Non-specific binding of gRNAs to multiple cellular targets
+1: Incomplete washes of the nucleotide incorporation mix
+2: Photobleaching of fluorescent signals in the initial rounds
+3: Cross-reactivity of fluorescent antibodies used in earlier rounds
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,1,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In an in situ sequencing experiment, cultured cells are imaged over ten sequencing rounds using five fluorescent channels: white for the nucleus, cyan for base G, green for base T, magenta for base A, and red for base C. Each sequencing round adds a new base to the gRNA, with each cell expected to express only one type of gRNA. However, images from the latter rounds show an accumulation of background signal. What is the most likely reason for this background accumulation?
+OPTIONS:
+0: Non-specific binding of gRNAs to multiple cellular targets
+1: Incomplete washes of the nucleotide incorporation mix
+2: Photobleaching of fluorescent signals in the initial rounds
+3: Cross-reactivity of fluorescent antibodies used in earlier rounds
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,1,hypothesis_gen
+45,285,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal microscopy images visualize organelle compartments within mammalian cells labeled with markers specific to ER, mitochondria, Golgi, nucleus, and lysosomes. What distinctive feature do these images highlight in the arrangement of these structures?
+OPTIONS:
+0: The organelle markers are distinctly absent from specific cell regions, indicating compartmental segregation.
+1: The cellular structures display overlapping fluorescence signals, suggesting potential colocalization.
+2: The labels suggest a mere increase in brightness, without notable structural changes.
+3: The organelles demonstrate clustered patterns away from typical locations, pointing to unusual localization.
+4: The organelles present a scattered pattern within the cells, hinting at a possible distribution anomaly.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal microscopy images visualize organelle compartments within mammalian cells labeled with markers specific to ER, mitochondria, Golgi, nucleus, and lysosomes. What distinctive feature do these images highlight in the arrangement of these structures?
+OPTIONS:
+0: The organelle markers are distinctly absent from specific cell regions, indicating compartmental segregation.
+1: The cellular structures display overlapping fluorescence signals, suggesting potential colocalization.
+2: The labels suggest a mere increase in brightness, without notable structural changes.
+3: The organelles demonstrate clustered patterns away from typical locations, pointing to unusual localization.
+4: The organelles present a scattered pattern within the cells, hinting at a possible distribution anomaly.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,perception
+46,286,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal fluorescence microscopy images of Giant Organelle Vesicles (GOVs) in COS7 cells were stained for the endoplasmic reticulum (ER) using two distinct fluorescent markers: GFP-Kdel and sec61β-mCherry. What is the primary difference in ER localization patterns observed when using GFP-Kdel compared to sec61β-mCherry for staining these GOVs?
+OPTIONS:
+0: GFP-Kdel selectively binds to the rough ER regions, while sec61β-mCherry targets the smooth ER areas.
+1: GFP-Kdel marks the central lumen of the GOVs, whereas sec61β-mCherry outlines the structural boundaries.
+2: GFP-Kdel and sec61β-mCherry both label the ER uniformly, but GFP-Kdel also highlights mitochondrial interactions.
+3: GFP-Kdel is primarily localized to the ER exit sites, while sec61β-mCherry is found throughout the ER network.
+4: GFP-Kdel is distributed throughout the GOVs, whereas sec61β-mCherry localizes to the outer membrane of the GOVs.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal fluorescence microscopy images of Giant Organelle Vesicles (GOVs) in COS7 cells were stained for the endoplasmic reticulum (ER) using two distinct fluorescent markers: GFP-Kdel and sec61β-mCherry. What is the primary difference in ER localization patterns observed when using GFP-Kdel compared to sec61β-mCherry for staining these GOVs?
+OPTIONS:
+0: GFP-Kdel selectively binds to the rough ER regions, while sec61β-mCherry targets the smooth ER areas.
+1: GFP-Kdel marks the central lumen of the GOVs, whereas sec61β-mCherry outlines the structural boundaries.
+2: GFP-Kdel and sec61β-mCherry both label the ER uniformly, but GFP-Kdel also highlights mitochondrial interactions.
+3: GFP-Kdel is primarily localized to the ER exit sites, while sec61β-mCherry is found throughout the ER network.
+4: GFP-Kdel is distributed throughout the GOVs, whereas sec61β-mCherry localizes to the outer membrane of the GOVs.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,4,perception
+47,299,"system
+You are a helpful assistant.
+user
+ QUESTION: In an electron microscopy image of *Toxoplasma gondii*, two organelles are observed in close proximity at contact sites. What is the most likely functional significance of these organelle contact sites?
+OPTIONS:
+0: Managing the post-translational modification of proteins for secretion
+1: Buffering cytoplasmic calcium in response to oxidative stress
+2: Coordinating gene expression and metabolic regulation
+3: Modulating structural stability through cytoskeletal-organelle contacts
+4: Facilitating the uptake of environmental metabolites essential for energy production
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,2,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In an electron microscopy image of *Toxoplasma gondii*, two organelles are observed in close proximity at contact sites. What is the most likely functional significance of these organelle contact sites?
+OPTIONS:
+0: Managing the post-translational modification of proteins for secretion
+1: Buffering cytoplasmic calcium in response to oxidative stress
+2: Coordinating gene expression and metabolic regulation
+3: Modulating structural stability through cytoskeletal-organelle contacts
+4: Facilitating the uptake of environmental metabolites essential for energy production
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,hypothesis_gen
+48,300,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy image of extracellular Toxoplasma gondii shows the nucleus closely adjacent to the mitochondria. Within the mitochondria, distinct dark circular structures are prominently visible. What are these dark circular structures most likely representing?
+OPTIONS:
+0: Mitochondrial outer membrane
+1: Cristae
+2: Mitochondrial vesicles
+3: Mitochondrial ribosomes
+4: Mitochondrial nucleoids
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: An electron microscopy image of extracellular Toxoplasma gondii shows the nucleus closely adjacent to the mitochondria. Within the mitochondria, distinct dark circular structures are prominently visible. What are these dark circular structures most likely representing?
+OPTIONS:
+0: Mitochondrial outer membrane
+1: Cristae
+2: Mitochondrial vesicles
+3: Mitochondrial ribosomes
+4: Mitochondrial nucleoids
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,perception
+49,309,"system
+You are a helpful assistant.
+user
+ QUESTION: In a detailed fluorescence microscopy image, the NCAN C-terminal is prominently seen across the extracellular scaffold structures associated with neurons. What is the plausible primary function of the NCAN C-terminal in this visible distribution?
+OPTIONS:
+0: Participating in synaptic signal transmission
+1: Encapsulating extracellular matrix components for protection
+2: Inhibiting the spread of extracellular matrix degradation
+3: Facilitating cellular adhesion within the neuronal regions
+4: Stabilizing the structural integrity of the extracellular matrix
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In a detailed fluorescence microscopy image, the NCAN C-terminal is prominently seen across the extracellular scaffold structures associated with neurons. What is the plausible primary function of the NCAN C-terminal in this visible distribution?
+OPTIONS:
+0: Participating in synaptic signal transmission
+1: Encapsulating extracellular matrix components for protection
+2: Inhibiting the spread of extracellular matrix degradation
+3: Facilitating cellular adhesion within the neuronal regions
+4: Stabilizing the structural integrity of the extracellular matrix
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,hypothesis_gen
+50,312,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal fluorescence microscopy image of eukaryotic cells, an unknown N-terminal is observed surrounding the central organelle cluster, indicated by a cerulean staining pattern. What could be the most plausible reason for this N-terminal localization?
+OPTIONS:
+0: The N-terminal fragments play a role in extracellular matrix formulation and synaptic connectivity within cell clusters.
+1: The N-terminal molecules undergo active transport to essential cellular sites due to their functional roles in membrane synthesis.
+2: The N-terminal is associated with the energy production process and is localized with organelles known for metabolism support.
+3: The N-terminal facilitates intracellular communication and stabilizes membrane junctions outside the cell.
+4: The N-terminal assists in structural reinforcement in proximity to cellular scaffolding structures.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal fluorescence microscopy image of eukaryotic cells, an unknown N-terminal is observed surrounding the central organelle cluster, indicated by a cerulean staining pattern. What could be the most plausible reason for this N-terminal localization?
+OPTIONS:
+0: The N-terminal fragments play a role in extracellular matrix formulation and synaptic connectivity within cell clusters.
+1: The N-terminal molecules undergo active transport to essential cellular sites due to their functional roles in membrane synthesis.
+2: The N-terminal is associated with the energy production process and is localized with organelles known for metabolism support.
+3: The N-terminal facilitates intracellular communication and stabilizes membrane junctions outside the cell.
+4: The N-terminal assists in structural reinforcement in proximity to cellular scaffolding structures.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,0,hypothesis_gen
+51,325,"system
+You are a helpful assistant.
+user
+ QUESTION: A high-resolution confocal microscopy image of eukaryotic cells highlights blue for nuclei, red for cytoskeletal elements, and green for an unspecified target protein. The green protein is observed as concentrated patches scattered throughout the cell's interior. Based on this staining pattern, which scenario is most likely occurring with this green protein?
+OPTIONS:
+0: The protein is concentrated in areas facilitating cell-to-cell adhesion, contributing to structural stability.
+1: The protein forms aggregation nodules as a response to environmental stimuli.
+2: The protein is involved in the recruitment and assembly of vesicular trafficking machinery.
+3: The protein aggregates into organized structures around misfolded counterparts that need isolation.
+4: The protein participates in the modulation of intracellular signaling nodes.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A high-resolution confocal microscopy image of eukaryotic cells highlights blue for nuclei, red for cytoskeletal elements, and green for an unspecified target protein. The green protein is observed as concentrated patches scattered throughout the cell's interior. Based on this staining pattern, which scenario is most likely occurring with this green protein?
+OPTIONS:
+0: The protein is concentrated in areas facilitating cell-to-cell adhesion, contributing to structural stability.
+1: The protein forms aggregation nodules as a response to environmental stimuli.
+2: The protein is involved in the recruitment and assembly of vesicular trafficking machinery.
+3: The protein aggregates into organized structures around misfolded counterparts that need isolation.
+4: The protein participates in the modulation of intracellular signaling nodes.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,3,hypothesis_gen
+52,330,"system
+You are a helpful assistant.
+user
+ QUESTION: In fluorescence microscopy of eukaryotic cells stained with DAPI for DNA, α-tubulin to highlight microtubules, and a target antibody to mark a protein of interest, where is the localization of the target antibody expected to be most prominent during mitosis using green fluorescent labeling?
+OPTIONS:
+0: Bound to the chromatin surface
+1: Contained within the newly forming nuclear envelope
+2: Dispersed evenly throughout the cytosol
+3: Aggregated at the centrosomes
+4: Aligned along the metaphase plate
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,0,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: In fluorescence microscopy of eukaryotic cells stained with DAPI for DNA, α-tubulin to highlight microtubules, and a target antibody to mark a protein of interest, where is the localization of the target antibody expected to be most prominent during mitosis using green fluorescent labeling?
+OPTIONS:
+0: Bound to the chromatin surface
+1: Contained within the newly forming nuclear envelope
+2: Dispersed evenly throughout the cytosol
+3: Aggregated at the centrosomes
+4: Aligned along the metaphase plate
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,0,experiment_proposal
+53,332,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal microscopy images of A-431 cells stained with DAPI (blue), α-tubulin (red), and a target protein (green) show variability in the shape of nuclear staining between different cells. What is the most likely reason for this variation in nuclear staining shape?
+OPTIONS:
+0: Variations in nucleoli size and transcriptional activity
+1: Uneven distribution of DAPI staining within the nucleus
+2: Artifacts introduced by the fluorescence microscopy technique
+3: Differences in the number of nuclei per cell
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: Confocal microscopy images of A-431 cells stained with DAPI (blue), α-tubulin (red), and a target protein (green) show variability in the shape of nuclear staining between different cells. What is the most likely reason for this variation in nuclear staining shape?
+OPTIONS:
+0: Variations in nucleoli size and transcriptional activity
+1: Uneven distribution of DAPI staining within the nucleus
+2: Artifacts introduced by the fluorescence microscopy technique
+3: Differences in the number of nuclei per cell
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,hypothesis_gen
+54,334,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy experiment shows heterogeneous expression levels of a particular protein in a population of human epithelial cells. To investigate whether this heterogeneity is linked to distinct stages of the cell cycle, which of the following experimental methods would be most suitable?
+OPTIONS:
+0: Conduct a mass spectrometry analysis to measure overall protein abundance in the cell population.
+1: Utilize flow cytometry with DNA content analysis to segregate cells based on cell cycle phases before assessing protein levels.
+2: Employ immunofluorescence staining with phase-specific antibodies, such as cyclin D or p21, to associate protein expression with cell cycle stages.
+3: Implement CRISPR-Cas9 gene editing to create knockout cell lines and study the effects on protein expression.
+4: Apply confocal microscopy to obtain high-resolution images of protein localization within cells.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,2,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy experiment shows heterogeneous expression levels of a particular protein in a population of human epithelial cells. To investigate whether this heterogeneity is linked to distinct stages of the cell cycle, which of the following experimental methods would be most suitable?
+OPTIONS:
+0: Conduct a mass spectrometry analysis to measure overall protein abundance in the cell population.
+1: Utilize flow cytometry with DNA content analysis to segregate cells based on cell cycle phases before assessing protein levels.
+2: Employ immunofluorescence staining with phase-specific antibodies, such as cyclin D or p21, to associate protein expression with cell cycle stages.
+3: Implement CRISPR-Cas9 gene editing to create knockout cell lines and study the effects on protein expression.
+4: Apply confocal microscopy to obtain high-resolution images of protein localization within cells.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,2,experiment_proposal
+55,340,"system
+You are a helpful assistant.
+user
+ QUESTION: In cryo-electron tomography of patient-derived cellular structures, a series of high tilt images appears blurred after performing standard motion correction. Assuming the imaging conditions, such as electron dose, were within optimal parameters, which factor is most likely causing these images to remain unclear?
+OPTIONS:
+0: External vibrations during imaging causing overall distortion.
+1: Insufficient cryoprotectant causing structural collapse and deformation.
+2: Pixel sensor anomalies leading to false readings and artifacts.
+3: Incorrect alignment of tilt phase images during averaging, leading to residual blurring.
+4: Whole-frame based motion correction not accounting for internal movements.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: In cryo-electron tomography of patient-derived cellular structures, a series of high tilt images appears blurred after performing standard motion correction. Assuming the imaging conditions, such as electron dose, were within optimal parameters, which factor is most likely causing these images to remain unclear?
+OPTIONS:
+0: External vibrations during imaging causing overall distortion.
+1: Insufficient cryoprotectant causing structural collapse and deformation.
+2: Pixel sensor anomalies leading to false readings and artifacts.
+3: Incorrect alignment of tilt phase images during averaging, leading to residual blurring.
+4: Whole-frame based motion correction not accounting for internal movements.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,4,hypothesis_gen
+56,357,"system
+You are a helpful assistant.
+user
+ QUESTION: High-resolution cryo-electron microscopy (cryoEM) images of rectangular cell-like units (RCUs) from dolphin mouth swabs reveal long linear features extending from the edges of the RCUs. What are these linear features most likely to represent?
+OPTIONS:
+0: Pili-like appendages
+1: Flagella-like structures
+2: Extracellular matrix fibers
+3: Cellular artifacts from sample preparation
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: High-resolution cryo-electron microscopy (cryoEM) images of rectangular cell-like units (RCUs) from dolphin mouth swabs reveal long linear features extending from the edges of the RCUs. What are these linear features most likely to represent?
+OPTIONS:
+0: Pili-like appendages
+1: Flagella-like structures
+2: Extracellular matrix fibers
+3: Cellular artifacts from sample preparation
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen
+57,367,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image shows eukaryotic stem cells differentiating into neurons over a period, stained with Keima-RAMP4 (a pH-sensitive endoplasmic reticulum reporter). Over time, fluorescent purple markers become increasingly localized to the neuronal projections. What is the most likely explanation for this observed distribution pattern?
+OPTIONS:
+0: Accumulation of acidic vesicles within neuronal projections
+1: Enhanced activity of proton pumps in the endoplasmic reticulum of projections
+2: Localization of pH-sensitive ion channels to neuronal projections
+3: Increased interactions between the endoplasmic reticulum and acidic lysosomes
+4: Redistribution of endoplasmic reticulum calcium stores towards projections
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A fluorescence microscopy image shows eukaryotic stem cells differentiating into neurons over a period, stained with Keima-RAMP4 (a pH-sensitive endoplasmic reticulum reporter). Over time, fluorescent purple markers become increasingly localized to the neuronal projections. What is the most likely explanation for this observed distribution pattern?
+OPTIONS:
+0: Accumulation of acidic vesicles within neuronal projections
+1: Enhanced activity of proton pumps in the endoplasmic reticulum of projections
+2: Localization of pH-sensitive ion channels to neuronal projections
+3: Increased interactions between the endoplasmic reticulum and acidic lysosomes
+4: Redistribution of endoplasmic reticulum calcium stores towards projections
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,hypothesis_gen
+58,371,"system
+You are a helpful assistant.
+user
+ QUESTION: A set of immunofluorescent images of stem cell cultures differentiating over 12 days shows cells stained with a pH-sensitive fluorescent marker. Images from days 0, 1, 4, and 12 show a progressive increase in purple staining. What is the most likely explanation for this increase of purple staining in the images?
+OPTIONS:
+0: Accumulation of acidic solvents affecting overall cell pH and stain response.
+1: Elevated mitochondrial activity leading to fluctuations in cellular pH.
+2: Enhanced protein translation processes within the cells over time due to maturation.
+3: Significant alterations in Golgi apparatus synthesis reflecting physiological changes.
+4: Increased ER degradation processes, which change the internal pH environment.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,4,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A set of immunofluorescent images of stem cell cultures differentiating over 12 days shows cells stained with a pH-sensitive fluorescent marker. Images from days 0, 1, 4, and 12 show a progressive increase in purple staining. What is the most likely explanation for this increase of purple staining in the images?
+OPTIONS:
+0: Accumulation of acidic solvents affecting overall cell pH and stain response.
+1: Elevated mitochondrial activity leading to fluctuations in cellular pH.
+2: Enhanced protein translation processes within the cells over time due to maturation.
+3: Significant alterations in Golgi apparatus synthesis reflecting physiological changes.
+4: Increased ER degradation processes, which change the internal pH environment.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,4,perception
+59,373,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image displays eukaryotic cells expressing histone-mCherry (magenta) for chromatin visualization and a protein-GFP (green) for structural organization. Based on the mixed fluorescence signals in different regions of the cell, which cellular event is most likely depicted in this image?
+OPTIONS:
+0: Pachytene
+1: Interphase
+2: Meiosis
+3: Mitosis
+4: Parthenogenesis
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image displays eukaryotic cells expressing histone-mCherry (magenta) for chromatin visualization and a protein-GFP (green) for structural organization. Based on the mixed fluorescence signals in different regions of the cell, which cellular event is most likely depicted in this image?
+OPTIONS:
+0: Pachytene
+1: Interphase
+2: Meiosis
+3: Mitosis
+4: Parthenogenesis
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,hypothesis_gen
+60,374,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal microscopy time-lapse study of human cells expressing fluorescently tagged proteins, the magenta signal indicates nuclear activity whereas the green signal corresponds to a membrane-associated protein. Before the breakdown of the nuclear envelope, the green signal is seen predominantly in the cytosol. Following approximately 10 minutes, the signal shifts to another prominent location before returning to the cytosol once mitosis concludes. How would you describe the behavior of the green signal during mitosis based on these observations?
+OPTIONS:
+0: The green signal disperses uniformly within the cytosol during all stages of mitosis.
+1: The green signal moves briefly to an external cell boundary after nuclear envelope breakdown, reverting after mitosis completion.
+2: The green signal shows accumulation around the nuclear region without any distinct membrane interaction.
+3: The green signal is seen fluctuating at the plasma membrane during mitosis, noticeable about 10 minutes after nuclear envelope breakdown.
+4: The green signal remains consistently in the cytosol throughout mitosis.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,1,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal microscopy time-lapse study of human cells expressing fluorescently tagged proteins, the magenta signal indicates nuclear activity whereas the green signal corresponds to a membrane-associated protein. Before the breakdown of the nuclear envelope, the green signal is seen predominantly in the cytosol. Following approximately 10 minutes, the signal shifts to another prominent location before returning to the cytosol once mitosis concludes. How would you describe the behavior of the green signal during mitosis based on these observations?
+OPTIONS:
+0: The green signal disperses uniformly within the cytosol during all stages of mitosis.
+1: The green signal moves briefly to an external cell boundary after nuclear envelope breakdown, reverting after mitosis completion.
+2: The green signal shows accumulation around the nuclear region without any distinct membrane interaction.
+3: The green signal is seen fluctuating at the plasma membrane during mitosis, noticeable about 10 minutes after nuclear envelope breakdown.
+4: The green signal remains consistently in the cytosol throughout mitosis.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,perception
+61,376,"system
+You are a helpful assistant.
+user
+ QUESTION: A time-lapse confocal microscopy image of HeLa cells expresses H2B-mCherry in magenta and PLEKHA5-GFP in green. A blotch of signal is observed in the bottom right corner of all images due to a cell not being in the focus plane. Why is the bottom left corner cell located in a different focus plane?
+OPTIONS:
+0: The cell is in interphase, resulting in a larger cell size.
+1: The cell is undergoing mitosis, causing it to be positioned at a higher plane.
+2: The cell is experiencing necrosis, resulting in cellular swelling.
+3: The cell is undergoing apoptosis, leading to cytoplasmic condensation.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,1,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A time-lapse confocal microscopy image of HeLa cells expresses H2B-mCherry in magenta and PLEKHA5-GFP in green. A blotch of signal is observed in the bottom right corner of all images due to a cell not being in the focus plane. Why is the bottom left corner cell located in a different focus plane?
+OPTIONS:
+0: The cell is in interphase, resulting in a larger cell size.
+1: The cell is undergoing mitosis, causing it to be positioned at a higher plane.
+2: The cell is experiencing necrosis, resulting in cellular swelling.
+3: The cell is undergoing apoptosis, leading to cytoplasmic condensation.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,1,hypothesis_gen
+62,385,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal microscopy image of live HEK293 cells stained with lipid dye X (cyan), lipid dye Y (magenta), and Hoechst for nuclei, what is the most likely reason for the observed relationship between the cyan and magenta fluorescence signals?
+OPTIONS:
+0: Dye X localizes to distinct compartments than those targeted by Dye Y, leading to minimal colocalization.
+1: Both Dye X and Dye Y are non-specific dyes that distribute uniformly across the entire cell.
+2: Dye X and Dye Y bind to complementary cellular components, resulting in moderate colocalization.
+3: Dye X and Dye Y interfere with each other's binding affinity, reducing the possibility of colocalization.
+4: The staining protocol causes Dye X and Dye Y to fluoresce under different environmental conditions with little overlap.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: In a confocal microscopy image of live HEK293 cells stained with lipid dye X (cyan), lipid dye Y (magenta), and Hoechst for nuclei, what is the most likely reason for the observed relationship between the cyan and magenta fluorescence signals?
+OPTIONS:
+0: Dye X localizes to distinct compartments than those targeted by Dye Y, leading to minimal colocalization.
+1: Both Dye X and Dye Y are non-specific dyes that distribute uniformly across the entire cell.
+2: Dye X and Dye Y bind to complementary cellular components, resulting in moderate colocalization.
+3: Dye X and Dye Y interfere with each other's binding affinity, reducing the possibility of colocalization.
+4: The staining protocol causes Dye X and Dye Y to fluoresce under different environmental conditions with little overlap.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,perception
+63,388,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryogenic electron microscopy (cryoEM) montage image of avian sarcoma leukosis virus (ASLV) particles in vitro shows high-contrast ""flakes"" prominently in the bottom-right quadrant. What is the most likely cause of these flakes?
+OPTIONS:
+0: Ice reflections resulting from crystalline ice formation
+1: Artifacts caused by specimen preparation damage
+2: Aggregation of virus particles due to high concentration
+3: Contamination from cellular debris during sample handling
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A cryogenic electron microscopy (cryoEM) montage image of avian sarcoma leukosis virus (ASLV) particles in vitro shows high-contrast ""flakes"" prominently in the bottom-right quadrant. What is the most likely cause of these flakes?
+OPTIONS:
+0: Ice reflections resulting from crystalline ice formation
+1: Artifacts caused by specimen preparation damage
+2: Aggregation of virus particles due to high concentration
+3: Contamination from cellular debris during sample handling
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen
+64,392,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy study shows that SOX2 and NKG2C are co-expressed in glioblastoma cells. Given these results, what would be the most definitive experiment to test whether NKG2C is sufficient to increase glioma aggressiveness?
+OPTIONS:
+0: Use a xenograft rodent model of glioma where glioma cells with or without NKG2C overexpression
+1: Examine NKG2C expression in patient tumor samples and analyze its correlation with survival rates
+2: Employ CRISPR-Cas9 to delete NKG2C in glioma cells and measure the effects on cell proliferation
+3: Use siRNA to silence NKG2C and assess changes in cell migration in cultured cells
+4: Perform a proteomic analysis to identify proteins interacting with NKG2C in glioblastoma cells
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy study shows that SOX2 and NKG2C are co-expressed in glioblastoma cells. Given these results, what would be the most definitive experiment to test whether NKG2C is sufficient to increase glioma aggressiveness?
+OPTIONS:
+0: Use a xenograft rodent model of glioma where glioma cells with or without NKG2C overexpression
+1: Examine NKG2C expression in patient tumor samples and analyze its correlation with survival rates
+2: Employ CRISPR-Cas9 to delete NKG2C in glioma cells and measure the effects on cell proliferation
+3: Use siRNA to silence NKG2C and assess changes in cell migration in cultured cells
+4: Perform a proteomic analysis to identify proteins interacting with NKG2C in glioblastoma cells
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,experiment_proposal
+65,400,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy experiment is designed to study the uptake of fluorescently-labeled extracellular particles by murine immune cells over time. The immune cells are also stained with markers for specific proteins. To clarify that the observed fluorescence patterns specifically indicate particle uptake, which setup below would serve as the best experimental control?
+OPTIONS:
+0: Remove the fluorescent label, using all original conditions otherwise
+1: Inactivate the immune cells' uptake pathways before exposure
+2: Use a different staining protocol for identifying nucleus
+3: Incubate immune cells with non-fluorescent particles while maintaining all other conditions
+4: Conduct the experiment in the absence of any extracellular particles
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+4",4,3,experiment_proposal,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy experiment is designed to study the uptake of fluorescently-labeled extracellular particles by murine immune cells over time. The immune cells are also stained with markers for specific proteins. To clarify that the observed fluorescence patterns specifically indicate particle uptake, which setup below would serve as the best experimental control?
+OPTIONS:
+0: Remove the fluorescent label, using all original conditions otherwise
+1: Inactivate the immune cells' uptake pathways before exposure
+2: Use a different staining protocol for identifying nucleus
+3: Incubate immune cells with non-fluorescent particles while maintaining all other conditions
+4: Conduct the experiment in the absence of any extracellular particles
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,experiment_proposal
+66,402,"system
+You are a helpful assistant.
+user
+ QUESTION: An Airyscan micrograph of a COS7 cell overexpressing PTPIP51 shows red staining of tail-anchored (TA) and VAPB proteins, displaying a mitochondrial-like morphology instead of their typical pattern. What is the most plausible explanation for this altered red staining pattern?
+OPTIONS:
+0: The staining protocol overestimates TA and VAPB presence in mitochondria due to increased antibody affinity.
+1: Overexpression of PTPIP51 induces the formation of mitochondrial-associated membranes, altering staining patterns.
+2: PTPIP51 overexpression enhances the synthesis of mitochondrial proteins, increasing red fluorescence.
+3: PTPIP51 overexpression causes localization of TA and VAPB proteins to mitochondria.
+4: PTPIP51 overexpression leads to misfolding of TA and VAPB proteins, altering their cellular distribution.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: An Airyscan micrograph of a COS7 cell overexpressing PTPIP51 shows red staining of tail-anchored (TA) and VAPB proteins, displaying a mitochondrial-like morphology instead of their typical pattern. What is the most plausible explanation for this altered red staining pattern?
+OPTIONS:
+0: The staining protocol overestimates TA and VAPB presence in mitochondria due to increased antibody affinity.
+1: Overexpression of PTPIP51 induces the formation of mitochondrial-associated membranes, altering staining patterns.
+2: PTPIP51 overexpression enhances the synthesis of mitochondrial proteins, increasing red fluorescence.
+3: PTPIP51 overexpression causes localization of TA and VAPB proteins to mitochondria.
+4: PTPIP51 overexpression leads to misfolding of TA and VAPB proteins, altering their cellular distribution.
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,perception
+67,405,"system
+You are a helpful assistant.
+user
+ QUESTION: A Airyscan micrograph of a COS7 cell shows non-specific tail anchor (TA) and VAPB proteins in a cell with overexpressed PTPIP51. The VAPB presentation in these cells resembles the morphology of mitochondria. What is the most likely reason for this mitochondrial-like morphology of VAPB in the presence of overexpressed PTPIP51?
+OPTIONS:
+0: PTPIP51 preferentially binds VAPB, facilitating mitochondrial and endoplasmic reticulum contacts.
+1: Overexpression of PTPIP51 leads to enhanced mitochondrial biogenesis.
+2: Increased PTPIP51 expression disrupts the cytoskeleton, altering VAPB localization.
+3: VAPB aggregation mimics mitochondrial structures due to cellular stress.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A Airyscan micrograph of a COS7 cell shows non-specific tail anchor (TA) and VAPB proteins in a cell with overexpressed PTPIP51. The VAPB presentation in these cells resembles the morphology of mitochondria. What is the most likely reason for this mitochondrial-like morphology of VAPB in the presence of overexpressed PTPIP51?
+OPTIONS:
+0: PTPIP51 preferentially binds VAPB, facilitating mitochondrial and endoplasmic reticulum contacts.
+1: Overexpression of PTPIP51 leads to enhanced mitochondrial biogenesis.
+2: Increased PTPIP51 expression disrupts the cytoskeleton, altering VAPB localization.
+3: VAPB aggregation mimics mitochondrial structures due to cellular stress.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,hypothesis_gen
+68,408,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of live HEK293T cells shows GFP-SKL (magenta) expression and BODIPY-C12 (cyan) staining. The cyan staining colocalizes with the magenta fluorescence. What is the most likely explanation for this colocalization?
+OPTIONS:
+0: BODIPY-C12 specifically binds to GFP-SKL molecules.
+1: GFP-SKL expression causes non-specific binding of BODIPY-C12 to nuclear regions.
+2: The colocalization is an artifact of the staining procedure.
+3: GFP-SKL and BODIPY-C12 both localize to peroxisomes due to lipid accumulation.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+3",3,3,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A confocal microscopy image of live HEK293T cells shows GFP-SKL (magenta) expression and BODIPY-C12 (cyan) staining. The cyan staining colocalizes with the magenta fluorescence. What is the most likely explanation for this colocalization?
+OPTIONS:
+0: BODIPY-C12 specifically binds to GFP-SKL molecules.
+1: GFP-SKL expression causes non-specific binding of BODIPY-C12 to nuclear regions.
+2: The colocalization is an artifact of the staining procedure.
+3: GFP-SKL and BODIPY-C12 both localize to peroxisomes due to lipid accumulation.
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+1",1,3,hypothesis_gen
+69,415,"system
+You are a helpful assistant.
+user
+ QUESTION: A set of high-resolution cryoEM images displays large “rectangular cell-like units” (RCUs) found in dolphin mouth swabs, with zoom-in insets outlined in color. What are the features highlighted in the color boxes most likely to represent?
+OPTIONS:
+0: Other cells among dolphin oral microbiota interacting with the RCUs
+1: Extracellular matrix components interacting with RCUs to maintain tissue structure
+2: Debris from oral microbial contamination adhering to RCUs
+3: Aggregates within the mitochondria of dolphin RCUs
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,perception,"system
+You are a helpful assistant.
+user
+ QUESTION: A set of high-resolution cryoEM images displays large “rectangular cell-like units” (RCUs) found in dolphin mouth swabs, with zoom-in insets outlined in color. What are the features highlighted in the color boxes most likely to represent?
+OPTIONS:
+0: Other cells among dolphin oral microbiota interacting with the RCUs
+1: Extracellular matrix components interacting with RCUs to maintain tissue structure
+2: Debris from oral microbial contamination adhering to RCUs
+3: Aggregates within the mitochondria of dolphin RCUs
+
+Answer with the correct option from 0 to 3. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,perception
+70,423,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopic image of in vitro avian sarcoma leukosis virus (ASLV) shows two viral particles undergoing a transformation process indicative of integration. Which mechanism is most likely behind this observed phenomenon?
+OPTIONS:
+0: Action of fusogenic glycoprotein spikes
+1: Alteration due to quantum tunneling effects
+2: Hybridization of genetic material within a singular capsid
+3: Entrapment in an extracellular matrix phase
+4: Modification of viral surface proteins leading to docking
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+2",2,0,hypothesis_gen,"system
+You are a helpful assistant.
+user
+ QUESTION: A microscopic image of in vitro avian sarcoma leukosis virus (ASLV) shows two viral particles undergoing a transformation process indicative of integration. Which mechanism is most likely behind this observed phenomenon?
+OPTIONS:
+0: Action of fusogenic glycoprotein spikes
+1: Alteration due to quantum tunneling effects
+2: Hybridization of genetic material within a singular capsid
+3: Entrapment in an extracellular matrix phase
+4: Modification of viral surface proteins leading to docking
+
+Answer with the correct option from 0 to 4. Only provide the numeric and nothing else 
+
+Answer: 
+assistant
+0",0,0,hypothesis_gen

@@ -328,7 +328,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-3",3,1,direct_attributes
+2",2,1,direct_attributes
 22,"system
 You are a helpful assistant.
 user
@@ -433,7 +433,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-1",1,0,direct_attributes
+0",0,0,direct_attributes
 29,"system
 You are a helpful assistant.
 user
@@ -759,7 +759,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-3",3,0,direct_attributes
+2",2,0,direct_attributes
 51,"system
 You are a helpful assistant.
 user
@@ -1411,7 +1411,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-2",2,3,direct_attributes
+1",1,3,direct_attributes
 95,"system
 You are a helpful assistant.
 user
@@ -1694,7 +1694,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-1",1,1,relative_position
+0",0,1,relative_position
 116,"system
 You are a helpful assistant.
 user
@@ -2006,7 +2006,7 @@ Only provide answer and nothing else
 
 Answer: 
 assistant
-1",1,0,relative_position
+0",0,0,relative_position
 140,"system
 You are a helpful assistant.
 user

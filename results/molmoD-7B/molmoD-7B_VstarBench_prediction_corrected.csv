@@ -1,0 +1,50 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,10, 1,1,1,direct_attributes, A,10000,1,direct_attributes
+1,13, 1,1,1,direct_attributes, A,10000,1,direct_attributes
+2,29, A,10000,2,direct_attributes, 1,1,2,direct_attributes
+3,31, 2,2,2,direct_attributes, C,10000,2,direct_attributes
+4,32, 2,2,0,direct_attributes, A,10000,0,direct_attributes
+5,36, 1,1,1,direct_attributes, 0,0,1,direct_attributes
+6,38, 1,1,1,direct_attributes, B,10000,1,direct_attributes
+7,39, 1,1,2,direct_attributes, C,10000,2,direct_attributes
+8,63, 0,0,0,direct_attributes, A,10000,0,direct_attributes
+9,68, 1,1,1,direct_attributes, C,10000,1,direct_attributes
+10,71, 2,2,3,direct_attributes, C,10000,3,direct_attributes
+11,74, 1,1,1,direct_attributes, 0,0,1,direct_attributes
+12,101, B,10000,0,relative_position, 0,0,0,relative_position
+13,102, A,10000,0,relative_position, 0,0,0,relative_position
+14,107, A,10000,0,relative_position, 0,0,0,relative_position
+15,109, 1,1,1,relative_position, 0,0,1,relative_position
+16,111, 1,1,1,relative_position, A,10000,1,relative_position
+17,112, A,10000,0,relative_position, 0,0,0,relative_position
+18,113, 1,1,1,relative_position, 0,0,1,relative_position
+19,116, 1,1,1,relative_position, 0,0,1,relative_position
+20,121," The dog is not visible in this image. The scene shows a canal with boats and buildings along its banks, but there are no dogs present. Therefore, the answer is:
+
+N/A",10000,1,relative_position, 0,0,1,relative_position
+21,122, 1,1,0,relative_position, 0,0,0,relative_position
+22,124, A,10000,0,relative_position, 0,0,0,relative_position
+23,125, 1,1,0,relative_position, 0,0,0,relative_position
+24,130, 1,1,0,relative_position, 0,0,0,relative_position
+25,132, A,10000,1,relative_position, 0,0,1,relative_position
+26,133, 1,1,1,relative_position, 0,0,1,relative_position
+27,134, 1,1,1,relative_position, 0,0,1,relative_position
+28,140, B,10000,0,relative_position, 0,0,0,relative_position
+29,141, 1,1,1,relative_position, 0,0,1,relative_position
+30,143, B,10000,0,relative_position, 0,0,0,relative_position
+31,144, A,10000,0,relative_position, 0,0,0,relative_position
+32,146, 0,0,1,relative_position, B,10000,1,relative_position
+33,147, 1,1,1,relative_position, 0,0,1,relative_position
+34,148, A,10000,1,relative_position, 0,0,1,relative_position
+35,149, B,10000,1,relative_position, 0,0,1,relative_position
+36,151, A,10000,0,relative_position, 0,0,0,relative_position
+37,153, A,10000,1,relative_position, 0,0,1,relative_position
+38,154, 1,1,1,relative_position, 0,0,1,relative_position
+39,155, 1,1,1,relative_position, 0,0,1,relative_position
+40,156, A,10000,1,relative_position, 0,0,1,relative_position
+41,157, A,10000,1,relative_position, 0,0,1,relative_position
+42,158, A,10000,0,relative_position, 0,0,0,relative_position
+43,160, 1,1,0,relative_position, 0,0,0,relative_position
+44,162, 1,1,0,relative_position, 0,0,0,relative_position
+45,163, 0,0,1,relative_position, B,10000,1,relative_position
+46,165, A,10000,1,relative_position, 0,0,1,relative_position

@@ -1,0 +1,3401 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,Mean over,idx_corrected,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,22.876904,22.931097,23.261293,23.317245,23.452969,23.537502,23.724163,23.949825,24.440647,25.66146,27.295074,30.59022,36.08541,39.444103,42.559155,44.1781,48.8712,52.828133,56.884953,59.07596,57.148403,58.194496,56.74597,57.06956,58.48849,59.2342,60.140354,62.257732,62.617863,63.89233,68.17379,71.4008,75.9968,All tokens,81,337,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+1,21.150608,21.190432,21.385782,21.394012,21.44619,21.412199,21.41954,21.440903,21.554405,22.17044,23.401236,26.016909,32.119316,35.81935,42.83961,49.96897,58.122536,65.24928,75.41917,82.30324,87.167206,92.18842,92.04094,95.92367,98.55951,102.68002,108.24474,110.87639,114.696335,121.11662,127.91763,129.94368,116.148766,All tokens,14,56,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+2,26.345688,26.385849,26.563889,26.578028,26.658812,26.672821,26.747322,26.821476,27.019905,27.718906,28.974487,31.576391,38.016346,41.629097,48.618774,55.09263,63.48966,71.63912,82.08211,88.916275,92.11329,96.95208,97.938805,101.88275,105.86126,110.68089,115.85687,120.58358,124.23804,130.95384,139.3328,142.5925,125.73446,All tokens,3,17,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+3,15.650048,15.677777,15.830011,15.851043,15.914339,15.964395,16.037954,16.151026,16.422857,17.180471,18.243578,20.614378,25.283255,27.829378,33.201576,37.15576,41.56072,45.24836,50.168083,52.681828,51.04053,52.33961,51.51246,52.51532,53.27505,54.783463,55.361294,53.867622,54.5334,56.72793,61.10969,65.16987,73.19772,All tokens,35,165,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+4,17.100603,17.15652,17.554674,17.605303,17.725256,17.768705,17.874105,18.0347,18.22601,19.12171,20.285519,22.331715,26.707619,29.739319,34.367203,39.06296,44.35248,48.63488,54.469185,57.84058,59.99511,59.93058,59.826847,61.756958,62.316578,63.71867,64.99366,67.66593,69.768425,71.868286,74.30767,73.53998,60.42081,All tokens,31,148,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+5,54.416607,54.523705,55.004646,55.183105,55.49625,55.78598,56.31122,56.905655,57.923244,60.0873,63.171783,68.68785,79.08683,82.977234,89.215775,91.25924,100.80806,106.80511,116.3257,121.104324,124.56358,131.59554,136.19325,142.78738,151.48402,156.99371,167.02422,176.91032,183.35985,195.63577,210.879,216.97957,193.97961,All tokens,28,108,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+6,14.916367,14.940709,15.036731,15.046845,15.086143,15.087009,15.119779,15.190608,15.304637,15.78523,16.676914,18.73629,23.654045,26.791105,33.149998,39.042507,45.75286,52.152138,60.08953,66.504585,71.5317,75.86715,77.740875,80.74811,83.91127,86.785324,89.99679,93.37164,97.31924,103.240486,110.87449,107.94969,103.15639,All tokens,17,72,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+7,21.160929,21.200006,21.393288,21.395466,21.439491,21.394016,21.386984,21.384293,21.473598,22.060305,23.23616,25.779663,31.810999,35.44516,42.3862,49.428974,57.496742,64.58278,74.69272,81.54686,86.35379,91.34231,91.22695,95.086334,97.66059,101.78923,107.322876,109.89113,113.68607,120.073616,126.996574,129.09918,115.618576,All tokens,13,55,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+8,49.130684,49.232113,49.657974,49.8154,50.129856,50.507446,51.06177,51.909313,53.290985,55.775818,58.76298,63.76779,70.32703,75.024506,78.046265,78.21335,85.047195,90.50572,98.48467,102.95325,100.03969,106.02231,105.49904,108.808655,109.3483,107.80346,110.50159,115.255554,118.28698,122.766495,128.09868,129.66689,89.33139,All tokens,69,286,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+9,42.598583,42.693836,43.13797,43.29932,43.606155,43.933872,44.5155,45.343437,46.704357,49.069424,52.631283,58.44115,68.74935,75.38067,84.768684,93.237595,102.54996,110.42949,124.44032,133.94643,135.98308,143.49861,145.24149,150.28366,154.74026,159.57568,167.40982,172.15948,177.90202,187.70166,193.8595,193.43005,157.68884,All tokens,11,42,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+10,49.401546,49.503075,49.955738,50.096024,50.3468,50.594376,50.994858,51.658806,52.67751,54.421986,56.928616,61.553978,68.11231,72.1505,75.927124,76.91416,83.67545,88.56485,96.252335,99.84611,97.66949,101.79266,102.67957,103.96566,103.223015,105.85081,110.78946,115.47598,117.26532,118.46564,127.827324,132.12393,127.88122,All tokens,75,310,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+11,12.898989,12.926995,13.0519495,13.076713,13.15704,13.254684,13.411048,13.65442,14.10125,15.117847,16.35828,19.24358,24.307838,27.123312,32.394394,35.85677,39.777405,43.674404,47.413567,50.153957,50.60449,52.68198,52.215305,54.08605,54.603172,56.847095,58.05013,60.307346,59.370327,61.596058,64.09498,67.3218,69.34898,All tokens,54,241,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+12,26.346428,26.38544,26.562939,26.578163,26.660728,26.671673,26.747648,26.822018,27.02063,27.718792,28.977337,31.579546,38.01912,41.626854,48.614697,55.08862,63.49608,71.65117,82.091225,88.94566,92.13701,96.98666,97.954834,101.914085,105.89559,110.69455,115.869804,120.60468,124.26008,130.97516,139.33586,142.60461,125.72805,All tokens,4,18,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+13,45.379387,45.43544,45.698963,45.769497,45.957127,46.066193,46.25798,46.457157,46.894913,48.17882,49.771168,53.23794,58.987236,62.341003,66.017784,66.44826,73.524864,78.72769,86.454605,91.186676,93.82156,98.33963,100.76183,104.8185,106.93688,110.32712,115.953156,123.01156,127.14764,134.91579,146.356,153.1633,166.22072,All tokens,89,360,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+14,33.88927,33.92503,34.10532,34.127224,34.180305,34.162464,34.16687,34.102627,34.14243,34.759754,35.701576,38.194504,42.77501,45.292603,49.547718,51.219524,56.27812,61.231323,67.36538,71.337776,71.0987,74.00333,74.90565,77.29937,78.54085,80.096695,82.79124,88.30897,90.96963,94.011086,102.527214,106.58882,118.53853,All tokens,82,340,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+15,21.279121,21.332651,21.601091,21.656397,21.76605,21.847681,22.02146,22.29525,22.765537,23.946623,25.83229,29.54236,37.02635,41.684456,49.997066,57.698,65.90604,73.82098,83.53198,90.176735,92.82477,98.07098,100.10282,104.03225,108.21109,109.90238,112.46708,116.32768,120.89211,127.205124,133.08302,127.46949,113.293724,All tokens,27,105,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+16,44.010147,44.079906,44.372135,44.438606,44.60145,44.674065,44.88852,45.096195,45.55697,47.011265,49.179672,53.461456,62.05897,66.40758,73.91263,79.12738,89.06929,96.971535,110.17823,118.629616,124.906944,133.91545,138.69559,144.38126,149.74902,155.68257,164.3008,173.37064,179.79602,189.41019,198.60072,201.85255,174.78307,All tokens,29,134,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+17,12.406755,12.431602,12.531419,12.546785,12.612279,12.682633,12.784042,12.940632,13.251787,14.088947,15.077207,17.59773,22.305496,24.789316,30.271336,34.11187,37.93304,41.65657,45.105408,47.58797,46.97154,46.734108,45.676716,46.70527,46.788326,49.046432,50.926876,52.708725,52.49071,55.02041,59.046524,62.075783,66.93213,All tokens,64,272,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+18,32.834812,32.929913,33.485317,33.59808,33.79487,33.923103,34.14723,34.57941,35.157906,36.683563,38.777836,42.31788,48.17011,52.084644,56.982716,60.735695,67.06624,72.12793,79.55193,84.638824,83.63756,86.64755,85.7567,82.278046,83.72255,86.578705,89.95865,94.497734,98.4835,103.78565,113.33091,118.5915,112.47287,All tokens,78,317,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+19,48.83918,48.908764,49.210686,49.271236,49.413395,49.432964,49.48886,49.593372,49.76253,50.868546,52.444744,55.640053,62.88729,67.070206,72.82625,76.44869,84.865746,91.62044,101.73793,106.8316,107.10402,111.84842,109.884254,112.838684,112.205246,115.29271,120.72183,126.078224,130.44177,134.21143,144.71349,147.0876,142.80849,All tokens,71,293,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+20,21.360535,21.415476,21.684694,21.729368,21.851221,21.939865,22.122513,22.400675,22.823961,23.978998,25.916666,29.72216,37.498043,42.189022,50.415745,57.66986,65.36833,72.82642,83.19196,89.65058,92.86492,97.78221,98.71552,103.41683,107.81302,110.28587,113.50456,116.63723,119.859726,126.049194,132.0062,130.93674,118.991295,All tokens,25,93,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+21,15.1369295,15.156964,15.242303,15.244434,15.273573,15.275368,15.287447,15.331543,15.444168,15.993643,16.773846,18.677193,22.621763,24.66341,28.88151,31.759542,35.52401,39.125988,43.453228,46.520645,47.105812,49.600204,49.327682,50.891388,52.15541,53.665886,55.149014,58.049324,59.62189,60.56657,65.02611,67.74914,68.68074,All tokens,83,343,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+22,12.744301,12.7711935,12.890513,12.90737,12.971583,13.046125,13.16316,13.35363,13.7096,14.658698,15.726895,18.34287,22.818752,25.255398,29.960043,33.017143,36.744556,40.24469,43.633327,46.51938,46.18468,46.06835,44.906395,46.368065,46.780407,48.86571,50.48289,52.859947,51.429012,53.62715,57.717426,61.32049,66.015144,All tokens,53,240,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+23,32.806747,32.869194,33.215607,33.272507,33.379013,33.45558,33.636288,33.83145,34.208683,35.280407,36.61146,39.509403,44.96743,48.09853,52.3426,54.50705,59.784756,64.10699,69.31424,71.08206,67.775185,70.69115,70.671364,69.40969,69.029655,71.10511,73.403625,74.74763,75.91286,79.25176,87.53622,91.145905,97.15404,All tokens,86,351,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+24,22.738573,22.780361,22.966572,23.010426,23.112465,23.240715,23.427181,23.719837,24.278944,25.453186,26.942924,29.973326,35.49787,37.8343,42.825203,45.549034,49.399296,52.630955,56.860115,58.940533,57.227673,58.17827,55.880573,56.387367,56.25046,54.49891,54.89114,57.062325,57.593243,61.2593,67.0284,71.564415,85.43756,All tokens,57,252,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+25,71.43891,71.593834,72.24204,72.42878,72.7766,73.10389,73.76035,74.509094,75.7457,78.43306,81.908554,86.58807,91.205864,94.49007,95.641785,93.00358,101.26821,107.6163,116.207924,121.32361,122.5702,128.17877,133.95473,139.94986,142.80385,148.16159,157.75734,168.73079,174.29785,184.21349,193.7779,203.38188,203.98114,All tokens,88,357,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+26,25.75234,25.802546,26.035845,26.088556,26.215448,26.304058,26.487543,26.743351,27.181276,28.243267,29.957352,33.172863,40.135376,44.14088,51.573185,58.810944,66.832016,74.19532,83.79285,90.38884,93.14107,98.26293,99.16508,103.73351,107.179214,111.37141,116.75492,121.23878,125.44797,132.43213,139.21227,140.92621,120.19431,All tokens,0,8,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+27,26.107609,26.167332,26.467022,26.541061,26.68777,26.814474,27.078949,27.440363,28.080595,29.567924,31.808012,36.155033,44.853077,50.02997,58.323063,65.754265,73.29785,79.95649,89.1318,94.62042,96.433754,102.476006,104.33256,110.33375,116.03019,116.6513,122.69819,125.91493,128.64996,135.58676,143.45111,143.30849,112.531136,All tokens,20,81,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+28,45.799984,45.88429,46.253536,46.40017,46.641094,46.892807,47.427147,48.002655,49.126328,51.097794,53.292027,58.109283,63.31826,67.00103,65.83094,64.20577,70.24662,75.93215,81.83305,83.08103,77.207794,82.57011,81.56818,84.68404,83.96151,79.79545,83.6031,87.123825,89.00039,92.52506,98.76185,104.03801,110.0899,All tokens,80,332,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+29,26.168056,26.225243,26.521172,26.592245,26.727179,26.840502,27.084837,27.422047,28.02355,29.452202,31.623983,35.896954,44.488304,49.614994,57.85575,65.24804,72.74073,79.4187,88.67261,94.23751,96.069824,102.14934,104.06406,110.111115,115.811134,116.486336,122.57628,125.82509,128.58182,135.63046,143.5248,143.58908,112.724525,All tokens,21,82,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+30,32.792717,32.855145,33.202187,33.256214,33.368706,33.4481,33.63393,33.83266,34.230106,35.30386,36.659515,39.578022,45.05425,48.21755,52.452778,54.603405,59.869537,64.238785,69.45339,71.21804,67.8721,70.78195,70.786064,69.48622,69.09114,71.15222,73.44122,74.79308,75.994705,79.33173,87.57989,91.14939,97.17011,All tokens,85,350,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+31,26.529411,26.56478,26.752893,26.748081,26.784704,26.683151,26.598135,26.461323,26.3227,26.658154,27.69319,29.682568,35.126762,38.64587,45.0647,52.46446,61.442722,69.82843,82.06517,91.635506,96.64093,102.77054,105.36451,110.14329,115.00275,119.885506,126.98639,132.72571,138.17444,146.69606,154.05418,155.2421,124.731895,All tokens,9,30,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+32,59.604492,59.747135,60.41715,60.638374,61.078926,61.515427,62.444897,63.5874,65.7897,69.41432,73.51968,79.962746,87.41712,92.581024,95.910774,96.61836,104.46717,109.54452,119.98816,123.82563,118.49388,120.30686,116.97692,117.84521,115.0464,115.930435,123.00422,130.46198,139.02222,148.89255,156.1622,164.43146,147.31973,All tokens,84,346,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+33,11.214983,11.23446,11.320448,11.335056,11.389721,11.447065,11.535385,11.680902,11.969194,12.669512,13.657181,16.04588,20.540485,22.888346,27.467802,30.731594,34.41088,37.97698,41.611187,44.519066,45.392113,47.86031,47.717785,49.676556,51.19007,53.368633,55.003178,56.659855,54.669712,55.770844,58.699577,62.13881,64.13686,All tokens,48,223,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+34,12.587402,12.611208,12.714523,12.729394,12.793745,12.857538,12.960705,13.120803,13.450941,14.295071,15.317523,17.925074,23.040268,25.615002,31.157959,34.703022,38.898766,42.761883,47.039555,49.536602,49.49272,50.121326,48.066628,49.21479,49.252296,51.590664,53.56922,56.258644,56.282097,59.62913,64.83857,68.517944,73.20784,All tokens,62,265,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+35,65.078415,65.21998,65.79567,66.10073,66.615135,67.176506,68.149055,69.55504,71.796906,75.58089,80.52322,88.16246,101.188034,107.84372,117.78178,125.62209,136.35948,144.65836,159.69786,171.4515,171.61559,184.64616,188.41652,195.26578,202.14636,206.31377,215.22275,222.84735,227.87012,238.06645,242.20552,235.88762,176.73224,All tokens,6,21,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+36,26.34479,26.385303,26.56221,26.57768,26.660343,26.672712,26.748241,26.822979,27.02253,27.720724,28.977306,31.577219,38.018257,41.627033,48.617096,55.085724,63.488174,71.642975,82.07949,88.924965,92.11329,96.95975,97.94848,101.897865,105.86864,110.682686,115.85334,120.596466,124.25628,130.97253,139.33366,142.58401,125.732834,All tokens,5,19,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+37,21.365137,21.418941,21.689373,21.733992,21.855387,21.945131,22.127018,22.401918,22.829082,23.983786,25.91851,29.711966,37.46891,42.151077,50.361446,57.602665,65.28847,72.706985,83.05132,89.457695,92.638336,97.56672,98.49797,103.19525,107.586754,110.05132,113.247604,116.39805,119.59243,125.760124,131.71294,130.69878,118.87651,All tokens,24,91,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table
+38,12.898918,12.926654,13.051703,13.076532,13.157689,13.254988,13.412018,13.655379,14.103394,15.117164,16.357195,19.240404,24.303291,27.12196,32.39271,35.865334,39.788986,43.687653,47.43682,50.163673,50.620598,52.695255,52.235554,54.10336,54.6288,56.866814,58.070923,60.320515,59.383183,61.610214,64.09223,67.32149,69.335785,All tokens,56,243,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+39,26.168627,26.227543,26.523071,26.591597,26.726353,26.838951,27.084352,27.421913,28.021595,29.45095,31.622227,35.896458,44.47838,49.609005,57.851032,65.24455,72.73754,79.41931,88.667114,94.23643,96.06919,102.148155,104.06182,110.11694,115.82197,116.47989,122.5917,125.83884,128.59439,135.63422,143.52583,143.59654,112.703514,All tokens,22,83,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+40,12.744006,12.771011,12.890341,12.90747,12.97189,13.046826,13.164442,13.354082,13.710002,14.660112,15.725407,18.343443,22.814587,25.249727,29.956068,33.012352,36.74038,40.238213,43.62622,46.51568,46.18215,46.063377,44.89906,46.366398,46.777794,48.86521,50.477016,52.8544,51.42737,53.616474,57.712032,61.313766,66.00466,All tokens,52,239,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+41,13.860472,13.886399,14.002471,14.022878,14.093602,14.166754,14.289334,14.474432,14.817591,15.734358,16.89343,19.377401,23.888063,26.168232,30.693546,33.46884,36.69287,40.047173,43.338303,46.235855,46.290035,47.686714,47.065712,48.82911,49.976166,52.027752,52.476204,54.60963,53.0976,54.294434,56.782406,60.029846,64.29447,All tokens,38,171,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+42,17.34475,17.376972,17.537865,17.552576,17.601004,17.599829,17.63827,17.703775,17.808947,18.381966,19.464218,21.957903,27.782257,31.583954,39.095364,46.135223,53.780613,60.9419,69.73913,76.11246,79.840744,84.58194,85.99081,89.32445,91.99855,92.925514,96.99017,100.67077,104.15779,107.5964,116.33212,116.14534,109.399925,All tokens,16,69,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+43,26.345083,26.385231,26.56405,26.578888,26.65792,26.67216,26.744652,26.820051,27.019236,27.717104,28.974613,31.577364,38.020245,41.632103,48.621826,55.093765,63.497044,71.64277,82.084816,88.915215,92.10745,96.954704,97.9411,101.89393,105.865555,110.68,115.84218,120.5806,124.23407,130.9573,139.31772,142.58673,125.73644,All tokens,2,16,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+44,12.547567,12.575302,12.690255,12.716893,12.7875395,12.870487,12.999977,13.219042,13.615699,14.545608,15.787545,18.270283,22.619148,24.60885,28.652002,30.956394,33.992325,37.311916,40.90888,43.98555,43.57278,45.179432,45.276634,45.963844,46.99912,48.26907,49.101032,44.601486,44.69978,47.33756,50.743862,54.38419,60.301655,All tokens,46,214,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+45,48.668232,48.80505,49.4573,49.618443,49.957478,50.282536,50.806137,51.496067,52.5184,54.689293,56.978123,60.451218,66.712715,69.752426,73.504005,74.257805,79.4195,82.68302,88.04799,89.01241,83.83945,88.13691,89.35235,91.25758,92.75451,95.22849,100.38125,106.9502,109.3412,113.106804,121.981026,128.43977,127.44835,All tokens,91,367,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+46,15.655093,15.6829815,15.834579,15.857699,15.922232,15.973437,16.049484,16.164627,16.437696,17.20112,18.27216,20.65548,25.338083,27.892103,33.285892,37.245907,41.67718,45.37597,50.32006,52.85195,51.205032,52.503735,51.68654,52.690685,53.458115,54.974915,55.54181,54.05847,54.725525,56.91713,61.301083,65.350075,73.20135,All tokens,34,164,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+47,39.013165,39.078285,39.412357,39.48605,39.638596,39.713303,39.92234,40.14567,40.659973,41.866283,44.05624,47.950985,56.383633,61.03822,68.36093,74.41962,81.98354,88.11602,97.75717,102.26054,101.36972,107.10294,108.19381,112.24902,116.2556,120.38204,125.7446,129.93625,133.59459,140.49748,148.10161,150.5018,135.25311,All tokens,7,24,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+48,12.586874,12.611867,12.714274,12.730682,12.793614,12.857314,12.961146,13.12044,13.450264,14.296763,15.321142,17.929136,23.047806,25.61963,31.161743,34.70421,38.903576,42.770092,47.045395,49.54748,49.504005,50.13617,48.08266,49.235584,49.276947,51.612686,53.586643,56.27439,56.293446,59.64267,64.84816,68.52725,73.20917,All tokens,63,267,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+49,12.899228,12.926777,13.052133,13.07671,13.157775,13.255255,13.412154,13.655142,14.102768,15.116778,16.35703,19.242605,24.308716,27.12388,32.39621,35.872974,39.79132,43.694756,47.441685,50.16776,50.623676,52.704502,52.24365,54.10973,54.63784,56.876625,58.074745,60.331562,59.38596,61.615738,64.1062,67.328224,69.343025,All tokens,55,242,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+0,22.878576,22.88739,22.904137,22.902935,22.952505,22.93378,22.944082,22.906528,23.07334,23.814936,24.819979,27.30414,31.886965,34.51337,37.101944,38.363754,42.49855,45.889957,49.484367,51.388332,49.832153,50.889706,49.581512,49.718132,50.9154,51.478832,52.199486,54.001163,54.164692,55.227486,59.55423,62.920975,69.59897,Img tokens,81,337,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+1,20.85641,20.864468,20.869099,20.841198,20.835247,20.739702,20.65017,20.517084,20.452206,20.793224,21.596838,23.61273,28.862682,31.824139,37.84797,44.026867,51.251526,57.556015,66.72299,73.06479,77.72224,82.46524,82.32851,85.75004,87.99417,91.826965,96.86811,99.19143,102.64374,108.595314,115.648346,118.28665,109.27203,Img tokens,14,56,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+2,26.240747,26.253006,26.261202,26.23286,26.248207,26.180918,26.138962,26.030544,26.005249,26.39367,27.230185,29.280615,34.96097,37.9481,44.184937,50.035656,57.70741,65.15135,74.87565,81.21779,84.337036,88.93527,89.88189,93.43703,97.05763,101.580536,106.3602,110.78919,114.21867,120.6213,129.24724,133.33995,120.78511,Img tokens,3,17,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+3,15.197259,15.204706,15.211274,15.213377,15.243531,15.260851,15.281112,15.313357,15.484654,16.07036,16.876305,18.874754,23.003067,25.125776,29.920063,33.419727,37.311844,40.48952,44.88533,47.03026,45.499954,46.62043,45.824387,46.6496,47.259304,48.59292,49.05645,47.642056,48.195793,50.16111,54.402668,58.43514,68.22774,Img tokens,35,165,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+4,16.587252,16.593159,16.6089,16.600266,16.62554,16.55655,16.49097,16.427769,16.342197,16.772362,17.356466,18.56528,21.794748,23.957483,27.420582,31.113136,35.36441,38.99387,43.91931,46.806915,48.82316,49.15583,49.086952,50.65396,51.02075,52.161953,53.119522,55.41346,57.079254,58.849037,61.291874,60.99723,52.998646,Img tokens,31,148,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+5,55.73418,55.76837,55.826588,55.891655,56.022797,56.08334,56.248825,56.316593,56.650784,57.851944,59.74711,64.04323,73.17709,76.23149,81.73926,83.62791,92.63344,98.09356,107.1062,111.60281,115.14569,121.94426,126.18416,132.18039,140.2466,145.49326,154.79407,164.0632,170.19199,181.8703,197.62112,204.3769,186.95132,Img tokens,28,108,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+6,14.662862,14.673124,14.680965,14.675209,14.6893835,14.670406,14.66988,14.685692,14.733303,15.098434,15.80033,17.592623,22.04903,24.780062,30.539421,35.8936,42.039085,47.78114,55.101227,60.990856,65.73163,69.74634,71.46648,74.165504,77.045166,79.68439,82.63592,85.81487,89.533226,95.15168,102.85854,100.48613,98.8271,Img tokens,17,72,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+7,20.85641,20.86646,20.870943,20.841797,20.835718,20.740114,20.648191,20.517662,20.451962,20.792526,21.596216,23.61304,28.863394,31.824389,37.848827,44.026424,51.256805,57.555107,66.729744,73.06465,77.72141,82.45242,82.32855,85.75323,88.00907,91.82876,96.87047,99.19478,102.64399,108.59526,115.643105,118.28653,109.27136,Img tokens,13,55,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+8,50.757164,50.785133,50.83249,50.89299,51.051373,51.23121,51.471478,51.79782,52.523804,54.04742,55.897064,59.654873,65.099205,68.93222,71.4396,71.47387,77.64914,82.55318,89.945786,94.01,91.18751,96.76526,96.23847,99.12457,99.454605,97.95311,100.310005,104.68388,107.40448,111.530785,117.12105,119.116135,83.480255,Img tokens,69,286,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+9,43.89938,43.922146,43.9648,44.013275,44.140095,44.21596,44.40374,44.66006,45.247696,46.57662,48.817234,53.035324,61.647007,66.97989,74.97684,82.6076,91.06523,98.26566,111.194016,120.05352,121.9428,129.1828,130.82341,135.29271,139.28923,143.79265,150.92885,155.16335,160.46654,169.69386,176.63554,177.54727,149.32683,Img tokens,11,42,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+10,50.8324,50.854733,50.887512,50.931477,51.02392,51.063145,51.163822,51.3523,51.784126,52.676113,54.127018,57.484486,62.793407,65.84221,68.840576,69.49838,75.45885,79.68052,86.60315,89.69441,87.73483,91.64848,92.426735,93.45592,92.47328,94.89148,99.36422,103.55051,105.14268,106.235466,115.81622,120.49346,119.72647,Img tokens,75,310,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+11,12.549229,12.56064,12.569765,12.575532,12.625658,12.687191,12.785743,12.943974,13.272881,14.100429,15.072099,17.535728,21.988617,24.33872,28.984512,32.007355,35.422672,38.753307,42.033855,44.40908,44.80478,46.561512,46.01574,47.603516,48.005802,49.986126,51.00839,53.04328,52.073307,54.091995,56.621857,60.037327,64.79914,Img tokens,54,241,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+12,26.240747,26.253006,26.261202,26.23286,26.248207,26.180918,26.138962,26.030544,26.005249,26.39367,27.230185,29.280615,34.96097,37.9481,44.184937,50.035656,57.70741,65.15135,74.87565,81.21779,84.337036,88.93527,89.88189,93.43703,97.05763,101.580536,106.3602,110.78919,114.21867,120.6213,129.24724,133.33995,120.78511,Img tokens,4,18,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+13,45.689537,45.702816,45.73035,45.737118,45.83347,45.83514,45.846752,45.796482,45.935783,46.7874,47.859604,50.67651,55.74957,58.52716,61.795574,62.05196,68.56795,73.20453,80.31207,84.63072,87.20933,91.48087,93.792755,97.47746,99.453285,102.627785,107.87056,114.43009,118.29617,125.58443,136.95403,143.82132,159.46509,Img tokens,89,360,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+14,33.81414,33.821873,33.834934,33.807926,33.80611,33.72161,33.625935,33.408676,33.263474,33.619877,34.23147,36.29591,40.403732,42.541374,46.452545,47.911606,52.5519,57.055798,62.716984,66.33995,66.16654,68.88356,69.69893,71.84567,72.936035,74.326805,76.77624,81.95145,84.41513,87.28767,95.81643,100.03692,113.88606,Img tokens,82,340,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+15,21.22104,21.237532,21.255964,21.266577,21.305357,21.305647,21.352028,21.436062,21.644014,22.443205,23.756884,26.674242,32.989475,36.797386,43.911522,50.67594,58.100864,65.18108,74.17817,80.1811,82.684006,87.66792,89.50912,92.92233,96.675545,98.1901,100.39594,103.91599,108.077126,113.98776,120.32627,115.68314,106.69535,Img tokens,27,105,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+16,44.37287,44.39778,44.42151,44.422993,44.47937,44.42155,44.425182,44.32587,44.41289,45.351513,46.87679,50.414,58.197296,61.91603,68.80977,73.60369,82.9281,90.17832,102.66249,110.60181,116.780594,125.51534,130.12524,135.41173,140.46344,146.09898,154.15228,162.74431,168.76515,177.96098,187.73843,191.58342,169.68108,Img tokens,29,134,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+17,12.052651,12.06501,12.070902,12.071042,12.11096,12.157116,12.213457,12.3080015,12.529552,13.2161875,13.996633,16.183239,20.37471,22.457518,27.343895,30.755527,34.103603,37.288803,40.3229,42.509453,41.963383,41.57934,40.53768,41.370243,41.428043,43.418793,45.091118,46.69484,46.42436,48.707996,52.54253,55.683414,62.4992,Img tokens,64,272,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+18,34.20861,34.217575,34.23987,34.24357,34.26562,34.170284,34.0593,33.977936,33.93478,34.548294,35.498215,37.590244,41.840153,44.452328,48.181087,51.246674,56.547092,60.677773,67.030495,71.408936,70.86509,73.67215,72.92566,69.67019,70.74743,73.21961,76.04713,79.895546,83.31832,88.03534,97.53568,103.10967,102.658775,Img tokens,78,317,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+19,49.384926,49.39815,49.428066,49.417095,49.461838,49.35067,49.219013,49.031746,48.854492,49.44395,50.377743,52.816837,59.21418,62.701946,67.84001,71.09216,78.85336,85.00839,94.400314,99.13709,99.54039,104.106544,102.256004,104.8408,104.053535,106.9607,111.98396,116.955505,121.012474,124.55835,135.318,138.12495,137.2469,Img tokens,71,293,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+20,21.257378,21.274084,21.295845,21.292677,21.337536,21.332464,21.370169,21.432703,21.58139,22.318838,23.672804,26.634745,33.23521,37.051994,44.11029,50.468266,57.35807,64.036385,73.538055,79.43541,82.52448,87.30049,88.165825,92.32657,96.248795,98.58222,101.447716,104.33545,107.224365,112.94749,119.34344,119.039764,112.70764,Img tokens,25,93,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+21,14.823811,14.831477,14.834703,14.824535,14.834949,14.821078,14.808173,14.809292,14.867888,15.322096,15.964151,17.65116,21.266685,23.040733,26.90495,29.500813,32.926662,36.131355,40.073044,42.853107,43.406136,45.6687,45.3374,46.711205,47.815464,49.157925,50.482277,53.17675,54.625935,55.48299,59.89047,62.688286,65.289024,Img tokens,83,343,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+22,12.431447,12.443365,12.4506035,12.452693,12.490768,12.536398,12.607029,12.722962,12.986172,13.772236,14.610241,16.872032,20.820528,22.862923,27.03454,29.720459,32.98594,36.02272,39.049347,41.600025,41.263657,41.024033,39.840645,41.071087,41.353683,43.16453,44.577297,46.729095,45.346878,47.372795,51.329716,54.99017,61.751156,Img tokens,53,240,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+23,32.959908,32.966007,32.985985,32.97994,32.985477,32.950645,32.938015,32.847687,32.89664,33.468346,34.171284,36.304554,40.905457,43.307346,46.917725,48.695343,53.239117,56.90954,61.504017,63.004528,60.16964,62.92893,62.93139,61.598026,61.18763,63.03178,65.0135,66.137276,67.18179,70.20119,78.31456,82.02174,89.944664,Img tokens,86,351,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+24,22.529503,22.542356,22.553972,22.557903,22.605223,22.664562,22.743273,22.877554,23.22119,24.09564,25.191713,27.683393,32.519474,34.400173,38.83017,41.197823,44.57292,47.36603,51.11687,52.877934,51.297745,52.09362,49.931408,50.25793,50.03381,48.279957,48.563423,50.508842,50.986492,54.34274,59.97306,64.49541,80.27157,Img tokens,57,252,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+25,75.61466,75.64098,75.684,75.72872,75.836876,75.85605,76.01127,76.009094,76.30568,77.54772,79.3721,82.246346,85.25012,87.29529,87.567856,84.62826,92.0061,97.30239,104.939766,109.27011,110.50054,115.900475,121.43996,126.74334,129.26334,134.13953,142.93065,153.02672,158.14417,167.25606,177.56631,187.49028,194.0972,Img tokens,88,357,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+26,25.767181,25.78102,25.79492,25.795353,25.844543,25.834133,25.871792,25.901585,26.04578,26.69521,27.81675,30.228355,36.16576,39.37567,45.817184,52.227005,59.52025,66.26584,75.134384,81.270676,83.9939,88.823044,89.7499,93.88596,96.98269,100.941635,105.86495,110.024666,113.96086,120.55708,127.89085,130.49408,114.85653,Img tokens,0,8,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+27,26.276577,26.29378,26.313742,26.330492,26.382416,26.381308,26.44983,26.518492,26.761255,27.670057,29.123621,32.445744,39.78305,44.024055,51.14967,57.71418,64.576775,70.68677,79.325714,84.46547,86.316414,92.15639,93.96093,99.438484,104.62685,105.25147,110.83394,113.75847,116.26929,122.82018,130.95404,131.87524,107.36024,Img tokens,20,81,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+28,46.603203,46.631756,46.685345,46.755417,46.877438,46.985115,47.275303,47.470108,48.118572,49.410477,50.743477,54.560246,58.943874,61.9194,60.633434,59.0116,64.557625,69.7103,75.135704,76.23324,70.844345,75.905075,74.99911,77.78782,77.04942,73.01505,76.523605,79.72791,81.42101,84.65098,90.98186,96.310585,104.56814,Img tokens,80,332,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+29,26.276577,26.292727,26.315554,26.329142,26.380861,26.381264,26.448027,26.51889,26.760717,27.669434,29.122871,32.443615,39.78156,44.024643,51.146427,57.71286,64.5837,70.693375,79.330444,84.46514,86.3144,92.137985,93.95923,99.43484,104.64096,105.24431,110.83822,113.7526,116.26441,122.820595,130.95642,131.87961,107.36116,Img tokens,21,82,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+30,32.959908,32.967014,32.985493,32.979347,32.985023,32.94902,32.93708,32.844547,32.899902,33.466988,34.17205,36.306747,40.909843,43.3085,46.91716,48.69322,53.243076,56.908478,61.50094,63.002632,60.1722,62.93006,62.926674,61.597286,61.18807,63.027935,65.0117,66.14506,67.18182,70.20105,78.31781,82.01888,89.94702,Img tokens,85,350,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+31,26.350374,26.355892,26.357887,26.308352,26.276344,26.099955,25.898874,25.589882,25.243658,25.3133,25.920843,27.373734,32.02622,34.8491,40.357185,46.892315,54.893578,62.42602,73.6147,82.569786,87.47784,93.38171,95.93648,100.361145,104.812256,109.50926,116.108284,121.53263,126.63491,134.68489,142.56013,144.49765,118.5088,Img tokens,9,30,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+32,63.003777,63.036438,63.086567,63.16561,63.371395,63.51633,63.955093,64.35419,65.58461,67.80266,70.1977,74.85327,80.631065,84.469444,87.00522,87.4338,94.651375,98.90706,108.45346,111.862656,106.96305,108.796104,105.49713,105.92756,103.05477,103.59382,109.81402,116.58802,124.443474,133.56389,141.17029,150.0667,140.97112,Img tokens,84,346,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+33,10.882801,10.89153,10.899329,10.903124,10.939922,10.97915,11.039008,11.1380825,11.36304,11.954154,12.776048,14.892941,18.969278,20.984867,25.0825,27.96157,31.223005,34.30754,37.53513,40.105934,40.841038,43.001972,42.783646,44.527683,45.85875,47.810024,49.29762,50.786274,48.833195,49.833054,52.72259,56.249603,60.38527,Img tokens,48,223,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+34,12.241196,12.252517,12.259263,12.260342,12.299272,12.339724,12.402545,12.498352,12.740206,13.432159,14.246704,16.514252,21.10189,23.277674,28.231344,31.359262,35.083702,38.418373,42.251423,44.450695,44.407055,44.85452,42.863293,43.799526,43.753906,45.819756,47.583706,50.052647,50.01078,53.08679,58.09236,61.881264,68.71937,Img tokens,62,265,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+35,67.879974,67.90079,67.97844,68.12112,68.35624,68.54023,68.8765,69.36122,70.380875,72.52928,75.56279,81.14954,92.06152,97.36928,106.080154,113.34717,123.374115,131.18134,145.468,156.67767,157.05295,169.92723,173.63846,179.90347,186.2611,190.18881,198.4277,205.6501,210.3025,220.02278,225.04971,220.1968,168.9717,Img tokens,6,21,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+36,26.240747,26.253006,26.261202,26.23286,26.248207,26.180918,26.138962,26.030544,26.005249,26.39367,27.230185,29.280615,34.96097,37.9481,44.184937,50.035656,57.70741,65.15135,74.87565,81.21779,84.337036,88.93527,89.88189,93.43703,97.05763,101.580536,106.3602,110.78919,114.21867,120.6213,129.24724,133.33995,120.78511,Img tokens,5,19,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+37,21.257378,21.274187,21.295128,21.292267,21.337658,21.33235,21.371637,21.433079,21.579823,22.318583,23.675474,26.63712,33.234474,37.05108,44.110428,50.469566,57.36245,64.03844,73.53822,79.42867,82.5235,87.294495,88.167,92.32256,96.242836,98.57723,101.44632,104.33903,107.2199,112.943924,119.341156,119.04374,112.703514,Img tokens,24,91,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table
+38,12.549229,12.56064,12.569765,12.575532,12.625658,12.687191,12.785743,12.943974,13.272881,14.100429,15.072099,17.535728,21.988617,24.33872,28.984512,32.007355,35.422672,38.753307,42.033855,44.40908,44.80478,46.561512,46.01574,47.603516,48.005802,49.986126,51.00839,53.04328,52.073307,54.091995,56.621857,60.037327,64.79914,Img tokens,56,243,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+39,26.276577,26.292727,26.315554,26.329142,26.380861,26.381264,26.448027,26.51889,26.760717,27.669434,29.122871,32.443615,39.78156,44.024643,51.146427,57.71286,64.5837,70.693375,79.330444,84.46514,86.3144,92.137985,93.95923,99.43484,104.64096,105.24431,110.83822,113.7526,116.26441,122.820595,130.95642,131.87961,107.36116,Img tokens,22,83,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+40,12.431447,12.443365,12.4506035,12.452693,12.490768,12.536398,12.607029,12.722962,12.986172,13.772236,14.610241,16.872032,20.820528,22.862923,27.03454,29.720459,32.98594,36.02272,39.049347,41.600025,41.263657,41.024033,39.840645,41.071087,41.353683,43.16453,44.577297,46.729095,45.346878,47.372795,51.329716,54.99017,61.751156,Img tokens,52,239,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+41,13.469731,13.4794655,13.486602,13.491397,13.53603,13.583872,13.663815,13.784903,14.042476,14.815811,15.758634,17.916395,21.93635,23.8386,27.868013,30.31312,33.111214,35.985783,38.90695,41.468132,41.431393,42.585922,41.912415,43.458927,44.44539,46.252728,46.609848,48.529163,47.056244,48.15272,50.65847,54.000713,60.436607,Img tokens,38,171,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+42,17.058872,17.070381,17.080225,17.069355,17.08249,17.042942,17.016453,16.993954,16.98254,17.376007,18.174772,20.258965,25.436413,28.688936,35.404846,41.718597,48.685253,55.10514,63.25444,69.103386,72.64718,77.11415,78.36338,81.323975,83.708534,84.50643,88.24065,91.705414,94.94601,98.12514,106.92746,107.318375,104.123375,Img tokens,16,69,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+43,26.240747,26.253006,26.261202,26.23286,26.248207,26.180918,26.138962,26.030544,26.005249,26.39367,27.230185,29.280615,34.96097,37.9481,44.184937,50.035656,57.70741,65.15135,74.87565,81.21779,84.337036,88.93527,89.88189,93.43703,97.05763,101.580536,106.3602,110.78919,114.21867,120.6213,129.24724,133.33995,120.78511,Img tokens,2,16,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+44,12.200098,12.212034,12.215473,12.222974,12.26316,12.311424,12.386169,12.518925,12.802312,13.538993,14.513983,16.605019,20.39188,21.985613,25.507996,27.439095,30.027554,32.793095,35.909634,38.621185,38.251396,39.581493,39.59253,40.08608,40.88648,41.936195,42.587547,38.38991,38.42185,40.803524,44.0647,47.696228,55.789192,Img tokens,46,214,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+45,51.66304,51.674683,51.704247,51.730057,51.844288,51.85721,51.899483,51.851128,51.994133,52.810173,53.622704,55.529076,60.263363,62.254528,65.19209,65.618484,70.044365,72.67884,77.34148,77.93748,73.586174,77.60499,78.633934,80.10433,81.23255,83.3026,87.85582,93.631256,95.66144,98.96339,108.08455,114.77036,118.234985,Img tokens,91,367,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+46,15.197259,15.205636,15.2113495,15.213147,15.243974,15.261695,15.281375,15.312743,15.485047,16.070889,16.876171,18.874222,23.00343,25.125383,29.920862,33.42025,37.31142,40.48807,44.883392,47.03067,45.498455,46.62007,45.82783,46.65213,47.259613,48.59311,49.05816,47.641464,48.19484,50.16154,54.408802,58.431152,68.22768,Img tokens,34,164,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+47,39.43771,39.449097,39.468834,39.465523,39.511578,39.442806,39.434162,39.326878,39.403477,40.034817,41.435886,44.392754,51.692722,55.516922,61.977592,67.42991,74.3463,79.940025,88.92235,93.159195,92.4374,98.01038,99.07812,102.69491,106.31558,110.24539,115.15613,119.00729,122.32146,128.83351,136.75845,139.77072,129.08661,Img tokens,7,24,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+48,12.241196,12.252517,12.259263,12.260342,12.299272,12.339724,12.402545,12.498352,12.740206,13.432159,14.246704,16.514252,21.10189,23.277674,28.231344,31.359262,35.083702,38.418373,42.251423,44.450695,44.407055,44.85452,42.863293,43.799526,43.753906,45.819756,47.583706,50.052647,50.01078,53.08679,58.09236,61.881264,68.71937,Img tokens,63,267,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+49,12.549229,12.56064,12.569765,12.575532,12.625658,12.687191,12.785743,12.943974,13.272881,14.100429,15.072099,17.535728,21.988617,24.33872,28.984512,32.007355,35.422672,38.753307,42.033855,44.40908,44.80478,46.561512,46.01574,47.603516,48.005802,49.986126,51.00839,53.04328,52.073307,54.091995,56.621857,60.037327,64.79914,Img tokens,55,242,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+0,25.706837,34.36399,1.1704888,1.3502419,1.7049096,2.1024344,2.7505836,3.6695704,4.730021,5.985092,7.317315,9.182774,11.894233,14.068547,17.38775,19.00588,22.04336,25.851934,29.830528,33.034176,35.658485,36.87993,37.958176,39.034912,40.079464,41.03574,41.90577,42.752853,43.88202,44.844448,44.258686,43.261658,32.772312,Text tokens,81,337,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+1,37.552986,48.67986,1.3471969,1.7164884,2.5575874,3.6592028,5.4265323,7.9003263,10.754836,13.770243,17.313124,21.626806,26.808146,30.277618,34.57968,36.042908,39.97568,43.553234,47.684177,49.990658,52.544373,53.350414,53.35315,54.449398,56.070103,56.416332,57.57348,58.430008,59.709995,60.585175,58.8755,56.83496,41.458523,Text tokens,14,56,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+2,25.777603,37.576336,1.3287034,1.6946166,2.6046438,3.7930667,5.540336,8.1271305,11.387074,14.293284,17.326672,21.477499,26.709858,30.05877,34.379543,35.478115,39.229877,42.883064,46.613335,49.488747,51.205334,51.786438,52.59107,53.80765,55.068996,55.613686,56.395084,57.117046,58.120148,58.819977,57.758804,55.774593,40.217842,Text tokens,3,17,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+3,25.388052,33.297695,1.2177831,1.4442534,1.9298916,2.4734073,3.332762,4.6064315,6.1067085,7.7722225,9.6663475,12.124931,15.567994,18.31383,21.875185,23.221876,26.403627,30.217106,34.121193,37.17567,39.486477,40.614162,41.43544,42.278973,43.341995,43.79776,44.131508,44.795197,45.72107,46.248486,45.21535,43.717648,31.545864,Text tokens,35,165,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+4,26.962584,36.773556,1.137189,1.2853768,1.5710654,1.8844398,2.3801243,3.0535944,3.923198,4.998253,6.086752,7.742741,10.059886,12.097422,15.165213,16.787107,20.06864,23.895435,28.209612,32.25276,35.76915,37.596096,39.24461,40.526703,41.935467,42.936497,44.03623,45.01568,46.310184,47.23785,46.80226,45.91939,33.166264,Text tokens,31,148,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+5,28.253607,37.066845,1.1786956,1.3608438,1.764413,2.239152,2.9879837,3.9655273,5.2443357,6.6518564,8.365398,10.551934,13.695053,16.150625,19.662838,21.306011,24.76532,28.710876,33.058964,36.504845,39.473606,41.271393,42.556873,43.955704,45.476578,46.35257,47.265755,48.0731,48.86685,49.309746,48.205185,46.70279,34.62603,Text tokens,28,108,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+6,27.169289,36.971443,1.2170455,1.4434966,1.9637297,2.611045,3.6056468,5.017784,6.724594,8.497975,10.519615,13.214663,16.971437,19.88912,23.875975,25.170052,28.807713,32.782402,37.096092,40.132477,42.949615,44.087673,45.1525,46.280373,47.652744,48.64642,49.54072,50.31944,51.280006,51.961727,51.11517,49.81058,36.56068,Text tokens,17,72,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+7,32.371758,43.932087,1.2609245,1.5286245,2.1313374,2.9045253,4.1512694,5.8830237,7.9876456,10.282384,12.8810625,16.306654,20.854689,24.195505,28.310768,29.745796,33.55353,37.475975,41.680817,44.937927,47.33465,48.483078,49.051975,50.235325,51.48821,52.008896,52.95191,53.819805,55.019283,56.023464,54.56689,52.85775,38.298763,Text tokens,13,55,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+8,28.269716,36.592472,1.1851796,1.3759986,1.7881218,2.2564397,2.975672,4.0196114,5.2665687,6.794706,8.390619,10.676355,13.625693,15.937059,19.184547,20.648924,23.653624,27.753754,31.977379,35.445145,38.61094,39.944786,41.14122,42.483406,43.91456,44.496357,45.411983,46.55029,47.63427,48.438236,47.812466,46.8268,34.08033,Text tokens,69,286,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+9,34.989746,47.019787,1.3133442,1.656213,2.3850093,3.4164925,5.0838594,7.206553,10.064694,12.798264,15.921078,20.113302,25.232689,28.656418,33.539867,34.513214,38.121433,42.17097,46.499065,49.479626,51.862637,52.790024,53.5881,54.724926,55.915672,56.75385,57.75856,58.566074,59.682354,60.299896,58.74547,56.646347,42.250263,Text tokens,11,42,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+10,29.74883,39.72918,1.1995243,1.4138759,1.8739749,2.410061,3.2164848,4.3937287,5.831163,7.4001045,9.215809,11.798599,15.1887245,17.87526,21.60533,23.166235,26.624979,30.551273,35.03273,38.755283,41.52057,42.865154,43.869507,44.71808,46.243366,46.993393,47.880226,48.870277,49.92191,50.380096,49.044804,47.534008,36.06046,Text tokens,75,310,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+11,30.555286,39.543545,1.2268946,1.4632491,1.9821091,2.6103673,3.6261585,5.0159664,6.7762527,8.576909,10.537904,13.480995,17.390806,20.333393,24.296862,25.79994,29.576935,33.553226,37.920506,41.313408,43.622486,45.4675,46.759186,47.95613,48.5874,49.86197,50.80816,51.790684,52.803013,53.299675,52.276566,50.733994,37.82853,Text tokens,54,241,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+12,26.171846,38.221077,1.3298401,1.6956756,2.6067622,3.8026278,5.5601187,8.1655655,11.414911,14.322676,17.373646,21.546822,26.793718,30.114546,34.39782,35.473186,39.28055,42.95282,46.67805,49.686325,51.446587,52.028843,52.79406,53.993,55.226566,55.79494,56.62971,57.32045,58.288315,58.9997,57.922142,55.932903,40.104164,Text tokens,4,18,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+13,28.504192,35.922546,1.2902619,1.6118821,2.3867757,3.282465,4.7532206,6.7595415,9.020726,11.379692,13.843713,17.05437,21.225386,24.154158,27.864658,28.54399,31.12158,34.39797,37.758038,40.322876,41.999405,42.492657,43.06425,44.193714,44.973755,45.549564,46.252125,47.15449,48.16934,48.879883,48.0989,46.80452,35.405582,Text tokens,89,360,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+14,24.319,32.05998,1.2152619,1.4501346,1.9651055,2.5476868,3.4479108,4.6917586,6.2062826,7.78223,9.435507,11.796686,15.067429,17.593264,21.008675,22.105736,25.228052,28.888062,32.62919,35.646606,37.88038,38.72618,39.64312,40.633144,41.734417,42.444073,43.094906,43.890438,44.719616,45.299416,44.18277,42.840267,31.333664,Text tokens,82,340,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+15,30.358734,42.129852,1.2042716,1.4084815,1.8437387,2.3966975,3.2459996,4.3778358,5.9716644,7.552402,9.458732,11.991965,15.496754,18.394943,22.159563,23.610668,27.158146,31.246523,35.622463,39.272785,42.49774,44.12854,45.343967,46.661663,47.974598,49.018803,50.20959,51.260826,52.437756,53.228497,52.347557,51.16731,38.190342,Text tokens,27,105,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+16,27.874495,35.837555,1.1962097,1.4035877,1.8929223,2.4763393,3.4146397,4.657372,6.2550426,7.8831434,9.72864,12.157354,15.595815,18.092253,21.600912,22.929007,26.249008,30.204903,34.264565,37.397076,40.428062,41.68025,42.809124,43.921513,45.0903,45.9551,46.86166,47.72124,48.644794,49.393913,48.413944,47.072124,33.905983,Text tokens,29,134,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+17,34.886078,43.15894,1.2831522,1.5913441,2.269162,3.0730963,4.4493337,6.181276,8.432899,10.71855,13.153903,16.5762,21.060326,24.156065,28.431879,29.659454,33.158928,37.06674,41.146614,43.89857,45.083252,46.365986,47.16919,48.372578,48.93126,50.313713,51.43452,52.508907,53.68987,54.415535,53.262466,52.227505,39.33453,Text tokens,64,272,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+18,32.444645,41.951336,1.2009243,1.4198357,1.8404166,2.3426275,3.1282141,4.238037,5.654263,7.257244,9.062769,11.729798,15.205222,17.937208,21.653858,23.189137,26.680275,30.832184,35.36116,38.834595,41.298874,42.77821,43.58451,44.11779,45.66133,46.369305,47.269836,48.43447,49.649723,50.587845,49.34423,48.273075,36.412186,Text tokens,78,317,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+19,29.38542,36.868076,1.2302215,1.4781134,2.0504003,2.7199533,3.7800767,5.228183,7.0132537,9.047642,11.18406,14.090612,17.837048,20.465004,24.193424,25.332886,28.629902,32.447327,36.56664,39.378506,41.666424,42.425045,42.946655,44.090446,45.465828,46.031624,46.73716,47.564354,48.661777,49.503143,48.223404,46.891056,34.990334,Text tokens,71,293,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+20,30.05027,42.321754,1.2398909,1.4788682,2.0271268,2.6977794,3.7644339,5.232842,7.15926,9.180809,11.349391,14.617087,18.761448,22.02576,26.313879,27.650959,31.655458,35.91453,40.285553,43.70868,46.28867,47.476257,48.309383,49.657204,50.94201,51.509453,52.426632,53.213936,54.413616,55.014194,53.93199,52.227993,38.28895,Text tokens,25,93,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+21,24.980505,32.46792,1.1882218,1.3858312,1.8196025,2.3123238,3.0496407,4.111442,5.424659,6.883157,8.390421,10.574638,13.62701,15.94535,19.352894,20.736876,23.865025,27.51777,31.343077,34.38371,36.718082,37.545433,38.635525,39.745262,40.97468,42.004368,42.880516,43.734425,44.791245,45.580036,44.820717,43.674103,31.638872,Text tokens,83,343,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+22,25.886768,34.994198,1.1891056,1.3804722,1.8013746,2.280015,3.051946,4.174146,5.4290376,6.904723,8.496003,10.833315,14.065063,16.697021,20.299013,21.844831,25.123514,28.663769,32.78123,36.018394,38.190243,39.01219,40.355892,41.851017,43.102913,44.270943,45.29056,46.283913,47.415905,48.06272,47.32536,46.328075,35.044933,Text tokens,53,240,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+23,26.444603,34.919605,1.1651324,1.3312598,1.6735682,2.0631187,2.6636202,3.5244176,4.5214148,5.687475,7.0098357,8.786364,11.422915,13.601845,16.776321,18.32275,21.501827,25.417055,29.608248,33.00139,35.917072,37.282215,38.305077,39.551544,40.831257,41.793674,42.648067,43.61598,44.680054,45.561363,44.914608,44.048687,32.61266,Text tokens,86,351,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+24,31.03138,39.935234,1.2440858,1.5111076,2.0788364,2.7800982,3.863315,5.3560114,7.312822,9.213574,11.299096,14.183659,18.16004,21.110903,25.00815,26.497408,30.085554,34.333405,38.75881,42.007454,44.125214,45.371315,46.415173,47.668587,48.82236,49.774654,50.475006,51.386723,52.311176,52.72923,51.542572,49.816875,36.251007,Text tokens,57,252,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+25,30.343386,39.569942,1.1972116,1.4004697,1.8136678,2.3077345,3.103685,4.1751738,5.5132027,7.088362,8.735824,11.069883,14.264192,16.876442,20.690857,22.430737,25.648104,29.536928,33.57341,36.943417,39.395466,40.471752,41.47564,42.468033,43.46046,44.3421,45.26182,46.22433,47.300533,47.98435,46.983845,46.155777,34.32914,Text tokens,88,357,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+26,32.09496,44.610844,1.388199,1.8215516,2.7405658,4.0220284,5.964681,8.763695,12.438578,15.674601,19.289215,24.165586,29.688946,33.05889,37.692432,38.961346,42.75853,46.20562,49.504547,52.484924,54.188972,55.218952,55.70926,56.764484,57.683422,57.87187,58.871017,59.70459,60.85571,61.465256,59.901608,57.597996,42.465454,Text tokens,0,8,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+27,29.901688,42.658222,1.2595378,1.5353959,2.1307986,2.89579,4.10566,5.7354445,7.938995,10.19476,12.807998,16.234274,20.847372,24.41087,29.021393,30.777334,35.00249,38.484146,42.366875,45.669254,48.108547,49.312794,50.12466,51.317005,52.634396,53.404655,54.328854,55.139675,55.872204,56.12085,55.432404,53.026794,39.278694,Text tokens,20,81,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+28,25.713783,34.694973,1.2297904,1.4669294,1.9796559,2.567666,3.5347962,4.8279004,6.4124093,8.048681,9.9246025,12.541213,16.105553,18.857018,22.56962,23.734451,26.636002,30.35914,34.071625,36.869083,39.081116,39.772396,40.509342,41.471447,42.311462,42.990227,43.57734,44.212254,45.176655,45.86093,44.818005,43.407127,31.851809,Text tokens,80,332,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+29,28.996471,41.116158,1.2169831,1.4351157,1.9029706,2.5129323,3.4569871,4.768412,6.5222626,8.295031,10.367669,13.255696,17.10691,20.396988,24.602022,26.179033,29.984709,34.02115,38.42645,41.779514,44.433758,45.629642,46.69679,47.819603,49.106644,50.06497,51.043613,51.967823,52.775375,53.304523,52.500366,50.94152,37.11542,Text tokens,21,82,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+30,26.485666,35.295883,1.1645557,1.3361928,1.6955914,2.0973709,2.7262683,3.63536,4.7276926,5.90597,7.3666525,9.286031,12.101913,14.442098,17.667305,19.025522,22.174496,26.252918,30.554033,34.09161,36.98533,38.131985,39.175945,40.366093,41.466393,42.41173,43.159367,44.02378,45.112507,46.001686,45.221664,44.123142,33.07063,Text tokens,85,350,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+31,35.57616,45.470898,1.40755,1.8738846,2.94199,4.382271,6.7714796,9.916304,13.83848,17.174221,21.083595,25.933353,31.892014,35.74744,40.482944,41.12186,44.77117,47.92045,50.966778,52.51716,53.72024,54.045303,53.929165,53.9229,55.1955,55.411102,56.418568,57.05969,58.224533,58.878788,57.156685,54.6312,40.74049,Text tokens,9,30,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+32,26.464773,36.166588,1.1643269,1.3300849,1.676897,2.0737293,2.7169173,3.546962,4.6604753,5.789733,7.1507154,8.929338,11.755401,14.122039,17.403969,19.010004,22.048958,25.944317,30.351894,33.735504,36.64253,38.02272,39.236546,40.62806,41.666023,42.556778,43.37119,44.314693,45.351486,46.10639,45.38551,44.43104,31.868208,Text tokens,84,346,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+33,27.723455,35.951885,1.2210532,1.4576524,1.9512899,2.504665,3.3876092,4.68685,6.208795,7.9164796,9.710627,12.268199,15.683472,18.275627,21.932144,23.369167,26.59312,30.392527,34.596672,37.9018,40.473343,41.622723,42.476723,43.476357,44.65254,45.3752,45.806572,46.808304,47.93231,48.64003,47.56053,45.77624,33.621605,Text tokens,48,223,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+34,34.042683,41.83853,1.251636,1.5093038,2.0850937,2.7746904,3.874417,5.39965,7.3843455,9.486417,11.764084,15.013991,19.255249,22.318445,26.417145,27.862675,31.302866,35.45334,39.670425,42.629036,44.597515,45.966637,47.056145,48.23183,49.233803,50.583008,51.49526,52.36862,53.44415,53.939667,52.638577,51.241604,38.333813,Text tokens,62,265,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+35,36.289986,47.80539,1.3069067,1.6345292,2.36819,3.4571364,5.186665,7.374894,10.18361,12.966029,16.137081,20.31574,25.688335,29.186438,33.698364,34.723423,38.705235,42.484398,46.692074,49.5318,52.239014,52.485435,53.372,54.46187,55.819607,56.54782,57.725822,58.180542,59.4634,60.136745,58.61036,56.634735,41.80861,Text tokens,6,21,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+36,25.777609,37.64946,1.3289533,1.6949699,2.6048603,3.7992685,5.5521035,8.154702,11.447988,14.323452,17.340147,21.49111,26.752815,30.085001,34.41724,35.485886,39.29221,42.900673,46.617573,49.518383,51.22984,51.804886,52.59917,53.793556,55.047443,55.61562,56.401672,57.11634,58.125305,58.827656,57.724056,55.7171,40.106823,Text tokens,5,19,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+37,29.590122,41.873436,1.2342058,1.4693018,2.0076828,2.6817636,3.7229276,5.1697726,7.1135874,9.093266,11.245431,14.395456,18.460546,21.65296,25.846355,27.22028,31.320889,35.453323,39.750965,43.007828,45.661545,47.088722,47.947834,49.158604,50.45728,51.06094,51.874065,52.643707,53.776604,54.33278,53.325935,51.800674,38.32959,Text tokens,24,91,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table
+38,31.312508,39.81422,1.2264124,1.4661822,1.9938157,2.6240664,3.6476212,5.053147,6.836666,8.591159,10.528343,13.456104,17.367628,20.334854,24.28789,25.903488,29.741272,33.751564,38.129658,41.415886,43.848133,45.61837,46.881954,48.099792,48.830307,49.986126,50.863453,51.76717,52.774868,53.300217,52.176327,50.53274,37.633583,Text tokens,56,243,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+39,28.992386,41.093082,1.2159679,1.4334122,1.901116,2.5116105,3.4569166,4.765381,6.511521,8.2810755,10.357347,13.2365675,17.0574,20.344124,24.546825,26.126316,29.939466,33.909264,38.28522,41.680172,44.28844,45.490135,46.53821,47.64915,48.982635,49.949352,50.91487,51.830593,52.631046,53.14412,52.37008,50.84419,36.93261,Text tokens,22,83,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+40,25.887138,35.18296,1.1889238,1.3809329,1.8092895,2.2973146,3.0718496,4.181126,5.450667,6.916058,8.488367,10.801031,14.000702,16.634144,20.254416,21.809528,25.104864,28.654902,32.773018,36.062737,38.27324,39.00559,40.321358,41.835045,43.078594,44.2633,45.240845,46.209057,47.36738,48.033188,47.33896,46.378986,35.12414,Text tokens,52,239,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+41,24.423258,33.110607,1.1577295,1.31753,1.6440988,2.0006807,2.5566392,3.3790457,4.367993,5.4375553,6.734227,8.439197,11.012717,13.198682,16.332148,17.825882,20.912464,24.80339,29.261988,32.988487,35.924866,37.660446,38.82813,40.007755,41.235943,42.098503,42.758255,43.745876,44.86924,45.589005,44.631172,43.343063,31.482784,Text tokens,38,171,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+42,29.035355,38.814556,1.1986098,1.3940444,1.8164274,2.3282962,3.1474204,4.231668,5.696185,7.209796,8.986342,11.306212,14.62026,17.36204,21.096851,22.771296,26.466072,30.737392,35.16451,38.880135,42.197113,43.53808,44.598255,45.85976,47.25495,48.188877,49.01303,49.740124,50.69844,51.442013,50.55394,49.246807,36.15781,Text tokens,16,69,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+43,25.381012,37.23029,1.3276439,1.6903867,2.5961905,3.778444,5.5185738,8.10193,11.337851,14.219788,17.263998,21.451073,26.682508,30.04193,34.34869,35.462624,39.18011,42.811596,46.61548,49.468597,51.164894,51.778515,52.61834,53.848442,55.117805,55.65687,56.46335,57.198837,58.17336,58.91946,57.840855,55.85684,40.222816,Text tokens,2,16,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+44,27.152803,36.019043,1.1772529,1.357334,1.731079,2.1591668,2.8172,3.7865522,4.9284306,6.2490234,7.734389,9.725397,12.706607,15.005083,18.446058,19.9964,23.224752,27.357937,31.921766,35.609814,38.419487,39.83052,40.982105,42.12847,43.31913,44.30997,44.913292,45.77817,46.816097,47.539776,46.740883,45.544525,34.016296,Text tokens,46,214,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+45,25.848316,35.527576,1.1558337,1.3098885,1.6230774,1.9837296,2.5417423,3.3103364,4.204964,5.357569,6.5007944,8.159037,10.680395,12.799978,15.987676,17.678513,20.817163,24.805134,29.081429,32.757774,35.87826,37.498066,38.6966,40.014843,41.262302,42.216442,43.09082,44.083443,45.11288,45.788864,44.90433,43.96039,31.975779,Text tokens,91,367,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+46,25.893053,33.918026,1.2318314,1.4724014,1.997599,2.587506,3.5190363,4.859399,6.4406805,8.266297,10.322835,12.97748,16.587877,19.366293,23.048262,24.399912,27.765509,31.64991,35.568615,38.62598,40.935555,41.883987,42.57252,43.430874,44.411354,44.897854,45.132988,45.861176,46.789597,47.2605,46.010044,44.31488,31.118656,Text tokens,34,164,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+47,26.777428,38.11259,1.2384783,1.4991295,2.048456,2.7608821,3.9009426,5.4586635,7.598577,9.572269,11.946069,14.916477,19.044712,22.202385,26.464312,28.198263,32.00996,36.11442,40.445244,43.542435,46.0197,46.83947,47.432568,48.572735,49.894947,50.41557,51.404743,52.37918,53.54778,54.16008,53.00293,51.37622,36.922714,Text tokens,7,24,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+48,34.15476,41.874584,1.2520244,1.5144818,2.0826821,2.7772107,3.8934429,5.3866787,7.3264365,9.512712,11.79775,15.063808,19.29739,22.311613,26.384882,27.76478,31.199533,35.32697,39.543865,42.615105,44.737083,46.20384,47.304913,48.492847,49.60173,50.89442,51.75917,52.596233,53.64591,54.13946,52.779766,51.337803,38.49564,Text tokens,63,267,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+49,31.312769,39.803406,1.2273221,1.4666177,1.9931705,2.6240942,3.6491458,5.0464535,6.8174186,8.595151,10.527264,13.475352,17.423857,20.39242,24.35669,26.002298,29.829746,33.82128,38.196545,41.437073,43.873806,45.710747,46.993885,48.217438,48.970436,50.122536,51.009266,51.938835,52.917255,53.438946,52.3125,50.63562,37.775494,Text tokens,55,242,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+0,25.706837,35.791115,1.1541282,1.3117049,1.6094737,1.9578907,2.5083694,3.2116888,4.030978,5.1048355,6.150803,7.809204,10.135155,12.034349,14.9999,16.525568,19.550877,23.598902,28.156872,32.298573,35.43383,37.409885,38.732597,40.130474,41.488396,42.679844,43.710327,44.82742,45.822502,46.41773,45.878246,45.072525,33.456474,Text only tokens,81,337,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any ducks in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+1,37.552986,53.113087,1.3606164,1.741415,2.4996455,3.5538135,5.248793,7.485896,10.006247,12.930409,16.19281,20.601408,25.460543,28.57525,33.001827,34.370907,38.237217,42.32909,46.81652,50.317757,52.46691,54.098232,54.426487,55.915485,57.367588,58.59655,59.637638,60.991756,62.560474,63.315907,62.521942,60.806232,47.21945,Text only tokens,14,56,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, is the combined market share of Autel, FreeFly, Skydio, and Parrot greater than the market share of DJI alone in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+2,25.777603,43.32097,1.2780821,1.5815035,2.181526,3.0430782,4.2701645,6.0052204,8.311864,10.685453,13.204498,16.95117,21.406578,24.848415,29.27556,30.70594,34.78803,39.712135,44.645905,48.344273,50.840115,52.15771,53.40706,55.05356,56.392555,57.532005,58.698513,59.96139,61.338543,62.008064,60.67268,58.816162,44.38955,Text only tokens,3,17,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2005?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+3,25.388052,35.6645,1.1689365,1.3374946,1.6633335,2.0497055,2.6574337,3.453952,4.409269,5.6034474,6.8658667,8.70889,11.264726,13.481371,16.717049,18.375572,21.644232,25.68028,30.415071,34.504845,37.541786,39.623028,41.04733,42.36775,43.62382,44.61894,45.36224,46.380047,47.29228,47.685234,46.9282,45.677402,33.76866,Text only tokens,35,165,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the right orange circle larger than the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+4,26.962584,37.781364,1.1727704,1.3530078,1.6950217,2.0918348,2.7383938,3.545108,4.5995646,5.9144263,7.201205,9.225773,11.833402,13.979012,17.271791,18.659895,22.137249,26.201044,30.635508,34.558895,37.552326,39.151043,40.364605,41.585064,42.739697,43.97281,44.931435,46.006313,47.258533,48.00112,47.823353,47.04633,34.130753,Text only tokens,31,148,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Is the formula in this image representative of the Euler equation?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+5,28.253607,38.83745,1.1823871,1.3642507,1.7358112,2.2131548,2.9352715,3.8217452,4.9020514,6.234889,7.7050858,9.819191,12.70724,14.987481,18.366743,19.851404,23.263771,27.379482,31.585043,35.422794,38.567474,40.506058,41.80974,43.314117,44.641155,45.882374,46.922367,48.042164,49.062275,49.682938,48.970097,47.876118,37.60211,Text only tokens,28,108,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the map provided, is New Mexico state larger than Texas state?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+6,27.169289,41.343643,1.2044021,1.4083477,1.8223492,2.3690674,3.2075572,4.276581,5.5945587,7.1324983,8.763137,11.302564,14.568238,17.27355,20.868969,22.279713,25.72571,29.998457,34.425117,38.055367,40.80113,42.36353,43.437077,44.874416,46.15897,47.526993,48.87952,50.164146,51.48418,52.339756,52.10028,51.06418,38.472164,Text only tokens,17,72,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, in 2021, did Germany have the highest GDP?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+7,32.371758,47.823868,1.2700787,1.554175,2.1166584,2.8932967,4.0670815,5.6092834,7.534782,9.731322,12.113247,15.498791,19.750774,22.830498,27.073538,28.557964,32.321823,36.554897,40.85674,44.342804,46.598583,48.250164,48.625595,50.275223,51.57603,52.803993,54.04158,55.26906,56.774582,57.5223,56.459557,54.878582,41.251377,Text only tokens,13,55,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: According to the image, does DJI hold more than 50% of the commercial drone brand market share in 2021?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+8,28.269716,39.085255,1.1844981,1.367219,1.7285969,2.159798,2.8104935,3.6753545,4.798758,6.1815877,7.4773026,9.6087885,12.2871,14.405938,17.567795,19.028128,22.251057,26.596777,31.219156,35.321095,38.65411,40.537556,42.024162,43.484005,44.823315,46.178894,47.173965,48.449013,49.67507,50.08455,49.56654,48.748554,35.512306,Text only tokens,69,286,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,ocr,"[INST]  
+ QUESTION: Does the image show ""Hot dry noodles from Wuhan""?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,ocr
+9,34.989746,51.012207,1.3319201,1.6907959,2.3878615,3.4148228,5.02235,7.017214,9.686377,12.359208,15.175749,19.378288,24.544138,27.961182,32.521416,33.439266,37.278015,41.53435,46.10079,49.45317,51.670063,52.82452,53.827923,55.241634,56.38516,57.73843,58.825527,59.999084,61.314823,61.98797,60.345173,58.131626,44.588856,Text only tokens,11,42,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: According to the image, were Asians the largest population group in the United States in 2020, with Whites and African Americans as the second and third largest groups, respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+10,29.74883,41.59666,1.2057222,1.4204521,1.8463486,2.379465,3.1646602,4.2516813,5.6065283,7.2110147,8.820834,11.251763,14.351102,16.827332,20.462643,21.831823,25.40308,29.709862,34.153698,38.337082,41.275036,42.940315,44.03876,45.312225,46.65553,48.040096,49.069683,50.244293,51.428276,52.08915,51.214905,49.933014,37.671097,Text only tokens,75,310,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this sign located in College Park, MD?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+11,30.555286,41.985718,1.2057459,1.4164859,1.8411905,2.3750384,3.2173665,4.2614746,5.5921955,7.0825753,8.707308,11.258397,14.621517,17.292322,20.971472,22.458925,26.165699,30.589329,35.460663,39.533825,42.52375,44.543163,46.064247,47.639748,48.84868,50.473373,51.556812,52.821445,54.030495,54.617966,53.818573,52.508217,40.936966,Text only tokens,54,241,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A equal to angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+12,26.171846,44.026382,1.2792444,1.5821713,2.1862159,3.0530434,4.2829833,6.0293436,8.338613,10.718578,13.249868,17.02674,21.473352,24.855148,29.306728,30.720629,34.85431,39.83661,44.747993,48.46556,50.97792,52.318832,53.48308,55.09395,56.378902,57.544872,58.65892,59.93681,61.313683,61.93765,60.537403,58.713684,44.153957,Text only tokens,4,18,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2030?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+13,28.504192,39.542725,1.1886448,1.3795388,1.761821,2.1984544,2.89842,3.8306859,4.982173,6.392864,7.8649583,10.151016,13.03612,15.46801,18.746538,20.1215,23.358564,27.873363,32.529728,36.68845,39.683384,41.43831,42.64232,44.078636,45.080166,46.405083,47.369873,48.47673,49.621876,50.245068,49.697998,48.60553,36.234013,Text only tokens,89,360,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Are all the characters in this figure from The Story of the Little Mole?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+14,24.319,34.76374,1.1502712,1.3009214,1.5933708,1.9387268,2.47505,3.1336694,3.964264,5.0155478,6.0902886,7.686087,9.876675,11.872316,14.691515,16.043068,19.098284,23.052101,27.629587,31.759014,35.206238,37.447117,38.989006,40.44535,41.84943,43.11614,44.013462,45.109646,46.079304,46.391926,45.765484,44.752335,32.62986,Text only tokens,82,340,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure,"[INST]  
+ QUESTION: Is this the official KFC logo?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure
+15,30.358734,44.533897,1.2250619,1.4549817,1.9141003,2.5265179,3.4363086,4.606303,6.193211,7.859543,9.626158,12.336149,15.900242,18.891722,22.642494,23.844864,27.179,31.412277,35.718994,39.067833,41.739143,43.380135,44.613556,46.0066,47.52552,48.974182,50.284866,51.68692,53.14715,53.871243,53.373085,52.332695,39.260952,Text only tokens,27,105,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to this table, does US have the highest carbon dioxide emissions worldwide in 2010?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+16,27.874495,38.893806,1.1802734,1.3630066,1.7381912,2.2074943,2.9131465,3.8127198,4.964539,6.3231463,7.7321725,9.870128,12.6899,14.935825,18.291891,19.779804,23.083683,27.187864,31.682442,35.619133,38.66092,40.47545,41.858807,43.298836,44.59226,45.940037,46.965042,48.26664,49.547928,50.20592,49.642338,48.66132,36.84812,Text only tokens,29,134,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,map,"[INST]  
+ QUESTION: According to the image, does Chile cover part of the Amazon Basin?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,map
+17,34.886078,46.23383,1.2437823,1.4996026,1.997375,2.6238632,3.6665542,4.886551,6.5126376,8.42185,10.353855,13.225754,17.118248,20.162146,24.202997,25.593603,29.428116,34.01907,38.864216,42.66223,44.87987,46.802483,48.086514,49.625156,50.608643,52.273445,53.465027,54.750042,56.203114,57.073948,56.26865,55.510223,43.593895,Text only tokens,64,272,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If D is the midpoint of line segment AB, then is D the incenter of triangle ABC? Please answer yes or no
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+18,32.444645,43.750755,1.2315202,1.4795103,1.945949,2.5509474,3.438462,4.634472,6.152958,7.91456,9.732641,12.580056,16.107225,18.811306,22.752346,24.160244,27.87355,32.2177,36.609257,40.33881,43.053253,44.67068,45.655674,46.376987,47.787964,48.882088,49.836033,50.997105,52.158966,52.719273,51.91395,50.5777,36.951607,Text only tokens,78,317,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the text given in the image, is this ice-cream a strawberry flavor ice cream?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+19,29.38542,40.212086,1.2015522,1.4061046,1.8208226,2.3356493,3.157298,4.1663723,5.409924,6.9792366,8.566474,10.957967,14.078412,16.56741,20.330006,21.80655,25.39091,29.573797,34.034695,37.79447,40.8169,42.53987,43.56281,44.990726,46.53463,47.4512,48.353268,49.50236,50.721256,51.369663,50.623535,49.42295,37.043373,Text only tokens,71,293,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,ocr,"[INST]  
+ QUESTION: According to the pizza image in the figure, is this pizza a Hawaiian Pizza?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,ocr
+20,30.05027,45.3452,1.2450999,1.4887823,1.9964658,2.6657197,3.6858232,5.0205603,6.7358317,8.658071,10.696231,13.944053,17.943638,21.061993,25.248081,26.596024,30.533588,35.148552,39.840748,43.46589,45.90452,47.30913,48.265892,49.79169,50.999672,52.38218,53.47386,54.641987,55.929325,56.645267,55.719406,54.15373,39.652695,Text only tokens,25,93,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, is the number of all medals of China 37 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+21,24.980505,34.977833,1.1486725,1.2947199,1.578827,1.9209474,2.4333575,3.10077,3.934387,4.9750705,5.9790497,7.569989,9.727497,11.670492,14.535751,15.90087,18.795067,22.622372,27.084352,31.19706,34.254658,36.169235,37.603447,38.97385,40.24561,41.59744,42.609432,43.689568,44.842342,45.462566,45.142246,44.430164,32.410904,Text only tokens,83,343,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Does this figure depict a singer?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+22,25.886768,37.23275,1.1744262,1.3503011,1.7135463,2.1535316,2.8394833,3.730527,4.7534914,6.0251737,7.32281,9.370589,12.192669,14.607868,18.023401,19.569586,22.90412,26.858814,31.337536,35.12382,37.780586,39.49513,40.98877,42.638466,44.111427,45.548565,46.68828,47.91765,49.035954,49.700497,48.943798,48.235348,37.882996,Text only tokens,53,240,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC > 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+23,26.444603,36.57336,1.1654837,1.32609,1.6330104,1.9937221,2.5500116,3.2708557,4.1564617,5.309863,6.4233074,8.146152,10.538662,12.535384,15.61744,17.10044,20.24613,24.332333,28.970194,33.148796,36.35698,38.362087,39.633854,41.02855,42.35982,43.493202,44.38271,45.46446,46.536972,47.1043,46.663364,45.885937,33.65995,Text only tokens,86,351,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Is there any yogurt in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+24,31.03138,42.666107,1.2099106,1.433476,1.8582636,2.4009328,3.2183344,4.2587667,5.6044965,7.1953573,8.810468,11.256239,14.525272,17.141933,20.678555,22.22191,25.900085,30.546663,35.41675,39.43092,42.243412,43.974308,45.244835,46.748108,48.026176,49.388474,50.453804,51.63115,52.753384,53.279343,52.59251,51.145912,38.45089,Text only tokens,57,252,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: According to the figure, are the two orange lines both curved? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+25,30.343386,40.751858,1.2024668,1.4119604,1.8086677,2.2835975,3.0368884,4.0224066,5.289486,6.888681,8.383965,10.738901,13.699546,16.198248,19.804007,21.268223,24.546804,28.83643,33.18444,37.051506,39.57805,41.006706,42.072964,43.025436,43.967506,44.98638,45.999012,47.008823,48.222073,48.76754,48.144753,47.232216,34.963924,Text only tokens,88,357,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure,"[INST]  
+ QUESTION: Are there any characters in this figure from the manga series Detective Conan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure
+26,32.09496,49.244698,1.3530401,1.753219,2.4852338,3.523845,5.0409894,7.222329,10.232958,13.236757,16.22539,20.921812,26.121948,29.571957,34.208122,35.61182,39.50705,43.708103,48.001537,51.168785,53.274254,54.946083,55.758343,56.933285,57.639153,58.570072,59.79459,61.263386,62.733345,62.78497,61.61159,60.165627,44.847645,Text only tokens,0,8,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000 to 2019, Is 2010 exported the least value of bread, biscuits, wafers, cakes and pastries from the UK?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+27,29.901688,45.54022,1.2776238,1.5745639,2.1763055,2.988857,4.2365847,5.786458,7.927251,10.241277,12.704208,16.24984,20.780602,24.104074,28.61768,30.156563,34.24868,38.62883,43.333267,46.717842,49.22661,50.76102,51.220413,52.983658,54.2162,55.31071,56.56915,57.782032,58.936684,59.325394,58.295647,56.311787,41.932747,Text only tokens,20,81,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the image, which month has the highest percentage change in personal income in the United States from September 2022 to September 2023
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+28,25.713783,36.41432,1.1565654,1.3134545,1.6189969,1.978502,2.5363002,3.24606,4.1398444,5.229668,6.359581,8.121298,10.53064,12.543136,15.578256,16.986395,20.09357,24.138155,28.817968,32.958645,36.211,38.044907,39.377567,40.732193,41.987286,43.306313,44.249405,45.296444,46.361717,46.918194,46.398964,45.46676,33.484253,Text only tokens,80,332,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure chickens?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+29,28.996471,43.387592,1.2362297,1.4737113,1.9510185,2.5820975,3.5433815,4.795352,6.448331,8.340025,10.380656,13.384641,17.164595,20.258333,24.515854,25.916538,29.738613,34.231285,38.804462,42.540833,45.033264,46.561954,47.642086,49.00159,50.1226,51.323116,52.589535,53.761642,54.80476,55.10451,54.12117,52.47773,39.459236,Text only tokens,21,82,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a higher income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+30,26.485666,37.28914,1.1656314,1.332102,1.6496117,2.0214534,2.5907588,3.3376117,4.3061895,5.4843574,6.7151194,8.525498,11.003347,13.0637865,16.237621,17.7183,20.883934,25.01932,29.669336,33.80726,36.954857,38.672703,40.00286,41.28072,42.45471,43.7494,44.74028,45.808857,46.850075,47.34812,46.836002,45.757473,33.67706,Text only tokens,85,350,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the items in this figure ice cream bars?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+31,35.57616,51.86782,1.3777685,1.782543,2.558931,3.6587694,5.4557185,7.795075,10.725013,13.75885,17.05984,21.71495,27.172724,30.87269,35.65042,36.643,40.40195,44.605022,48.598194,51.55243,52.5474,53.651775,53.90454,54.607265,55.8334,57.052452,58.3774,59.70419,60.963554,61.74647,60.336857,58.227165,44.57889,Text only tokens,9,30,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: In 2019, were the main policy interest rates of the Central Banks in the Eurozone higher than those of the U.S. Central Bank, the Central Banks in the UK, and Japan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+32,26.464773,37.23074,1.1652879,1.3286722,1.646524,2.0194356,2.6020133,3.3353019,4.2572865,5.4089327,6.609611,8.4289255,10.914141,13.0281,16.171724,17.639427,20.755003,24.94626,29.619452,33.60911,36.70939,38.44781,39.74093,41.099068,42.306843,43.607925,44.566486,45.681335,46.783836,47.40117,46.91332,45.90111,33.86924,Text only tokens,84,346,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,figure,"[INST]  
+ QUESTION: Are all the animals in this figure prehistoric?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,figure
+33,27.723455,38.644028,1.1905487,1.3835987,1.7587968,2.2175617,2.932956,3.8412433,4.983897,6.313025,7.711325,9.798904,12.566028,14.880836,18.288343,19.848667,23.237234,27.49658,32.22109,36.223217,39.158978,41.09873,42.44405,43.836082,45.0422,46.155933,47.008316,48.2509,49.287064,49.748924,49.145863,47.824905,36.515797,Text only tokens,48,223,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the green line shorter than the red line in the image? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+34,34.042683,44.790913,1.219713,1.4458436,1.8972034,2.4647522,3.3412983,4.4801645,5.942517,7.731546,9.547046,12.315225,16.031296,18.925663,22.876602,24.414082,28.140015,32.58208,37.420197,41.28829,44.020317,46.18837,47.624996,48.938015,50.156315,51.62801,52.56283,53.698055,55.02151,55.829617,55.11389,54.338333,42.73286,Text only tokens,62,265,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the incenter of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,math
+35,36.289986,51.78303,1.3308917,1.6825281,2.3872216,3.4751358,5.1554017,7.179425,9.687541,12.388575,15.290734,19.558416,24.679298,28.064348,32.59256,33.847816,37.64217,41.841198,46.34173,49.33948,51.368656,52.106255,53.17329,54.642452,55.861416,57.31381,58.71814,59.940407,61.50589,62.264893,61.041626,59.392982,44.86129,Text only tokens,6,21,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart,"[INST]  
+ QUESTION: According to the image, in 2019, did Black families have the highest real median household income in the United States, with White, Hispanic, and Asian households following respectively?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart
+36,25.777609,43.409508,1.2787912,1.5819712,2.1859682,3.0534241,4.2863317,6.026584,8.352841,10.703393,13.225921,16.983662,21.44576,24.858402,29.32904,30.777782,34.965816,39.93907,44.830647,48.502823,50.95764,52.30473,53.51038,55.093025,56.363873,57.522488,58.618153,59.88827,61.24989,61.92714,60.558716,58.753315,44.379982,Text only tokens,5,19,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2050?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+37,29.590122,44.8785,1.2393715,1.4765358,1.9768575,2.6481383,3.6505089,4.9647517,6.6875343,8.546539,10.52031,13.623528,17.535131,20.557243,24.719349,26.05194,29.938482,34.585537,39.350822,42.964115,45.571022,47.08165,48.0205,49.40415,50.52895,51.785385,52.821583,53.910637,55.199787,55.90181,55.150433,53.78263,40.52734,Text only tokens,24,91,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table,"[INST]  
+ QUESTION: According to the table, is the number of gold medals of Germany 8 in winter Olympics in 2022?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table
+38,31.312508,42.173428,1.2057649,1.4169123,1.8456539,2.3844447,3.2262588,4.268258,5.6262016,7.0807366,8.651129,11.174496,14.529528,17.212156,20.916565,22.523146,26.317657,30.829058,35.808094,39.78526,42.776203,44.76527,46.302723,47.847282,49.10483,50.52749,51.551456,52.701267,53.935036,54.58853,53.72658,52.352825,40.898716,Text only tokens,56,243,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A smaller than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+39,28.992386,43.35975,1.2350358,1.4716936,1.947824,2.5806768,3.5445714,4.801377,6.446062,8.321354,10.371298,13.351904,17.121641,20.190825,24.445908,25.878244,29.679247,34.19553,38.765236,42.544357,45.034122,46.634624,47.697315,49.06195,50.20282,51.398907,52.65699,53.825874,54.87353,55.18442,54.22478,52.56758,39.47358,Text only tokens,22,83,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,table,"[INST]  
+ QUESTION: According to the table, Did January 2023 have a lower income percentage change than August 2023?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,table
+40,25.887138,37.34184,1.1742344,1.3508224,1.7173407,2.159319,2.8482573,3.734923,4.7583528,6.016696,7.3037744,9.336331,12.121994,14.523072,17.947147,19.481668,22.832384,26.814438,31.33031,35.197594,37.855415,39.538296,41.02904,42.67561,44.112194,45.544983,46.59697,47.8194,48.93572,49.59095,48.846478,48.146687,37.807243,Text only tokens,52,239,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math,"[INST]  
+ QUESTION: Is angleA + angleB +angleC < 180?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math
+41,24.423258,34.76607,1.1576729,1.3146248,1.6191397,1.9777827,2.5240629,3.2276633,4.0964017,5.1540694,6.2843595,7.9356833,10.23464,12.256235,15.275852,16.749853,19.927668,23.920956,28.769476,33.036575,36.28364,38.4878,39.783424,41.197914,42.475628,43.585342,44.49051,45.57441,46.589157,47.019875,46.461662,45.404118,33.58907,Text only tokens,38,171,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Is the top line shorter than the bottom line?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+42,29.035355,41.736805,1.2014911,1.4013098,1.7834241,2.272822,3.0442266,4.028042,5.325607,6.787335,8.353636,10.624541,13.7111635,16.163084,19.681843,21.172989,24.562038,28.839106,33.490944,37.635143,41.055355,42.846104,44.130173,45.664726,46.97947,48.35367,49.60341,50.82877,52.10887,52.69615,52.22614,51.125305,39.736828,Text only tokens,16,69,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,table,"[INST]  
+ QUESTION: In 2023, did Syria have higher population growth than South Sudan?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,table
+43,25.381012,42.949673,1.2774394,1.5793635,2.177755,3.0365713,4.258285,5.9860463,8.296753,10.651588,13.160422,16.903278,21.339584,24.792229,29.245983,30.677504,34.787086,39.74036,44.738125,48.43525,50.89214,52.265114,53.52011,55.181446,56.527412,57.63231,58.791035,60.058426,61.383137,62.083393,60.75499,58.89452,44.530636,Text only tokens,2,16,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,chart,"[INST]  
+ QUESTION: From 2000-2050, is the population aged between 15 and 29 years in China the least in 2000?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,chart
+44,27.152803,37.793415,1.1661601,1.3316461,1.6595324,2.0566776,2.650586,3.4002903,4.32934,5.4796085,6.7116866,8.546778,11.111949,13.301607,16.484411,17.817669,21.071611,25.3812,30.351166,34.70254,38.01116,40.152485,41.49267,42.87514,44.119473,45.38735,46.175095,47.144386,48.15263,48.88565,48.247093,47.37375,36.25289,Text only tokens,46,214,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,illusion,"[INST]  
+ QUESTION: Are two circles in the image different color? Yes or No
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,illusion
+45,25.848316,36.47466,1.1630642,1.3224577,1.6263124,1.9891137,2.5470586,3.2745683,4.150381,5.2885785,6.395964,8.11666,10.521261,12.470026,15.533464,17.032534,20.18514,24.324467,28.779558,32.95634,36.057407,37.881744,39.110207,40.539524,41.819977,42.927143,43.876987,44.91723,46.00935,46.587273,46.190025,45.285053,33.172268,Text only tokens,91,367,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,figure,"[INST]  
+ QUESTION: Are there any cheeses in this figure?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,figure
+46,25.893053,36.643677,1.1781939,1.3580251,1.7102755,2.129293,2.7888443,3.6454651,4.6514425,5.9188085,7.313903,9.342056,12.106338,14.473927,17.847656,19.466805,22.73223,26.917973,31.695158,35.792957,38.98889,40.978878,42.22856,43.47333,44.546513,45.522655,46.21708,47.220688,48.167522,48.514206,47.674667,46.286377,33.668156,Text only tokens,34,164,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,illusion,"[INST]  
+ QUESTION: Is the right orange circle the same size as the left orange circle?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,illusion
+47,26.777428,41.728413,1.229702,1.4807825,1.9486812,2.5660188,3.5448453,4.859229,6.610726,8.476209,10.440068,13.347529,17.025063,19.880274,24.001705,25.642881,29.197304,33.952698,38.78874,42.82201,45.812645,47.409985,48.621872,49.926384,51.0505,52.022694,53.12499,54.29239,55.64193,56.196575,55.41718,53.879196,40.56915,Text only tokens,7,24,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,1,chart,"[INST]  
+ QUESTION: From 2012 to 2022, did Apple derive the majority of its revenue from the Americas?
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,1,chart
+48,34.15476,44.789825,1.2202276,1.4500287,1.8973634,2.4765866,3.3697407,4.487217,5.9088173,7.7645264,9.555445,12.299334,15.995842,18.86191,22.862732,24.400227,28.147999,32.61557,37.435017,41.375813,44.26003,46.367577,47.784225,49.116722,50.406685,51.80471,52.67374,53.81485,55.08733,55.889923,55.111393,54.295277,42.544365,Text only tokens,63,267,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: If DM=EM=FM, then is M the centroid of triangle ABC? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math
+49,31.312769,42.17218,1.2063462,1.417627,1.8450849,2.3843756,3.2255647,4.2617545,5.603625,7.08363,8.652748,11.190954,14.56328,17.219236,20.9402,22.57412,26.363462,30.844822,35.832493,39.755333,42.723824,44.74969,46.279655,47.824734,49.111607,50.552998,51.618694,52.805553,54.006866,54.683582,53.82392,52.42206,41.028534,Text only tokens,55,242,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 1 ",1,0,math,"[INST]  
+ QUESTION: According to the parallel theorem, is angle A larger than angle B? Please answer yes or no.
+OPTIONS:
+0: 0
+1: 1
+
+Answer with the correct option from 0 to 1. Only provide the numeric and nothing else 
+
+Answer:  [/INST] 0 ",0,0,math

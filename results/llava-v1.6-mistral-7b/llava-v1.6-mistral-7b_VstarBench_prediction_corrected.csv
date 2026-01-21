@@ -1,0 +1,1572 @@
+,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,0,"[INST]  
+ QUESTION: What is the material of the glove?
+0 rubber
+1 cotton
+2 kevlar
+3 leather
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the material of the glove?
+0 rubber
+1 cotton
+2 kevlar
+3 leather
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+1,1,"[INST]  
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,2,direct_attributes
+2,3,"[INST]  
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes
+3,6,"[INST]  
+ QUESTION: What is the color of the candles?
+0 red
+1 yellow
+2 gray
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the candles?
+0 red
+1 yellow
+2 gray
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,1,direct_attributes
+4,8,"[INST]  
+ QUESTION: What is the color of the tissue box?
+0 gray
+1 white
+2 black
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the tissue box?
+0 gray
+1 white
+2 black
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,3,direct_attributes
+5,9,"[INST]  
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes
+6,10,"[INST]  
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes
+7,16,"[INST]  
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] B ",10000,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+8,17,"[INST]  
+ QUESTION: What is the material of the stool?
+0 bamboo
+1 steel
+2 plastic
+3 wood
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes,"[INST]  
+ QUESTION: What is the material of the stool?
+0 bamboo
+1 steel
+2 plastic
+3 wood
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,2,direct_attributes
+9,18,"[INST]  
+ QUESTION: What is the color of the bucket?
+0 white
+1 red
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bucket?
+0 white
+1 red
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+10,19,"[INST]  
+ QUESTION: What is the color of the shovel?
+0 yellow
+1 red
+2 blue
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the shovel?
+0 yellow
+1 red
+2 blue
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,2,direct_attributes
+11,20,"[INST]  
+ QUESTION: What is the color of the SUV car?
+0 black
+1 red
+2 silver
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the SUV car?
+0 black
+1 red
+2 silver
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes
+12,21,"[INST]  
+ QUESTION: What is the color of the pink-haired woman's handbag?
+0 brown
+1 white
+2 red
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the pink-haired woman's handbag?
+0 brown
+1 white
+2 red
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,1,direct_attributes
+13,22,"[INST]  
+ QUESTION: What is the color of the car?
+0 white
+1 black
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the car?
+0 white
+1 black
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes
+14,24,"[INST]  
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] B ",10000,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes
+15,25,"[INST]  
+ QUESTION: What is the color of the motorcycle?
+0 blue
+1 orange
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the motorcycle?
+0 blue
+1 orange
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,1,direct_attributes
+16,26,"[INST]  
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes
+17,27,"[INST]  
+ QUESTION: What is the color of the man's cap?
+0 white
+1 red
+2 gray
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the man's cap?
+0 white
+1 red
+2 gray
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,1,direct_attributes
+18,28,"[INST]  
+ QUESTION: What is the color of the pet collar?
+0 purple
+1 red
+2 yellow
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the pet collar?
+0 purple
+1 red
+2 yellow
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+19,30,"[INST]  
+ QUESTION: What is the color of the water bottle?
+0 black
+1 red
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the water bottle?
+0 black
+1 red
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,1,direct_attributes
+20,33,"[INST]  
+ QUESTION: What is the color of the woman's bikini?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the woman's bikini?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes
+21,37,"[INST]  
+ QUESTION: What is the color of the bag?
+0 white
+1 black
+2 purple
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bag?
+0 white
+1 black
+2 purple
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,2,direct_attributes
+22,39,"[INST]  
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes
+23,40,"[INST]  
+ QUESTION: What is the color of the van?
+0 red
+1 white
+2 silver
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the van?
+0 red
+1 white
+2 silver
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes
+24,43,"[INST]  
+ QUESTION: What is the color of the fire hydrant?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the fire hydrant?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,0,direct_attributes
+25,44,"[INST]  
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes
+26,46,"[INST]  
+ QUESTION: What is the color of the motorcycle helmet?
+0 white
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the motorcycle helmet?
+0 white
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+27,48,"[INST]  
+ QUESTION: What is the color of the luggage?
+0 red
+1 yellow
+2 green
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the luggage?
+0 red
+1 yellow
+2 green
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+28,49,"[INST]  
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes
+29,51,"[INST]  
+ QUESTION: What is the color of the dress?
+0 white
+1 black
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the dress?
+0 white
+1 black
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,3,direct_attributes
+30,52,"[INST]  
+ QUESTION: What is the color of the cyclist's box?
+0 green
+1 black
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the cyclist's box?
+0 green
+1 black
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes
+31,55,"[INST]  
+ QUESTION: What is the color of the cyclist's bag?
+0 orange and black
+1 white and red
+2 red and blue
+3 blue and gray
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the cyclist's bag?
+0 orange and black
+1 white and red
+2 red and blue
+3 blue and gray
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes
+32,56,"[INST]  
+ QUESTION: What is the breed of the dog?
+0 Husky
+1 corgi
+2 Dalmatian
+3 golden retriever
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,3,direct_attributes,"[INST]  
+ QUESTION: What is the breed of the dog?
+0 Husky
+1 corgi
+2 Dalmatian
+3 golden retriever
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+33,58,"[INST]  
+ QUESTION: What is the color of the car?
+0 blue
+1 black
+2 red
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the car?
+0 blue
+1 black
+2 red
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,3,direct_attributes
+34,61,"[INST]  
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes
+35,62,"[INST]  
+ QUESTION: What is the color of the scarf?
+0 red
+1 green
+2 white
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the scarf?
+0 red
+1 green
+2 white
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,1,direct_attributes
+36,63,"[INST]  
+ QUESTION: Is the flag red or white?
+0 white
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes,"[INST]  
+ QUESTION: Is the flag red or white?
+0 white
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes
+37,66,"[INST]  
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,direct_attributes
+38,67,"[INST]  
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,2,direct_attributes
+39,68,"[INST]  
+ QUESTION: What is the color of the cleaning cloth?
+0 blue
+1 red
+2 white
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the cleaning cloth?
+0 blue
+1 red
+2 white
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,1,direct_attributes
+40,69,"[INST]  
+ QUESTION: What is the color of the umbrella?
+0 purple
+1 black
+2 blue
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the umbrella?
+0 purple
+1 black
+2 blue
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes
+41,70,"[INST]  
+ QUESTION: What is the color of the backpack?
+0 gray
+1 white
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the backpack?
+0 gray
+1 white
+2 yellow
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,direct_attributes
+42,72,"[INST]  
+ QUESTION: What is the color of the baby carriage?
+0 red
+1 blue
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the baby carriage?
+0 red
+1 blue
+2 black
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes
+43,73,"[INST]  
+ QUESTION: What is the color of the watch?
+0 blue
+1 silver
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the watch?
+0 blue
+1 silver
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,2,direct_attributes
+44,75,"[INST]  
+ QUESTION: What is the color of the flute?
+0 black
+1 white
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the flute?
+0 black
+1 white
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+45,76,"[INST]  
+ QUESTION: What is the color of the flag?
+0 red
+1 yellow
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the flag?
+0 red
+1 yellow
+2 white
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+46,79,"[INST]  
+ QUESTION: What is the color of the bus?
+0 blue
+1 red
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bus?
+0 blue
+1 red
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+47,83,"[INST]  
+ QUESTION: What is the color of the electric rickshaw?
+0 green
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the electric rickshaw?
+0 green
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,3,direct_attributes
+48,84,"[INST]  
+ QUESTION: What is the color of the truck?
+0 white
+1 black
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the truck?
+0 white
+1 black
+2 yellow
+3 silver
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,2,direct_attributes
+49,85,"[INST]  
+ QUESTION: What is the color of the messenger bag?
+0 red
+1 brown
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] A ",10000,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the messenger bag?
+0 red
+1 brown
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,3,direct_attributes
+50,87,"[INST]  
+ QUESTION: What is the color of the watchband?
+0 purple
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the watchband?
+0 purple
+1 blue
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,0,direct_attributes
+51,89,"[INST]  
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,direct_attributes,"[INST]  
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,1,direct_attributes
+52,91,"[INST]  
+ QUESTION: What is the color of the mailbox?
+0 red
+1 white
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,2,direct_attributes,"[INST]  
+ QUESTION: What is the color of the mailbox?
+0 red
+1 white
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,2,direct_attributes
+53,94,"[INST]  
+ QUESTION: What is the color of the bottle cap?
+0 white
+1 black
+2 red
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bottle cap?
+0 white
+1 black
+2 red
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,3,direct_attributes
+54,95,"[INST]  
+ QUESTION: What is the color of the earring?
+0 blue
+1 red
+2 silver
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,direct_attributes,"[INST]  
+ QUESTION: What is the color of the earring?
+0 blue
+1 red
+2 silver
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,0,direct_attributes
+55,96,"[INST]  
+ QUESTION: What is the color of the swim ring?
+0 white
+1 yellow
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] B ",10000,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the swim ring?
+0 white
+1 yellow
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+56,98,"[INST]  
+ QUESTION: What is the color of the hat?
+0 black
+1 pink
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 3 ",3,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the hat?
+0 black
+1 pink
+2 yellow
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+57,100,"[INST]  
+ QUESTION: What is the color of the bench?
+0 gray
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 2 ",2,3,direct_attributes,"[INST]  
+ QUESTION: What is the color of the bench?
+0 gray
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,3,direct_attributes
+58,101,"[INST]  
+ QUESTION: Is the telephone on the left or right side of the hand lamp?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position,"[INST]  
+ QUESTION: Is the telephone on the left or right side of the hand lamp?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position
+59,102,"[INST]  
+ QUESTION: Is the red car on the left or right side of the police car?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the red car on the left or right side of the police car?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position
+60,105,"[INST]  
+ QUESTION: Is the cyclist on the left or right side of the sculpture?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position,"[INST]  
+ QUESTION: Is the cyclist on the left or right side of the sculpture?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position
+61,107,"[INST]  
+ QUESTION: Is the red backpack on the left or right side of the clock?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position,"[INST]  
+ QUESTION: Is the red backpack on the left or right side of the clock?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position
+62,109,"[INST]  
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+63,113,"[INST]  
+ QUESTION: Is the umbrella on the left or right side of the traffic light?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the umbrella on the left or right side of the traffic light?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+64,116,"[INST]  
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+65,117,"[INST]  
+ QUESTION: Is the soccer ball on the left or right side of the water dispenser?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the soccer ball on the left or right side of the water dispenser?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+66,119,"[INST]  
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position,"[INST]  
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position
+67,121,"[INST]  
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+68,130,"[INST]  
+ QUESTION: Is the shopping cart on the left or right side of the dog?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the shopping cart on the left or right side of the dog?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position
+69,131,"[INST]  
+ QUESTION: Is the switch on the left or right side of the towel?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the switch on the left or right side of the towel?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+70,141,"[INST]  
+ QUESTION: Is the pillar box on the left or right side of the man with the cane?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the pillar box on the left or right side of the man with the cane?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+71,142,"[INST]  
+ QUESTION: Is the motorcycle on the left or right side of the street?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the motorcycle on the left or right side of the street?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position
+72,144,"[INST]  
+ QUESTION: Is the small red car on the left or right side of the baby carriage?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the small red car on the left or right side of the baby carriage?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position
+73,151,"[INST]  
+ QUESTION: Is the keyboard on the left or right side of the guitar?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the keyboard on the left or right side of the guitar?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position
+74,152,"[INST]  
+ QUESTION: Is the dog on the left or right side of the crosswalk?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position,"[INST]  
+ QUESTION: Is the dog on the left or right side of the crosswalk?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position
+75,154,"[INST]  
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+76,155,"[INST]  
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,1,relative_position,"[INST]  
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,1,relative_position
+77,161,"[INST]  
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position,"[INST]  
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position
+78,164,"[INST]  
+ QUESTION: Is the street lamp on the left or right side of the blue van?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 1 ",1,0,relative_position,"[INST]  
+ QUESTION: Is the street lamp on the left or right side of the blue van?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer:  [/INST] 0 ",0,0,relative_position

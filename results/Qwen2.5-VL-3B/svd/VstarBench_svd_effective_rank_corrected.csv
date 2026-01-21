@@ -1,0 +1,5289 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,Mean over,idx_corrected,idx_main,outputwImg,predictionwImg,gold_referencewImg,tagwImg,outputwoImg,predictionwoImg,gold_referencewoImg,tagwoImg
+0,80.26866,95.73984,90.93064,90.94299,93.3468,97.14992,101.68813,109.03874,110.100395,114.09424,116.47566,114.66462,110.17796,114.30373,115.19726,114.66435,126.648605,138.49535,141.40872,141.11046,140.90189,132.40018,139.06458,149.78758,158.22276,163.06955,165.8691,156.41505,161.17688,179.56119,193.95567,208.85205,226.99092,232.93266,245.01746,227.6658,228.2897,All tokens,40,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+1,81.72176,92.82619,89.54087,89.17269,90.626976,92.33418,94.03233,99.02725,99.535835,103.45225,105.591385,106.19774,106.79369,107.68704,107.202934,108.021225,116.21208,122.68211,125.31972,125.18522,125.04896,119.72715,125.12381,134.43156,141.70485,146.52583,150.27678,141.92732,146.33263,160.00114,170.98393,182.69498,195.68765,204.99863,209.94832,191.99551,185.7017,All tokens,7,26,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+2,94.46263,115.83174,109.04011,109.00693,110.9051,113.77923,116.83595,124.36268,123.68694,128.68579,128.74084,122.28565,117.87607,115.55767,117.02173,117.44876,127.78137,139.48311,144.97005,145.7528,148.28583,138.61717,151.0776,165.15973,176.11191,185.6607,189.14133,182.36469,186.19992,202.48119,218.40793,224.12701,245.08125,251.4054,250.27019,222.7668,219.40143,All tokens,1,3,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+3,82.68633,102.00617,96.18397,96.27988,98.74707,102.03103,105.36802,111.89899,116.32895,121.617165,124.37097,123.49695,115.25913,116.2118,115.70389,115.19214,122.698135,129.49574,133.55019,133.19138,136.79034,127.98029,139.8416,151.87488,162.62337,169.63295,170.43628,161.49306,163.53668,180.06895,193.1599,203.94029,219.3306,227.35915,229.00284,206.77391,196.75589,All tokens,47,155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+4,83.21143,100.237656,94.08969,94.41126,97.37354,102.69079,108.13816,115.75963,118.68117,124.78591,126.43656,121.23264,113.89204,114.97391,113.474464,113.75488,124.392815,135.38571,138.18622,135.25543,137.15073,124.26648,132.63803,143.25726,151.4077,157.76389,159.47656,151.24167,156.92494,174.23471,186.97932,198.15907,214.91737,226.2657,239.83711,225.94896,184.33572,All tokens,17,65,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+5,105.177284,130.47797,121.30613,120.37212,122.0314,124.64592,128.75398,134.29639,133.90799,140.00359,137.46815,131.8054,123.74718,127.56014,124.614494,126.045586,137.53044,151.52715,157.76328,156.62172,156.68619,142.91687,155.93793,169.90016,181.39162,188.78291,190.40312,184.15211,189.88605,208.07205,226.55473,239.53653,261.67316,277.92062,284.82,258.12732,231.19006,All tokens,15,57,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+6,65.75326,79.267296,77.08706,77.24793,78.43261,80.98804,83.959625,89.56188,92.0473,94.550186,94.13852,93.608574,85.825714,89.9363,92.68439,93.56774,102.91535,111.43483,112.09513,112.63501,116.83606,111.93149,118.10938,128.11436,136.2039,141.20113,141.76904,134.58372,138.31464,151.06276,162.17932,174.11726,181.14882,185.8577,196.93367,194.37767,205.65176,All tokens,14,53,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+7,88.33082,108.16018,101.13883,101.825294,105.40757,110.45735,118.20016,125.7846,125.824486,128.74115,127.01104,121.6881,115.25857,117.0056,118.77616,121.3908,136.11632,150.4399,154.92781,151.97876,150.90985,136.99191,144.35338,156.5172,163.97505,170.69475,170.68594,163.1888,170.36696,189.27768,205.45406,223.99825,251.71869,271.79605,290.55463,274.35916,206.96045,All tokens,8,29,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+8,94.56408,113.523285,106.29728,105.59331,106.880104,109.04645,110.8736,116.035675,116.44495,120.353004,116.388275,115.02858,111.73194,109.37019,110.57791,113.90148,125.038345,134.99088,141.3736,139.89514,141.66756,130.43417,142.14203,154.86273,166.17062,173.53365,177.2763,169.14871,175.43102,190.62326,207.47049,217.48651,231.80922,245.62103,249.1136,211.23697,229.5924,All tokens,6,24,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+9,83.68631,101.40826,95.04689,94.99148,96.873146,99.058426,102.137146,106.59899,105.55837,107.669685,105.2923,102.037895,98.83243,100.43578,101.05505,106.15859,120.54593,136.6421,141.2595,137.83421,134.94852,122.43788,132.51309,143.75363,153.35278,160.0283,164.53294,155.86967,164.7072,185.9169,208.27744,227.16104,251.75339,268.81998,270.30765,236.44945,249.36462,All tokens,43,148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+10,80.61204,95.886406,90.20602,90.19483,92.70123,96.19548,98.586815,103.03035,103.57777,105.5014,106.36269,105.23527,99.74052,99.371704,98.73821,102.56346,114.42664,127.31446,131.4158,127.48972,128.81693,116.9969,127.35192,137.8515,148.30244,155.71918,160.05006,151.83563,160.18077,179.4139,197.20949,212.88002,234.76619,249.29578,256.99423,226.40903,226.18233,All tokens,34,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+11,76.13336,100.12015,92.590744,94.42612,101.78035,111.9151,124.90082,134.94794,138.92667,143.43094,137.26935,127.72448,118.484726,116.78681,115.67101,121.90369,137.55371,156.0704,162.718,157.58893,158.69402,142.98544,153.81087,165.93372,174.62628,183.03139,185.57536,175.2327,183.16391,203.01205,219.07378,232.34474,254.04753,270.02603,275.62442,235.66986,169.14961,All tokens,5,16,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+12,90.3791,109.59853,103.11332,102.81309,104.77632,106.95315,110.420105,115.992744,118.50909,124.875854,124.85085,120.20331,116.7635,119.000595,118.45852,117.597435,128.27979,138.25293,141.86568,141.57834,141.892,127.891396,136.97525,146.35397,155.5484,161.14421,163.66914,155.72125,160.48819,177.49368,192.95746,205.6805,220.90057,226.58292,240.05151,221.41225,196.30783,All tokens,37,132,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+13,83.79308,103.26309,96.72272,97.574104,100.403275,107.04264,111.88447,119.96356,120.756195,125.67572,126.2934,122.21786,116.03252,117.02451,117.311295,119.224434,129.1227,139.7494,143.69621,140.23616,141.63586,130.66756,140.74477,153.71277,163.86203,171.07184,173.04193,165.48152,172.01768,190.37788,205.13943,217.56856,236.34035,247.27708,253.46611,229.44627,210.0235,All tokens,27,114,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+14,69.15575,83.039764,78.23308,77.77717,78.49308,80.110435,82.40498,86.31176,86.1249,89.145615,89.68372,86.90015,85.84885,86.40733,88.25168,89.49434,102.451324,113.72071,117.261024,116.746506,115.05086,105.48399,113.925385,122.78405,131.04839,136.70714,139.48822,134.31381,138.25563,153.13832,165.95375,178.75354,190.8429,198.6103,197.57722,173.0317,200.9095,All tokens,2,9,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+15,82.634384,108.686745,100.16022,102.99096,110.713036,122.22293,135.63525,147.38948,152.21129,159.47656,154.41742,141.14929,129.36137,131.80678,128.2508,127.235085,139.05688,154.73141,162.25838,158.51743,161.80309,145.53815,156.69896,172.39871,181.49309,192.55048,194.18285,185.41449,192.12254,207.96483,219.83937,226.27068,246.58662,265.52612,275.05695,245.2573,140.35497,All tokens,51,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+16,68.61903,83.778336,79.11474,78.792366,80.148384,81.852135,83.71648,86.257576,85.49335,86.61144,85.451416,84.86972,86.56722,87.083176,88.44306,95.29435,109.00615,122.09228,127.77912,124.74273,120.27022,106.91623,115.12344,123.16309,131.11525,135.20029,139.00749,130.273,140.08258,159.36581,181.02335,201.84024,229.07776,253.11043,272.43042,236.48973,255.191,All tokens,42,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+17,90.44635,110.863335,103.061195,102.68491,104.81365,108.081345,112.065155,117.960014,118.56577,120.88935,122.31109,119.44254,113.57136,116.47926,117.74961,119.197716,130.42508,141.36537,147.13222,145.97072,144.53638,134.35776,143.34555,155.2706,162.63763,167.4265,167.93846,163.48267,169.73764,188.50009,204.43246,222.22032,237.1621,253.52777,259.92032,234.38275,217.31142,All tokens,13,49,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+18,80.078285,94.010315,89.4278,89.17363,90.13568,91.87054,93.18035,96.86696,96.090675,98.91988,99.87001,98.25554,95.734406,97.9475,98.92516,100.16475,112.26385,123.78602,128.01697,126.873146,126.38726,117.444275,126.027145,135.5446,144.79617,149.43909,153.13809,144.27678,151.58678,167.39139,181.90622,196.16936,213.60054,224.49997,233.60104,212.38098,235.72177,All tokens,50,160,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+19,89.38175,105.7893,100.74516,99.89353,101.15321,103.18414,104.09761,108.39319,106.87266,110.182335,110.92472,110.11263,107.30671,107.30471,105.648705,108.12506,117.92098,129.43475,134.9832,131.79033,132.4735,122.29896,132.08136,142.47595,152.91068,160.32878,165.92606,157.11412,165.83359,186.11302,203.88126,217.94455,238.9367,251.9775,252.3689,212.77428,244.2924,All tokens,32,119,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+20,89.99597,109.248116,103.00692,103.703285,106.009224,110.23288,115.33004,122.02261,123.80177,128.76466,128.07437,124.70235,120.33085,122.38121,122.853226,124.10251,136.13008,147.67511,151.85988,148.41853,148.73203,136.96245,145.73065,155.7621,165.38852,172.0396,173.9279,165.54688,171.58359,191.14116,209.20868,226.61145,251.19676,266.88663,277.6675,254.1041,209.0312,All tokens,38,133,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+21,82.7608,99.62862,93.38183,93.3858,95.42781,99.112045,102.518814,107.856674,107.908844,110.5253,110.43923,108.16874,104.58728,105.69215,105.661705,108.7489,119.40821,130.43256,134.8975,133.8169,135.08443,124.70549,134.51904,144.60104,155.32236,162.75035,166.34369,158.88437,164.8208,182.34633,197.74065,211.07043,229.66663,241.39348,243.95853,216.4864,224.36865,All tokens,12,44,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,68.694565,85.33102,79.055756,79.07427,81.04908,83.34833,86.84232,90.62513,91.04066,93.0467,91.68451,89.80183,89.01584,90.23161,89.80508,94.91456,109.06137,123.92688,129.00232,124.21925,120.22126,104.72432,113.92756,122.59048,130.82167,136.7567,141.72911,132.46094,141.95108,161.45032,183.37259,204.04718,232.1134,254.74478,273.74265,244.15393,231.46417,All tokens,26,111,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+23,84.01417,99.129906,93.2753,92.61021,93.434395,94.62399,96.9659,103.72758,104.114,106.30554,107.38445,105.97434,102.60665,104.085144,105.22502,107.84253,118.07515,127.59567,132.21652,134.69472,136.5181,127.730316,139.66,153.7113,164.79897,173.03705,175.70444,170.0711,175.38919,190.26045,205.02385,215.36636,227.26863,230.54068,223.1074,193.16798,194.8397,All tokens,52,163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+24,92.49683,110.909386,105.267586,104.43474,106.018364,107.442696,108.737915,113.62137,113.98848,117.074684,117.070724,113.94163,109.298294,109.44459,109.1749,110.96646,120.08449,130.34763,134.69034,133.05357,136.22626,125.81766,135.59691,149.8947,161.39345,169.34378,173.4923,162.31665,169.24216,184.02158,200.55266,213.00156,222.20613,231.21675,233.82227,205.38803,225.56754,All tokens,35,127,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+25,81.28009,94.64289,90.47547,89.75696,90.76402,92.52506,94.385864,99.214935,97.43434,100.87378,100.415855,98.95281,94.29793,93.741776,94.33426,95.79597,104.83374,114.82642,118.30916,115.652756,115.46794,109.87687,117.086815,128.12537,136.65005,143.8117,147.38127,138.47658,142.75641,157.64703,169.51643,181.93648,189.52576,199.18988,199.6727,176.20264,213.92099,All tokens,18,66,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+26,113.87276,138.97119,131.00371,130.43571,132.12614,134.49428,137.08823,143.26866,145.13647,151.41087,151.06218,147.04832,135.70305,135.55063,132.62381,132.18286,138.60124,147.22357,152.89679,152.52296,157.6841,145.63014,159.47392,176.47128,188.8635,196.07509,195.93956,188.2652,193.16531,206.69612,221.14244,228.54901,244.60385,257.35022,260.02176,240.09789,217.16182,All tokens,46,154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+27,89.13868,111.94573,105.15787,106.73801,111.0607,117.156166,125.61191,135.82327,138.46094,142.5473,145.97533,140.472,131.11487,129.07639,129.63481,131.04936,140.81894,150.39098,153.44577,153.50526,158.0253,148.05789,157.06029,168.46059,175.38016,180.88625,179.6404,173.12975,177.62321,194.40475,207.44702,219.17754,233.44673,240.91693,236.49727,212.78633,192.99141,All tokens,25,109,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+28,76.288536,94.49363,87.383156,89.08828,94.39564,104.0273,117.86775,128.522,128.68898,131.03618,124.3504,115.07044,105.19789,104.69482,103.426056,109.74351,124.81543,143.99011,148.51985,143.02786,144.0825,127.7528,135.84958,146.58606,153.83075,160.81453,161.25299,151.36287,158.58125,178.04858,195.51399,209.54205,233.71602,249.60075,260.29132,243.19847,146.0182,All tokens,0,1,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+29,81.57635,94.50738,90.25511,89.62596,90.41704,91.57528,92.331856,96.30843,96.97335,99.972115,100.619995,97.90197,96.82212,96.588005,96.10671,98.43566,107.89016,118.79039,121.6058,122.14678,121.705215,116.28021,122.576744,131.70802,139.48236,144.05075,147.22688,139.25165,143.92621,158.92523,173.15344,186.28374,203.37888,209.05544,213.60065,187.74461,208.01353,All tokens,24,106,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+30,76.711205,91.97912,86.638084,86.16171,87.49844,89.39232,90.879395,94.35136,94.9787,98.931625,100.36291,100.022804,96.14398,97.51187,97.42562,99.473625,110.31675,120.457726,124.3022,121.546486,121.90386,112.666374,122.94505,134.30644,143.98373,150.65195,152.93619,146.86684,152.75339,167.92357,180.81863,195.08235,209.87173,217.15738,221.23367,195.1979,216.91223,All tokens,41,146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+31,80.9817,96.636185,92.003075,91.67191,93.432304,96.274185,99.5732,106.05477,109.04114,114.35764,117.10865,110.01443,106.45219,106.69215,106.14523,106.222145,115.329384,123.021935,125.254654,126.97955,128.84082,123.30742,129.9676,139.93478,147.52225,152.21054,153.4727,147.97638,150.08817,163.32454,175.22008,186.22159,198.28299,200.31851,205.56354,191.04765,190.37071,All tokens,22,89,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+32,92.10776,115.71824,107.611435,108.11924,112.21007,118.736244,128.5749,139.70683,141.32939,144.85529,137.88615,126.892876,119.29143,116.29019,115.36903,124.7961,139.96294,157.85457,164.41545,156.28914,158.92719,144.45659,150.34373,160.76271,167.68001,173.64333,173.60625,166.49472,173.23048,187.93477,202.37888,216.44955,241.7192,262.72324,272.64148,239.32495,177.34987,All tokens,36,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+33,78.07876,95.094864,89.49772,90.651054,94.96801,101.954384,109.578835,118.909386,122.54009,126.51925,126.52547,120.89141,112.90387,110.28472,109.07234,110.52278,121.03036,130.27536,133.89438,131.2864,136.38159,124.74629,133.15247,143.7073,150.0878,156.0608,155.74925,148.47517,153.90625,172.97916,186.223,199.11572,220.04704,230.15987,241.35295,229.15741,189.98415,All tokens,10,36,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+34,93.357475,114.46893,106.97887,108.876495,115.16737,126.4344,138.68819,149.9481,151.30708,154.3642,150.58853,139.97809,127.086044,123.55226,122.43829,127.36741,141.13893,153.92012,159.0356,153.275,158.28781,142.5668,151.10448,163.64792,169.71304,177.4941,176.65593,168.66586,174.87468,196.66951,212.12471,230.63106,255.86148,277.64606,297.19086,269.9157,151.36655,All tokens,53,165,Skipped,1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+35,80.027435,97.47068,92.480385,95.09757,101.0695,113.829926,128.12463,141.45587,143.33865,149.32098,147.04749,137.31897,128.50803,124.92571,119.48498,120.03474,126.63302,135.35847,134.35345,130.5752,136.01778,125.53485,131.04575,141.54877,141.78325,151.96216,149.96896,142.81332,146.99567,167.70935,179.86162,190.99382,203.9645,212.09053,226.51163,218.00461,136.06604,All tokens,4,15,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+36,67.243774,81.463036,78.488396,78.60192,80.20898,82.86355,86.253746,91.9925,94.38686,99.774956,104.0514,99.26656,96.96068,98.20032,99.77776,98.01888,106.466255,113.002914,115.252144,116.91776,120.99852,115.94474,123.62344,134.60393,142.68745,149.07127,149.95589,142.40137,143.04996,156.03746,166.99109,178.15115,186.79369,186.40547,195.90155,193.52489,175.21657,All tokens,45,153,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+37,74.301254,88.09913,84.1141,84.47658,86.11727,89.51577,93.63648,99.97788,102.03794,106.664185,110.354515,109.75334,103.40401,106.08608,106.79578,105.87333,114.01636,122.83776,123.809685,124.66286,126.72532,118.9353,125.90334,135.09525,142.42677,148.4145,149.60828,141.17035,143.68593,159.02998,171.09673,184.32527,198.24347,202.05103,211.74504,204.59366,209.00517,All tokens,20,74,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+38,85.07632,100.91449,96.02871,96.072945,98.018936,101.29332,105.8545,113.68699,115.71123,121.11979,124.27696,122.50095,116.47593,119.48703,118.06597,117.8754,127.411514,137.33202,139.41748,138.19144,139.25223,130.44897,140.78162,153.39375,163.02982,171.28448,173.99376,166.6283,168.53058,184.07292,197.86911,208.67854,227.27815,236.10977,242.63878,219.42517,191.46352,All tokens,3,10,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+39,89.08208,108.40688,101.77758,101.05968,102.1788,103.56798,104.69217,108.87982,108.15817,110.89882,110.25065,109.01322,106.774506,106.00513,103.89182,108.00774,119.71653,132.12413,137.2083,135.12495,133.75105,120.01757,127.74384,137.38704,148.73798,156.18922,161.135,152.42503,161.76103,179.7403,198.09314,217.21309,235.51393,251.18958,252.50215,218.36052,225.60228,All tokens,33,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+40,109.96043,138.78954,131.64148,135.74292,144.23592,156.64076,170.5448,182.50012,184.19864,189.74757,177.80296,159.85336,142.11667,142.74123,140.4678,143.84016,152.15062,164.17705,171.81693,160.70613,171.65823,158.04407,166.21191,179.41971,183.5383,190.75818,190.29141,180.78812,180.07057,192.69266,205.50307,217.93497,249.07132,276.6575,305.39523,283.45093,133.11937,All tokens,49,157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+41,75.45931,95.07608,88.1575,89.53985,93.98276,101.69031,110.3951,118.63143,120.61054,125.34805,121.856544,115.200165,108.75554,109.07942,109.85592,114.57138,131.19681,147.09657,151.29207,147.54364,147.15376,130.67754,140.87314,152.52034,160.09204,167.88649,171.64209,161.7267,169.95737,189.67874,208.29272,222.16121,241.96497,252.95538,268.34854,240.92511,209.6278,All tokens,29,116,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+42,92.079216,115.13323,109.57461,113.627975,122.03152,138.27066,156.37613,172.08241,175.98668,181.20132,173.62471,157.27214,142.80215,139.79839,134.70404,136.9891,148.57787,160.59637,165.37344,157.4894,163.10486,148.47836,154.07028,166.95247,169.73747,177.79755,178.16806,168.505,175.87802,195.62411,208.02818,223.24606,250.922,272.68695,306.10083,282.78143,128.75847,All tokens,23,92,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+43,75.7158,90.72072,86.18896,87.377945,90.72028,96.3988,103.14553,110.71266,111.25224,115.80888,113.92446,110.67466,108.78909,107.66542,106.850586,113.38588,128.1132,141.47348,145.19801,139.04456,135.97362,121.77779,128.1162,136.74586,142.92232,148.1045,153.27156,141.46962,151.68864,169.74898,189.00928,208.06262,235.2061,254.33284,271.62866,238.21147,202.62877,All tokens,11,39,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+44,76.41164,91.180115,87.38837,87.38,88.99335,91.358025,94.17767,99.58863,100.81724,104.44266,106.1135,108.49682,107.07771,108.68354,108.43011,106.37136,113.77571,122.23418,123.462036,124.09179,124.56762,118.911545,126.433975,135.91481,144.78574,149.35283,151.42293,144.67657,147.35274,160.83002,172.20718,183.91245,198.13687,203.38391,212.06688,202.392,192.26779,All tokens,9,31,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+45,81.54531,97.01025,91.58283,90.2185,91.49819,93.99293,95.030846,100.3035,99.40862,103.45229,102.517204,104.20026,99.55634,98.5449,98.75102,101.65704,110.85741,120.30463,125.288,120.7858,123.18988,114.04388,124.61074,137.6702,149.17253,156.14061,161.31905,151.43275,158.26532,172.74695,188.26897,201.1526,212.006,224.71245,222.68088,186.54971,219.05455,All tokens,28,115,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+46,85.57684,104.42075,97.30147,97.33585,99.90216,105.31478,109.95422,116.690575,117.59294,122.61128,120.98853,115.158646,109.0323,111.02384,112.7843,115.74881,129.61101,143.05473,149.36359,145.42459,144.88098,132.2999,141.93889,154.17029,162.45929,167.8356,169.90907,162.64345,170.68921,189.93633,206.5913,224.01651,242.92065,259.74332,268.28418,244.47173,227.07451,All tokens,31,118,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+47,79.68329,95.41093,89.18196,89.56389,91.42449,94.77467,97.88321,103.34362,102.98795,105.46102,105.18118,102.41436,97.680435,98.312996,97.58458,102.42046,114.52753,128.61015,133.88531,130.2507,129.23265,116.34727,124.534424,134.86432,144.06422,150.51251,154.32071,146.19705,155.21248,175.13028,193.47249,212.73259,236.37743,251.35168,262.4722,233.26956,245.34048,All tokens,16,61,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+48,85.571655,104.62685,98.67934,98.85646,101.85808,106.536896,111.80724,119.03165,116.82736,119.85939,118.17906,113.55886,107.9443,106.36725,106.72834,109.43494,122.074875,133.32451,137.62846,135.14815,135.12387,122.55506,131.1444,140.00038,146.6201,152.54399,155.46336,146.31322,151.24109,170.17957,186.8017,204.5355,221.58376,236.19165,247.77884,221.99643,210.85568,All tokens,48,156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+49,79.89806,97.47519,93.30034,93.204285,95.114586,97.426544,100.96753,106.912926,109.03874,111.61969,116.18582,114.33835,112.72797,112.68668,114.060524,114.54019,123.4099,131.80534,134.3673,136.15976,138.39745,131.54144,140.42325,152.56514,162.1744,167.13695,168.24217,162.49539,164.85522,183.02031,196.76573,207.04265,227.51378,235.3763,243.85748,224.40524,195.5012,All tokens,19,67,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+0,82.340096,95.91417,90.9547,90.97709,93.0557,96.29883,100.35353,107.027954,107.59189,111.04454,113.223145,111.57445,107.114334,111.20499,112.0144,111.274734,122.905136,134.44586,137.2892,137.01228,136.94633,128.75037,135.27438,145.7745,154.10503,158.9059,161.70567,152.22397,156.75577,174.85458,189.21785,204.4504,222.7736,229.35135,244.09305,228.22646,228.0559,Img tokens,40,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+1,83.88631,93.21043,89.81596,89.448944,90.62387,91.83765,93.08437,97.40935,97.41335,100.80369,102.74844,103.40149,103.91312,104.76927,104.20239,104.86274,112.82551,119.08563,121.61443,121.47139,121.46306,116.33289,121.61298,130.72253,137.93257,142.72557,146.3717,137.98828,142.2069,155.66129,166.701,178.74756,191.88222,201.74113,209.12689,192.17038,185.12056,Img tokens,7,26,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+2,96.44253,115.238686,108.27674,108.335945,109.86394,112.14085,114.74693,121.55855,120.49518,125.006805,125.082054,118.96537,114.63609,112.31674,113.707214,114.08353,124.158035,135.60616,140.87018,141.70152,144.29474,134.94563,147.23763,161.06746,172.00465,181.53516,184.9554,178.20332,182.00719,198.145,214.34067,220.88795,242.00131,248.78635,250.33846,223.87183,219.44347,Img tokens,1,3,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+3,84.60602,101.6145,95.670334,95.95497,98.059845,100.759766,103.570206,109.35898,113.36041,118.117035,120.71665,120.09022,112.05227,113.009125,112.41154,111.80064,119.06667,125.70569,129.5449,129.26044,132.84094,124.370155,136.00635,147.81369,158.52205,165.45634,166.18814,157.2786,159.22583,175.53778,188.61673,200.00507,215.43643,223.92009,227.75192,206.3981,196.64868,Img tokens,47,155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+4,85.07875,100.135086,93.88507,94.29092,96.9187,101.676,106.59493,113.53617,116.00447,121.60851,123.27667,118.39476,111.15505,112.24602,110.71747,110.81994,121.08971,131.74219,134.39209,131.48395,133.44923,120.873665,129.0737,139.4474,147.43652,153.68797,155.41496,147.20386,152.71341,169.76855,182.52649,194.26454,210.95685,222.85744,238.69595,226.05629,183.53363,Img tokens,17,65,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+5,107.43608,130.03535,120.695404,119.92867,121.19918,123.17914,126.769264,131.6254,130.79329,136.35304,133.96188,128.73077,120.756546,124.55889,121.602715,122.89518,133.9774,147.56215,153.64397,152.51663,152.69193,139.2551,152.09547,165.81224,177.15292,184.43472,186.0565,179.72958,185.35341,203.40884,222.08908,235.8892,258.13052,275.22226,284.98248,259.52072,231.2034,Img tokens,15,57,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+6,67.204735,79.25807,76.968315,77.159836,78.131485,80.24834,82.85107,87.88184,89.926346,92.00425,91.53062,91.1506,83.4181,87.45749,90.0686,90.8846,100.025475,108.31843,108.91585,109.40712,113.6541,108.87389,114.93329,124.71013,132.73413,137.6866,138.21785,131.01431,134.59654,147.10605,158.24231,170.44992,177.32983,182.36174,195.52815,194.6885,205.59117,Img tokens,14,53,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+7,90.1334,107.85277,100.69266,101.46484,104.71299,109.22186,116.511154,123.42313,123.04921,125.5096,123.89437,118.933205,112.60558,114.37679,116.09483,118.49293,132.81732,146.70662,151.08144,148.10437,147.2311,133.61363,140.8851,152.86664,160.2315,166.87526,166.79572,159.30511,166.30801,184.97198,201.24805,220.29846,248.34671,269.17346,291.09738,276.77362,206.65907,Img tokens,8,29,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+8,96.32308,113.05525,105.69693,105.141975,106.10177,107.74421,109.153305,113.682106,113.70256,117.167625,113.27714,112.12524,108.85537,106.524605,107.61713,110.74662,121.53494,131.20325,137.40938,135.97308,137.78387,126.88719,138.3907,150.88898,162.06862,169.33206,173.05135,164.96526,171.17622,186.2326,203.2542,214.2256,228.59393,242.9018,248.88351,211.69637,229.47035,Img tokens,6,24,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+9,85.382256,101.20516,94.74999,94.75741,96.34049,98.01469,100.65099,104.56321,103.13612,104.81979,102.448395,99.46557,96.290665,97.95319,98.500824,103.27864,117.14287,132.70172,137.23952,133.87408,131.1664,119.063255,128.89835,139.9109,149.2901,155.7962,160.30579,151.59233,160.2765,181.21524,203.70082,223.25671,248.41315,266.3378,271.319,238.7448,249.44109,Img tokens,43,148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+10,82.235405,95.78669,90.0167,90.07548,92.29844,95.35672,97.31344,101.23316,101.38446,102.91888,103.67688,102.74564,97.30309,97.00406,96.26642,99.82345,111.23649,123.693085,127.66401,123.80431,125.20385,113.72343,123.86692,134.15532,144.3752,151.64375,155.9754,147.80487,155.98573,174.944,192.81314,209.28473,231.53098,246.85297,257.64075,227.90596,225.84274,Img tokens,34,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+11,77.62663,99.28143,91.678825,93.64639,100.62805,110.22741,122.72962,132.11147,135.63965,139.64728,133.81396,124.792816,115.7024,114.10104,112.924866,118.857635,134.06894,152.08322,158.52597,153.42484,154.71735,139.30118,150.01189,161.90202,170.4418,178.75798,181.27815,170.94098,178.8179,198.43669,214.72621,228.96835,251.04576,267.7839,275.86713,236.61378,168.27988,Img tokens,5,16,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+12,92.52771,109.50222,102.87257,102.60656,104.2015,105.81821,108.746254,113.68466,115.72597,121.54336,121.40394,117.09864,113.69301,115.948944,115.380325,114.31959,124.63593,134.25777,137.77724,137.50972,137.95264,124.29195,133.21774,142.37773,151.39687,156.92665,159.55597,151.56393,156.19109,172.96545,188.4044,201.72295,217.03659,223.32188,239.05101,221.64507,195.99161,Img tokens,37,132,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+13,85.49857,102.61101,95.94632,96.882805,99.34261,105.38592,109.77365,117.238106,117.61477,122.04158,122.58808,118.82551,112.80329,113.82928,114.04501,115.79828,125.388275,135.7909,139.57692,136.21393,137.6979,127.04382,136.94456,149.66951,159.74043,166.91919,168.84515,161.28412,167.79654,185.92622,200.81276,213.95842,232.957,244.53143,253.45961,230.51988,209.77869,Img tokens,27,114,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+14,70.667656,82.866714,77.95495,77.52373,77.996185,79.15105,81.07195,84.37139,83.77854,86.38406,86.87323,84.305954,83.211006,83.73532,85.54017,86.627716,99.223404,110.05782,113.53293,113.00991,111.43467,102.21476,110.467354,119.07859,127.13816,132.64656,135.4683,130.25275,134.02092,148.67184,161.62363,174.88936,187.231,195.46672,196.87817,173.50769,201.04195,Img tokens,2,9,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+15,84.22628,106.64708,98.03067,101.12036,108.31249,119.131935,131.93997,142.99948,147.38634,154.11363,149.46567,136.92804,125.445274,127.93196,124.37324,123.2346,134.64456,149.88469,157.12073,153.38336,156.81827,140.94308,151.87234,167.26562,176.19675,187.14308,188.80928,180.08037,186.93376,202.47984,214.59384,222.38283,242.71687,262.1541,274.31952,245.46802,139.00505,Img tokens,51,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+16,70.06344,83.9553,79.22864,78.911896,80.04454,81.38052,82.90505,84.96932,83.874596,84.64932,83.46103,83.04321,84.64698,85.239235,86.52707,92.966385,106.06267,118.50931,124.09066,121.11581,116.890114,103.98133,111.98508,119.81738,127.4946,131.386,135.22525,126.50074,135.97542,154.87714,176.52498,197.91724,225.75316,250.60599,274.00134,239.5082,255.37283,Img tokens,42,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+17,92.420906,110.6036,102.664795,102.44068,104.230125,106.94285,110.53511,115.79899,115.95896,117.83779,119.30036,116.67633,110.87893,113.80073,114.96772,116.29723,127.20621,137.868,143.43286,142.30043,141.01071,131.08156,139.90907,151.61026,158.95386,163.70628,164.14075,159.65273,165.7316,184.23502,200.22722,218.44499,233.5155,250.46513,259.79037,235.57346,217.08047,Img tokens,13,49,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+18,81.90437,94.00153,89.31274,89.10392,89.77263,91.03033,91.84803,94.93822,93.76802,96.194244,96.93035,95.48917,93.04514,95.24138,96.18906,97.227905,108.91025,119.98571,124.0796,122.98369,122.59544,113.987274,122.37601,131.66283,140.7092,145.21373,148.87933,140.02269,147.12863,162.6844,177.27885,191.96521,209.6156,221.12411,233.17958,213.28249,235.69783,Img tokens,50,160,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+19,91.240524,105.643616,100.48331,99.72217,100.672264,102.18479,102.641785,106.327805,104.369225,107.205696,107.82048,107.17631,104.39413,104.46159,102.78382,104.999886,114.42997,125.6133,130.99301,127.8839,128.64523,118.81158,128.40242,138.58696,148.82652,156.12355,161.67451,152.86525,161.41823,181.47552,199.41322,214.29681,235.57008,249.28233,252.67426,214.01395,244.11598,Img tokens,32,119,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+20,91.96534,108.991394,102.596725,103.31476,105.24916,108.87223,113.45553,119.516785,120.82918,125.28906,124.59482,121.53936,117.27975,119.357254,119.783455,120.82053,132.48006,143.66696,147.7602,144.35648,144.83429,133.38841,141.99536,151.8179,161.2789,167.82431,169.74655,161.3512,167.26363,186.61198,204.74619,222.86319,247.72131,264.2339,277.7757,255.27083,208.76225,Img tokens,38,133,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+21,84.518196,99.48639,93.12815,93.18638,94.90202,98.06489,101.034386,105.71014,105.34844,107.51276,107.460785,105.45418,101.89364,103.00421,102.89313,105.755104,116.05427,126.71306,131.04161,129.98888,131.3451,121.291794,130.92488,140.78975,151.35796,158.66702,162.2197,154.7681,160.58954,177.911,193.47202,207.60832,226.48958,238.85591,243.90492,217.22202,224.51164,Img tokens,12,44,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,70.166046,85.39019,79.05731,79.068275,80.81328,82.76068,85.84823,89.11909,89.13592,90.78125,89.49204,87.826294,87.001785,88.29941,87.81595,92.55419,106.085724,120.253365,125.25986,120.49927,116.80382,101.75482,110.76204,119.220406,127.18547,132.89162,137.87846,128.59648,137.92796,157.02898,179.04102,200.39493,229.11621,252.65727,274.6487,246.213,231.40778,Img tokens,26,111,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+23,85.75179,98.7538,92.76902,92.162186,92.68063,93.37253,95.28918,101.42758,101.43998,103.206085,104.14622,102.971855,99.65522,101.1207,102.21637,104.66587,114.631935,123.882515,128.34886,130.84787,132.74167,124.26617,136.02406,149.7828,160.77956,168.9687,171.65364,165.93642,171.17328,185.81665,200.72496,211.79947,223.80704,227.56639,222.59268,193.70714,194.64136,Img tokens,52,163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+24,94.384476,110.43954,104.609535,103.83412,105.058876,105.93019,106.780716,111.05581,111.01166,113.65615,113.53541,110.65973,106.16735,106.37167,106.03368,107.62611,116.44607,126.492584,130.68506,129.09851,132.2937,122.24013,131.83583,145.86115,157.21599,165.07454,169.22342,158.11032,164.95943,179.53961,196.17404,209.35497,218.84566,228.44672,233.76472,206.16576,225.57616,Img tokens,35,127,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+25,82.90739,94.304344,89.96392,89.244835,89.958305,91.23561,92.6725,96.90101,94.78801,97.79951,97.25693,95.93452,91.37319,90.82728,91.36335,92.770706,101.58025,111.31879,114.640076,112.065155,111.93635,106.56951,113.645195,124.46531,132.93573,140.01648,143.5255,134.71333,138.90149,153.63487,165.61438,178.5864,186.28082,196.41823,199.0081,176.02303,213.91599,Img tokens,18,66,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+26,116.33672,138.3686,130.1744,129.78659,131.05675,132.75584,134.85814,140.4021,141.84187,147.66005,147.30455,143.58382,132.39171,132.26389,129.30797,128.83923,135.04663,143.52016,148.91335,148.63383,153.73872,142.00415,155.64635,172.35622,184.73795,191.96321,191.79156,184.0538,188.97293,202.34975,216.97325,225.14673,241.27277,254.61243,260.1848,241.73521,217.22615,Img tokens,46,154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+27,91.184296,111.3986,104.48391,106.2191,110.130104,115.63649,123.5829,133.17874,135.33711,138.95686,142.35106,137.17944,128.0282,126.084724,126.602234,127.8736,137.42621,146.78926,149.72346,149.81923,154.46043,144.70644,153.6085,164.78505,171.66298,177.19434,175.87552,169.29138,173.65627,190.18336,203.18015,215.17094,229.50998,237.38156,234.94861,212.17793,192.92941,Img tokens,25,109,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+28,77.92165,94.13205,86.94417,88.682594,93.6072,102.7432,116.14771,126.1578,125.87399,127.76383,121.3206,112.50403,102.6859,102.24733,100.89144,106.94362,121.59355,140.19798,144.61359,139.13455,140.38028,124.387764,132.4145,142.93561,150.04372,156.85835,157.26877,147.41093,154.48262,173.59566,191.16002,205.78842,230.32477,246.9202,259.9231,244.49576,144.73721,Img tokens,0,1,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+29,83.71241,94.93139,90.58136,89.92691,90.42902,91.11171,91.453354,94.81973,95.02315,97.542564,98.01465,95.44711,94.310875,94.06551,93.55298,95.576454,104.67824,115.23324,117.965294,118.49196,118.13355,112.99048,119.13914,128.06136,135.66489,140.15862,143.30359,135.30478,139.75734,154.49025,168.69217,182.3072,199.61626,205.92682,213.03061,188.22614,207.4148,Img tokens,24,106,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+30,78.34361,91.640274,86.20272,85.77555,86.77962,88.14657,89.218414,92.09814,92.36443,95.875885,97.1925,97.00332,93.228165,94.62399,94.50724,96.40344,106.95845,116.863075,120.567024,117.89204,118.297874,109.34871,119.44534,130.58553,140.19371,146.79842,149.01074,142.8965,148.6741,163.62935,176.6266,191.33218,206.26663,214.01283,220.9564,195.89305,217.1548,Img tokens,41,146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+31,82.802444,96.66329,91.9251,91.624756,93.09871,95.42026,98.3092,104.10426,106.67257,111.48527,114.12531,107.28491,103.82654,104.04183,103.442726,103.40849,112.32869,119.85652,121.977715,123.69692,125.612816,120.26971,126.8149,136.56258,144.11183,148.73167,149.90706,144.40308,146.36772,159.41225,171.29927,182.72775,194.69391,197.15457,204.43011,190.8194,189.90913,Img tokens,22,89,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+32,94.24416,115.453026,107.22706,107.77565,111.47613,117.43392,126.8302,137.30399,138.45407,141.49338,134.73216,124.202614,116.6311,113.84741,112.82454,121.838005,136.4689,153.80515,160.23936,152.17819,154.97798,140.9254,146.72432,156.96924,163.73987,169.56816,169.52435,162.43535,169.03004,183.34148,197.72803,212.18065,238.08894,259.6972,272.14322,240.08359,176.52473,Img tokens,36,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+33,79.63793,94.671684,88.983376,90.23028,94.203415,100.657814,107.818016,116.55772,119.7449,123.270905,123.26391,117.863976,110.051895,107.45955,106.21014,107.513985,117.75664,126.75633,130.24269,127.67364,132.82214,121.49538,129.76097,140.1246,146.41869,152.34438,152.0503,144.84485,150.20544,168.96613,182.1799,195.59529,216.44046,226.90501,240.18756,229.06717,189.10616,Img tokens,10,36,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+34,95.3871,114.1203,106.51358,108.51715,114.44187,125.125534,136.94528,147.53279,148.38945,150.94058,147.26677,137.07927,124.35195,120.959915,119.750275,124.40159,137.74742,150.20343,155.15558,149.4641,154.56062,139.18797,147.62267,160.00168,166.04977,173.78165,172.88812,164.90193,171.05006,192.53697,208.02008,227.05241,252.60716,274.93332,297.27975,271.48923,150.07378,Img tokens,53,165,Skipped,1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+35,82.06978,96.590454,91.433815,94.20485,99.67765,111.76418,125.514984,138.07175,139.41023,144.75433,142.48322,133.1555,124.6307,121.13903,115.67057,116.142685,122.562775,131.10649,129.9976,126.25626,131.82545,121.57246,126.97943,137.32068,137.63646,147.78465,145.69402,138.59602,142.64148,163.0449,175.09305,186.50365,199.57321,207.90553,224.76134,218.1114,134.81648,Img tokens,4,15,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+36,68.70799,81.25025,78.164055,78.310974,79.6698,81.848,84.812386,89.97517,91.956184,96.85675,101.00167,96.43669,94.23117,95.45921,96.94736,95.10982,103.32164,109.683075,111.82473,113.49378,117.594406,112.729515,120.232376,131.02174,139.04184,145.3541,146.2743,138.70914,139.22176,151.96614,162.84398,174.3863,182.92256,182.81857,194.2023,193.05658,174.5597,Img tokens,45,153,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+37,76.05231,88.17793,84.074524,84.420685,85.79217,88.73327,92.44604,98.177,99.79412,103.963524,107.500755,107.06005,100.844986,103.50534,104.12953,103.10588,110.98165,119.53251,120.48575,121.33535,123.487236,115.954704,122.79419,131.79283,138.99007,144.8738,146.107,137.67755,140.04611,155.14626,167.1285,180.79199,194.61992,198.9487,210.59201,204.56126,208.68224,Img tokens,20,74,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+38,87.38083,100.92995,95.84317,95.89536,97.46325,100.14502,104.203636,111.298874,112.797165,117.66817,120.61101,119.02206,113.09456,116.068275,114.63325,114.37826,123.65046,133.33066,135.26833,134.09113,135.2324,126.693726,136.83319,149.18939,158.8259,167.0137,169.63602,162.27742,164.07149,179.4499,193.31645,204.7165,223.39526,232.8647,241.86656,219.63242,190.89586,Img tokens,3,10,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+39,91.2283,108.25656,101.49735,100.88408,101.64314,102.43345,103.027885,106.518105,105.30731,107.54171,106.85777,105.89959,103.66389,102.95295,100.804596,104.56814,115.70858,127.58496,132.56512,130.51443,129.34554,116.13818,123.614914,133.00244,143.99821,151.19226,156.227,147.47604,156.5475,174.20638,192.558,212.49393,231.34532,247.95755,252.72197,219.78004,225.87538,Img tokens,33,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+40,112.469,137.58989,130.25287,134.33372,142.29373,153.93993,167.4281,178.78542,180.082,185.05156,173.43272,156.15475,138.71979,139.46309,137.11131,140.29034,148.33194,160.11197,167.52513,156.55736,167.60551,154.44534,162.50584,175.51752,179.64032,186.80125,186.28473,176.91243,176.23566,188.57481,201.37238,214.55641,246.25716,274.3258,305.46817,285.40866,131.68605,Img tokens,49,157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+41,76.96912,94.62633,87.60996,89.04284,93.16444,100.40547,108.66856,116.32219,117.86549,122.15448,118.76076,112.500435,106.10905,106.51465,107.23239,111.63921,127.80941,143.22311,147.36069,143.62526,143.40605,127.26767,137.29893,148.7587,156.13957,163.79837,167.52625,157.58156,165.71083,185.1934,203.9645,218.68001,238.98901,250.66203,268.98035,242.84737,209.26933,Img tokens,29,116,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+42,94.4584,114.41514,108.71609,112.858765,120.68787,136.18845,153.66322,168.52881,171.84158,176.45624,169.14185,153.37209,139.198,136.27069,131.1145,133.2905,144.54306,156.19997,160.81836,153.04532,158.81976,144.5756,150.09059,162.77551,165.51009,173.49345,173.80081,164.35823,171.6299,191.01112,203.43114,219.3673,247.48895,269.76324,306.0515,284.26492,127.42384,Img tokens,23,92,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+43,77.58789,91.08356,86.46978,87.63226,90.71452,95.96819,102.287224,109.21895,109.35063,113.45429,111.6059,108.53785,106.54416,105.48496,104.558464,110.72017,124.91916,137.70657,141.35689,135.26266,132.40668,118.58794,124.83412,133.28777,139.33751,144.37128,149.43709,137.71683,147.68407,165.34514,184.66785,204.26816,231.83467,251.63841,271.97083,239.9458,202.04448,Img tokens,11,39,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+44,78.90628,91.35829,87.38624,87.4225,88.671844,90.40031,92.611275,97.190186,97.830894,100.842964,102.37446,104.89259,103.54897,105.09957,104.799805,102.639336,109.74299,117.80942,118.96877,119.61428,120.20372,114.866005,122.18948,131.36694,140.10008,144.55031,146.6157,139.84239,142.31041,155.56459,166.9496,179.2739,193.3997,199.25641,210.70561,202.51056,192.10028,Img tokens,9,31,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+45,82.982414,96.28565,90.72773,89.49546,90.457184,92.457596,93.08358,97.80063,96.56572,100.194695,99.199234,101.02013,96.49879,95.53408,95.67476,98.36579,107.24823,116.45378,121.28342,116.91164,119.34878,110.52483,120.87453,133.66194,144.97952,151.86069,157.01753,147.19081,153.94434,168.2258,183.88686,197.48886,208.65755,221.94435,222.77849,187.41017,218.75374,Img tokens,28,115,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+46,87.302864,104.017876,96.82522,96.96919,99.21167,104.06242,108.27103,114.43342,114.93569,119.47092,117.86757,112.36608,106.33652,108.38864,110.07835,112.805016,126.23868,139.29468,145.44942,141.58449,141.18019,128.93904,138.43843,150.4204,158.61693,163.92705,165.97241,158.6428,166.5688,185.55539,202.3232,220.26517,239.47429,256.94498,268.82587,246.43027,226.94072,Img tokens,31,118,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+47,81.422295,95.470505,89.140594,89.58106,91.15443,94.045204,96.72816,101.589355,100.81508,102.85129,102.52106,100.006775,95.27422,95.951164,95.16689,99.67323,111.308334,124.888954,130.00096,126.420296,125.53923,113.05563,121.07192,131.16977,140.16296,146.45667,150.19814,142.10516,150.91835,170.5234,188.99908,209.09471,233.18814,248.98784,263.05933,235.05898,245.46428,Img tokens,16,61,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+48,87.50704,104.44501,98.36899,98.58047,101.23524,105.35422,110.14755,116.715065,114.14185,116.68578,115.0446,110.710396,105.176575,103.66423,103.89642,106.313705,118.505295,129.35583,133.53287,131.08148,131.20143,119.00174,127.44821,136.12282,142.59326,148.39618,151.35153,142.18439,146.9598,165.66713,182.30276,200.67578,218.06866,233.27411,247.40492,222.67432,210.58899,Img tokens,48,156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+49,82.07413,97.50848,93.16888,93.06826,94.646545,96.39811,99.44698,104.62535,106.26236,108.26251,112.62512,110.99065,109.48185,109.42617,110.7574,111.16888,119.83224,127.95509,130.38953,132.19981,134.559,127.936356,136.70583,148.6371,158.26012,163.3177,164.2578,158.43112,160.721,178.67377,192.59161,203.44531,224.24277,232.82417,244.20865,226.15967,195.34149,Img tokens,19,67,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+0,26.984806,38.12278,39.879326,40.825268,42.156097,43.255184,43.71542,43.50087,43.14219,43.64446,43.435257,42.33099,39.855053,38.943405,39.36268,39.076664,39.24795,38.874855,38.935318,38.252537,38.41156,37.65928,36.94236,37.561646,37.056805,36.365223,36.561104,36.498135,36.291462,36.165737,36.799335,6.7250366,8.594971,10.686871,12.041082,15.456331,21.998417,Text tokens,40,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+1,24.478464,35.331924,36.704166,37.546803,38.776733,39.68047,40.27545,40.420296,39.993614,40.319572,40.271294,39.509525,36.690735,36.49895,36.767693,36.234592,36.48079,36.246082,36.28384,36.021328,36.199093,35.836525,35.40408,35.67787,35.316235,34.37008,35.128723,35.45221,35.76068,35.89983,36.39428,5.6416864,7.0368505,8.772565,9.912816,13.27095,22.135513,Text tokens,7,26,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+2,24.446806,35.165695,36.549114,37.477882,38.65492,39.602676,39.996513,40.129932,39.92503,40.3894,40.172134,39.248146,36.42718,36.20106,36.371273,35.838547,36.127766,35.990913,36.034412,35.72445,35.91388,35.4098,35.171757,35.365383,34.86602,33.801445,34.543655,34.92056,35.119804,35.43441,35.874943,5.5506253,6.926502,8.629015,9.743999,12.945489,21.06768,Text tokens,1,3,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+3,25.792534,35.80512,37.416973,38.357952,39.71065,40.578148,41.13404,41.037083,40.55924,40.976368,40.793316,39.841427,37.26997,36.581554,36.99526,36.442852,36.62593,36.456173,36.433147,35.80189,35.94018,35.16933,34.5248,34.974094,34.762825,33.84617,34.32117,34.764,34.81443,35.137928,35.60276,5.447475,6.813902,8.431132,9.648909,12.771659,20.780313,Text tokens,47,155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+4,23.629671,34.179382,35.555283,36.353546,37.565453,38.35288,38.863804,38.98598,38.61812,39.17957,38.781998,37.89186,35.35783,35.04854,35.265324,34.8447,35.158783,35.10712,35.096233,34.836548,34.962864,34.50941,34.166965,34.530647,34.190918,33.516994,34.054543,34.336056,34.296867,34.80954,35.238335,5.135658,6.3844337,7.971374,9.166516,12.239217,21.96771,Text tokens,17,65,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+5,23.69977,34.224625,35.589886,36.50212,37.770348,38.645428,39.150707,39.309196,38.881763,39.434216,39.17632,38.39144,35.746243,35.448338,35.58181,35.013668,35.258476,35.22812,35.21923,34.944298,34.974052,34.40995,34.074333,34.39125,33.972336,33.007996,33.69919,33.730305,34.117508,34.61885,35.025776,5.059709,6.2993016,7.8278584,8.916053,11.963845,20.885498,Text tokens,15,57,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+6,23.592022,34.00337,35.359608,36.234615,37.432373,38.3135,38.764923,38.856945,38.54576,38.941936,38.74294,37.746994,35.311905,35.067795,35.234837,34.753418,35.001556,34.973663,35.013206,34.752953,34.99086,34.562355,34.259975,34.585125,34.188904,33.40132,33.98795,33.9247,34.424778,34.65478,34.864117,5.139863,6.339946,7.8923397,9.018355,12.13554,21.30736,Text tokens,14,53,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+7,23.555052,33.936695,35.348095,36.225315,37.543728,38.52745,39.04446,39.207165,38.641617,38.991,39.04177,38.18012,35.47691,35.23431,35.463478,34.94137,35.162567,35.172314,35.20363,34.91798,35.07731,34.616703,34.21029,34.4348,33.944588,32.89729,33.848354,33.918583,34.29787,34.63881,35.04228,5.073385,6.296393,7.777845,8.765391,11.779539,20.70242,Text tokens,8,29,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+8,23.5321,33.65311,35.043396,35.930965,37.15236,38.181458,38.634933,38.924484,38.778168,39.12067,38.98903,38.127422,35.401283,35.219795,35.449795,34.877743,35.074436,35.070763,35.10888,34.742817,34.922684,34.424572,34.193913,34.42566,34.062225,33.14604,33.85662,33.98473,34.33311,34.90423,35.292465,5.103335,6.3193364,7.848665,8.980945,11.982309,21.195004,Text tokens,6,24,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+9,26.708279,36.5671,38.172142,38.92649,40.031693,40.97217,41.454403,41.330532,40.861446,41.479713,41.27191,40.272675,37.68708,37.08571,37.493298,36.999317,37.174137,36.909134,36.963448,36.250015,36.439083,35.74924,35.155933,35.720215,35.446983,34.788143,35.17052,35.31646,35.384315,35.75041,36.12799,5.459388,6.8398333,8.50778,9.718013,13.026809,21.89079,Text tokens,43,148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+10,25.212713,35.02183,36.640076,37.488033,38.74257,39.607567,40.141357,40.08841,39.75292,40.239174,39.897755,38.91452,36.451733,35.780052,36.167267,35.77978,35.86566,35.6586,35.655838,35.007915,35.30566,34.685734,34.274395,34.804897,34.540657,34.034557,34.420677,34.573555,34.64564,34.922993,35.29883,5.0768485,6.3479495,7.904164,9.072617,12.236772,20.925907,Text tokens,34,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+11,23.643963,34.07067,35.464947,36.257954,37.420784,38.47441,39.03156,39.15303,38.63139,38.94136,38.943253,38.080463,35.323597,35.113003,35.248478,34.84555,35.10484,35.03546,35.086273,34.797966,34.954254,34.51394,34.031517,34.263454,33.791534,33.009605,33.645317,34.117916,34.538025,34.788162,35.2086,5.0800815,6.30767,7.877477,8.928377,12.075274,21.445475,Text tokens,5,16,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+12,26.07608,36.00952,37.63391,38.50369,39.732864,40.638096,41.093517,40.928005,40.32477,40.838364,40.751534,39.825516,37.304447,36.635807,37.04126,36.525043,36.66397,36.464256,36.518444,35.801544,36.093437,35.42979,34.885517,35.38413,35.415997,34.772305,35.06684,35.37444,35.38506,35.67723,36.25377,5.510326,6.977507,8.655394,9.964806,13.301455,21.320255,Text tokens,37,132,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+13,26.671646,37.195488,38.852455,39.69698,40.926945,41.85762,42.26041,42.019753,41.507175,41.991547,41.54243,40.57477,38.009026,37.248123,37.71571,37.09312,37.280563,37.008274,37.029278,36.295033,36.48767,35.749214,35.23472,35.782043,35.26183,34.45027,34.85435,35.186363,35.178467,35.385708,35.82166,5.6576657,7.0996056,8.815591,10.024648,13.361439,21.135263,Text tokens,27,114,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+14,24.555391,35.075096,36.51953,37.44473,38.75046,39.669224,40.08821,40.262035,40.064854,40.43769,40.350285,39.457138,36.649715,36.429665,36.68811,36.06881,36.33567,36.177494,36.230244,35.983536,36.122837,35.55171,35.16795,35.433266,34.96745,33.81346,34.49516,34.61483,35.169662,35.269123,35.67126,5.5824137,6.9653077,8.654178,9.781215,13.030394,20.996307,Text tokens,2,9,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+15,25.937576,35.974228,37.839348,38.83342,40.118042,41.34177,42.008373,42.084534,41.469963,41.73932,40.804535,40.271774,37.564896,37.151283,37.546684,37.063126,37.071945,36.54457,36.66982,36.376923,36.414536,35.629204,35.232895,35.666748,35.585545,34.586243,34.86284,35.52861,35.47714,35.914314,36.652336,5.710225,7.1989903,9.0038805,10.379475,13.894986,23.170341,Text tokens,51,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+16,26.70641,36.40544,37.987137,38.83316,40.034912,40.855804,41.27081,41.043373,40.60973,41.21092,40.968338,39.983566,37.599396,36.938885,37.37743,36.874863,37.055233,36.730965,36.727093,35.987267,36.199738,35.6218,35.16028,35.60683,35.38788,34.82992,35.224583,35.4791,35.680565,35.890835,36.411587,5.502944,6.9141145,8.593246,9.889677,13.258965,21.413511,Text tokens,42,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+17,24.375786,34.675945,36.059013,36.976494,38.239243,39.10754,39.457054,39.520428,39.42679,39.900017,39.65776,38.67229,35.994614,35.700436,35.86401,35.39154,35.73069,35.649223,35.658062,35.430737,35.58685,35.16276,34.795822,35.08452,34.862328,34.148952,34.67314,34.930576,35.20284,35.670803,36.20461,5.448207,6.802374,8.441457,9.557779,12.905089,22.533909,Text tokens,13,49,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+18,25.693014,35.52516,37.27851,38.362415,39.639866,40.9204,41.65957,41.9461,41.477776,41.779095,40.77949,40.195026,37.646538,37.000942,37.3807,37.069622,37.057724,36.664974,36.83563,36.540646,36.7761,36.242218,36.073368,36.52021,36.66978,35.765697,36.105537,36.853283,37.069054,37.299797,37.75805,6.0705147,7.614667,9.506477,10.825375,14.328571,23.27905,Text tokens,50,160,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+19,26.676128,36.620377,38.26146,39.071007,40.27285,41.096466,41.451546,41.124634,40.76284,41.37448,41.13709,40.11366,37.579536,36.938858,37.34668,36.832615,36.96776,36.591606,36.58959,35.936413,36.255527,35.527287,34.916473,35.45312,35.38134,34.819523,35.301823,35.65233,35.936646,36.364983,36.910164,5.5846295,7.00352,8.751354,10.073214,13.426996,22.242132,Text tokens,32,119,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+20,25.0911,34.923798,36.577236,37.47094,38.78794,39.69364,40.1968,40.07533,39.584843,40.01264,39.76867,38.821644,36.35826,35.628082,36.00206,35.592995,35.71678,35.477627,35.524647,34.94873,35.10609,34.533443,34.019768,34.411945,34.18116,33.58039,34.167057,34.34933,34.520546,34.86545,35.244232,5.114452,6.3615613,7.90932,9.070638,12.332965,21.546165,Text tokens,38,133,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+21,24.388996,34.811806,36.22404,36.97629,38.21252,39.14587,39.598324,39.737583,39.695362,40.124134,39.78801,38.826405,36.245358,35.948032,36.12581,35.678135,35.906876,35.905968,35.985096,35.61281,35.740334,35.266827,34.866512,35.038994,34.654285,33.70945,34.32765,34.399807,34.82449,35.166607,35.46468,5.3329854,6.60198,8.226004,9.456759,12.638264,21.609571,Text tokens,12,44,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,23.933054,33.232437,34.78564,35.889732,37.389786,38.462418,39.17914,39.219833,38.554043,39.225677,38.97913,37.95963,35.46666,34.933178,35.2253,34.994946,35.2762,35.05377,35.09538,34.47618,34.55582,33.941887,33.465935,33.682846,33.60569,32.978138,33.59039,33.66204,33.519207,33.939644,34.314056,4.745183,5.8963532,7.3398643,8.380215,11.32902,20.743294,Text tokens,26,111,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+23,26.199095,35.854855,37.463734,38.240322,39.494713,40.412144,40.839424,40.536472,39.99488,40.5909,40.542492,39.589516,37.138668,36.611298,37.046055,36.46152,36.582092,36.359856,36.423252,35.6731,35.826084,35.10139,34.461723,34.857113,34.533894,33.54395,34.101192,34.468033,34.403263,34.78971,35.139526,5.5994024,7.020155,8.705249,9.935557,13.244678,21.087301,Text tokens,52,163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+24,27.519226,37.538925,39.241955,40.20757,41.33812,42.15567,42.51667,42.20128,41.844093,42.467873,42.146236,41.215107,38.866066,38.16422,38.639343,38.054043,38.22832,37.85483,37.8368,37.092243,37.286438,36.565567,35.85712,36.30771,35.92764,35.17863,35.58886,35.934273,35.7088,35.81793,36.220394,5.917802,7.464435,9.256033,10.521143,13.853496,21.473917,Text tokens,35,127,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+25,25.150736,35.670048,37.076813,37.905186,39.044674,39.925407,40.387707,40.579887,40.384377,40.608585,40.672756,39.748825,36.948814,36.637634,36.793034,36.1544,36.444614,36.372173,36.31374,36.037083,36.244434,35.824635,35.44927,35.641594,35.309784,34.263195,34.961205,35.01485,35.34878,35.647533,36.11642,5.5881805,6.942392,8.655642,9.830109,13.085788,21.684237,Text tokens,18,66,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+26,25.832691,35.716194,37.366863,38.245132,39.533504,40.347736,40.87616,40.740917,40.226818,40.69502,40.515842,39.575703,37.01925,36.37479,36.79143,36.326298,36.506264,36.283382,36.27136,35.58905,35.851864,35.165806,34.605755,35.10154,34.833107,34.11859,34.506756,34.894646,34.993637,35.278503,35.783222,5.310678,6.673103,8.301841,9.544566,12.828006,21.271635,Text tokens,46,154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+27,26.361067,36.288303,37.852634,38.7794,40.10585,40.91561,41.395008,41.193344,40.896553,41.388554,41.196747,40.055122,37.600227,36.87617,37.285286,36.846195,36.942684,36.697403,36.69573,35.99531,36.19215,35.587936,34.97501,35.446106,35.186527,34.495277,34.792885,35.33772,35.218277,35.361816,35.67896,5.695227,7.19493,8.893875,10.081353,13.260776,20.914207,Text tokens,25,109,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+28,24.353855,34.835793,36.20996,37.058617,38.408073,39.34602,39.725563,39.907066,39.433357,39.94184,39.901096,38.950756,36.250385,36.147243,36.382042,35.84154,36.0808,36.01432,36.01583,35.81167,35.905643,35.38428,35.10266,35.236958,34.835545,34.150124,34.831455,35.05243,35.42357,35.85211,36.174393,5.2969956,6.615614,8.181647,9.261294,12.399505,21.009127,Text tokens,0,1,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+29,27.820078,38.198685,39.820667,40.606407,41.95601,42.70893,43.24086,42.919983,42.535725,42.915577,42.708252,41.591465,38.978996,38.22092,38.607903,37.95288,38.099857,37.782955,37.83701,37.123047,37.31319,36.49021,35.99875,36.620895,36.376045,35.750057,36.00503,36.321846,36.443363,36.692196,37.387165,6.0679145,7.686153,9.576137,10.963158,14.449579,22.599962,Text tokens,24,106,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+30,26.918518,36.644207,38.40543,39.370827,40.794613,42.001957,42.53021,42.301712,41.885563,42.56204,42.430912,41.39433,38.849434,38.127808,38.630043,38.32026,38.554596,38.25717,38.22525,37.441177,37.671303,36.744186,35.777626,36.30802,35.866005,34.978348,35.57906,36.067364,35.827152,35.79785,36.090797,6.414626,8.135967,10.028539,11.275181,14.625532,20.624771,Text tokens,41,146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+31,23.67962,33.98944,35.36824,36.23658,37.65508,38.620064,38.96442,39.09175,38.647373,39.091713,39.044224,38.191086,35.552814,35.20147,35.43868,34.983536,35.318047,35.32798,35.344833,35.0496,35.275192,34.92694,34.616566,34.870617,34.478027,33.728683,34.407387,34.85092,34.979176,35.54061,35.962482,5.185212,6.4427366,8.011716,9.13836,12.295994,21.501387,Text tokens,22,89,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+32,27.390402,37.143898,38.70573,39.44122,40.493874,41.29156,41.578476,41.249947,41.005188,41.4957,41.40278,40.461395,37.99277,37.270016,37.7697,37.446434,37.62435,37.279167,37.275032,36.515045,36.738308,35.86804,35.303345,35.64475,35.247173,34.38739,34.516376,34.988365,34.977394,35.252647,35.696053,5.8661656,7.4357924,9.217925,10.417147,13.410768,19.915327,Text tokens,36,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+33,24.125767,33.134865,34.680008,35.74092,36.9515,37.984592,38.535324,38.406944,37.859352,38.445507,38.11202,37.092747,34.66626,34.272728,34.583427,34.255203,34.453236,34.25941,34.281757,33.73826,33.87019,33.31086,32.84872,33.047245,32.83236,32.1828,32.502666,32.469013,32.425003,33.01394,33.612263,4.603049,5.7389035,7.176846,8.424903,11.318756,20.538383,Text tokens,10,36,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+34,25.923681,35.67407,37.34102,38.141804,39.375504,40.33047,40.76349,40.696438,40.3292,40.738064,40.56131,39.594837,37.187847,36.538868,37.016422,36.694527,36.860134,36.53585,36.536816,35.74445,36.002655,35.309704,34.748665,35.232544,34.798073,33.844368,34.20889,34.427597,34.357296,34.56759,34.915443,5.4210167,6.835335,8.490693,9.713622,12.877504,20.090902,Text tokens,53,165,Skipped,1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+35,25.117128,35.802116,37.22188,38.01614,39.295063,40.150814,40.594364,40.65749,40.502968,40.84091,40.660805,39.823193,37.17411,36.767807,37.03962,36.464508,36.716736,36.47799,36.519844,36.183613,36.35522,35.767403,35.367413,35.582176,35.15313,34.267784,34.764256,35.12341,35.46675,35.86097,36.402058,5.8677063,7.32962,9.103285,10.270419,13.490547,21.98748,Text tokens,4,15,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+36,25.858246,35.78997,37.44948,38.36904,39.58588,40.45721,40.945374,40.77273,40.280396,40.72979,40.549744,39.662514,37.211273,36.59071,37.03968,36.547947,36.644665,36.4284,36.483322,35.875225,36.04845,35.379887,34.81811,35.264942,35.045486,34.367832,34.79667,35.08753,35.00755,35.360435,35.88197,5.3150434,6.6143494,8.200655,9.358991,12.521543,21.393753,Text tokens,45,153,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+37,24.285805,33.07084,34.60054,35.704205,36.935436,37.94301,38.449203,38.416603,38.03264,38.510265,38.16452,37.09706,34.55734,34.060844,34.384914,34.1371,34.380463,34.24543,34.316677,33.773014,33.870506,33.27721,32.800835,33.06419,32.82127,31.97123,32.432472,32.45185,32.29969,32.800453,33.475296,4.667161,5.822907,7.28136,8.528068,11.491049,20.749937,Text tokens,20,74,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+38,24.325565,35.13245,36.545006,37.519993,38.80361,39.781826,40.138035,40.241146,39.947926,40.42925,40.36233,39.55358,36.74712,36.333588,36.588512,36.025307,36.284966,36.144703,36.183987,35.857044,35.992546,35.574738,35.18458,35.502213,35.088116,33.970535,34.686817,34.95266,35.343857,35.62095,36.0811,5.62995,7.0097704,8.661041,9.859649,13.143349,21.464663,Text tokens,3,10,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+39,27.369936,37.6165,39.33722,40.187313,41.434135,42.503235,43.03734,42.655804,42.31077,42.851543,42.499363,41.42087,39.04189,38.33487,38.752926,38.36956,38.591347,38.208622,38.225296,37.605274,37.86968,37.152946,36.516693,37.038727,36.79865,36.429386,36.98118,37.306232,37.383053,37.850056,38.32247,6.2952547,7.9530654,9.9027815,11.357379,14.980561,22.526827,Text tokens,33,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+40,26.603647,36.604794,38.1811,38.945732,40.168613,41.06719,41.427204,41.205616,40.62167,41.001827,40.899982,39.973156,37.266994,36.647755,37.17314,36.67466,36.732967,36.437294,36.562977,35.843487,36.02497,35.161194,34.53387,34.897938,34.5862,33.810955,34.190716,34.450977,34.391052,34.702686,34.958847,5.5493107,7.0242286,8.761802,9.916757,12.886512,19.223785,Text tokens,49,157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+41,25.260635,34.95548,36.572388,37.458138,38.757343,39.616756,40.234238,40.1623,39.700012,40.14335,39.869316,38.936764,36.380272,35.77849,36.164467,35.80224,35.878506,35.689434,35.69441,34.99756,35.23657,34.53091,34.06411,34.576977,34.428135,33.751694,34.16652,34.54985,34.712986,35.01213,35.35627,5.1649294,6.480901,8.114382,9.347751,12.519979,20.804565,Text tokens,29,116,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+42,23.610733,34.12269,35.544094,36.386497,37.6825,38.664433,39.310005,39.48255,39.05683,39.21512,39.201656,38.468906,35.609646,35.451675,35.71037,35.146732,35.40024,35.17236,35.106342,34.797184,34.781715,34.339714,33.873363,33.994015,33.632862,32.77077,33.321808,33.392982,34.008125,34.295223,34.73448,5.0305767,6.19233,7.672258,8.696902,11.69636,21.480593,Text tokens,23,92,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+43,24.793802,35.24192,36.60642,37.326458,38.4605,39.392906,39.995605,40.142006,39.829933,40.55593,40.250973,39.350224,36.677704,36.433792,36.640522,36.13647,36.34151,36.10694,36.115585,35.803246,36.020573,35.4329,34.97834,35.19779,34.716232,33.67413,34.345078,34.434483,35.186348,35.3965,35.86266,5.480867,6.875846,8.537126,9.791245,13.071588,22.011885,Text tokens,11,39,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+44,24.653517,35.20021,36.603806,37.54481,38.767815,39.714184,40.35541,40.504475,40.26151,40.68038,40.36747,39.629242,36.880238,36.58046,36.68204,36.168453,36.396824,36.28846,36.276733,35.99669,36.14191,35.80716,35.363888,35.64067,35.249477,34.27094,34.88453,35.267887,35.711224,35.947083,36.440544,5.666456,7.0360284,8.785869,10.011818,13.4107065,22.903976,Text tokens,9,31,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+45,25.825857,35.813942,37.43191,38.291096,39.56336,40.422752,40.920944,40.76965,40.053165,40.529976,40.273674,39.470406,36.88379,36.29992,36.68907,36.214226,36.326237,36.10772,36.209652,35.523197,35.672153,34.99425,34.315006,34.69002,34.381733,33.59067,34.1534,34.410343,34.541935,34.95201,35.32721,5.28765,6.673714,8.320256,9.49987,12.697043,21.241043,Text tokens,28,115,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+46,25.074331,35.00179,36.622948,37.51607,38.71933,39.641678,40.143078,39.994976,39.434814,39.95752,39.657894,38.789764,36.29932,35.729343,36.082123,35.62775,35.722397,35.544502,35.533222,34.82087,35.007732,34.343914,33.739464,34.224308,33.880215,33.14797,33.56817,33.98179,34.01263,34.45779,34.843407,5.1982245,6.5506153,8.132645,9.321523,12.483018,20.812515,Text tokens,31,118,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+47,24.32933,35.131485,36.569447,37.333637,38.69289,39.700428,40.201286,40.393944,40.02418,40.75802,40.294083,39.301258,36.771664,36.392986,36.607605,36.133045,36.321682,36.164337,36.21755,35.85424,36.078167,35.66955,35.337822,35.568615,35.100594,34.076763,34.854576,34.896008,35.119133,35.444927,35.988518,5.6680293,7.046757,8.739349,9.873899,13.153229,21.253683,Text tokens,16,61,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+48,27.308723,37.17775,38.753418,39.6349,40.77986,41.50077,41.895443,41.568436,41.31664,41.894184,41.54149,40.5786,38.124897,37.384792,37.896168,37.38784,37.5845,37.31797,37.387794,36.558456,36.765022,35.946846,35.43858,35.83641,35.431118,34.58886,34.8581,35.115635,35.191895,35.47767,35.974262,5.7697163,7.277939,8.988164,10.208385,13.410147,20.36776,Text tokens,48,156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+49,24.556477,35.338337,36.76874,37.626587,39.0282,39.853806,40.23778,40.330357,39.801247,40.247902,40.130016,39.27227,36.636913,36.297962,36.399696,35.74362,36.07057,35.882843,35.94883,35.66191,35.739937,35.203434,34.768414,35.125698,34.686817,33.537006,34.20424,34.4983,35.01967,35.05437,35.51256,5.5298944,6.933322,8.544225,9.549375,12.740464,20.475964,Text tokens,19,67,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+0,26.984806,38.014206,39.819126,40.851032,42.42185,43.5843,44.088158,43.84951,43.427353,43.96648,43.670353,42.690945,39.857082,39.083576,39.278515,38.65529,38.642086,38.196106,38.265533,37.18392,37.218254,35.99807,35.28699,36.23132,35.730526,34.982933,35.52542,35.25853,35.300064,35.036682,35.522858,6.891402,8.9429865,10.959809,12.034459,15.282974,19.800852,Text only tokens,40,145,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the woman with a backpack on the left or right side of the person with a beanie?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+1,24.478464,35.10697,36.547344,37.627296,39.03811,39.857456,40.44152,40.714397,40.255005,40.664112,40.717358,39.954453,36.9102,36.540016,36.467068,35.668217,35.889603,35.524857,35.67844,35.152786,35.12466,34.195076,33.813663,34.471348,34.138916,33.01072,33.80569,33.559162,34.208984,33.778957,34.35002,5.7172933,7.251909,8.9051285,9.75065,12.833537,19.590435,Text only tokens,7,26,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's jacket?
+0 black
+1 red
+2 blue
+3 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+2,24.446806,34.939606,36.378838,37.53659,38.946693,39.78252,40.20389,40.407085,40.226067,40.848774,40.730015,39.873955,36.84643,36.45248,36.38383,35.577938,35.79302,35.39386,35.53781,34.962757,34.96106,34.048412,33.657932,34.311726,34.032707,32.91199,33.635223,33.464626,34.131485,33.790985,34.395863,5.7266235,7.261275,8.92762,9.795677,12.903555,19.423782,Text only tokens,1,3,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's scarf?
+0 white
+1 red
+2 yellow
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+3,25.792534,35.57686,37.280704,38.315727,39.898586,40.751606,41.317684,41.222427,40.676727,41.185566,40.960125,40.16838,37.37118,36.720306,36.9513,36.07771,36.106953,35.707874,35.84552,34.904713,35.010822,34.113026,33.63265,34.3148,33.995525,33.268364,33.91384,33.89456,34.185455,34.159653,34.35584,5.4293623,6.9632425,8.565234,9.567526,12.685029,19.209034,Text only tokens,47,155,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the slide on the left or right side of the life buoy?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+4,23.629671,33.829678,35.273914,36.378685,37.837395,38.54651,39.043938,39.291336,38.90863,39.585052,39.35164,38.667206,35.95366,35.42263,35.36925,34.56777,34.716473,34.469498,34.539112,34.07736,34.01685,33.10449,32.7997,33.34505,33.078945,32.081272,32.859814,32.774334,33.44419,33.16907,33.67922,5.2687874,6.656802,8.1754055,9.049776,11.994679,19.159016,Text only tokens,17,65,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 gray
+1 black
+2 brown
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+5,23.69977,33.977524,35.410397,36.499187,37.97443,38.76228,39.306,39.560368,39.16542,39.766945,39.55774,38.799534,36.006363,35.536156,35.48728,34.736683,34.960056,34.718716,34.811447,34.35061,34.33228,33.4756,33.14922,33.745,33.487686,32.518032,33.251713,33.18615,33.74877,33.446617,33.851307,5.2897506,6.736658,8.295778,9.199605,12.199346,19.23934,Text only tokens,15,57,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dog?
+0 white
+1 brown
+2 golden
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,direct_attributes
+6,23.592022,33.716454,35.157494,36.178818,37.58888,38.419403,38.861504,39.09585,38.812366,39.37866,39.27693,38.42031,35.720016,35.36608,35.25108,34.454308,34.668755,34.410725,34.518177,33.972652,34.007248,33.1642,32.8445,33.371567,33.130253,32.029907,32.825634,32.616154,33.29309,33.064472,33.51509,5.280059,6.6831937,8.221913,9.094098,12.056653,18.91077,Text only tokens,14,53,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 yellow
+1 white
+2 red
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+7,23.555052,33.655098,35.125095,36.200863,37.656227,38.544533,39.120712,39.393692,38.931667,39.40702,39.479027,38.763157,36.001366,35.56325,35.468502,34.689873,34.91003,34.736046,34.86039,34.369278,34.42886,33.600346,33.27269,33.76021,33.501476,32.41755,33.25749,33.0745,33.60005,33.360455,33.84812,5.3489256,6.7551475,8.2910795,9.173622,12.123853,19.030596,Text only tokens,8,29,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the telephone?
+0 green
+1 white
+2 orange
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+8,23.5321,33.426468,34.868553,36.01218,37.435604,38.35267,38.781384,39.174675,39.004272,39.47481,39.44904,38.675373,35.754063,35.3769,35.35615,34.505825,34.765152,34.55172,34.668365,34.186172,34.291645,33.485897,33.152668,33.714443,33.466526,32.42818,33.17348,32.935966,33.524426,33.393345,33.84912,5.2618747,6.6251044,8.133787,8.978526,11.907128,18.927,Text only tokens,6,24,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the parachute?
+0 blue
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+9,26.708279,36.393517,38.078194,38.986904,40.37909,41.304054,41.74773,41.652504,41.039783,41.67684,41.52459,40.7354,37.75199,37.12998,37.333797,36.48501,36.494057,36.10904,36.302242,35.302677,35.38396,34.472828,33.849026,34.63587,34.332417,33.513348,34.011593,33.883575,34.023827,33.962223,34.334755,5.679177,7.2627215,8.915821,9.906687,13.031584,19.51264,Text only tokens,43,148,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue bottle on the left or right side of the carton?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+10,25.212713,34.748108,36.450394,37.481125,39.100857,39.97231,40.45973,40.44674,39.91003,40.384605,40.01633,39.18549,36.365013,35.813786,35.957336,35.2678,35.28315,35.048233,35.182568,34.31238,34.437115,33.431763,32.83168,33.561108,33.28095,32.58657,33.08862,33.046787,33.286045,33.370213,33.530907,5.26028,6.7048855,8.264618,9.289189,12.341097,19.126333,Text only tokens,34,121,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the river?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+11,23.643963,33.882107,35.336525,36.39771,37.79818,38.704174,39.24258,39.505974,39.02673,39.39324,39.458267,38.665188,35.829613,35.43077,35.331615,34.53684,34.793766,34.625526,34.721313,34.206924,34.23466,33.388935,33.041298,33.57527,33.334145,32.231262,33.001617,32.843185,33.455276,33.15674,33.641613,5.324188,6.738799,8.292325,9.194456,12.217083,19.289423,Text only tokens,5,16,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the bicycle?
+0 blue
+1 white
+2 silver
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+3",3,3,direct_attributes
+12,26.07608,35.77951,37.485157,38.454384,39.984528,40.88726,41.29697,41.174973,40.51469,41.102295,40.921413,40.186104,37.27541,36.71658,36.92956,36.227524,36.312107,35.85889,36.07465,35.059402,35.21966,34.104893,33.52968,34.2694,33.956886,33.188652,33.77477,33.763813,33.789936,33.787033,34.137905,5.7163486,7.3637376,9.0295315,10.064994,13.079084,18.742975,Text only tokens,37,132,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the silver vehicle on the left or right side of the red vehicle?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+13,26.671646,36.97453,38.69778,39.68234,41.224903,42.099834,42.497025,42.2809,41.703453,42.207355,41.72225,40.91866,37.953938,37.37158,37.630657,36.808807,36.80282,36.354897,36.54453,35.34367,35.468723,34.260235,33.79862,34.63156,34.272373,33.452847,33.941776,33.831135,34.265892,34.2389,34.615654,5.9734426,7.651242,9.394627,10.415954,13.57313,19.44907,Text only tokens,27,114,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the cyclist on the left or right side of the woman's handbag?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+14,24.555391,34.890553,36.369724,37.49735,38.942513,39.765106,40.16961,40.441223,40.277786,40.755615,40.76063,39.91549,36.995144,36.588524,36.526463,35.700314,35.918674,35.53762,35.662453,35.12302,35.091724,34.141937,33.791943,34.40475,34.12436,32.968765,33.748505,33.509068,34.193615,33.775337,34.321358,5.723888,7.2719564,8.927746,9.806375,12.874008,19.720871,Text only tokens,2,9,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's helmet?
+0 white
+1 red
+2 yellow
+3 blue
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+15,25.937576,35.85683,37.754475,38.923927,40.33022,41.61179,42.28957,42.337772,41.76802,42.039604,41.13742,40.74726,37.836006,37.186935,37.46847,36.816517,36.872086,36.447735,36.706142,36.017586,35.976707,35.024963,34.597996,35.225845,34.927956,33.951176,34.62892,34.622986,34.87268,34.79432,35.265232,5.977957,7.69578,9.566024,10.724767,14.143667,20.884663,Text only tokens,51,161,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the water bottle or the vehicle?
+0 water bottle
+1 vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+16,26.70641,36.2053,37.898716,38.93912,40.44959,41.231094,41.61458,41.39103,40.835114,41.433277,41.21956,40.44123,37.56569,36.93385,37.108093,36.29154,36.33936,35.895107,36.11625,35.070667,35.087505,34.05745,33.485867,34.29325,34.03972,33.197834,33.732395,33.677437,33.81758,33.744938,34.175358,5.7162256,7.297802,8.945723,9.936469,12.984343,19.138256,Text only tokens,42,147,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green bucket on the left or right side of the red tent?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+17,24.375786,34.463196,35.92945,37.074524,38.486717,39.273487,39.601475,39.85501,39.773083,40.375854,40.188747,39.35966,36.52076,36.118153,36.013542,35.169792,35.432713,35.18775,35.292717,34.74137,34.881233,33.982594,33.60687,34.1807,33.92442,32.83742,33.549713,33.29959,33.974186,33.80901,34.350647,5.502021,6.98762,8.565806,9.456758,12.522993,19.210112,Text only tokens,13,49,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the trash can?
+0 black
+1 yellow
+2 green
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+18,25.693014,35.349052,37.12845,38.341606,39.811012,41.16189,41.88769,42.12542,41.689148,42.06206,41.210693,40.60569,37.69043,36.928917,37.30219,36.83796,36.97436,36.648174,36.958267,36.3131,36.327473,35.25128,34.915028,35.588387,35.310997,34.06992,34.92717,34.880096,35.14897,34.889427,35.21155,6.2830267,8.07882,9.978317,11.083737,14.453521,20.069508,Text only tokens,50,160,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Which one is closer to the camera, the black vehicle or the silver vehicle?
+0 black vehicle
+1 silver vehicle
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+0",0,0,relative_position
+19,26.676128,36.440704,38.17667,39.14092,40.620808,41.41152,41.7256,41.36505,40.846848,41.54135,41.343246,40.465942,37.521465,36.9759,37.084785,36.205612,36.237625,35.840122,36.07783,35.062237,35.183212,34.04067,33.438126,34.219868,33.926,33.07663,33.556324,33.491184,33.68444,33.735195,34.11264,5.7443843,7.3606186,9.021951,10.049576,13.129677,19.393995,Text only tokens,32,119,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the trash can on the left or right side of the black chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+20,25.0911,34.727867,36.437706,37.483753,39.117043,40.016113,40.498234,40.4042,39.78231,40.238182,40.02805,39.214157,36.322174,35.59707,35.761585,35.08432,35.126106,34.875896,35.09303,34.16273,34.308075,33.328854,32.812134,33.544533,33.30855,32.549698,33.082664,32.970654,33.22742,33.285873,33.544933,5.2256265,6.6424236,8.155588,9.118339,12.138318,19.002962,Text only tokens,38,133,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shovel on the left or right side of the house?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+21,24.388996,34.573772,36.05199,37.058018,38.517258,39.36359,39.76912,39.96089,39.894947,40.461872,40.345688,39.485813,36.755596,36.371918,36.38496,35.541363,35.721687,35.48552,35.62521,35.041,35.078262,34.294235,33.98803,34.50576,34.26205,33.158382,34.00762,33.8255,34.485527,34.12885,34.550293,5.5383654,7.0186663,8.613153,9.543329,12.619099,19.17186,Text only tokens,12,44,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the seesaw?
+0 white
+1 red
+2 black
+3 yellow
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+22,23.933054,33.072727,34.72091,35.99917,37.76192,38.800156,39.59326,39.59216,38.920033,39.586807,39.359116,38.438885,35.600765,35.02189,35.20856,34.75445,34.89541,34.568592,34.68697,33.89745,33.94278,33.13338,32.78278,33.31492,33.17301,32.528202,33.090622,32.842857,32.792015,33.057503,33.251293,4.8626394,6.143592,7.5875072,8.550542,11.442296,19.563658,Text only tokens,26,111,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the shark doll above or below the banana doll?
+0 below
+1 above
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+23,26.199095,35.63104,37.323837,38.23635,39.750385,40.666885,41.063156,40.80181,40.27282,40.915443,40.82784,39.985233,37.19303,36.59159,36.785,35.987705,36.084156,35.69933,35.898853,34.903595,34.966015,33.961864,33.38702,34.15504,33.83913,33.007187,33.58992,33.496494,33.61192,33.542133,33.904507,5.6434374,7.1879716,8.804816,9.774725,12.797052,18.618395,Text only tokens,52,163,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the blue mask on the left or right side of the black mask?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+24,27.519226,37.38634,39.185318,40.235394,41.68212,42.530067,42.857826,42.639515,42.10803,42.801422,42.526802,41.687775,38.855,38.24672,38.471825,37.711918,37.77013,37.207508,37.37301,36.358,36.43898,35.20979,34.503925,35.35082,34.913944,34.13723,34.66693,34.644768,34.696938,34.65632,35.007538,6.2206573,7.9855723,9.777324,10.848354,14.008052,19.801672,Text only tokens,35,127,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the man with green shorts on the left or right side of the blue boat?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+25,25.150736,35.415367,36.88385,37.920135,39.252407,39.965427,40.388428,40.724506,40.494007,40.881638,41.07676,40.22785,37.3057,36.87445,36.834087,35.90121,36.163708,35.864525,35.8945,35.339684,35.404736,34.50232,34.18334,34.742474,34.435944,33.271896,34.05809,33.892662,34.61264,34.293625,34.845753,5.8234153,7.41782,9.140125,10.094693,13.156494,19.09889,Text only tokens,18,66,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the paraglider?
+0 white
+1 blue
+2 pink
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+26,25.832691,35.47234,37.17254,38.167503,39.76727,40.58743,41.109585,40.958496,40.315563,40.812737,40.576378,39.80562,36.890076,36.295418,36.532837,35.836464,35.859497,35.515636,35.66908,34.65992,34.824055,33.92221,33.336292,34.09798,33.814762,33.10666,33.63417,33.58702,33.824905,33.758854,34.06649,5.502317,7.046919,8.656287,9.65662,12.742503,18.981432,Text only tokens,46,154,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red vehicle on the left or right side of the sculpture?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+27,26.361067,36.115253,37.79009,38.80299,40.331413,41.140198,41.578674,41.409378,41.054924,41.591892,41.33388,40.30914,37.362507,36.743214,37.044697,36.330994,36.412376,36.015717,36.176086,35.179,35.237667,34.182846,33.61853,34.36645,34.153496,33.405,33.88422,33.840878,33.97859,33.946888,34.36701,5.704558,7.309565,8.969685,9.923732,13.015452,19.186226,Text only tokens,25,109,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the orange luggage on the left or right side of the purple umbrella?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+28,24.353855,34.601437,36.069756,37.17351,38.619785,39.464836,39.88036,40.174484,39.81494,40.447838,40.41952,39.633495,36.876675,36.525574,36.467846,35.562252,35.709564,35.46971,35.56315,35.05782,35.06508,34.160442,33.859356,34.386757,34.104595,32.985973,33.7505,33.567513,34.225048,33.93612,34.50051,5.537536,7.0342793,8.624149,9.527134,12.563135,19.635563,Text only tokens,0,1,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the dustpan?
+0 purple
+1 red
+2 blue
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+29,27.820078,38.004864,39.729477,40.62409,42.172997,42.902332,43.368317,43.122395,42.63665,43.01047,42.804493,41.873074,38.871223,38.222317,38.39634,37.569366,37.582096,37.030533,37.285088,36.13187,36.230038,35.078533,34.551224,35.40188,35.053257,34.210606,34.768414,34.77159,34.937057,34.9704,35.443573,6.2638984,8.104924,9.974192,11.139307,14.392628,19.978373,Text only tokens,24,106,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the baby stroller on the left or right side of the person in orange?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+30,26.918518,36.506805,38.330235,39.38125,41.08071,42.273853,42.816948,42.60179,42.107327,42.89369,42.83027,41.924477,39.040627,38.34478,38.61824,38.080074,38.222004,37.802563,37.913975,36.812046,36.823803,35.67721,34.90122,35.867012,35.40363,34.4844,35.184616,35.016125,35.179386,34.65112,35.03126,6.5520167,8.415186,10.277733,11.306921,14.504601,19.680182,Text only tokens,41,146,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the kid with black shirt on the left or right side of the kid with blue shirt?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+31,23.67962,33.70283,35.14602,36.165234,37.652176,38.55693,38.98953,39.31015,39.003044,39.65743,39.63766,38.864513,36.12904,35.67658,35.576397,34.712906,34.94434,34.738636,34.85058,34.32075,34.397007,33.538136,33.20774,33.74371,33.51868,32.441906,33.24311,33.051514,33.65354,33.401306,33.78769,5.293413,6.675798,8.180027,9.046892,11.996512,19.080364,Text only tokens,22,89,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the umbrella?
+0 red
+1 blue
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+32,27.390402,36.98905,38.665714,39.627384,41.09045,41.92266,42.24804,42.05233,41.664333,42.21746,42.015785,41.106567,38.186172,37.59519,37.71497,36.948093,36.9931,36.447353,36.760857,35.696262,35.761177,34.604748,34.04977,34.838585,34.54251,33.720978,34.154335,34.096657,34.27137,34.3695,34.78238,5.9929156,7.6625495,9.394247,10.400192,13.472493,19.259726,Text only tokens,36,129,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green handbag on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+33,24.125767,32.93813,34.539745,35.76879,37.239094,38.25358,38.737698,38.665413,38.16852,38.83096,38.572315,37.60115,34.73073,34.342655,34.488415,33.8888,33.95388,33.696735,33.798817,33.16634,33.203255,32.47142,31.909546,32.41963,32.294678,31.590008,32.081707,31.955439,32.0099,32.043556,32.443558,4.6128206,5.8391767,7.1976643,8.200203,11.036689,18.743803,Text only tokens,10,36,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the motorcycle orange or green?
+0 green
+1 orange
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+34,25.923681,35.535603,37.27156,38.26152,39.88116,40.820286,41.22521,41.15986,40.761284,41.17638,41.00257,40.15068,37.27283,36.694164,36.919914,36.233562,36.30635,35.910965,36.089485,35.143368,35.25145,34.253513,33.568752,34.307423,34.018482,33.197945,33.693764,33.54565,33.66005,33.660107,34.0883,5.7343,7.3583074,9.029323,10.040738,13.091049,19.228367,Text only tokens,53,165,Skipped,1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the red suitcase on the left or right side of the red stool?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+35,25.117128,35.579197,37.061417,38.069416,39.476234,40.258335,40.753395,40.854813,40.659454,41.18806,41.10574,40.3233,37.516502,36.90694,36.98839,36.110214,36.283737,35.821804,35.919086,35.367348,35.361576,34.383087,34.053974,34.784775,34.47558,33.337193,34.035046,33.810497,34.638634,34.118343,34.736004,5.9918475,7.60508,9.306741,10.150024,13.229668,19.450687,Text only tokens,4,15,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the little girl's shirt?
+0 yellow
+1 pink
+2 white
+3 black
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+36,25.858246,35.502113,37.219036,38.236225,39.766594,40.69347,41.19698,41.09135,40.50237,40.999634,40.789127,40.07806,37.249138,36.717266,37.013397,36.245403,36.342957,35.915306,36.15848,35.223717,35.326027,34.297478,33.721546,34.468292,34.14467,33.328453,33.926426,33.94727,33.97305,33.992085,34.222347,5.572909,7.1013217,8.696194,9.709315,12.722807,18.804018,Text only tokens,45,153,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the vehicle on the left or right side of the blue umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+37,24.285805,32.8692,34.469887,35.68664,37.1319,38.164482,38.623665,38.60174,38.282295,38.83185,38.590958,37.5888,34.596764,34.173508,34.325954,33.807964,33.927933,33.658222,33.782036,33.222332,33.287876,32.53536,31.937742,32.391777,32.253956,31.476723,32.004475,31.827494,31.962996,31.984219,32.365135,4.599602,5.8386774,7.1916413,8.205245,11.062429,18.721195,Text only tokens,20,74,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the color of the bus red or yellow?
+0 yellow
+1 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+38,24.325565,34.922962,36.389492,37.54767,38.96565,39.792526,40.103638,40.32977,40.02017,40.64495,40.702938,39.90141,36.90989,36.358383,36.350056,35.600807,35.787666,35.452446,35.52344,35.035347,34.994755,34.043488,33.64726,34.3351,34.025967,32.876923,33.589375,33.35899,34.0584,33.58139,34.22925,5.7120934,7.2431645,8.8822775,9.722819,12.783385,19.511528,Text only tokens,3,10,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's shirt?
+0 white
+1 purple
+2 blue
+3 pink
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+39,27.369936,37.436676,39.234,40.249474,41.769176,42.86443,43.298775,42.95319,42.490406,43.087006,42.877003,41.992702,39.307747,38.453773,38.63807,37.98364,38.142094,37.71027,37.846157,37.006542,37.106304,35.886776,35.220604,36.11059,35.69303,34.941677,35.571316,35.518837,35.4877,35.34516,35.694767,6.47059,8.339887,10.234268,11.336572,14.516617,19.86274,Text only tokens,33,120,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the person with white trousers on the left or right side of the person in blue?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+40,26.603647,36.418602,38.099365,39.002953,40.554066,41.45391,41.899364,41.654446,41.150135,41.508827,41.40849,40.61517,37.67999,36.878468,37.10338,36.348198,36.378147,36.093826,36.31537,35.3627,35.49346,34.60572,34.044174,34.678318,34.33269,33.500298,34.089424,34.051918,34.168873,34.33197,34.590103,5.7691216,7.394571,9.0849285,10.171992,13.355758,19.91506,Text only tokens,49,157,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the broom on the left or right side of the folded chair?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+41,25.260635,34.785397,36.480484,37.530075,39.134552,40.005646,40.59211,40.534916,39.92814,40.37744,40.04587,39.21442,36.407513,35.864567,35.99899,35.310566,35.31035,35.084106,35.2196,34.31138,34.43895,33.43187,32.867893,33.59055,33.327282,32.60951,33.111977,33.125725,33.364376,33.420025,33.60775,5.2679114,6.719506,8.292943,9.320752,12.382488,19.238615,Text only tokens,29,116,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the train?
+0 left
+1 right
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+42,23.610733,33.92214,35.379322,36.49406,37.89563,38.775784,39.342255,39.63144,39.292545,39.66599,39.688057,38.95895,36.08091,35.728767,35.635612,34.79885,35.08031,34.873802,35.00122,34.58618,34.648045,33.862965,33.556053,34.074326,33.808422,32.76235,33.54051,33.60261,33.964603,33.630608,34.070232,5.339522,6.7812138,8.330772,9.206639,12.193807,19.120045,Text only tokens,23,92,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the lock?
+0 yellow
+1 silver
+2 golden
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+43,24.793802,35.059452,36.51631,37.600906,38.955273,39.71959,40.157593,40.389908,39.9652,40.8216,40.629055,39.761486,36.991997,36.487164,36.398907,35.58262,35.779167,35.401234,35.54417,35.004444,34.93336,34.03501,33.67164,34.32333,34.040806,32.851536,33.640354,33.410282,34.12315,33.665684,34.26053,5.7083077,7.2761216,8.930299,9.864212,12.93461,19.852352,Text only tokens,11,39,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 white
+1 green
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+44,24.653517,35.003365,36.47506,37.60911,38.961334,39.755325,40.375095,40.645557,40.37961,40.99843,40.818592,40.17863,37.204433,36.71523,36.614166,35.807495,36.01747,35.673164,35.824974,35.273613,35.200615,34.300854,33.94742,34.564774,34.256992,33.101543,33.88178,33.691643,34.291557,33.891865,34.51425,5.741857,7.3088517,8.990474,9.884057,12.97828,19.916676,Text only tokens,9,31,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the man's cap?
+0 yellow
+1 red
+2 gray
+3 green
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
+45,25.825857,35.616566,37.320717,38.300816,39.83471,40.685684,41.111996,40.91318,40.131874,40.64018,40.421734,39.79674,36.950188,36.32234,36.554436,35.741222,35.71771,35.37623,35.645058,34.721283,34.768696,33.766117,33.157417,33.8784,33.57396,32.809193,33.392365,33.406895,33.584095,33.669006,33.917114,5.470395,6.997973,8.615265,9.643927,12.724348,19.271452,Text only tokens,28,115,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the wristband on the left or right side of the dog?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+46,25.074331,34.796448,36.49145,37.549465,39.085766,40.02307,40.532265,40.482628,39.88488,40.411205,40.05835,39.25158,36.47263,35.988586,36.09163,35.41102,35.43726,35.15458,35.30685,34.366875,34.48894,33.400417,32.82142,33.53068,33.265743,32.542908,33.082104,33.03758,33.23131,33.367146,33.60304,5.2960095,6.7473273,8.307704,9.327251,12.3768425,19.350178,Text only tokens,31,118,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the dog on the left or right side of the scooter?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+47,24.32933,34.888992,36.405178,37.432343,38.959713,39.78433,40.23704,40.495167,40.074745,40.875603,40.578766,39.770935,37.08433,36.506542,36.481224,35.581455,35.72826,35.393723,35.527653,35.04978,35.044636,34.320087,33.93353,34.55837,34.283146,33.182858,34.011635,33.83143,34.39053,34.07757,34.58438,5.9134874,7.5115395,9.191621,10.101104,13.146281,19.073889,Text only tokens,16,61,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the body of the bucket?
+0 green
+1 white
+2 black
+3 red
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,direct_attributes
+48,27.308723,36.99765,38.68221,39.660694,41.07711,41.774883,42.16323,41.940815,41.60104,42.240807,41.90628,41.032974,38.06708,37.44464,37.681103,36.953476,37.0392,36.557465,36.801178,35.72018,35.78056,34.747524,34.171326,34.938965,34.576046,33.731525,34.272766,34.290977,34.38471,34.39574,34.854908,5.9943423,7.6988697,9.413877,10.438284,13.523382,19.37656,Text only tokens,48,156,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position,"system
+You are a helpful assistant.
+user
+ QUESTION: Is the green surfboard on the left or right side of the purple umbrella?
+0 right
+1 left
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+1",1,1,relative_position
+49,24.556477,35.03471,36.525105,37.54653,38.96102,39.748558,40.175594,40.380157,39.92055,40.58864,40.42801,39.66505,36.83419,36.355072,36.271976,35.47828,35.694084,35.291874,35.375206,34.82732,34.814095,33.83218,33.460503,34.099113,33.769573,32.659973,33.31456,33.088318,33.920006,33.513428,34.119442,5.6841946,7.225796,8.876044,9.741065,12.825748,19.424088,Text only tokens,19,67,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes,"system
+You are a helpful assistant.
+user
+ QUESTION: What is the color of the woman's dress?
+0 pink
+1 red
+2 black
+3 white
+Answer with the option's letter from the given choices directly.
+Only provide answer and nothing else 
+
+
+Answer: 
+assistant
+2",2,2,direct_attributes
