@@ -141,7 +141,7 @@ class LinearProbe():
                 pixel_values=pixel_values,
                 vision_feature_layer=vision_feature_layer,
                 vision_feature_select_strategy=vision_feature_select_strategy
-                )
+            )
             image_features = torch.cat(image_features, dim=0)
 
         special_image_mask = input_ids == self.model.config.image_token_id

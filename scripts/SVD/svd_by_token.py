@@ -14,6 +14,18 @@ from scipy import linalg
 from tqdm import tqdm
 from PIL import Image
 
+import os
+import sys
+
+# Get the path of the Python script
+current_dir = os.path.abspath(os.path.dirname(__file__))
+# Exclude script name at the end
+current_dir = os.path.split(current_dir)[0]+'/../'
+print(current_dir)
+sys.path.append(current_dir)
+
+from src.utils import *
+
 parser = argparse.ArgumentParser(description="usage help",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("--model_name", help="path to config file")
@@ -28,6 +40,12 @@ ds_name = args.ds_name
 nsamples = int(args.nsamples)
 ROOT_DIR = args.root_dir  # ROOT_DIR for project
 attn_implementation = args.attn_implementation
+
+# model_name = 'molmoD-7B'
+# ds_name = 'MathVision'
+# nsamples = 50
+# ROOT_DIR = '/exports/csce/eddie/inf/groups/ajitha_project/piyush/MALT/'
+# attn_implementation = 'eager'
 
 print(f"Model name: {model_name}, Dataset name: {ds_name}, nsamples: {nsamples}, ROOT_DIR: {ROOT_DIR}")
 print(f"Model name: {type(model_name)}, Dataset name: {type(ds_name)}, nsamples: {type(nsamples)}, ROOT_DIR: {type(ROOT_DIR)}")
@@ -51,51 +69,71 @@ random.seed(42)
 results_path = f'{ROOT_DIR}/MALT/results/{model_name}/svd/'
 prediction_df = pd.read_csv(f'{ROOT_DIR}/MALT/results/{model_name}/{model_name}_{ds_name}_prediction.csv')
 prediction_corrected_df = pd.read_csv(f'{ROOT_DIR}/MALT/results/{model_name}/{model_name}_{ds_name}_prediction_corrected.csv')
+image_dir_path = None
 
 # load test dataset
 if ds_name=='MATE':
     image_dir_path = f'{ROOT_DIR}/data/MATE-dev/img/'
-    ds_main = load_jsonl_file(f'{ROOT_DIR}/data/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
-    
-else:
-    ds = load_dataset_formatted(ds_name=ds_name)
-    
-    # filter to MCQ
-    ds = ds.filter(lambda x: x["image"]!=None and (len(x["image"])==1 if type(x["image"])==list else 1))
-    
-    # filter to image input size <1900*1900 to avoid OOM
-    ds = ds.filter(
-        lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900
-        if type(x['image'])!=list 
-        else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
-    )
-
-    if len(ds)!=len(prediction_df): # For some datasets, 1700*1700 image size was used as limit as some datasets had HD images. 
-        ds = ds.filter(
-            lambda x: x['image'].size[0]*x['image'].size[1]<1700*1700
-            if type(x['image'])!=list 
-            else x['image'][0].size[0]*x['image'][0].size[1]<1700*1700
-        )
-    
+    ds = load_jsonl_file(f'{ROOT_DIR}/data/MATE-dev/mm_0shot_llava_hfllava_1.5_7b_hf.jsonl')
     assert len(ds) == len(prediction_df), (
         f"Length mismatch: len(ds)={len(ds)} != len(prediction_df)={len(prediction_df)}"
     )
+    ds = [ds[i] for i in prediction_corrected_df['idx_main'].to_list()]
     
+else:
+    ds = load_dataset_formatted(ds_name=ds_name)
+
+    # filter to MCQ
+    ds = ds.filter(lambda x: x["image"]!=None and (len(x["image"])==1 if type(x["image"])==list else 1))
+    
+    if len(ds)!=len(prediction_df):
+        # filter to image input size <1900*1900 to avoid OOM
+        ds = ds.filter(
+            lambda x: x['image'].size[0]*x['image'].size[1]<1900*1900
+            if type(x['image'])!=list 
+            else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
+        )
+        
+        if len(ds)!=len(prediction_df): # For some datasets, 1850*150 image size was used as limit as some datasets had HD images. 
+            ds = ds.filter(
+                lambda x: x['image'].size[0]*x['image'].size[1]<1850*1850
+                if type(x['image'])!=list 
+                else x['image'][0].size[0]*x['image'][0].size[1]<1850*1850
+            )
+            
+            if len(ds) == len(prediction_df):
+                pass
+            else:
+                ds = ds.filter(
+                lambda x: x['image'].size[0]*x['image'].size[1]<1700*1700
+                if type(x['image'])!=list 
+                else x['image'][0].size[0]*x['image'][0].size[1]<1700*1700
+            )
+        
+    assert len(ds) == len(prediction_df), (
+        f"Length mismatch: len(ds)={len(ds)} != len(prediction_df)={len(prediction_df)}"
+    )
+
     # filter to include only corrected idx
     ds = ds.select(prediction_corrected_df['idx_main'].to_list())
 
 # subsample dataset
 nsamples = min(nsamples, len(ds))
 idx_ls = random.sample(range(len(ds)), nsamples)
-ds = ds.select(idx_ls)
-prediction_corrected_df = prediction_corrected_df.iloc[idx_ls].reset_index()
 
-# Add prompt field
-ds = ds.map(
-    lambda x: {"prompt": build_prompt(ds_item=x, ds_name=ds_name)},
-    desc="Building prompts",
-    batch_size=4
-)
+if ds_name=='MATE':
+    ds = [ds[i] for i in idx_ls] 
+    prediction_corrected_df = prediction_corrected_df.iloc[idx_ls].reset_index()
+else:
+    ds = ds.select(idx_ls)
+    prediction_corrected_df = prediction_corrected_df.iloc[idx_ls].reset_index()
+
+    # Add prompt field
+    ds = ds.map(
+        lambda x: {"prompt": build_prompt(ds_item=x, ds_name=ds_name)},
+        desc="Building prompts",
+        batch_size=4
+    )
 
 # Load the model
 model, processor, device = load_model_and_processor(
@@ -112,10 +150,14 @@ text_only_layer_embeddings_rank_ls = []
 image_only_layer_embeddings_rank_ls = []
 
 for idx in tqdm(range(len(ds)), desc='main'):
-    batch = ds[idx:idx+1] if isinstance(ds, list) else ds.select(range(idx,idx+1)) # We are using batch size 1 always here
+    batch = ( # We always use batch size 1 here
+        ds[idx:idx+1] if isinstance(ds, list)
+        else  ds.select(range(idx, idx+1))
+    )
+
     images, prompts, inputs = process_input_data(
         ds=batch,  
-        image_dir_path=None,
+        image_dir_path=image_dir_path,
         processor=processor,
         device=device,
         model_name=model_name
