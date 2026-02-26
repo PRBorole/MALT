@@ -17,7 +17,7 @@
 # import sys
 # import os
 
-# # Get the path of the Python script
+# Get the path of the Python script
 # current_dir = os.path.abspath(os.path.dirname(__file__))
 # # Exclude script name at the end
 # current_dir = os.path.split(current_dir)[0]+'/'
@@ -68,16 +68,18 @@ task_dict = {
 # task = args.task.split('_')
 # target = args.target.split('_')
 
-prompt_type = 'simple' # 'simple', 'complex'
+model_name = 'molmoD-7B'
+prompt_type = 'complex' # 'simple', 'complex'
 mode = 'image' # 'image', 'text', 'image_and_text', 'count'
-# nobjects = 3
-# task = ['color']
-# target = ['red']
 
-nobjects = 7
-task = ['color_shape']
-target = ['gray_cylinder']
-model_name = 'Qwen2.5-VL-3B'
+nobjects = 3
+task = ['color']
+target = ['red']
+
+# nobjects = 7
+# task = ['color_shape']
+# target = ['gray_cylinder']
+
 
 model_path = current_dir+'/../models/'
 
@@ -102,12 +104,12 @@ probe_data = [ds_main[idx].copy() for idx in probe_data_idx]
 gold_reference_binary = [1]*len(pos_idx) + [0]*len(neg_idx)
 
 # Load the model
-model, processor, device = load_model_and_processor(
-    model_name=model_name, 
-    model_path=HF_dir, 
-    attn_implementation=attn_implementation,
-    torch_dtype=torch.float16 if 'mistral' in model_name else 'auto'
-)
+# model, processor, device = load_model_and_processor(
+#     model_name=model_name, 
+#     model_path=HF_dir, 
+#     attn_implementation=attn_implementation,
+#     torch_dtype=torch.float16 if 'mistral' in model_name else 'auto'
+# )
 
 
 # Set probe

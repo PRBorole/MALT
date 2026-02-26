@@ -94,7 +94,7 @@ else:
             else x['image'][0].size[0]*x['image'][0].size[1]<1900*1900
         )
         
-        if len(ds)!=len(prediction_df): # For some datasets, 1850*150 image size was used as limit as some datasets had HD images. 
+        if len(ds)!=len(prediction_df): # For some datasets, 1850*1850 image size was used as limit as some datasets had HD images. 
             ds = ds.filter(
                 lambda x: x['image'].size[0]*x['image'].size[1]<1850*1850
                 if type(x['image'])!=list 
